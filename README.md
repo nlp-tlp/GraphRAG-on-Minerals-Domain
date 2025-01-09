@@ -1,2 +1,2 @@
 # KGschema_eval_4GraphRAG
-This repo contains materials to support the paper 'Evaluating KG schema for RAG on technically-complex reports'
+This repo contains materials to support the paper 'GraphRAG on technical documents - impact of knowledge graph schema'
