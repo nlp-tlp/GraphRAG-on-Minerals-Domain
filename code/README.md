@@ -33,9 +33,9 @@ Python 3.10-3.12
    graphrag init --root ./ragtest
    ```
 
-   Within ./ragtest directory:
-   - .env contains GRAPHRAG_API_KEY=<API_KEY> which should be replaced by your own OpenAI API key
-   - settings.yaml contains `entity_types` which should be replaced by your desired Knowledge Graph schema (we also change the LLM model used to `gpt-4o-mini`, keeping other settings as default)
+   - Within `./ragtest` directory, .env contains GRAPHRAG_API_KEY=<API_KEY> which should be replaced by your own OpenAI API key
+   - Replace `settings.yaml` file in `./ragtest` directory with the `settings.yaml` from `./schema_settings` of your desired schema
+   - If running the Schema-less pipeline, also replace `entity_extraction.txt` in `./ragtest/prompts` with `entity_extraction.txt` from `./schema_settings/schemaless`
 
 4. Run indexing pipeline:
    ```bash
