@@ -26,7 +26,7 @@ Python 3.10-3.12
    mkdir -p ./ragtest/input
    ```
 
-2. Place .txt files (e.g., our MRIWA report subset) in ./ragtest/input
+2. Place .txt files from `./mriwa_report_subset` in `./ragtest/input`
 
 3. Setup workspace variables:
    ```bash
