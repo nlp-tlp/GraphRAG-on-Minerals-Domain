@@ -19,30 +19,30 @@ Python 3.10-3.12
 
 ### GraphRAG Indexing
 
-> These steps are based on the following tutorial: [GraphRAG - Getting Started](https://microsoft.github.io/graphrag/get_started/). Note: This process may take hours and can be expensive depending on the size of the input and LLM used. 
+> Note: This process may take hours and can be expensive depending on the size of the input and LLM used. 
 
-1. Make directory:
+1. In each of the four schema directories, `.env` contains GRAPHRAG_API_KEY=<API_KEY> which should be replaced by your own OpenAI API key
+
+2. Run indexing pipeline using Generalised Schema:
    ```bash
-   mkdir -p ./ragtest/input
+   python -m graphrag.index --root ./generalised_schema
    ```
-
-2. Place .txt files from `./mriwa_report_subset` in `./ragtest/input`
-
-3. Setup workspace variables:
+   Run indexing pipeline using Expanded Schema:
    ```bash
-   graphrag init --root ./ragtest
+   python -m graphrag.index --root ./expanded_schema
    ```
-
-   - Within `./ragtest` directory, .env contains GRAPHRAG_API_KEY=<API_KEY> which should be replaced by your own OpenAI API key
-   - Replace `settings.yaml` file in `./ragtest` directory with the `settings.yaml` from `./schema_settings` of your desired schema
-   - If running the Schema-less pipeline, also replace `entity_extraction.txt` in `./ragtest/prompts` with `entity_extraction.txt` from `./schema_settings/schemaless`
-
-4. Run indexing pipeline:
+   Run indexing pipeline using Auto-Generated Schema:
    ```bash
-   graphrag index --root ./ragtest
+   python -m graphrag.index --root ./auto_generated_schema
+   ```
+   Run indexing pipeline using Schema-less pipeline:
+   ```bash
+   python -m graphrag.index --root ./schema_less
    ```
 
 ### GraphRAG Query
+
+Running the following scripts will allow you to select which schema's index to query. By default, all 15 MRIWA competency questions are asked and results are printed to stdout.
 
 - To run **local search**:
   ```bash

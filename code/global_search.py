@@ -24,16 +24,30 @@ llm = ChatOpenAI(
 )
 
 token_encoder = tiktoken.get_encoding("cl100k_base")
+# Prompt the user for input
+valid_choices = {'GS': 'generalised_schema',
+                 'ES': 'expanded_schema',
+                 'AS': 'auto_generated_schema',
+                 'SL': 'schema_less'}
 
-# Dynamically determine the base path where the script is located
+user_choice = input("Enter your schema choice (GS, ES, AS, SL): ").strip().upper()
+while user_choice not in valid_choices:
+    print("Invalid choice. Please select from GS, ES, AS, SL.")
+    user_choice = input("Enter your choice (GS, ES, AS, SL): ").strip().upper()
+
+# Determine the base path based on user input
 base_path = os.path.dirname(os.path.abspath(__file__))
+schema_directory = valid_choices[user_choice]
+output_dir = os.path.join(base_path, schema_directory, 'output')
 
-output_dir = os.path.join(base_path, 'ragtest', 'output')
+# Search for the 'artifacts' directory
 INPUT_DIR = None
 for root, dirs, files in os.walk(output_dir):
     if 'artifacts' in dirs:
         INPUT_DIR = os.path.join(root, 'artifacts')
         break
+
+# Display the result
 if INPUT_DIR:
     print(f"Artifacts directory found: {INPUT_DIR}")
 else:
@@ -108,11 +122,27 @@ def answer_query(chat, query, debug=False):
 
 
 if __name__ == "__main__":
-    print("\n\n")
-    query = input("Enter your global search query: ")
-    print("\n")
-    print("Processing query.")
-    print("\n")
-    result, sources = answer_query([], query, debug=False)
-    print("Response:\n")
-    print(result)
+    questions = [
+            "Identify which MRIWA reports reference MERIWA or MRIWA.",
+            "Extract all references to MERIWA and MRIWA from the MRIWA reports.",
+            "Identify any references to nickel or Ni in the MRIWA reports.",
+            "Which elements are considered in the MRIWA reports?",
+            "Which MRIWA reports has Commonwealth Scientific Industrial Research Organisation been involved with in any capacity (including being listed in references)?",
+            "Which MRIWA reports has Commonwealth Scientific Industrial Research Organisation been involved with as a researcher?",
+            "Which MRIWA reports has Commonwealth Scientific Industrial Research Organisation been involved with as a sponsor?",
+            "Which MRIWA report is related to the East Kimberley region?",
+            "Which regions of Western Australia are referenced in the MRIWA reports?",
+            "Which MRIWA report author has been involved in more than one report/project?",
+            "What is the average number of references in each MRIWA report?",
+            "Which MRIWA reports relate to leaching?",
+            "Which MRIWA reports relate to exploration?",
+            "Which MRIWA reports relate to mining extraction?",
+            "Which MRIWA reports relate to mineral processing?",                
+    ]
+    for query in questions:
+        print("Query:\n")
+        print(query)
+        print("\n")
+        result, sources = answer_query([], query, debug=False)
+        print("Response:\n")
+        print(result)

@@ -83,7 +83,7 @@ entity_extraction:
   ## parallelization: override the global parallelization settings for this task
   ## async_mode: override the global async_mode settings for this task
   prompt: "prompts/entity_extraction.txt"
-  entity_types: [naturally_occurring_object,processed_object,process,organisation,site_location_boundary]
+  entity_types: [naturally_formed_object,processed_object,process,organisation,site_location_boundary]
   max_gleanings: 0
 
 summarize_descriptions:
