@@ -15,13 +15,13 @@ Python 3.10-3.12
    pip install -r requirements.txt
    ```
 
-3. Add your OpenAI API key to the `.env` file by setting `OPENAI_API_KEY=<your_key>`
+3. Copy the contents of `.env.example` to a new file in the same folder named `.env`. Add your OpenAI API key to the `.env` file by setting `api_key = <your_key>`.
 
 ### GraphRAG Indexing
 
 > Note: This process may take hours and can be expensive depending on the size of the input and LLM used. 
 
-1. In each of the four schema directories, `.env` contains GRAPHRAG_API_KEY=<API_KEY> which should be replaced by your own OpenAI API key
+1. In each of the four schema directories, copy the contents of `.env.example` to a new file in the same folder named `.env`. `.env` contains GRAPHRAG_API_KEY=<API_KEY> which should be replaced by your own OpenAI API key.
 
 2. Run indexing pipeline using Generalised Schema:
    ```bash
