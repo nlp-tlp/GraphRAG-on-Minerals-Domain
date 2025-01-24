@@ -2,13 +2,6 @@
 
 This repository contains the code, data, and results for the paper titled "GraphRAG on technical documents - impact of knowledge graph schema" by Henri Scaffidi, Prof. Melinda Hodkiewicz, Dr. Caitlin Woods, and Nicole Roocke (2025). 
 
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Code](#code)
-3. [Data](#data)
-4. [Results](#results)
-
 ## Overview
 
 The project assesses how 1) domain-specific knowledge graph schema, and 2) the selection of local or global GraphRAG search options, impact the quality of GraphRAG responses to questions on technical documents.
