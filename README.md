@@ -8,7 +8,9 @@ The project assesses how 1) domain-specific knowledge graph schema, and 2) the s
 
 ## Code
 
-The code used to run our GraphRAG pipelines, the four knowledge graph schemas, and the instructions to run the code, are contained in the [`code`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/code) directory of the repository.
+The [`code`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/code) directory of the repository contains the following:
+- Python code used to run GraphRAG pipelines
+- Four sub-directories, containing settings and data for each of our four GraphRAG pipelines (differing in the specified knowledge graph schema - see `entity_types` in `settings.yaml`)
 
 ## Data
 
