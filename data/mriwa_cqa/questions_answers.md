@@ -13,7 +13,7 @@
 ## Aggregation Queries
 
 - **Which elements are considered in the MRIWA reports?**
-  - **Answer:** A useful response may identify all reports and state, for each report, the elements that are mentioned lots. See X. 
+  - **Answer:** A useful response may identify all reports and state, for each report, the elements that are mentioned lots. See [`Chemical Elements (by name) in each MRIWA Report`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/data/mriwa_cqa/chemical_elements.md). 
     - **Most mentioned elements:** Iron, Sulfur, Gold, Copper, Oxygen, Nickel, Gold, Silver, Lithium, Tantalum.
 - **Which MRIWA report author has been involved in more than one report/project?**
   - **Answer:** 
