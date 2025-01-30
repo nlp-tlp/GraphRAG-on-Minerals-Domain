@@ -25,15 +25,15 @@ llm = ChatOpenAI(
 
 token_encoder = tiktoken.get_encoding("cl100k_base")
 # Prompt the user for input
-valid_choices = {'GS': 'generalised_schema',
-                 'ES': 'expanded_schema',
+valid_choices = {'MDS': 'minerals_domain_schema',
+                 'EMDS': 'expanded_minerals_domain_schema',
                  'AS': 'auto_generated_schema',
                  'SL': 'schema_less'}
 
-user_choice = input("Enter your schema choice (GS, ES, AS, SL): ").strip().upper()
+user_choice = input("Enter your schema choice (MDS, EMDS, AS, SL): ").strip().upper()
 while user_choice not in valid_choices:
-    print("Invalid choice. Please select from GS, ES, AS, SL.")
-    user_choice = input("Enter your choice (GS, ES, AS, SL): ").strip().upper()
+    print("Invalid choice. Please select from MDS, EMDS, AS, SL.")
+    user_choice = input("Enter your choice (MDS, EMDS, AS, SL): ").strip().upper()
 
 # Determine the base path based on user input
 base_path = os.path.dirname(os.path.abspath(__file__))

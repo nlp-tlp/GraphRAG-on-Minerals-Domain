@@ -23,13 +23,13 @@ Python 3.10-3.12
 
 1. In each of the four schema directories, copy the contents of `.env.example` to a new file in the same folder named `.env`. `.env` contains `GRAPHRAG_API_KEY=<API_KEY>` which should be replaced by your own OpenAI API key.
 
-2. Run indexing pipeline using Generalised Schema:
+2. Run indexing pipeline using Minerals Domain Schema:
    ```bash
-   python -m graphrag.index --root ./generalised_schema
+   python -m graphrag.index --root ./minerals_domain_schema
    ```
-   Run indexing pipeline using Expanded Schema:
+   Run indexing pipeline using Expanded Minerals Domain Schema:
    ```bash
-   python -m graphrag.index --root ./expanded_schema
+   python -m graphrag.index --root ./expanded_minerals_domain_schema
    ```
    Run indexing pipeline using Auto-Generated Schema:
    ```bash
