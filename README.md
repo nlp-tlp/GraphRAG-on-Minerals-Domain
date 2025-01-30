@@ -24,4 +24,8 @@ The [`results`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/res
 
 ## Supplementary Materials
 
-The [`supplementary_materials`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/supplementary_materials) directory of the repository contains our GraphRAG performance analysis results, a cost analysis, an entity tagging example using a domain-specific knowledge graph schema on MRIWA report text, and a cross-validation of our performance analysis results using RAGAS.
+The [`supplementary_materials`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/supplementary_materials) directory of the repository contains the following:
+- GraphRAG performance analysis marking scheme and [results](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/supplementary_materials/performance_analysis.pdf)
+- [Cost analysis](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/supplementary_materials/cost_analysis.md)
+- [Entity tagging example](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/supplementary_materials/entity_tagging_example.png) using a domain-specific knowledge graph schema on MRIWA report text
+- [Cross-validation of our performance analysis results](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/supplementary_materials/ragas_analysis.md) using RAGAS
