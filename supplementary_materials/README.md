@@ -1,0 +1,1 @@
+![GraphRAG Performance Analysis Results](performance_analysis_results.png)
