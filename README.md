@@ -21,3 +21,7 @@ The [`data`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/data) 
 ## Results
 
 The [`results`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/results) directory of the repository contains the GraphRAG pipelines' responses, using both local and global search, to all MRIWA-defined competency questions.
+
+## Supplementary Materials
+
+The [`supplementary_materials`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/supplementary_materials) directory of the repository contains our GraphRAG performance analysis results, a cost analysis, an entity tagging example using a domain-specific knowledge graph schema on MRIWA report text, and a cross-validation of our performance analysis results using RAGAS.
