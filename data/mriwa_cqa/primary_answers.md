@@ -4,7 +4,7 @@
 - **Identify which MRIWA reports reference MERIWA or MRIWA.**
   - **Answer:** All have MRIWA in the document. None have MERIWA referenced.
 - **Extract all references to MERIWA and MRIWA from the MRIWA reports.**
-  - **Answer:** See X.
+  - **Answer:** See [`Extracted MRIWA References`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/data/mriwa_cqa/mriwa_references.md).
 - **Identify any references to nickel or Ni in the MRIWA reports.**
   - **Answer:** See X. MRIWA reports with substantial amounts of Nickel mentions: [`432`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/data/mriwa_report_subset_txt/Final-Report_432_MRIWA_M0432.txt), [`459-489`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/data/mriwa_report_subset_txt/Final-Report_459-489_MRIWA_M0459-M0484.txt), [`505`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/data/mriwa_report_subset_txt/Final-Report_505_MRIWA_M0505.txt), [`451`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/data/mriwa_report_subset_txt/Final-Report_451_MRIWA_M0451.txt).
 - **Which MRIWA report is related to the East Kimberley region?**
