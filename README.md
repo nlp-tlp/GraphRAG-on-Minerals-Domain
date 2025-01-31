@@ -5,11 +5,12 @@ This repository contains the code, data, and results for the paper titled "Graph
 ## Overview
 
 The project assesses how 1) domain-specific knowledge graph schema, and 2) the selection of local or global GraphRAG search options, impact the quality of GraphRAG responses to questions on technical documents.
+We use [Microsoft's GraphRAG](https://github.com/microsoft/graphrag) framework for all experiments which is available under an MIT license.
 
 ## Code
 
-The [`code`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/code) directory of the repository contains the following:
-- Python code used to run GraphRAG pipelines
+The [`src`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/src) directory of the repository contains the following:
+- Python code used to run GraphRAG pipelines (adapted from [Microsoft's GraphRAG Notebooks](https://microsoft.github.io/graphrag/query/notebooks/overview/))
 - Four sub-directories, containing settings and data for each of our four GraphRAG pipelines (differing in the specified knowledge graph schema - see `entity_types` in `settings.yaml`)
 
 ## Data
