@@ -4,7 +4,8 @@ This directory contains the following supplementary materials for the paper titl
 
 - [`Cost Analysis`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/supplementary_materials/cost_analysis.md): An analysis of both monetary and computation costs of our experiments.
 - [`Entity Tagging Example`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/supplementary_materials/entity_tagging_example.png): An example of our Minerals Domain Schema being  (manually) used to tag entities in MRIWA report text.
-- [`Performance Analysis`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/supplementary_materials/performance_analysis.pdf): The full results of our GraphRAG performance analysis using the marking scheme below.
+- [`RAGAS Analysis`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/supplementary_materials/ragas_analysis.md): An analysis of our GraphRAG results using RAGAS to cross-validate.
+- [`Performance Analysis`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/supplementary_materials/performance_analysis.pdf): The full results of our GraphRAG performance analysis using the following marking scheme:
 
 | Code | Name                     | Criteria |
 |------|--------------------------|-----------------------------------------------------------|
@@ -14,4 +15,20 @@ This directory contains the following supplementary materials for the paper titl
 | B4   | Low Noise Robustness     | Some factually correct information that is irrelevant to the question is present in the response. |
 | B5   | Hallucination            | A hallucination is present in the response. |
 
-- [`RAGAS Analysis`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/supplementary_materials/ragas_analysis.md): An analysis of our GraphRAG results using RAGAS to cross-validate.
+Each pipeline (using a specific schema and search technique) was asked the following questions:
+
+1. Identify which MRIWA reports reference MERIWA or MRIWA.
+2. Extract all references to MERIWA and MRIWA from the MRIWA reports.
+3. Identify any references to nickel or Ni in the MRIWA reports.
+4. Which elements are considered in the MRIWA reports?
+5. Which MRIWA reports has Commonwealth Scientific Industrial Research Organisation been involved with in any capacity (including being listed in references)?
+6. Which MRIWA reports has Commonwealth Scientific Industrial Research Organisation been involved with as a researcher?
+7. Which MRIWA reports has Commonwealth Scientific Industrial Research Organisation been involved with as a sponsor?
+8. Which MRIWA report is related to the East Kimberley region?
+9. Which regions of Western Australia are referenced in the MRIWA reports?
+10. Which MRIWA report author has been involved in more than one report/project?
+11. What is the average number of references in each MRIWA report?
+12. Which MRIWA reports relate to leaching?
+13. Which MRIWA reports relate to exploration?
+14. Which MRIWA reports relate to mining extraction?
+15. Which MRIWA reports relate to mineral processing?
