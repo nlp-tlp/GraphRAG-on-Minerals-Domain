@@ -9,24 +9,24 @@ We use [Microsoft's GraphRAG](https://github.com/microsoft/graphrag) framework f
 
 ## Code
 
-The [`src`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/src) directory of the repository contains the following:
+The [`src`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/tree/main/src) directory of the repository contains the following:
 - Python code used to run GraphRAG pipelines (adapted from [Microsoft's GraphRAG Notebooks](https://microsoft.github.io/graphrag/query/notebooks/overview/))
 - Four sub-directories, containing settings and data for each of our four GraphRAG pipelines (differing in the specified knowledge graph schema - see `entity_types` in `settings.yaml`)
 
 ## Data
 
-The [`data`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/data) directory of the repository contains the following:
-- [`mriwa_report_subset_txt`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/data/mriwa_report_subset_txt): The .txt versions of the seven MRIWA technical reports analysed in this project. All MRIWA reports are publicly accessible at [MRIWA's Project Portfolio](https://www.mriwa.wa.gov.au/research-projects/project-portfolio/) as PDF versions. We used [PyPDF2](https://pypi.org/project/PyPDF2/) to extract the PDF text to .txt files.
-- [`mriwa_cqa`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/data/mriwa_cqa): The set of MRIWA-defined competency questions and answers used to evaluate the GraphRAG pipelines in this project.
+The [`data`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/tree/main/data) directory of the repository contains the following:
+- [`mriwa_report_subset_txt`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/tree/main/data/mriwa_report_subset_txt): The .txt versions of the seven MRIWA technical reports analysed in this project. All MRIWA reports are publicly accessible at [MRIWA's Project Portfolio](https://www.mriwa.wa.gov.au/research-projects/project-portfolio/) as PDF versions. We used [PyPDF2](https://pypi.org/project/PyPDF2/) to extract the PDF text to .txt files.
+- [`mriwa_cqa`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/tree/main/data/mriwa_cqa): The set of MRIWA-defined competency questions and answers used to evaluate the GraphRAG pipelines in this project.
 
 ## Results
 
-The [`results`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/results) directory of the repository contains the GraphRAG pipelines' responses, using both local and global search, to all MRIWA-defined competency questions.
+The [`results`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/tree/main/results) directory of the repository contains the GraphRAG pipelines' responses, using both local and global search, to all MRIWA-defined competency questions.
 
 ## Supplementary Materials
 
-The [`supplementary_materials`](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/tree/main/supplementary_materials) directory of the repository contains the following:
-- GraphRAG performance analysis marking scheme and [results](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/supplementary_materials/performance_analysis.pdf)
-- [Cost analysis](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/supplementary_materials/cost_analysis.md)
-- [Entity tagging example](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/supplementary_materials/entity_tagging_example.png) using a domain-specific knowledge graph schema on MRIWA report text
-- [Cross-validation of our performance analysis results](https://github.com/nlp-tlp/KGschema_eval_4GraphRAG/blob/main/supplementary_materials/ragas_analysis.md) using RAGAS
+The [`supplementary_materials`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/tree/main/supplementary_materials) directory of the repository contains the following:
+- GraphRAG performance analysis marking scheme and [results](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/performance_analysis.pdf)
+- [Cost analysis](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/cost_analysis.md)
+- [Entity tagging example](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/entity_tagging_example.png) using a domain-specific knowledge graph schema on MRIWA report text
+- [Cross-validation of our performance analysis results](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/ragas_analysis.md) using RAGAS
