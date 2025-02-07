@@ -6,6 +6,7 @@ This directory contains the following supplementary materials for the paper titl
 - [`Entity Tagging Example`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/entity_tagging_example.png): An example of our Minerals Domain Schema being  (manually) used to tag entities in MRIWA report text.
 - [`RAGAS Analysis`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/ragas_analysis.md): An analysis of our GraphRAG results using RAGAS to cross-validate.
 - [`MRIWA Report Page Counts`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/mriwa_report_page_counts.png): Distribution of page count across MRIWA technical reports.
+- [`MRIWA Report Sample Selection`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/mriwa_report_sample_selection.md): Entity analysis of our selected MRIWA Report sample for this project.
 - [`Performance Analysis`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/performance_analysis.pdf): The full results of our GraphRAG performance analysis using the following marking scheme:
 
 | Code | Name                     | Criteria |

@@ -31,3 +31,4 @@ The [`supplementary_materials`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-
 - [Entity tagging example](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/entity_tagging_example.png) using a domain-specific knowledge graph schema on MRIWA report text
 - [Cross-validation of our performance analysis results](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/ragas_analysis.md) using RAGAS
 - [Distribution of page count across MRIWA technical reports](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/mriwa_report_page_counts.png)
+- [MRIWA report sample selection process](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/mriwa_report_sample_selection.md)
