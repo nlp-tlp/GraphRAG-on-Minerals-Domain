@@ -136,7 +136,7 @@ The presence of elevated copper, nickel and zinc in Aroona field trial lysimeter
 - Page 644 - A 13-2. Jandakot Residue
 - Page 654 – Nickel Table 
 
-## Report 459-489
+## Report 459-484
 
 - Page 3 - Keywords: Mafic-ultramafic intrusions, Ni-Cu sulfide prospectivity, East Kimberley, Proterozoic, AMS-Paleomagnetic study
 - Page 7 - Tectonic setting of the East Kimberley Ni-Cu systems
