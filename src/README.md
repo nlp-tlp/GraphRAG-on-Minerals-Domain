@@ -51,7 +51,7 @@ Python 3.10-3.12
 
 ### GraphRAG Query
 
-Running the following scripts will allow you to select which schema's index to query. By default, all 15 MRIWA competency questions are asked and results are printed to stdout.
+Running the following scripts will allow you to select which schema's index to query. By default, all 15 MRIWA competency questions are asked and results are saved to a .csv file.
 
 - To run **local search**:
   ```bash
