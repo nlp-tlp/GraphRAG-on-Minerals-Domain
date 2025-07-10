@@ -1,0 +1,998 @@
+RECORD 2020/5  
+MRIWA M0470 FINAL REPORT —  
+MINERAL SYSTEMS ON THE MARGINS OF CRATONS:  
+ALBANY–FRASER OROGEN / EUCLA BASEMENT  
+CASE STUDY , AN EXECUTIVE SUMMARY  
+by 
+CL Kirkland, KA Evans, MIH Hartnady, AT Walker, J Chard, C Clark, CV Spaggiari,  
+R Quentin de Gromard, S Reddy, RH Smithies, OC Kiddie and M Barham
+Government of Western Australia
+Department of Mines, Industry Regulation
+and Safety
+RECORD 2020/5  
+MRIWA M0470 FINAL REPORT — 
+MINERAL SYSTEMS ON THE MARGINS OF CRATONS: ALBANY–FRASER OROGEN / EUCLA BASEMENT  CASE STUDY, AN EXECUTIVE SUMMARY 
+by
+CL Kirkland1, KA Evans2, MIH Hartnady1, AT Walker1, J Chard1, C Clark2, CV Spaggiari,  
+R Quentin de Gromard, S Reddy2, RH Smithies, OC Kiddie3 and M Barham1
+PERTH 2020Government of Western Australia
+Department of Mines, Industry Regulation
+and Safety
+1  Timescales of Miner al Systems Group, Centre for Exploration Targeting – Curtin Node, School of Earth and Planetary Science, Curtin University, Bentley WA 6102
+2  School of Ear th and Planetary Science, Curtin University, Bentley WA 6102
+3  Creasy Gr oup, Ground Floor, 8 Kings Park Road, West Perth WA 6005MINISTER FOR MINES AND PETROLEUM
+Hon Bill Johnston MLA
+DIRECTOR GENERAL, DEPARTMENT OF MINES, INDUSTRY REGULATION AND SAFETY
+David Smith
+EXECUTIVE DIRECTOR, GEOLOGICAL SURVEY AND RESOURCE STRATEGY
+Jeff Haworth
+CHIEF EXECUTIVE OFFICER and CHIEF FINANCIAL OFFICER, MINERALS RESEARCH INSTITUTE  
+OF WESTERN AUSTRALIA  
+Nicole Roocke
+REFERENCE
+The recommended reference for this publication is:Kirkland, CL, Evans, KA, Hartnady, MIH, Walker, AT, Chard, J, Clark, C, Spaggiari, CV, Quentin de Gromard, R, Reddy, S, Smithies, RH, 
+Kiddie, OC and Barham, M 2020, MRIWA M0470 final report — Mineral systems on the margins of cratons: Albany–Fraser Orogen / Eucla basement case study, an executive summary: Geological Survey of Western Australia, Record 2020/5, 23p.
+ISBN PDF 978-1-74168-895-5  
+ISSN
+ 2204-4345  
+Grid references in this publication refer to the Geocentric Datum of Australia 1994 (GDA94). Locations mentioned in the text are referenced using Map Grid Australia (MGA) coordinates, Zone 51. All locations are quoted to at least the nearest 100 m. 
+Disclaimer  
+This product was produced using information from various sources. The Department of Mines, Industry Regulation and Safety (DMIRS) and the State cannot guarantee the accuracy, currency or completeness of the information. Neither the department nor the State of Western Australia nor any employee or agent of the department shall be responsible or liable for any loss, damage or injury arising from the use of or reliance on any information, data or advice (including incomplete, out of date, incorrect, inaccurate or misleading information, data or advice) expressed or implied in, or coming from, this publication or incorporated into it by reference, by any person whosoever.
+Published 2020 by the Geological Survey of Western Australia
+This Record is published in digital format (PDF) and is available online at <www.dmirs.wa.gov.au/GSWApublications>. 
+   © State of Western Australia (Department of Mines, Industry Regulation and Safety) 2020
+ 
+With the exception of the Western Australian Coat of Arms and other logos, and where otherwise noted, these data are provided under a 
+Creative Commons Attribution 4.0 International Licence. ( http://creativecommons.org/licenses/by/4.0/legalcode)
+Further details of geoscience products are available from:
+Information CentreDepartment of Mines, Industry Regulation and Safety100 Plain StreetEAST PERTH WESTERN AUSTRALIA 6004
+Telephone: +61 8 9222 3459  F acsimile: +61 8 9222 3444
+www.dmirs.wa.gov.au/GSWApublications
+Cover image:  Packing up the campsite in a claypan about 5 km south of Minilya in the southern Pilbara (photo by Olga Blay)
+CET4.pdf   1   31/05/2013   5:24:44 PM
+Contents
+Executive summary  ................................................................................................................................................ 1
+Introduction  ............................................................................................................................................................ 2
+Project context  ........................................................................................................................................................ 2
+Geological setting  ................................................................................................................................................... 3
+The Albany–Fraser Orogen  ............................................................................................................................. 3
+The Eucla basement  ........................................................................................................................................ 4
+Linking the Albany–Fraser Orogen and Madura and Coompana Provinces: an enhanced geodynamic 
+framework for mineralization .......................................................................................................................... 5
+Module A, Crustal evolution studies: geodynamic setting and architecture of the crust  ....................................... 5
+Module context ................................................................................................................................................ 5
+Key findings  ................................ .................................................................................................................... 7
+Part 1, Context: Periodic Paleoproterozoic calc-alkaline magmatism at the southeastern margin  of the Yilgarn Craton — implications for Nuna configuration
+ ................................................................ 7
+Part 2, Context: Zircon, hafnium and oxygen isotope decoupling during regional metamorphism 
+— implications for the generation of low-δ18O granitic rocks  ................................................................ 8
+Part 3, Context: Zircon, hafnium and oxygen isotope insight into the petrogenesis of the  Recherche Supersuite, Albany–Fraser Orogen
+ ........................................................................................ 8
+Part 4, Context: Isotopic mapping of the Albany–Fraser Orogen  .......................................................... 10
+Part 5, Tool: Titanite dates crystallization — slow Pb-diffusion during super-solidus  re-equilibration
+ ....................................................................................................................................... 10
+Part 6, Tool: A gradual transition to plate tectonics on Earth between 3.2 and 2.7 billion years ago  ........ 10
+Module B, Petrochronology: timing of geodynamic events driving mineralization  ............................................ 10
+Module context .............................................................................................................................................. 10
+Geochronology — timing of mass transport events  ............................................................................... 12
+Chemical signature of uranium-bearing phases  ..................................................................................... 13
+Key findings  ................................ .................................................................................................................. 13
+Part 1, Context: The crustal boundary of a Proterozoic ocean — the generation, evolution  
+and accretion of the Malcolm Metamorphics  ........................................................................................ 13
+Part 2, Context: Metamorphism and hydrothermal alteration of zircon and rutile in relation  
+to mineralization of the Harris Lake Shear Zone, Albany–Fraser Orogen  ........................................... 13
+Part 3, Context: Deformation of minerals within the Fraser Shear Zone, Albany–Fraser Orogen  ........ 15
+Module C, Sulfides: fertility signatures and metallogenic processes  ................................................................... 16
+Module context .............................................................................................................................................. 16
+Key findings  ................................ .................................................................................................................. 17
+Part 1, Context: Tracking mineralization with in situ multiple sulfur isotopes — a case study  
+from the Fraser Zone, Albany–Fraser Orogen  ....................................................................................... 17
+Part 2, Tool and Context: Novel applications of image analysis to interpret trace element  
+distributions in magmatic sulfides  .......................................................................................................... 17
+Part 3, Context: In situ sulfur isotopic measurements from interpreted VMS mineralization  
+in the Fraser Zone, Western Australia  .................................................................................................... 17
+Part 4, Context: U–Pb geochronology of the Octagonal prospect  ......................................................... 18
+Synthesis  .............................................................................................................................................................. 19
+The Archean inheritance of the Albany–Fraser Orogen  ................................................................................ 19
+Long-lived shear zones and fluids  ................................................................................................................. 19
+Implications of economic interest  ................................................................................................................. 20
+Project outputs  ...................................................................................................................................................... 21
+Journal articles  .............................................................................................................................................. 21
+Conference abstracts  ..................................................................................................................................... 21
+Theses  ............................................................................................................................................................ 21
+References  ............................................................................................................................................................ 22
+Figures
+1.   The mineral system concept e xpressed as a Venn diagram  .......................................................................... 3
+2.   Simplified, pre-Mesozoic interpreted bedrock geology map  ...................................................................... 4
+3.   Geoph ysical image showing drillhole and seismic line locations  ............................................................... 6
+4.   Isotope and trace element data plots, Albany–Fraser Orogen  ..................................................................... 7
+5.   Oxygen and hafnium isotope data from the Corv ette prospect  ................................................................... 8
+6.   δ18O vs εHf for samples of Recherche Supersuite granites  ......................................................................... 9
+7.   T ime-sliced zircon Hf isotope maps   ......................................................................................................... 11
+8.   T itanite Pb-concentration profile and Arrhenius diagram  ......................................................................... 11
+9.   Secular e volution of the different crustal source reservoirs  ...................................................................... 12
+10.   Isotope data plotted ag ainst age for samples from Point Malcolm  ........................................................... 14
+11.   Contour map of tungsten concentration within rutile ................................................................................ 15
+12.   Electron backscatter dif fraction maps and pole figures ............................................................................. 16
+13.   Conceptual diagram illustrating sulfide stripping from sediments ............................................................ 17
+14.   Element map of Mn distrib ution within sample GSWA 219069 ............................................................... 18
+15.   Image of sulfide breccia analysed for in situ sulfur isotopic compositions  .............................................. 18
+16.   Zircon laser ablation pits across block y zircon  ......................................................................................... 18
+17.   Conceptual block diagram indicating implications for mineral systems  .................................................. 191MRIWA M0470 final report — 
+Mineral systems on the margins of cratons:  
+Albany–Fraser Orogen / Eucla basement case study,  
+an executive summary 
+by
+CL Kirkland1, KA Evans2, MIH Hartnady1, AT Walker1, J Chard1, C Clark2, CV Spaggiari,  
+R Quentin de Gromard, S Reddy2, RH Smithies, OC Kiddie3 and M Barham1
+Executive summary
+Mineral exploration models depend on a reliable chronostratigraphic and tectonothermal framework, which can only be constructed with robust 
+geochronological data. Furthermore, isotopes provide critical traces of the geological processes that might be responsible for mineralization or deposit destruction. The absence of such a robust geological framework in many greenfields terrains, including under regolith cover, significantly increases the risk to exploration companies owing to the greater inherent uncertainty in exploration models. The objectives of Project M0470, supported by the Minerals Research Institute of Western Australia, Curtin University, the Geological Survey of Western Australia and Ponton Minerals (Creasy Group), was to address the fundamental components of mineral systems across the Albany–Fraser Orogen and Eucla basement. The Albany–Fraser Orogen is a well-preserved, if partially covered, example of Proterozoic modification of an Archean craton margin. Much of this modification involved significant new juvenile mantle input under conditions of extension before compression and injection of crust-derived melts. The Eucla basement reflects a younger terrane with oceanic affinity. The project utilized a mineral systems concept to place known mineralization within the region in a geological context; ore deposits were viewed as small-scale expressions of Earth processes that took place at different temporal and spatial scales. Specifically, mineral systems can be viewed as the confluence of fertility of source, fluid transportation, and upgrading along a favourable geological structure, driven by a punctuated geological event, or events. Three modules were embedded within the project. Module A, Isotopic monitors of crustal evolution (architecture); Module B, Petrochronology (geodynamic driver), and Module C, Sulfide sources and budgets (fertility). Ten key findings of this work can be considered as relating to either, or both, the understanding of isotopic tools or understanding the context of the mineral systems within this region. 
+1. The spatial variation in the hafnium isotopic compositions of granitic rocks from the Albany–Fraser Orogen is not correlated with the present-day structure of the belt, but more closely resembles that of the Yilgarn Craton. 
+2. Metamorphic zircons with decoupled hafnium and oxygen isotope systems were discovered in metasedimentary rocks within the footwall of the linked Harris Lake and Fraser Shear Zones — this is a major structure in the orogen that separates the Cu–Ni mineralized Fraser Zone from other Proterozoic lithotectonic domains. The decoupling of these isotope systems indicates that the sedimentary protolith experienced hydrothermal alteration prior to metamorphism during Stage I of the Albany–Fraser Orogeny. Hence, these results demonstrate that the Harris Lake and Fraser Shear Zones existed prior to the onset of Mesoproterozoic deformation, and were major conduits for movement of hydrothermal fluids.
+3. Zircon Hf and O isotope work on the Mesoproterozoic granitic rocks of the Albany–Fraser Orogen has provided new insights into the nature of their source. Spatial variations in the age and geochemistry of these rocks favour tectonic models in which Stage I of Albany–Fraser Orogeny occurred in an accretionary orogenic setting.
+4. New observations of Pb diffusion have demonstrated that, in contrast to most previous results, titanite should be considered as a high-temperature geochronometer with a Pb closure temperature of at least 840°C; this makes it suitable to date high-temperature processes directly and provides significant utility in the Albany–Fraser Orogen for geochronology.
+5. Combined U–Pb geochronology and oxygen isotope geochemistry of zircon and (for the first time) monazite from the extreme southeastern surface exposure (Point Malcolm) of the Albany–Fraser Orogen tracks geodynamically driven fluid evolution during ocean–continent collision. Progression towards elevated δ
+18O values >4.1‰, from submantle values, by c. 1182 Ma, indicates crustal thickening at this stage. This finding provides an 
+important constraint on the timing of continental fluid infiltration during Stage II of the Albany–Fraser Orogeny.
+6. Zircon and rutile within major shear zone systems in the orogen (the Harris Lake Shear Zone) provide evidence of metamorphic cooling during Stage II of the Albany–Fraser Orogeny (1230–1195 Ma). This rutile is associated with a previously undated gold-mineralized horizon and records anomalous geochemistry enriched in W, Ta and Nb, while being depleted in Zr. This rutile age is interpreted to reflect a post-metamorphic fluid alteration event, and therefore provides a maximum age of formation for disseminated sulfide and late-stage brittle fault-fill veins at the gold mineralized horizon. This work illustrates the importance of Stage II in gold mobilization in the orogen. No gold event of this age has previously been recorded in the region.
+7. Electron backscatter diffraction has been applied to orientated thin sections of garnet-bearing, quartz–anorthite-banded gneiss from the Fraser Shear Zone. This work reveals a preferred orientation in >10 000 quartz and anorthite grains that characterize their active slip systems. This indicates that deformation took place during greenschist to amphibolite facies metamorphism. Zircon geochronology records peak metamorphism during Stage I of the Albany–Fraser Orogeny at c. 1326 Ma, with mean Ti-in-zircon apparent temperatures of 687°C, which texturally pre-dates deformation. These findings demonstrate that the Fraser Shear Zone continued to act as a fluid pathway beyond the crystallization age of metamorphic zircon and demonstrates the longevity of fluid movement on major structures in the region.
+1 Timescales of Mineral Systems Group, Centre for Exploration Targeting – Curtin Node, School of Earth and Planetary Science, Curtin University, Bentley WA 6102, Australia
+2 School of Earth and Planetary Science, Curtin University, Bentley WA 6102, Australia
+3 Creasy Group, Ground Floor, 8 Kings Park Road, West Perth WA 6005, AustraliaKirkland et al.28. The sulfur isotope ratios of Fraser Zone rocks indicate that sulfur assimilated from the Snowys Dam Formation contributed to the formation of 
+economic magmatic sulfide deposits. The absence of an Archean sulfur signature in major Cu–Ni deposits of the Fraser Zone (e.g. Nova) suggests that sulfur, but not refractory components such as Archean zircons, was recycled through surface, rather than magmatic, processes. This recycling must have occurred prior to incorporation of detritus into magmatic rocks of the Fraser Zone.
+9. The sulfur isotope ratios of samples from Andromeda, an interpreted volcanogenic massive sulfide (VMS) deposit from the Fraser Zone, record the presence of crustal sulfur, most likely seawater derived, in the ore body. Preliminary results indicate that an Archean sulfur signature might be preserved in these rocks. If this is the case, there are significant implications regarding the source of the magmas associated with this deposit, which must have incorporated Archean-influenced fluid (likely derived from the Fraser Shear Zone). This has further implications for exploration within the Fraser Zone.
+10. Multi-element laser ablation–inductively coupled plasma–mass spectroscopy (LA-ICP-MS) maps were used to determine the relative importance of processes such as diffusion, fluid infiltration and element partitioning during magmatic crystallization for the trace elements within mineralized samples from the Fraser Zone. Qualitative observations were confirmed using quantitative co-localization analysis techniques. The distribution of elements such as Re, Co, Ni, Os and Ir were controlled mostly by magmatic crystallization from a magma; Pd was mobilized by diffusion under subsolidus conditions, and Mn and Ag were redistributed by late hydrothermal fluid flow associated with serpentinization.
+KEYWORDS: Albany–Fraser Orogen, geochronology, isotope geology, mineral systems, sulfur isotopes
+Introduction
+Modern exploration requires a new integrated approach, 
+utilizing a broad range of techniques which can collectively enhance the geological knowledge of a region’s mineral endowment. Craton margins host significant lithospheric discontinuities that focus fluids and heat, and which, under favourable circumstances, may become mineralized corridors. Additionally, high-grade terrains are frequently viewed as less prospective (e.g. for gold) than lower grade regions. However, recent discoveries in the Albany–Fraser Orogen highlight that many common models for mineral endowment are deficient, and their resolution through cover is limited. Significant ore systems with mantle-tapping roots are the manifestation of physical and thermochemical processes associated with specific sites of fluid mobility, frequently driven by regional-scale tectonic activity. Hence, a means to enhance the discovery of new Australian resources, which may be buried, is to boost our detection of the distal signature of mass transfer processes along fossil, buried or otherwise cryptic deep structures. A key aspect of the ability to vector towards such mass transfer zones is through a reliable chronostratigraphic and tectonothermal framework of a well-understood lithospheric architecture. The absence of such a framework in many greenfields terrains, including those beneath regolith cover, significantly increases the risk to exploration companies owing to the greater inherent uncertainty in exploration models. This program of research has focused on the partially covered terrain of the Albany–Fraser Orogen and the covered Eucla basement of Western Australia. The project utilized a lithosphere-scale mineral systems approach to establish the fundamentals (timing, scale, material) of mass transfer processes within the crust. 
+The research project was based around three modules, 
+which directly map onto architecture, geodynamic drivers and fertility (Fig. 1).
+1.
+ Module A, Isotopic monitors of crustal evolution  
+(architecture); through cutting edge split stream 
+LA-ICPMS instrumentation. This module enhanced the existing Hf-in-zircon database by integrating O isotopic signatures, which addresses limitations associated with Hf model ages that reflect mixtures between crustal and mantle source components. 2.
+ Module B, P etrochronology  (geodynamic driver); 
+complemented GSWA’s existing zircon geochronology program by coupling U–Pb geochronology (on a wide range of different mineral phases) to the grain-scale mineral chemistry as a proxy for the conditions of the crust during specific periods in time.
+3.
+ Module C, Sulfide sour ces and budgets  (fertility); 
+through the use of multiple sulfur isotopes, combined with trace element ratios, a robust fingerprint of sulfur mobility and metal reservoirs in the region has been developed for key case study localities.
+Each of the modules was associated with a PhD student: Module A – Mr Hartnady (PhD student), Professor Kirkland (Primary Supervisor); Module B – Mr Chard (PhD student), Professor Clark (Primary Supervisor); Module C – Mr Walker (PhD student), Associate Professor Evans (Primary Supervisor).
+This GSWA Record summarizes the main findings of 
+each of the modules to provide the key outcomes of this work in an easily accessible form. However, for detailed interpretation of the findings and access to the raw and reduced datasets, the reader is directed to the relevant examined Curtin University PhD thesis, all three of which will be published as GSWA Reports. Each main finding is categorized as related to tools, or to mineral system context, or both. A ‘Tool’ category refers to the work primarily being about understanding and establishing a technique so it can be used to derive geological knowledge. A ‘Context’ category refers to the work primarily being about deriving quantitative understanding of the geology of the region, with direct implications for tracking metallogenesis.
+Project context
+Ore deposits represent the foci of large-scale systems of mass and energy flux and require the concentration of metals in low abundances in large volumes of rock into small volumes at high abundances (e.g. McCuaig and Hronsky, 2014). Large-scale advective fluid flux is the only plausible mechanism for the initial concentration of metals. This process requires specific physical conditions that GSWA Record 2020/5  MRIW A M0470 final report — Mineral systems on the margins of cratons3Figure 1.  The miner al system concept expressed as a Venn 
+diagram. Ore genesis occurs at the region of overlap 
+where critical elements of the mineral system converge. Note how the project components map onto each element of the critical Venn array (modified after McCuaig and Hronsky, 2014)FertilityFavourable
+whole-lithosphere
+architecture
+Favourable
+(transient)
+geodynamic event
+PetrochronologyCrustal
+evolutionSulfide sources
+and budgets
+Ore genesis
+CS488 26.11.19provide fundamental constraints on what can be a viable 
+mineral system. Key factors that control the physical site 
+of metallogenesis include (Fig. 1):
+• fluid pathways (architecture)
+• fertility (composition)
+• transient trigger for element migration (geodynamics).
+Project M0470 tracked these three key factors responsible for metallogenesis in space and time using an integrated approach combining information from a range of isotopic and geochemical techniques that have frequently been viewed in isolation. The datasets in this project have imaged the deep structure of the Albany–Fraser Orogen and the basement to the Eucla and Bight Basins (through Hf and O isotopes in zircon and mineral-scale geochemical signatures) in both space and time. Specifically, the information collected has revealed how the crust has evolved and major structures have developed through time. The information in this project has generated 4D maps that chart fertility of lithological blocks, imaged deep structures, and elucidated the geodynamic events (triggers for fluid mobility events) in this region. The results provide a new interpretative geological framework to understand the complex interaction between spatially variable isotopic signatures and the setting of mineral systems. 
+The Albany–Fraser Orogen and the Eucla basement 
+(comprising the Madura and Coompana Provinces) have received comparatively little research attention even though they lie on the southeastern margin of the Yilgarn Craton, one of the most significant regions of economic mineral endowment in the world. The region is characterized by a complex geological evolution spanning more than three billion years, and a paucity of outcrop and complex regolith cover collectively present a daunting exploration challenge. Nonetheless, there have been recent notable exploration successes (Tropicana, hydrothermal gold, and Nova–Bollinger, magmatic nickel sulfide; Doyle et al., 2008, 2013; Bennett et al., 2014; Kirkland et al., 2015; Maier et al., 2016), and there are known mineral systems for a range of commodities (Spaggiari and Smithies, 2015). This area can be regarded as greenfields with significant geological uncertainty for exploration; nonetheless, it is clearly prospective and has many features that could support successful mining operations. Additionally, to the east of the Albany–Fraser Orogen, basement buried beneath the Eucla Basin represents one of the largest prospective mineral provinces in the world. This research project furthers our understanding of the evolution of the Albany–Fraser Orogen and Eucla basement within the context of their complex geodynamic evolution, and establishes groundwork around what footprints of potential mineral systems in this region may be tracked in space and time. The approach applied in this work integrated regional- and lithospheric-scale datasets with prospect-scale focused studies to develop scale-dependent criteria for the recognition of mineral systems which could be used as vectoring tools. 
+This three-year project was a collaboration between the 
+Centre for Exploration Targeting – Curtin Node, the School of Earth and Planetary Sciences at Curtin University, GSWA, and Ponton Minerals Pty Ltd (Creasy Group).
+Geological setting
+The Albany–Fraser Orogen
+The Albany–Fraser Orogen is a component of the West Australian Craton and lies along the southern and southeastern margins of the Archean Yilgarn Craton (Fig. 2). In a similar situation to other orogenic belts that girdle the Yilgarn Craton, the Albany–Fraser Orogen is dominated by Paleoproterozoic to Mesoproterozoic intrusive rocks formed through a cryptic series of tectonomagmatic events (Spaggiari et al., 2011, 2014a; Smithies et al., 2015). These events involved variable recycling of a range of existing crustal elements and, importantly, also involved periods of refertilization through juvenile mantle input (Kirkland et al., 2011). With the discovery of the ~8  Moz Tropicana gold deposit and the ~15  Mt combined Nova–Bollinger Ni–Cu–Co deposit in the Fraser Zone, the orogen has gained considerable economic importance (e.g. Kirkland et al., 2015; Maier et al., 2016). GSWA has produced significant regional datasets throughout this orogen (e.g.  Spaggiari et al., 2014a,b; Spaggiari and Smithies, 2015). However, additional complementary chemical, isotopic, and geochronological layers acquired under the M0470 program have provided significant extra return for this initial State investment in pre-competitive geoscience. The northeastern margin of the Albany–Fraser Orogen is covered by the Eucla Basin, but is interpreted to extend to the Rodona Shear Zone. On the eastern side of this structure, the orogen is in contact with the Madura Province, part of the basement to the Eucla and Bight Basins (Spaggiari et al., 2015; Kirkland et al., 2017).Kirkland et al.4124° 128° 120° 116°32°
+200 km
+CS204c2 25.03.20
+Malcolm MetamorphicsBarren Basin, undivided
+(1815–1600 Ma)
+UndividedMunglinup Gneiss (2800–2660 Ma)Northern ForelandAlbany–Fraser OrogenBiranup Zone (1815–1625 Ma)
+and Archean remnants
+Fraser Zone (1310–1280 Ma)Major faultTerrane boundary
+Coastline
+Town
+Gwynne Creek GneissCoompana Province
+Tropicana Zone, undivided 
+(2720–1700 Ma)Perth
+Basin
+SOUTHERN OCEANINDIAN
+OCEAN
+Darling       TerraneSouth WestWFYouanmi
+TerraneIda Cundeelee SZ
+Jerdacuttup   Fault
+Heywood Cheyne SZ 
+– YILGARN CRATON
+EASTERN GOLDFIELDS
+SUPERTERRANECanning Basin Officer
+Basin
+eastern Nornalup Zone
+ Rodona Mundrabilla SzKalgoorlie
+TerraneKurnalpi
+TerraneBurtville
+TerranePO
+PO
+PO
+SRFMGB
+western Nornalup Zone
+1000 kmWest
+Australian
+CratonSouth
+Australian
+CratonMPPO
+AFO LNTasmanLineNorth Australian
+Craton
+Arid
+Basin(1600–1310 Ma)Undivided (1610–1100 Ma)Nornalup Zone (1815–1650 Ma)Yamarna
+Terrane
+Recherche Supersuite (1330–1280 Ma)
+and Nornalup Zone remnants Esperance Supersuite (1200–1140 Ma)Madura Province
+Undivided (1600–1100 Ma)MADURA
+PROVINCEALBANY–FRASER
+OROGEN
+COOMPANA PROVINCE
+MM
+Snowys Dam FormationPerthKalgoorlie
+Esperance
+AlbanyManjimup Fault
+  FaultSz Fault 
+System
+Southdown
+Fe–MagSouthdown
+Fe–MagNova–BollingerNi–Cu–CoNova–BollingerNi–Cu–CoTropicanaAuTropicanaAu
+Trilogy
+Au–Cu–Ag–Pb–ZnTrilogy
+Au–Cu–Ag–Pb–Zn
+Coramup SZHarris Lake SZ
+Figure 2.  Simplif ied, pre-Mesozoic interpreted bedrock geology of the east Albany–Fraser Orogen and adjacent Eucla basement, 
+southern Western Australia. Modified from Spaggiari et al. (2015). Abbreviations: MGB, Mount Barren Group;  
+MM, Malcolm Metamorphics; PO, Pinjarra Orogen; SRF, Stirling Range Formation; SZ, Shear Zone; WF, Woodline  
+FormationThe Eucla basement
+The Eucla basement is defined as the region underlying 
+the Eucla and Bight Basins. It comprises the Coompana Province to the east, the Madura Province in the west, and the northeastern component of the eastern Nornalup Zone (Fig. 2). In Western Australia, the basement rocks of the Madura and Coompana Provinces are covered by up to 500 m of sedimentary rocks belonging to the Mesozoic Bight Basin and Cenozoic Eucla Basin (Spaggiari and Smithies, 2015). The Coompana Province lies predominantly within South Australia, adjacent to the Gawler Craton, and is dominated by recycled oceanic-arc crust formed after c. 1950 Ma, with major events at c. 1610 and c. 1500 Ma (Spaggiari and Smithies, 2015; Kirkland et al., 2017; Spaggiari et al., 2017). The Madura Province lies adjacent to the Albany–Fraser Orogen and includes juvenile c.  1410  Ma tonalites and gabbros derived from low- to medium-K tholeiitic parental magmas with an oceanic arc affinity (Loongana Arc; Spaggiari et al., 2015, 2018). These rocks have an isotopic signature similar to the deep basement of the Musgrave Province, prompting suggestions of a connection between the two regions (Kirkland et al., 2017). Recent work by GSWA indicates that metabasaltic rocks (Pinto Basalt) with E-MORB to ocean island basalt (OIB) geochemical characteristics are present within the Madura Province and were associated with proto-oceanic crust and an ocean–continent transition zone that likely developed at c.  1600  Ma as the Yilgarn Craton margin extended (Spaggiari et al., 2015, 2018; Kirkland et al., 2017). Whole-rock geochemistry and isotopes indicate a significant role for deep-mantle tapping sources; high Ti/Yb ratios in the most primitive basalts suggest a garnet-bearing mantle source (Spaggiari et al., 2018). Of significance is the abundant juvenile input in this region, which reflects a new and distinct component. Given the significant degree of new mantle input inferred in the Madura Province basaltic crust, with high Cu values and the presence of sulfides, there is significant potential for volcanogenic massive sulfide (VMS)-style mineralization, exhalative or IOCG deposits (Spaggiari and Smithies, 2015). Both provinces contain extensive intrusions of the 1192–1127 Ma Moodini Supersuite (Spaggiari and Smithies, 2015; Kirkland et al., 2017). GSWA Record 2020/5  MRIW A M0470 final report — Mineral systems on the margins of cratons5Linking the Albany–Fraser Orogen 
+and Madura and Coompana Provinces: an enhanced geodynamic framework for mineralization
+Previous interpretations of the Albany–Fraser Orogen 
+inferred the accretion of exotic terranes, and the development of a magmatic arc in the Fraser Zone during the Mesoproterozoic (Bodorkos and Clark, 2004). However, U–Pb geochronology, whole-rock geochemistry, and isotope and crustal architectural studies have radically refined our understanding of the orogen and do not support these interpretations (Spaggiari et al., 2011, 2014a). Current datasets indicate that the Albany–Fraser Orogen contains no exotic components, or Mesoproterozoic magmatic arcs (Smithies et al., 2014, 2015). Rather, the orogen reflects the pronounced effects of juvenile mantle input into Archean crust of the Yilgarn Craton in a series of events that overprinted, but did not obliterate, the parental signature (Kirkland et al., 2011, 2014; Smithies et al., 2015). Such a revised geodynamic framework places fundamental constraints on mineral systems models and controls the likely prospectivity of zones. For example, in the case of the ~8 Moz Tropicana gold deposit (discovered in 2005 by AngloGold Ashanti, the largest greenfields gold discovery in Australia in the last decade), as well as AGA’s V oodoo Child Au–Ag deposit and Beadell Resources’ Hercules and Atlantis Au prospects, the primary geodynamic setting can be inferred through characterization of the protolith magmas (Kirkland et al., 2015). Fertile magmas in this zone are Mg- and LILE-enriched granitic rocks classed as sanukitoids with a best estimate for magmatic crystallization of 2692 ±  16 Ma. Sanukitoid magmas are well known for gold fertility and were likely the original source of gold in the Tropicana Zone. This gold was subsequently concentrated into brittle structures during multiple overprinting episodes. Gold mineralization post-dated peak metamorphic conditions and is significantly younger than gold mineralization within other parts of the adjoining Yilgarn Craton (Doyle et al., 2015; Occhipinti et al., 2017). The intrusions are typically localized along major structures interpreted as, or related to, crustal-scale sutures along which subduction-like processes once occurred. Hence, these magmas likely reflect the position of a paleosubduction zone. 
+Exploring the basement of the Eucla and Bight Basins is 
+clearly a challenge for the mineral exploration industry, yet to enhance the search space available to find economic deposits, greater undercover exploration is required. All our knowledge of the geological history and geodynamic setting of these rocks comes from geophysical data and extensive sampling of drillcores (Spaggiari and Smithies, 2015; Spaggiari et al., 2017). New geophysical data and Exploration Incentive Scheme (EIS) co-funded and stratigraphic drilling by GSWA are helping to uncover the hidden mineralization potential of this basement, and present new opportunities to understand the formation of Proterozoic Australia (Fig. 3). Drillcore samples have been used for geochemistry, zircon U–Pb geochronology, and zircon Hf isotopic analysis (Spaggiari and Smithies, 2015). Project M0470 built on these zircon-based datasets through the analysis of titanite and monazite. In addition, the use of split-stream laser ablation analysis, where combined age and Hf isotopic data are produced from the same volume of sample material, has provided additional clarity to the developing GSWA isotope database.
+Module A, Crustal evolution 
+studies: geodynamic setting  
+and architecture of the crust
+Module context
+Many deposit clusters are intrinsically linked to the subcontinental lithospheric mantle through lithospheric-scale structures (e.g. Pirajno, 2010). These structures may mark the edges of discrete lithotectonic blocks and reflect fossil suture zones or the distended margins of rifted continents (Hidas et al., 2015). Constraining the 4D crustal architecture is therefore critical for identifying prospective regions of underexplored or extensively covered upper crust that may have mineral endowment. This theme utilizes recent advances in isotope geology acquisition 
+and processing to establish the evolution of the crustal 
+architecture of the Albany–Fraser Orogen and the deep basement to the Eucla and Bight Basins. Such datasets support the enhanced understanding of the timing and kinematic evolution of structures, and the timing of fluid transport along these pathways. 
+Hf isotopes of zircon can be used to chart the relative 
+roles of juvenile mantle input and crustal reworking in magmas through time. This has significant implications for understanding crustal architecture and for tracing zones prospective for mineralization, as it is known that mantle input events can endow the crust with metals (e.g. Jiang et al., 2019). The source characteristics of the continental lithosphere are heterogeneous in space and time, but are recorded by the changing Hf signatures of melts sourced from various levels of the crust. The mineral age and Hf signatures of magmatic rocks can be used as probes of the geology at deeper crustal levels. When contoured, these tracers reveal distinct zones of isotopic composition, reflecting first-order domains of specific model ages that correspond to geological entities. Breaks and gradients in these isotopic signatures correspond to significant crustal boundaries, map crustal changes at depth, and reflect a signal from the original geodynamic setting (e.g. Mole et  al., 2014). In datasets where the spatial distribution may be lacking (e.g. the covered Eucla basement), high temporal resolution of the isotopic signature may provide a means to capture otherwise hidden information. In other words, although specific elements of a geodynamic setting may not be directly captured, the general signal from such a setting may leave a larger isotopic footprint that can be accessed via high-temporal-resolution datasets. 
+Oxygen isotope characterization, along with both U–  Pb  
+and Lu–Hf analyses carried out on the same zircon grains, provide a quality-control step for assumptions inherent within the Hf isotopic system. Oxygen isotopes allow checking for pristine mantle-derived melts where fractionation events can be accurately constrained by Hf isotopes, as opposed to reflecting mixed ages where Kirkland et al.6crustal material is incorporated with mantle sources. 
+This integrated approach offers information on not only the crystallization age, but also on the potential time of fractionation events and the influence of mantle-derived components within a system. Advances in this crustal evolution tool come from using fluid dynamic approaches to integrate datasets between time slices; further refinements come from improvements to O isotope analysis where the alteration impact of water within damaged zircon crystals is recognized (Van Kranendonk et al., 2015). Such crustal evolution studies offer the ability to track prospective zones through geological time and under 
+12GA-AF312GA-AF3
+13GA-EG113GA-EG130°
+31°
+32°
+33°124° 126° 128°
+Boonderoo Shear ZoneBig RedNSD
+Fraser Shear ZoneCundeelee Shear Zone
+Sunset Shear Zone
+West Rodona Shear ZoneRodona Shear ZoneMAD002LoonganaBurkin
+Haig
+SerpentSerpent Shear Zone
+Hannah 1
+Point MalcolmCoastlineMADURA MADURA 
+PROVINCEPROVINCE
+ALBANY–FRASER ALBANY–FRASER 
+OROGENOROGENCOOMPANA COOMPANA 
+PROVINCEPROVINCE
+Moodini
+Eucla 1MAD014
+MAD011FOR011FOR010
+FOR008
+FOR004 FOR012Mundrabilla Shear Zone
+Border Shear ZoneMulyawara Shear Zone Woodcutters SZ
+NYILGARN YILGARN 
+CRATONCRATON
+East Rodona Shear Zone
+Cape Pasleyeasterneastern
+Nornalup Nornalup 
+ZoneZone
+easterneastern
+Nornalup Nornalup 
+ZoneZoneBiranup ZoneBiranup ZoneFraser Fraser 
+ZoneZone
+SAC
+1000 kmWACNAC
+MPPO
+AFOTasman Line
+N
+LAO
+Eb
+GSWA stratigraphic drillcores
+EIS co-funded drillcores
+Donated drillcoresDrillhole localities:
+100 km
+CS461 22.04.20Harris Lake Shear Zone
+Figure 3.  Dr ape image of gravity (colour) and reduced-to-pole, first vertical derivative aeromagnetic data (greyscale) showing 
+drillhole and seismic line locations, and simplified structures in the east Albany–Fraser Orogen and Eucla basement. 
+Understanding the geology of these under-cover greenfields regions is difficult, and geochronology and geochemistry of samples collected from drillcores play a crucial role. Modified from Spaggiari et al. (2018). Abbreviations on inset: AFO, Albany–Fraser Orogen; AO, Arunta Orogen; Eb, Eucla basement; L, Leeuwin Complex; MP, Musgrave Province; N, Northampton Complex; PO, Paterson Orogencover. Exploration through cover can be achieved either by 
+sampling zircon grains from modern drainages sourcing a terrane of interest, or from ancient sedimentary rocks, or drillcore of basement lithologies. Each basement sample, because of the likely presence of inherited material picked up on the emplacement pathway, provides much more information than just a single time–composition point; but rather, has the potential to resolve the degree of mantle influence at several points in time. Hence, crustal evolution datasets can map whole-lithospheric, terrane-scale structure under cover, and also map lithospheric terrane-scale architecture from mantle to surface.GSWA Record 2020/5  MRIW A M0470 final report — Mineral systems on the margins of cratons7Key findings
+Part 1, Context: Periodic 
+Paleoproterozoic calc-alkaline magmatism at the southeastern margin 
+of the Yilgarn Craton — implications for 
+Nuna configuration
+The age and composition of magmas provide 
+fundamental information to chart the tectonic setting of crustal development through time and hence refine paleogeographic reconstructions. The Biranup Zone of the Albany–Fraser Orogen in southwestern Australia is interpreted to preserve a protracted record of magmatism associated with the formation and subsequent breakup of the Paleoproterozoic supercontinent Nuna. Yet, the configuration of Proterozoic Australia within Nuna is not well constrained. New U–Pb zircon geochronology on four samples of mafic intrusions in the northeastern Biranup Zone yielded U–Pb crystallization ages of 1809  ±  17  Ma, 1798  ±  12  Ma, 1796  ±  12  Ma, and 1755 ± 12 Ma (Hartnady et al., 2019a), coeval with known pulses of felsic magmatism elsewhere in the orogen (Fig. 4; Spaggiari et al., 2014b). The Lu–Hf Sr/Yc)
+Sr (ppm)
+Crystallization age (Ga)02040601601802002.0 1.8 
+Crystallization age (Ga)-20-10010εNd
+1.6c.1800 Ma 
+c.1660 Ma c.1760 Ma 
+c.1690 Ma c.1700 Ma
+c.1680 Ma 
+c.1670 Ma  b)
+this study older 
+magmatic 
+event?
+2.60 Ga
+3.00 Ga
+3.30 Gasubduction
+ initiation?
+subduction
+advance?subduction
+ retreat??a)
+NC
+2.0 1.8 1.6-20-10010
+Crystallization age (Ga)εHfDM
+BSE
+Crystallization age (Ga)02006001000d)
+highly evolved granitesplagioclase cumulate
+2.0 1.8 1.6 2.0 1.8 1.6
+CS489 01.05.20SWT and YT
+Figure 4.  Isot ope and trace element data plots: a) zircon εHf evolution diagram. For magmatic samples, εHf values are calculated 
+at the age of magmatic crystallization. Black circles and squares denote data from mafic and felsic igneous rocks, 
+respectively; compiled from Kirkland et al. (2011, 2015). Open circles denote data from mafic rocks and open squares 
+denote data from detrital zircon analyses, both from this study; b) whole-rock εNd vs crystallization age; c) whole-
+rock Sr/Y vs crystallization age; d) whole-rock Sr concentration vs crystallization age. Previously published data compiled from Smithies et al. (2015). Abbreviations: BO, Biranup Orogeny; NE, Ngadju Event; SGE, Salmon Gums Event; NC, ‘new crust’ model of Dhuime et al. (2011); BSE, Bulk Silicate Earth; EGST, Eastern Goldfields Superterrane; SWT, South West Terrane; YT, Youanmi Terrane. DM line calculated using depleted mantle reference values from Griffin et al. (2002)Kirkland et al.8isotope composition of zircon crystals from these mafic 
+intrusions, and the metasedimentary rocks they intrude, reveal juvenile magmatic input into the Archean Yilgarn Craton with this magmatism commencing as early as c. 1.90 Ga (Hartnady, 2019). Following this juvenile magmatism, the margin of the craton was affected by at least three pulses of calcic to calc-alkaline magmatism between 1.81 and 1.65 Ga. Secular changes in zircon Hf isotope composition are comparable in both duration and periodicity to changes in magma composition and zircon chemistry over 50–100 Ma periods that have been observed in modern volcanic arcs of the American Cordillera, and in Cambrian to Carboniferous accretionary complexes of eastern Australia (e.g. Finzel et al., 2014). Isotopic patterns and whole-rock geochemistry are consistent with 
+formation of the 1.81–  1.70  Ga Paleoproterozoic igneous 
+rocks of the Albany–Fraser Orogen above a Pacific-type (ocean to continent subduction zone) magmatic arc that extended along the southeastern margin of the Yilgarn Craton (Fig.  4). This interpretation is consistent with paleomagnetic data, which place the Yilgarn Craton on the periphery of the supercontinent Nuna at 1.90–1.60 Ga (Meert and Santosh, 2017).
+Part 2, Context: Zircon, hafnium and 
+oxygen isotope decoupling during regional metamorphism — implications for the generation of low-δ
+18O granitic 
+rocks
+Measurements of U–Th–Pb, Lu–Hf and O isotopes, as well 
+as selected trace and rare earth elements were carried out on zircon grains from amphibolite facies metasedimentary rocks (comprising interlayered psammitic and semi-pelitic lithologies) from the Albany–Fraser Orogen, interpreted to be components of the Fly Dam Formation. Oxygen isotopes from detrital zircon grains yield δ
+18O (VSMOW) 
+CS490 26.03.20εHf8
+7
+6
+5
+1300 1500 1700a)
+Lower limit for upper crustal zircon
+(Cavosie et al., 2011)
+207Pb/206Pb age (Ma)δ18O (‰)
+Decoupling of hafnium and
+ oxygen isotope systemsHfm/Hfc = 8.0
+2SE2SE
+zircon  = 5.3 ± 0.6 ‰mantle
+–8 –4b)
+08
+7
+6
+5δ18O (‰)
+Figure 5.  Oxy gen and hafnium isotope systematics for detrital and metamorphic zircon from the Corvette prospect 
+metasedimentary rocks: a) δ18O vs U–Pb age; b) δ18O vs εHf. Blue dots indicate decoupled Hf and oxygen analyses 
+implying a mix with altered crustvalues ranging from 5.8‰ to 8.0‰ and exhibit coupled 
+Hf and O isotope compositions (Fig. 5). In contrast, metamorphic zircon grains show considerably less variability in O-isotope compositions with a median δ
+18O 
+of 5.6 ± 0.5‰, and exhibit decoupled Hf and O isotope compositions (Hartnady, 2019). The 
+176Hf/177Hf ratios of 
+metamorphic zircon grains lie within the evolutionary trend defined by the detrital grains, implying negligible input from external sources (Fig. 5). Thus, the relatively low δ
+18O value of the metamorphic zircon grains implies 
+crystallization from a relatively 18O-depleted crustal melt. 
+Such δ18O values are lower than those typically observed 
+in most metamorphic zircon, and indeed in S-type granitic rocks (10–12‰), and suggest that the sedimentary protolith was altered by externally derived meteoric fluids prior to high-temperature metamorphism. We suggest that alteration of the sedimentary protolith is related to the proximity of these metasedimentary rocks to the Harris Lake Shear Zone, a major crustal-scale structure within the orogen, which may represent an older reactivated structure. Occurrences of low- δ
+18O metamorphic zircon, 
+and potentially also low- δ18O igneous rocks, in ancient 
+collisional settings elsewhere, and also through this orogen, may therefore delineate long-lived fluid pathways within the crust.
+Part 3, Context: Zircon, hafnium 
+and oxygen isotope insight into the petrogenesis of the Recherche Supersuite, Albany–Fraser Orogen
+Granitic rocks and granitic gneisses of the 1330–1276 Ma 
+Recherche Supersuite form an important magmatic component of the Albany–Fraser Orogen associated with the initial stages of amalgamation of the supercontinent Rodinia. The rocks of the Recherche Supersuite fall into two geochemically distinct suites: the Gora Hill Suite GSWA Record 2020/5  MRIW A M0470 final report — Mineral systems on the margins of cratons9and the Southern Hills Suite (Smithies et al., 2015). In 
+order to better understand the geological reasons for this geochemical distinction, zircon Hf–O isotopes of these rocks were investigated to determine the nature of their source components. The Hf and O isotopic variation in the Gora Hill Suite suggests these magmas formed via mixing between Archean crust with supracrustal O-isotope compositions, and Paleoproterozoic crust with mantle-like O-isotope compositions (Fig. 6). Rocks of the Southern Hills Suite yield predominantly supracrustal O-isotope compositions; however, some samples yield relatively 
+18O-depleted compositions suggesting some 
+contribution from a hydrothermally altered source component (Hartnady, 2019). Overall, the variations in zircon Hf–O isotopic composition of the Recherche Supersuite magmas suggest mixing of Archean basement with three isotopically distinct source components that can be linked to Paleoproterozoic and Mesoproterozoic crust present within the region (Hartnady, 2019). Interaction with each of these three end-member sources are defined by three individual mixing trends, referred to here as the Gora Hill trend, the Southern Hills trend, and the Coramup Shear Zone trend. Thus, the variation in zircon Hf and O isotope 
+Archean crust
+(Yilgarn Craton)
+2.60 Ga
+1.80 GaPaleoproterozoic–Mesoproterozoic crust
+Madura
+ProvinceBiranup Zone
+1.50 Ga
+hydrothermally altered
+Paleoproterozoic crustjuvenile
+Paleoproterozoic
+crustmixing with
+juvenile
+Mesoproterozoic
+crust?δ18O (VSMOW)supracrustal
+Archean material
+3.85 ± 0.28 ‰
+3.53 ± 0.29 ‰1285 ± 30 Ma
+εHf = –2.22 ± 0.53Hydrothermal
+alteration?
+182476
+194870194862
+194851 194776194710
+194822194823 194782 194854
+192588εHf
+194852–15 –10 –5 0 5 10024681012
+CS491 26.03.20Gora Hill Suite
+trendSouthern Hills Suite
+trend
+Coramup Shear Zone
+     trend
+Gora Hill Suite Southern Hills Suite
+Figure 6.  δ18O vs  εHf for samples of Recherche Supersuite granites showing idealized 
+mixing trends necessitating at least three distinct mixing component 
+pathways. The inset showing an altered zircon highlights the role of hydrothermal fluids in influencing crystal isotopic signaturescompositions of the Gora Hill Suite granitic rocks are 
+inferred to primarily reflect the pre-existing heterogeneity of their source terrane (Hartnady, 2019). This corroborates a similar interpretation of Smithies et al. (2015), who noted similar variations in high field strength element geochemistry between rocks of the Gora Hill Suite and Paleoproterozoic granitic rocks associated with the Biranup Orogeny. The Southern Hills trend is interpreted to reflect mixing of reworked Archean and Proterozoic crust from the Albany–Fraser Orogen with Mesoproterozoic crust from the Madura Province, which is primarily composed of metabasalts and metagabbros interpreted to have formed in an oceanic setting (Kirkland et al., 2017; Spaggiari et al., 2018). The Coramup Shear Zone trend is unusual and extends to compositions consistent with hydrothermal alteration. Based on the spatial variations in age and isotopic composition of the Recherche Supersuite granitic rocks, a new model is proposed in which the Albany–Fraser Orogen formed through collision of Paleoproterozoic and Mesoproterozoic arc terranes outboard of the Yilgarn Craton, and subsequent re-accretion of the combined mass to the craton margin.Kirkland et al.10Part 4, Context: Isotopic mapping of the 
+Albany–Fraser Orogen
+Regional-scale mapping of geochemical and isotopic 
+tracers sensitive to crust–mantle interactions has been proposed as a means to image large-scale lithospheric architecture, and thus act as a potentially powerful regional-scale mineral prospectively tool (e.g. Champion and Huston, 2016). Here we present the results of a zircon Hf isotope mapping investigation in the Albany–Fraser Orogen (Fig. 7). The regional-scale spatial variation in zircon Hf isotopic signature of granitic rocks from the Albany–Fraser Orogen is uncorrelated with the structure of the belt; instead, it more closely resembles that of the adjoining Yilgarn Craton. In addition, there is little correlation between isotopic composition and mineral occurrences, in contrast with the close correspondence for the Archean Yilgarn Craton (Hartnady, 2019). Most of the variability in 
+176Hf/177Hf in magmatic rocks from the 
+Albany–Fraser Orogen may be explained via reworking of a bimodal Archean source comprising crust of variable 
+176Lu/177Hf content. Thus, the inherent variability of the 
+orogen’s Archean substrate effectively masks new juvenile 
+crustal additions. These results therefore suggest that 
+regional-scale isotopic mapping may not be an effective means to image large-scale lithospheric architecture in Proterozoic orogens that rework bimodal Archean crust, as the isotopic signature is strongly influenced by the original heterogeneity, rather than the new mantle input (Hartnady, 2019). Furthermore, given that a fundamental assumption in model age calculations is the 
+176Hf/177Hf content of the 
+magmatic source, extreme care should be taken when interpreting zircon Lu–Hf model ages in these situations. Nonetheless, what this research has shown is that in Proterozoic magmatic systems, Hf isotopes are effective at imaging the older crustal influence on melts. 
+Part 5, Tool: Titanite dates crystallization 
+— slow Pb-diffusion during super-
+solidus re-equilibration
+Titanite can be found in rocks of a wide compositional 
+range; it is reactive, growing or regrowing during metamorphic and hydrothermal events; and is generally amenable to U–Pb geochronology. Experimental evidence suggests that titanite has a closure temperature for Pb ranging from 550 to 650°C and thus, titanite dates are commonly interpreted as cooling ages. However, this view has been challenged in recent years by evidence from natural titanite that suggests the closure temperature may be significantly higher (up to 800°C). Here we investigate titanite in an enclave of migmatitic gneiss intruded by megacrystic monzogranite to syenogranite assigned to the 1198–1140 Ma Booanya Suite of the Esperance Supersuite within the eastern Nornalup Zone. The titanite crystals exhibit textural features characteristic of fluid-mediated mass transfer processes on length scales of <100 μm. These textural features are associated with variation in both Pb concentrations and distinct U–Pb isotopic compositions. Zr-in-titanite thermometry indicates that modification of the titanite occurred at temperatures in excess of 840°C, in the presence of a high-temperature silicate melt (Hartnady et al., 2019b). The Pb-concentration gradients preserved in these titanite crystals are used to determine the diffusivity of Pb-in-titanite under high-temperature conditions. We estimate diffusivities ranging from 2 x 10
+-22 
+to 5 x 10- 25 m2.s-1 (Fig. 8). These results are significantly 
+lower than experimental data predict but are consistent with other empirical data on natural titanites suggesting that Pb diffusivity is similar to that of Sr. Thus, our data challenge the widely held assumption that U–Pb titanite dates only reflect cooling ages (Hartnady, 2019). 
+Part 6, Tool: A gradual transition to  
+plate tectonics on Earth between  3.2 and 2.7 billion years ago
+In the context of understanding the utility of Hf isotopes 
+to track major secular changes in the crust and better comprehend the meaning of the Hf isotopic results from the Albany–Fraser Orogen and Eucla basement, a large global compilation of zircon Hf isotopes was investigated for temporal patterns. The work applied a counting statistic approach to a global database of coupled U–Pb and Hf isotope analyses on magmatic zircon grains from continental igneous and sedimentary rocks to quantify changes in the compositions of their source rocks. This analysis reveals a globally significant change in the sources of granitic magmas between 3.2 and 2.7 Ga (Fig.  9). These secular changes in zircon chemistry were driven by a coupling of the deep (depleted mantle) and shallow (crustal) Earth reservoirs, consistent with a geodynamic regime dominated by Wilson cycle-style plate tectonics (Hartnady and Kirkland, 2019). This secular pattern of isotopic changes provides a baseline with which to compare the Albany–Fraser Orogen and Eucla basement results. 
+Module B, Petrochronology: 
+timing of geodynamic events 
+driving mineralization
+Module context
+Petrochronology is the use of geochronology and geochemistry to address geologic problems that cannot be solved by either technique in isolation (Kylander-Clark et al., 2013). The most widely employed minerals for petrochronology are zircon, monazite, titanite and rutile. These four accessory phases are present in a broad range of bulk-rock compositions and can persist through multiple sedimentary transport, metamorphic, and igneous events that span a wide range of pressures, temperatures, and deformation and fluid conditions (Kohn, 2016). They often grow in response to changes in these parameters and may record distinct compositional domains that can be related to mineral-forming reactions. These individual domains can be readily dated by microbeam techniques such as laser ablation mass spectrometry. Petrochronological control on specific fluid-mobility events can prove key when vectoring from the district to deposit scale. Ore formation requires concentration of metals, initially in low abundances in large volumes of rock, into small volumes of rock at high abundances, and involves large-scale advective fluid flux (McCuaig and Hronsky, 2014). Hence, if metallogenesis is known to be related to the circulation of reactive fluids GSWA Record 2020/5  MRIW A M0470 final report — Mineral systems on the margins of cratons11
+128° 126° 124° 122° 120°
+30°
+32°
+34°
+36°128° 126° 124° 122° 120°
+250 kmεHfSouthern OceanEGST
+YT1350–1260 Maa)
+2.09 –16.11Lu–Hf sample location
+Mineral occurrenceEGST
+YT1220–1140 Mab)
+εHf
+4.36 –13.05
+CS492 22.04.20Southern Ocean
+Lu–Hf sample locationMineral occurrence
+250 km
+Figure 7 .  Time-sliced zir con Hf isotope maps for the Albany–Fraser Orogen and Eucla basement: a) Stage I magmatism 
+(1350−1260 Ma); b) Stage II magmatism (1220−1140 Ma). Mineral occurrences extracted from the MINEDEX database 
+<www.dmp.wa.gov.au/minedex>. Abbreviations: EGST, Eastern Goldfields Superterrane; YT, Youanmi Terrane
+This study
+Kohn and Penniston-Dorland (2017)PbZrNd
+SrNbTaCherniak (1993)
+Cherniak (2005)Cherniak
+(2015)2 -1log (D) (m .s )
+10000/T (K)Temperature (°C)
+523
+392
+261
+131
+0650Pb  (ppm)c
+corerim
+-10 2D∆t = 1.05 (± 0.5) x 10  mC  (ppm)x
+Distance from grain edge (µm)
+500
+400300200100
+00 10 20 30 40 50 6 8 10 12 14–16
+–20
+–24
+–281394 977 727 560 441
+Cherniak
+(1995)
+CS493 26.03.20a) b)
+Figure 8.  Anal ysis of titanite: a) Pb-concentration profile (blue squares) across a rim–core transect through a titanite grain 
+(white dashed line) modelled using a spherical solution to the diffusion equation with DΔt = 1.05 (± 0.5) x 10-10m2;  
+b) Arrhenius diagram after Kohn (2017) showing that diffusivities obtained from this inversion are significantly lower 
+than experimental data predict and consistent with other studies on natural titanite. Experimental diffusivity curves have been replotted from the published data of Cherniak (1993, 1995, 2006, 2015)Kirkland et al.12at a specific time, then searching for zones with the most 
+intense signature of this event would likely maximize successful exploration. Knowledge of the timing of the necessary physical processes for ore formation provides fundamental constraints on the characteristics of viable mineral systems. 
+Geochronology — timing of mass 
+transport events
+Geochronology is a key component of predictions of the 
+spatial distribution of mineral systems, whether exposed or under cover, by providing a signature that can be tracked in space and information that builds the geological context No plate tectonics Transitional
+period Widespread plate tectonicsProportion (%) Proportion (%) Proportion (%)
+Time (Ga)P G R N K
+00204060801002040608010020406080100
+Phanerozoic Proterozoic ArcheanPassive marginsGranulites and UHT metamorphismEclogitesBlueschists and UHP metamorphismEclogitic diamond inclusionsa) radiogenic component
+b) chondritic component
+c) evolved component
+1 2 3 4
+CS494 20.11.19
+Figure 9.  Secular evolution of the different crustal source reservoirs. Proportions of radiogenic (a), chondritic 
+(b) and unradiogenic (c) isotopic components through time. Error bars denote the 95% confidence 
+intervals calculated by Monte Carlo analysis. Age ranges for periods of supercontinent assembly after Gardiner et al. (2016). Abbreviations: P, Pangea; G, Gondwana; R, Rodinia; N, Nuna; K, Kenorland.  
+The onset of strong coupling between the radiogenic and unradiogenic components correlates with the first occurrences of geological evidence for subduction-driven plate tectonics such as eclogitic diamond inclusions (Shirey and Richardson, 2011) and high–ultrahigh pressure and ultrahigh temperature metamorphic terranes (Bradley, 2011, and references therein)
+of a deposit. A variety of techniques has been applied to 
+determine the ages of rocks and minerals of relevance to exploration (Košler and Sylvester, 2003). Under typical circumstances, petrochronology enables a date derived from isotopic ratios to be tied directly to a particular mineral paragenesis or mineral composition(s), and — under ideal circumstances — to a particular pressure, temperature, and/or fluid activity or composition. Well-known qualitative examples include the use of Y or HREE depletion to infer the presence of garnet during the time represented by the isotopic date, or the use of a negative Eu anomaly to infer the presence of feldspar (Rubatto and Herrman, 2007). Quantitative examples include thermometry based on Ti solubility in zircon and Zr solubility in rutile and titanite (Ferry and Watson, 2007). GSWA Record 2020/5  MRIW A M0470 final report — Mineral systems on the margins of cratons13In this module, a range of geochronology techniques was 
+applied to constrain the ages of samples acquired from drillcores, and from major structures within the Albany–Fraser Orogen and Madura Province. 
+Chemical signature of uranium-bearing 
+phases
+To enhance our understanding of the existing Albany–
+Fraser Orogen geochronology dataset, REE data from targeted zircon crystals were acquired. The trace element composition of magmatic zircons should reflect the composition and crystallization environment of the magma from which they precipitated, as well as information on the composition and depth of melting of the source rocks. Such REE datasets enhance interpretations of the geological setting of dated material and serve to place other isotopic datasets in their geological context (Hoskin and Schaltegger, 2003). For other datable phases, REE were acquired along with age information on the same sample volume. The ultimate aim of this dataset is to provide better linkages between an age and the processes it reflects, with implications for both dating mineralization directly and for the recognition of vectors towards prospective zones.
+Key findings
+Part 1, Context: The crustal boundary of 
+a Proterozoic ocean — the generation, evolution and accretion of the Malcolm Metamorphics
+The various stages of the destruction of an ocean 
+and final continental collision can be challenging to identify as structural style and magma chemistry may be overprinted or subject to changing phases of compressional and extensional processes as any margin evolves. A combination of U–Pb, Hf and O isotopes and trace elements in zircon, and U–Pb and O isotopes in monazite, were used to investigate the geodynamic setting and metamorphic evolution of a sequence of metasedimentary rocks at Point Malcolm, the Malcolm Metamorphics (Fig.  2). This integrated approach shows how the various stages of arc collision can be isotopically distinguished, especially using the O isotope system in zircon. The isotopic signature carried within the Malcom Metamorphics assists with the understanding of the evolution of the boundary between the Proterozoic oceanic (Madura Province) and continental (Albany–Fraser Orogen) crust. This sequence of rocks represents the only known outcrop of Madura Province crust, which elsewhere is covered by significant thicknesses of younger sedimentary rocks (Nelson, 1995; Clark et al., 2000; Spaggiari et al., 2018). 
+Specifically, Point Malcolm is the southeastern-most 
+coastal exposure of Proterozoic rocks; those farther east are overlain by the Eucla and Bight Basins. The Madura Province is considered to be an oceanic-arc accretionary terrane. In contrast, the Albany–Fraser Orogen is a Proterozoic deformation belt related to hyperextension and juvenile input into the Archean Yilgarn Craton margin (Kirkland et al., 2017; Spaggiari et al., 2015, 2018). To investigate the nature of the contact between these two distinct lithotectonic domains, samples were collected along a coastal transect (Fig. 10). The spatial and isotopic variation between samples indicates: 
+• the westernmost sample contains a multimodal age distribution of detrital zircon U–Pb ages between c.  2622 and 1593  Ma (these ages contrast with younger metamorphic overgrowths), whereas the two eastern samples yield a unimodal age population of c. 1450 Ma detrital zircon grains
+• the maximum age of deposition of the western metasedimentary rocks is 1573 ± 18 Ma (2 σ), based 
+on the age of the youngest individual analysis and its detrital zircon population. This is consistent with recycling of sedimentary sources as represented in the Barren Basin
+• the western sample has detrital zircon εHf values 
+ranging from –8.33 to –2.89 and δ18O values between 
+6.18 to 8.37‰, indicative of a source that included eroded Yilgarn Craton and Albany–Fraser Orogen magmatic rocks
+• the eastern samples yielded zircon εHf values from 
+0.11 to 6.12 and low δ18O values between 3.43 to 
+4.77‰. The low δ18O values are consistent with high-
+temperature water–rock interaction, whereas the Hf isotopic signature is distinctly more juvenile than the western sample; these features are consistent with altered oceanic crust (Chard, 2019)
+• Stage II metamorphism is recorded by c.  1182 Ma zircon and extended until c. 1152 Ma as determined by the youngest monazite analysis. Metamorphic monazite has elevated δ
+18O values > 4.1‰ across all 
+three samples. Heavy isotopic values become more predominant after 1250 Ma, implying progressive interaction with a continental-derived metamorphic fluid. These observations lead us to the conclusion that accretion between the Albany–Fraser Orogen and Madura Province occurred at c. 1331 Ma, and must have been completed by c. 1182 Ma. 
+Part 2, Context: Metamorphism and 
+hydrothermal alteration of zircon and rutile in relation to mineralization of  the Harris Lake Shear Zone,  Albany–Fraser Orogen 
+The U–Pb and trace element analyses of zircon and rutile 
+were used to investigate metamorphic and hydrothermal alteration across a gold-mineralized section of the Corvette Prospect drillcore CVDD003 from the Harris Lake Shear Zone, which in this region separates the Biranup Zone from the Fraser Zone of the east Albany–Fraser Orogen. Metasedimentary rock samples were collected from relatively unaltered rock and a fault-fill vein at a depth range of 66–71 m. Diamond drillcore provides an opportunity to evaluate otherwise inaccessible and covered bedrock and to explore rocks related to the Proterozoic reworking of the Yilgarn Craton, specifically in relation to hydrothermal alteration that may control gold (re)mobilization. The study focuses on three metasedimentary rock samples of variable hydrothermal alteration, from barren to mineralized (81.39 ppm Au). Kirkland et al.142622 Ma
+18Mantle δ O (zircon)Age (Ma)8
+6
+4
+2
+1200 1300 1400 110018δ O (monazite), ‰ VSMOWb)8
+6
+4
+218δ O (zircon), ‰ VSMOW
+1400
+Age (Ma)1500a)
+1300 1600 1200 1700 1800 1900
+c)
+194869 West 
+            PM1101 1     194867 East      
+ Metamorphic zircon
+MonaziteDetrital zircon
+Land
+Ocean
+OutcropDM
+CHUR εHf68
+2
+-2
+-6
+-10
+Age (Ma)1400 1800 2200 2600
+1 kmd)
+Point
+Malcolm
+Franklin
+Rock
+Track
+CS495b 26.03.20N
+Figure 10.  Isot ope data plotted against age: a) zircon δ18O value vs age; b) monazite δ18O value vs age; c) zircon εHf evolution 
+diagram showing samples from Point Malcolm relative to depleted mantle (DM) and chondritic uniform reservoir 
+(CHUR); d) coastal outline showing sample locations. Orange symbols denote analyses from western sample GSWA 
+194869 – pelitic schist. Green symbols denote analyses from eastern sample GSWA 194867 – quartzofeldspathic 
+gneiss. Blue symbols denote analyses from eastern sample PM11011 – migmatitic paragneiss. Grey field for mantle 
+zircon O-isotopic composition is given at the 2σ uncertainty levelGSWA Record 2020/5  MRIW A M0470 final report — Mineral systems on the margins of cratons15Zircon and rutile geochronology and trace element 
+analysis (Chard 2019) from the three samples indicates the following: 
+• detrital zircon U–Pb ages between c. 2579 and 1548 Ma
+• across all three samples, zircon yields a metamorphic age of c.  1230  Ma and a flat HREE profile characteristic of partitioning during garnet growth
+• one group of zircon grains in the barren yet hydrothermally altered sample has a geologically meaningless date of c. 1225  Ma with high scatter (MSWD of 9), and elevated LREE profiles, relative to typical zircon. The high MSWD value is consistent with variable Pb-mobility, while the elevated LREEs correspond to hydrothermal alteration
+• the other zircon group in this sample has a date of 1221  ±  3  Ma (MSWD  =  0.56) and the LREE are not elevated. These grains are interpreted to be metamorphic grains shielded from alteration and therefore indicate that hydrothermal alteration occurred post-metamorphism
+• rutile present across all three samples yields a consistent U–Pb cooling age of c. 1195 Ma
+• there is significant enrichment of W, Nb and Ta in anhedral rutile associated with the mineralized horizon, corresponding to depletion of Zr, Cr and Mo within the grain during fluid–rock interaction and rutile alteration. From these observations (Fig. 11), it is concluded that a relatively low temperature fluid–rock interaction event related to mineralization and brittle deformation occurred after metamorphism recorded by zircon and rutile. These findings define a maximum age for gold mineralization of c. 1195 Ma during Stage II of the Albany–Fraser Orogeny and provide evidence for the youngest-known gold mobilization event in the Albany–Fraser Orogen. 
+Part 3, Context: Deformation of minerals 
+within the Fraser Shear Zone,  Albany–Fraser Orogen
+The Fraser Shear Zone, a major structure separating 
+different domains of the Albany–Fraser Orogen, was sampled from outcrop. The purpose of this sampling was to provide additional constraints on the interpreted lithotectonic framework of the Albany–Fraser Orogen and to investigate the deformation and P–T–t conditions of the western boundary to the Fraser Zone, a zone which is prospective for Ni–Cu sulfide deposits (e.g.  Octagonal). The sample is a psammitic metasedimentary rock containing 35% plagioclase (anorthite), 30% quartz, 15% garnet (grossular), 10% actinolite, 5% diopside, and ilmenite, zircon, apatite and titanite as accessory minerals. The textural relationships among garnet, diopside and anorthite suggest disequilibrium, with the main foliation developed by actinolite and the replacement of ilmenite by titanite within feldspar porphyroclast pressure shadows. Electron backscatter diffraction (EBSD) was used to measure the orientation of the major minerals across large-area maps of thin section samples (Fig. 12), where preferred mineral orientations and microstructural internal deformation can be identified. Mounted zircon grains were analysed for their U–Pb ages and trace element concentrations by LA-ICP-MS. Detrital zircon ages recovered from the sample indicate a source of sediment from the Biranup Zone (Spaggiari et al., 2014b), with a 
+207Pb/206Pb age range of c. 1710–  1537  Ma 
+and a distinct age mode at 1697 ± 20 Ma. Seven 
+zircons interpreted on the basis of internal textures to be metamorphic yielded a concordia age of 1335 ± 37 Ma (MSWD  =  0.89). These grains also indicate a mean apparent temperature of 683 ± 54°C, calculated using Ti-in-zircon thermometry  (Chard, 2019). The preferred 
+crystal orientation is defined by quartz, with the c-axis 
+orientated perpendicular to the lineation and foliation of the gneissic bands, indicating the activation of a prism < a> 
+slip system. Experimental quartz deformation shows that activation of slip systems is temperature dependent and that the progressive rotation of quartz preferred orientation during shearing to prism <a> slip system occurs between 450 and 600°C (Toy et al., 2008). The replacement of ilmenite by titanite may reflect greenschist facies metamorphism during the final stage of deformation, which in turn is linked to the breakdown of garnet and diopside, coeval with the development of the quartz orientation and actinolite foliation during exhumation and cooling.  
+The Fraser Shear Zone is interpreted to have remained active after Stage I of the Albany −Fraser Orogeny and 
+to have continued to act as a fluid pathway after the crystallization of metamorphic zircon. 
+Mineralized — rutile W (ppm)MsMsQzQz
+IlmIlm
+PyPy HblHbl
+100 μmZrnZrn
+1000 2000 3000 4000 5000
+CS496 22.04.20
+Figure 11.  Cont our map of tungsten concentration (ppm) 
+within an irregularly shaped rutile grain from sample 
+GSWA 227153, the mineralized metasedimentary rock. The background image used is a backscatter electron (BSE) image showing the in situ relationship between metamorphic zircon (Zrn), hydrothermal muscovite (Ms), quartz (Qz), pyrite (Py) and rutile; other abbreviations: Hbl, hornblende; Ilm, ilmeniteKirkland et al.16Module C, Sulfides:  
+fertility signatures and  
+metallogenic processes
+Module context
+Sulfide minerals play a key role in the formation of 
+numerous world-class mineral systems, including gold, nickel, copper and the platinum group elements (e.g. Loucks and Mavrogenes, 1999). Sulfur is a critical ligand that complexes, transports and concentrates gold in hydrothermal fluids. Similarly, chalcophile base metals such as nickel, cobalt, copper, zinc, arsenic and lead in S-saturated magmatic and hydrothermal systems are commonly concentrated in sulfides.
+The genetic association between sulfur and metal 
+enrichment is well established (Ripley and Li, 2013), but it is generally difficult to fingerprint and identify the sulfur and metal sources that contribute to ore genesis because sulfur and other trace metals may occur in a wide range of stratigraphic intervals or geological units in any given setting. However, the specific reservoir involved in the ore-forming process may be very localized. Therefore, the ability to quickly and reliably map different sulfur and trace metal reservoirs in terms of their metal ratios and isotopic signatures within specific zones of terranes provides targeting criteria at the deposit, camp and regional scale in brownfield and greenfield terranes.
+Numerous studies have looked at the sulfur isotopic 
+composition of sulfide-bearing units in a wide range of country rocks and gold mineralized environments in Precambrian terranes worldwide (e.g. Naldrett, 2004, and references therein). However, most of these studies have only characterized the δ
+34S signature of these sulfur 
+reservoirs, which by itself is a weak discriminator; it is open to resetting during alteration and metamorphic processes. In this project, the multiple sulfur isotopic signature (Δ
+33S and Δ36S) and the trace element signature 
+(Se, Te, Co, Ni, As, Sb, Au, Ag) of sulfur reservoirs and mineralized occurrences were characterized at selected sites within the Albany–Fraser Orogen.
+Multiple sulfur isotopes combined with trace element 
+ratios (Se/S, Te/Se, Co/Ni, As/Sb, Ag/Au) are robust and provide an indelible fingerprint of S and metal reservoirs. Therefore, the aim of this module was to generate a multiple sulfide isotope map of the Albany–Fraser Orogen and provide explorers with a reliable tool to discriminate S and metal sources and direct their exploration efforts towards prospective environments. An understanding of the detailed geochemistry and isotopic evolution of sulfide-bearing samples in mineralized environments, and in the background stratigraphy, offers the potential to greatly enhance the understanding of regional metallogeny in the region, providing key insights into the genetic and spatial relationship among different mineral systems.
+Multiple sulfur isotopic and sulfide mineral chemistry 
+analyses were carried out on sedimentary and igneous rocks. High-precision whole-rock geochemical analysis was performed to outline regional geochemical trends within the 4D geological architecture generated in Project M0470. Combined in situ and whole-rock isotopic and geochemical analyses of intrusive and volcanic suites were used to provide a framework to interpret the link between crustal fluid flow and potential metal sources at depth. These results add value to existing datasets and enhance predictive targeting criteria in the region. 
+5 mm
+0 0 0 104 180 5 TC TC GA
+Quartz Anorthite Garnet
+Quartz Anorthite
+Quartz: 1 ppg, n = 12 042
+Anorthite: 1 ppg, n = 10 222
+X (lineation)Z (    foliation)T5 mm
+5 mm
+CS497 26.03.20
+Figure 12.  Lef t: electron backscatter diffraction maps of quartz and anorthite are coloured by a textural component (TC) — 
+whereby a value is set to one point per grain (ppg) crystal, orientations relative to a single grain — and for garnet, 
+coloured for multiple spot analyses showing internal misorientation angle relative to the mean grain orientation 
+(GROD). Right: pole figures contoured for spot density showing over 10 000 grain orientations (one point per grain) 
+and highlighting preferred orientations relative to the main foliation of sample GSWA 227003GSWA Record 2020/5  MRIW A M0470 final report — Mineral systems on the margins of cratons17The sulfide isotopic datasets are complemented by 
+zircon analyses that constrain the timing of the juvenile magmatic input that endowed the crust with metal, and the degree of crustal interaction that primed the mineralizing system. Maps of the spatial distribution of the isotopic characteristics of zircon and sulfides provide a dataset that uniquely defines melt–crust interactions and aids in predictive targeting of the Albany–Fraser Orogen and Eucla basement.
+Key findings
+Part 1, Context: Tracking mineralization 
+with in situ multiple sulfur isotopes — a case study from the Fraser Zone, Albany–Fraser Orogen
+In this project, sulfide-bearing magmatic rocks of the 
+Albany–Fraser Orogen (Fig. 2) were investigated to evaluate the capacity of sulfur isotopes to track magma source composition in space and time. New δ
+34S data from 
+the mineralized Nova, Plato and Octagonal prospects of the Fraser Zone indicate that magmas assimilated local sediments of the Snowys Dam Formation to different extents (Walker et al., 2019). The radiogenic isotope signature of sparse xenocrystic zircon within granitic rocks in the Fraser Zone records an Archean heritage that is consistent with whole-rock geochemical data modelling, but Δ
+33S data from these prospects indicate 
+that Archean sulfur is absent (Walker et al, 2019). This result implies decoupling of the sulfur component from other geochemical and isotopic systems, probably by removal of Archean sulfur from the detrital material that was incorporated into the mafic melts of the Fraser Zone (Fig. 13). We conclude that sulfides were stripped from sediments during uplift and erosion and the signature of Archean sulfur was lost by dissolution from the sediments that were subsequently assimilated by the Fraser Zone magmas. Our results also indicate that assimilation of external sulfur by Fraser Zone mafic magmas is associated with mineralization at the studied prospects (Walker et al., 2019). However, assimilated sulfur cannot account for all of the sulfur within mineralized samples, indicating that additional processes acted to increase the sulfur content and the tenor. 
+Part 2, Tool and Context: Novel 
+applications of image analysis to interpret trace element distributions in magmatic sulfides
+The Albany–Fraser Orogen hosts significant magmatic 
+sulfide mineralization in the Fraser Zone (e.g. Bennett et al., 2014), but the impacts of the extensive metamorphic history on mineralization are poorly understood. Post-formation modification, including fluid-facilitated alteration, can upgrade or destroy mineralization, with significant consequences for economic ore deposits (Holwell et al., 2017). Laser ablation trace element data from samples of variably altered sulfide breccia from the mineralized Octagonal prospect located in the Fraser Zone of the Albany–Fraser Orogen were analysed in 
+Time
+Emplaced parental magmasExtended weathering/erosion
+Weathering/erosionHeavy minerals SulfidesArchean
+Yilgarn input
+Dissolved in seawaterHeavy minerals SulfidesProterozoic
+sedimentary input
+CS498 26.11.19
+Figure 13.  Concept ual diagram illustrating sulfide stripping 
+from sediments as a means of removing an Archean 
+sulfur signature from older Yilgarn Craton material, relative to younger sedimentary inputthis work. Mineral compositions were combined with 
+laser ablation mapping and novel image analysis (co-localization) techniques to characterize the magmatic and post-magmatic processes that modified element distributions within magmatic sulfide ore (Walker, 2019). Higher concentrations of Re, Co, Ni, Os and Ir, and lower concentrations of Cu, Zn and Ag, in pyrrhotite and pentlandite relative to chalcopyrite reflect sulfide crystallization from a sulfide liquid (Walker, 2019). Textural evidence and the compositions of pyrrhotite and pyrite are consistent with replacement of pyrrhotite by pyrite and associated magnetite. Element maps show intergranular variations in pentlandite Ag content associated with sulfide crystallization. Co-localization analysis shows that the association of Mn and Ag with the fracture networks are statistically significant; this association is interpreted as a consequence of fluid-assisted element remobilization during extension (Fig. 14; Walker, 2019). Post-formation alteration processes at Octagonal were accompanied by variable remobilization and depletion of metal concentrations associated with mineralization; the co-localization analysis provides a tool that enables quantitative assessments of these relationships. 
+Part 3, Context: In situ sulfur isotopic 
+measurements from interpreted VMS mineralization in the Fraser Zone, Western Australia
+The Andromeda prospect is interpreted as an example of 
+VMS mineralization in the Fraser Zone (Walker, 2019). VMS deposits typically incorporate sulfur from multiple sources. Characterization of these sources may allow for identification of geological units hosting mineralization and provide an additional tool for mineral exploration. Sulfur isotope ratios were measured in situ for the host lithology, a garnet-bearing mafic granulite, the main sulfide ore body, remobilized sulfides, and sulfides associated with late fluid flow. The values of δ
+34S in a sulfide breccia Kirkland et al.18PoPo Po
+Po
+PoPoPo
+Ccp
+Ccp
+CcpPnPn
+Pn
+Pnvoidvoid
+SrpSrp
+Srp
+CcpSrp
+SrpCcpPn
+Srp
+250 µm
+0 100 200 300 400 500 600 700 800 900 1000
+Mn (ppm)
+CS499 26.03.20
+Figure 14.  Element map of Mn distr ibution across analysed area 
+of sample GSWA 219069. Note the concentration 
+of Mn within fracture infill material (predominantly serpentine) and adjacent sulfides. Abbreviations: 
+Ccp, chalcopyrite; Pn, pentlandite; Po, pyrrhotite; 
+Srp, serpentine
+(chalcopyrite, pyrrhotite and pyrite) from the main orebody 
+are between 5.87 and 6.30‰ (Fig. 15; Walker, 2019). The values of Δ
+33S in vein-hosted sulfides are between 
+−0.21 and −0.23‰ (Walker, 2019). The δ34S values are 
+interpreted as a record of the incorporation of crustal sulfur. The apparent non-zero Δ
+33S values of vein-hosted sulfides 
+suggest that Archean sulfur might have been present in these fluid pathways; however, further work is necessary to confirm this result. Thus VMS mineralization in the Fraser Zone shows a mixed sulfur signature with involvement of crustal sulfur. The Δ
+33S values of vein-hosted sulfides 
+suggest tapping of Archean sulfur from cryptic sources via crustal-scale structures conducive to fluid flow and points to the transport of Archean fluids along the Fraser Shear Zone (Walker, 2019). 
+Part 4, Context: U–Pb geochronology of 
+the Octagonal prospect
+Octagonal is an economic magmatic sulfide prospect 
+located within the Fraser Zone of the Albany–Fraser Orogen. Initial exploration comprised seven diamond drillholes. Three samples from drillcore OCT002 were used for zircon U–Pb geochronology.
+Classified as a metamonzonite, GSWA 227325 was 
+recovered from a depth of about 1052 m. The sample is made up primarily of amphibole (41%), pyroxene (22%) and alkali feldspar (20%). This rock yielded small, euhedral zircon crystals with moderate to high length-to-width ratios. The weighted mean 
+207Pb/206Pb date of 
+1297 ± 5 Ma (MSWD = 2.1; n = 15) from these zircon grains is interpreted as the age of magmatic crystallization. Other zircon core regions indicate xenocrystic age components up to at least c. 1530 Ma. 
+6.016.01
+5.925.926.086.085.845.845.565.56
+6.406.406.266.266.326.326.276.276.206.20
+6.326.32
+5.665.665.765.765.695.695.645.645.745.745.795.796.736.73
+6.086.085.605.60
+6.086.085.865.86
+6.206.205.905.905.955.95
+6.076.07
+5.935.93
+6.066.065.955.956.016.01
+5.655.65
+5.785.78
+5.735.73
+500 µm
+CS500 21.11.19
+Figure 15.  Ima ge of sulfide breccia material analysed for in situ 
+sulfur isotopic compositions. Locations of analyses 
+and associated δ34S sulfur isotopic (‰) values are 
+annotated in yellow
+A mafic gneiss (GSWA 227326) from a depth of 988 m 
+yielded a variable population of rounded zircons. The U–Pb data are scattered with individual dates between c. 1343 and 1290 Ma. These dates are interpreted to reflect the age of inherited components incorporated into the mafic gneiss precursor. The youngest weighted mean 
+207Pb/206Pb date 
+of 1291 ± 9 Ma (MSWD = 1.6; n = 15) is interpreted as a maximum age for crystallization of this rock. 
+Sample GSWA 227327 is a mafic pegmatite from a depth 
+of 1052 m dominated by clinopyroxene and alkali feldspar. The sample yielded broken fragments of very large zircon grains with a distinctive blocky form (Fig. 16). These zircon crystals yield a weighted mean 
+207Pb/206Pb date of 
+1272 ± 7 Ma (MSWD = 2.4; n = 21), interpreted as the magmatic crystallization age of the mafic pegmatite. 
+These data help place the structure of this mineralized 
+zone into its temporal context. The crystallization ages 
+CS501 21.11.19
+Figure 16.  Zir con laser ablation pits across blocky zircon from 
+sample GSWA 227327 , recovered at 1052 m (OCT002 
+diamond drillcore, Octagonal prospect)GSWA Record 2020/5  MRIW A M0470 final report — Mineral systems on the margins of cratons19are all typical of Stage 1 of the Albany−Fraser Orogeny, 
+which is the most common age range reported from the Fraser Zone. However, the inherited components in the mafic gneiss and zircon cores record older sources that contributed to the mafic magmatic component of the Fraser Range Metamorphics.
+Synthesis
+It is useful to synthesize the common themes and findings that transcend the individual modules of this project. In the short discussion below, the alphanumeric notation (e.g. A2) is used to refer to the finding number (e.g. 2) of a specified module (e.g. A). A schematic representation of some of the key findings of this project are shown graphically in Figure 17.
+The Archean inheritance of the 
+Albany–Fraser Orogen
+Several modules identified Archean inheritance within 
+the Albany–Fraser Orogen (A3, A4, C2). Zircon Hf–O mapping has shown that the isotopic structure of the Albany–Fraser Orogen fundamentally reflects the composition of its Archean substrate, rather than the Proterozoic structures that modified and overprinted this ancient material. Furthermore, the Recherche Supersuite includes a substantial Archean component, and there are also indications of Archean sulfur within the Andromeda deposit, which is interpreted as VMS in style. This hint of Archean sulfur stands in contrast to other magmatic rocks in the Fraser Zone that had their Archean sulfur stripped (though not Archean refractory cargo) via normal upper-crustal source-to-sink transport that involved subaqueous processes. The strong Archean inheritance provides the architectural and compositional template for the Albany–Fraser Orogen. This Archean template, as projected from the Yilgarn Craton, may define key crustal lineaments to identify prospective areas as extensions of fertile Archean structures or domains.
+Numerous geodynamic models have been proposed for 
+the Albany–Fraser Orogen, including: rifting of a craton margin (Spaggiari et al., 2015), models involving back-arc settings (Kirkland et al., 2011; Glasson et al., 2019), and accretionary models (Betts and Giles, 2006; Morrissey et al., 2017; Spaggiari et al., 2015, 2018). Zircon crystals reveal a Paleoproterozoic component of Biranup age in multiple locations throughout the orogen (A1, B1, C4). This component has isotopic signatures indicative of the ancient basement sources that interacted with juvenile melts. Although such isotopic patterns may be interpreted in the framework of determining a geodynamic setting (Kohanpour et al., 2019), it is perhaps more robust in the context of Proterozoic orogens simply to consider such isotopic patterns as an indicator of crustal melt sources. The Albany–Fraser Orogen isotopic pattern appears to reflect the broad state of the southern and southeastern margin of the Yilgarn Craton prior to pervasive reworking and emplacement of granitic rocks at c. 1300 Ma. This finding, of an Archean crustal legacy, may have implications for the locations of enriched sub-arc mantle that might have contributed to later episodes of ore formation. 
+Long-lived shear zones and fluids
+Multiple lines of evidence point to a protracted history of fluid flow in the shear zones that bound the Fraser Zone (A2, B2, B3, C2). Low δ
+18O values indicate fluid flow-
+modified sedimentary rocks in a cycle of metamorphism and fluid flow prior to the Mesoproterozoic events of the Albany–Fraser Orogeny (A2), while the petrochronology (B2) and structural analysis (B3) of samples from the Fraser and Harris Lake Shear Zones show that fluid flow, with associated mineralization, occurred within this system as late as c. 1195 Ma.
+Archean crustal structure
+Reactivation of major structuresover protracted period
+Fluid mobility at multiple
+times on structureNo Archean sulﬁdes as 
+processed through near surface environmentGold mobilization Stage IIYilgarn
+AFOMadura
+Oceanic aﬃnityArchean
+inﬂuence
+in ﬂuidFZ
+Crustal thickening
+isotopic signature
+in melts at c. 1300 Ma
+CS502 28.04.20
+Figure 17 .  Concept ual block diagram indicating some key points from this research, with implications 
+for mineral systems within the region. Abbreviations: AFO, Albany–Fraser Orogen;  
+FZ, Fraser ZoneKirkland et al.20Implications of economic interest
+There are four key findings of relevance for exploration.
+1. There is no correlation between zircon Hf isotope 
+signature and mineral occurrences such as gold, nickel or base metals. Instead, this technique maps the modified Yilgarn Craton substrate, and the projection of prospective Yilgarn terranes (A4).
+2. Gold was mobilized as late as c. 1195 Ma within the Harris Lake Shear Zone (B2). This is the youngest gold mobilization event recognized in the Albany–Fraser Orogen and raises the possibility that young Au deposits might be present along the long-lived shear zones.
+3. Sediments played a key role in the formation of the magmatic sulfide deposits (C1) of the Fraser Zone (e.g. Nova, Octagonal), with the Snowys Dam Formation associated with higher metal content, in a given magma. The sulfur in these deposits (e.g. Nova) had, at least to a larger extent than elsewhere, cycled through the ocean–atmosphere system, in contrast to the sulfur in the Andromeda (potential VMS) deposit, which shows characteristics of derivation directly from Archean influenced fluid sources. This work therefore demonstrates different sulfur cycling processes associated with mineralization — removal of ancient sedimentary sulfur through near surface processes and incongruent melting (e.g. Nova) vs fluid transport of ancient sulfur reservoirs into younger magmatic systems which necessitates large-scale cross-orogen fluid transport pathways (e.g. Andromeda).
+4. Post-magmatic processes, including fluid flow on the long-lived faults and shear zones, mobilized some elements of economic interest (C3). This has the potential to modify deposits, and strategies to assess such modification should form part of the evaluation of prospects.GSWA Record 2020/5  MRIW A M0470 final report — Mineral systems on the margins of cratons21Project outputs
+The following is a list of outputs from this project.
+Journal articles
+Hartnady, MIH and Kirkland, CL 2019, A gradual transition to plate tectonics on Earth between 3.2 and 2.7 billion years ago: 
+Terra Nova, v. 31, no. 2, p. 129–134.
+Hartnady, MIH, Kirkland, CL, Clark, C, Spaggiari, CV , Smithies, RH, Evans, NJ and McDonald, BJ 2019, Titanite dates 
+crystallisation: slow Pb diffusion during super-solidus re-equilibration: Journal of Metamorphic Geology, v.  37, no. 6, 
+p. 823–838.
+Hartnady, MIH, Kirkland, CL, Martin, L, Clark, C, Smithies, RH and Spaggiari, CV 2019, Zircon hafnium and oxygen isotope 
+decoupling during regional metamorphism: implications for the generation of low δ18O granites: Contributions to Mineralogy 
+and Petrology, v. 175, article no. 9, doi:10.1007/s00410-019-1646-7.
+Hartnady, MIH, Kirkland, CL, Smithies, RH, Poujol, M and Clark, C 2019, Periodic Paleoproterozoic calc-alkaline magmatism 
+at the south eastern margin of the Yilgarn Craton: implications for Nuna configuration: Precambrian Research, v. 312,  
+article no. 105400.
+Walker, AT, Evans, KA and Kirkland, CL 2020, A novel application of image analysis to interpret trace element distributions in 
+magmatic sulphides: Lithos, v. 362–363, article no. 105451.
+Walker, AT, Evans, KA, Kirkland, CL, Martin, L, Kiddie, OC and Spaggiari, CV 2019, Tracking mineralisation with in 
+situ multiple sulphur isotopes: a case study from the Fraser Zone, Western Australia: Precambrian Research, v.  332,  
+article no. 105379.
+Conference abstracts
+Chard, JA, Clark, C and Kirkland, CL 2018, Metamorphism and hydrothermal alteration in relation to mineralisation of the 
+Harris Lake Shear Zone, Albany–Fraser Orogen, Western Australia, in Abstract V olume, Geological Society of Australia Earth 
+Science Student Symposium – WA, Perth, Western Australia.
+Chard, JA, Clark, C and Kirkland, CL 2019, Metamorphism and hydrothermal alteration in relation to mineralisation of the 
+Harris Lake Shear Zone, Albany–Fraser Orogen, Western Australia (poster): Geological Survey of Western Australia – Open 
+Day, Perth, Western Australia.
+Chard, JA, Clark, C, Kirkland, CL and Adams, M 2017, The crustal boundary of a Proterozoic ocean: the generation, evolution 
+and accretion of Point Malcolm, south eastern Western Australia (poster): CCFS Lithosphere Dynamics Workshop, Perth, Western Australia.
+Hartnady, MIH, Kirkland, CL, Clark, C, Spaggiari, CV and Smithies, RH 2017, Peering into the deep: Illuminating the crustal 
+evolution of the Eucla basement and its relationship to the Albany–Fraser Orogen of southwest Australia: EGU General 
+Assembly Conference Abstracts, April 2017, 19, paper no. 3099.
+Hartnady, MIH, Kirkland, CL, Dutch, RA, Bodorkos, S and Jagodzinski, EA 2018, Zircon Hf isotopic signatures of the 
+Coompana Province in South Australia: Coompana Drilling and Geochemistry Workshop extended abstracts, August 2018, Report Book 19, p. 132–144.
+Hartnady, MIH, Kirkland, CL, Martin, L, Clark, C, Smithies, RH and Spaggiari, CV 2019, Zircon hafnium and oxygen isotope 
+decoupling during regional metamorphism: A case study from the Albany–Fraser Orogen, Western Australia: Goldschmidt 
+Conference Abstracts, August 2019.
+Walker, A, Evans, K, Kirkland, CL, Kiddie, O and Spaggiari, CV 2019, Sulfur sources and magmatic sulfide mineralization in 
+the Fraser Zone: insights from mineral prospects, in GSWA 2019 extended abstracts: advancing the prospectivity of Western 
+Australia: Geological Survey of Western Australia, Record 2019/2, p. 16–19.
+Walker, A, Evans, K, Kirkland, CL, Kiddie, O and Spaggiari, CV 2019, Sulphur sources and magmatic sulphide mineralisation 
+in the Fraser Zone: insights from mineral prospects, in GESSS 2018 abstracts, p. 44.
+Theses
+Chard, JA 2019, Petrochronology of accessory minerals related to metamorphism and fluid-flow events in the Albany–Fraser 
+Orogen and Eucla basement, Western Australia: PhD thesis, Curtin University, Perth.
+Hartnady, MIH 2019, Crustal evolution of the Albany–Fraser Orogen, Western Australia: PhD thesis, Curtin University,  
+Perth, 339p.
+Walker, AT 2019, Sulphur isotopes and trace element signatures within mineralised occurrences in the Fraser Zone, Western 
+Australia: PhD thesis, Curtin University, Perth, 191p.Kirkland et al.22References
+Bennett, M, Gollan, M, Staubmann, M and Bartlett, J 2014, Motive, 
+means, and opportunity: key factors in the discovery of the Nova–
+Bollinger magmatic nickel–copper sulfide deposits in Western Australia, in Building Exploration Capability for the 21
+st Century: 
+Society of Economic Geologists, Special Publications 18, p. 301–320. 
+Betts, PG and Giles, D 2006, The 1800–1100 Ma tectonic evolution of 
+Australia: Precambrian Research, v. 144, no. 1, p. 92–125.
+Bodorkos, S, and Clark, DJ 2004, Evolution of a crustal-scale 
+transpressive shear zone in the Albany Fraser Orogen, SW Australia: 1. P–T conditions of Mesoproterozoic metamorphism in the Coramup Gneiss: Journal of Metamorphic Geology, v. 22, p. 691–711.
+Bradley, DC 2011, Secular trends in the geologic record and the 
+supercontinent cycle: Earth-Science Reviews, v. 108, p. 16–33.
+Champion, DC and Huston, DL 2016, Radiogenic isotopes, ore deposits 
+and metallogenic terranes: Novel approaches based on regional isotopic maps and the mineral systems concept: Ore Geology Reviews, v. 76, p. 229–256.
+Chard, JA 2019, Petrochronology of accessory minerals related to 
+metamorphism and fluid-flow events in the Albany–Fraser Orogen and Eucla basement, Western Australia, PhD thesis, Curtin University, Perth.
+Cherniak, D 1993, Lead diffusion in titanite and preliminary results on 
+the effects of radiation damage on Pb transport: Chemical Geology, v. 110, p. 177–194.
+Cherniak, D 1995, Sr and Nd diffusion in titanite: Chemical Geology, 
+v. 125, p. 219–232.
+Cherniak, D, 2006, Zr diffusion in titanite: Contributions to Mineralogy 
+and Petrology, v. 152, p. 639–647.
+Cherniak, D, 2015, Nb and Ta diffusion in titanite: Chemical Geology, 
+v. 413, p. 44–50.
+Clark, DJ, Hensen, BJ and Kinny, PD 2000, Geochronological constraints 
+for a two-stage history of the Albany–Fraser Orogen, Western Australia: Precambrian Research, v. 102, no. 3, p. 155–183.
+Dhuime, B, Hawkesworth, C and Cawood, P 2011, When continents 
+formed: Science, v. 331, p. 154–155.
+Doyle, M, Kendall, B, Gibbs, D and Kent, M 2008, Tropicana deposit: a 
+new gold province in Western Australia, in New generation advances 
+in geoscience: Australian Earth Sciences Convention (AESC) 2008,  
+21 July 2008, Perth, Western Australia; Geological Society of Australia, Abstracts 89, p. 85.
+Doyle, M, Savage, J, Blenkinsop, TG, Crawford, A and McNaughton, N 
+2013, Tropicana – unravelling the complexity of a +6 million ounce gold deposit hosted in granulite facies metamorphic rocks: World Gold Conference Brisbane, The Australasian Institute of Mining and Metallurgy, Publication series no. 9/2013, p. 87–93.
+Doyle, MG, Fletcher, IR, Foster, J, Large, R, Mathur, R, McNaughton, NJ, 
+Meffre, S, Muhling, JR, Phillips, D and Rasmussen, B 2015, Geochronological constraints on the Tropicana Gold Deposit and Albany–Fraser Orogen, Western Australia: Economic Geology, v. 110, p. 1–32.
+Ferry, JM and Watson, EB 2007, New thermodynamic models and 
+revised calibrations for the Ti-in-zircon and Zr-in-rutile thermometers: Contributions to Mineralogy and Petrology, v. 154, p. 429–437.
+Finzel, ES, Flesch, LM and Ridgway, KD 2014, Present-day geodynamics 
+of the northern North American Cordillera: Earth and Planetary Science Letters, v. 404, p. 111–123.
+Gardiner, NJ, Kirkland, CL and Van Kranendonk, MJ 2016, The Juvenile 
+hafnium isotope signal as a record of supercontinent cycles: Scientific Reports 6, article no. 38503.Glasson, KJ, Johnson, TE, Kirkland, CL, Gardiner, NJ, Clark, C, 
+Blereau, E, Hartnady, MI, Spaggiari, C and Smithies, H 2019, A window into an ancient backarc? The magmatic and metamorphic history of the Fraser Zone, Western Australia: Precambrian Research, v. 323, p. 55–69.
+Griffin, W, Wang, X, Jackson, S, Pearson, N, O'Reilly, SY , Xu, X and 
+Zhou, X 2002, Zircon chemistry and magma mixing, SE China: in-situ analysis of Hf isotopes, Tonglu and Pingtan igneous complexes: Lithos, v. 61, p. 237–269.
+Hartnady, MIH 2019, Crustal evolution of the Albany–Fraser Orogen, 
+Western Australia. PhD Thesis, Curtin University, Perth, 339p.
+Hartnady, MIH and Kirkland, CL 2019, A gradual transition to plate 
+tectonics on Earth between 3.2 to 2.7 billion years ago: Terra Nova, v. 31, no. 2, p. 129–134.
+Hartnady, MIH, Kirkland, CL, Smithies, RH, Poujol, M and Clark, C 
+2019a, Periodic Paleoproterozoic calc-alkaline magmatism at the south eastern margin of the Yilgarn Craton; implications for Nuna configuration: Precambrian Research, v. 332, article no. 105400.
+Hartnady, MIH, Kirkland, CL, Clark, C, Spaggiari, CV , Smithies, RH, 
+Evans, NJ and McDonald, BJ 2019b, Titanite dates crystallization: Slow Pb diffusion during super ‐solidus re ‐equilibration: Journal of 
+Metamorphic Geology, v. 37, no. 6, p. 823–838.
+Hidas, K, Varas-Reus, MI, Garrido, CJ, Marchesi, C, Acosta-Vigil, A, 
+Padrón-Navarta, JA, Targuisti, K and Konc, Z 2015, Hyperextension of continental to oceanic-like lithosphere: The record of late gabbros in the shallow subcontinental lithospheric mantle of the westernmost Mediterranean: Tectonophysics, v. 650, p. 65–79.
+Holwell, BD, Adeyemi, Z, Ward, LA, Smith, DJ, Graham, SD, 
+McDonald,  I and Smith, JW 2017, Low temperature alteration of magmatic Ni–Cu–PGE sulfides as a source for hydrothermal Ni and PGE ores: A quantitative approach using automated mineralogy: Ore Geology Reviews, v. 91, p. 718–740.
+Hoskin, PW and Schaltegger, U 2003, The composition of zircon and 
+igneous and metamorphic petrogenesis: Reviews in mineralogy and geochemistry, v. 53, no. 1, p. 27–62.
+Jiang, Y-H, Du, F-G, Qing, L and Ni, C-Y 2019, LA-ICP-MS U–Pb 
+geochronology, trace elemental and Lu–Hf isotopic geochemistry of hydrothermal zircons in the Xiadian gold deposit, eastern North China Craton: Implications for the timing of gold mineralization and the origin of ore-forming fluids: Ore Geology Reviews, v. 111, article no. 102934.
+Kirkland, CL, Spaggiari, CV , Pawley, MJ, Wingate, MTD, Smithies, RH, 
+Howard, HM, Tyler, IM, Belousova, EA and Poujol, M 2011, On the edge: U–Pb, Lu–Hf, and Sm–Nd data suggests reworking of the Yilgarn Craton margin during formation of the Albany–Fraser Orogen Precambrian Research, v. 187, p. 223–247.
+Kirkland, CL, Spaggiari, CV , Smithies, RH and Wingate, MTD 2014, 
+Cryptic progeny of craton margins: Geochronology and Isotope Geology of the Albany–Fraser Orogen with implications for evolution of the Tropicana Zone, in Albany–Fraser Orogen seismic and 
+magnetotelluric (MT) workshop 2014: extended abstracts compiled by  
+CV Spaggiari and IM Tyler, Geological Survey of Western Australia, Record 2014/6, p. 89–101.
+Kirkland, CL, Spaggiari, CV , Smithies, RH, Wingate, MTD, 
+Belousova, EA, Greau, Y , Sweetapple, MT, Watkins, R, Tessalina, S and Creaser, R 2015, The affinity of Archean crust on the Yilgarn – Albany–Fraser Orogen boundary: Implications for gold mineralization 
+in the Tropicana Zone: Precambrian Research v. 266, p. 260–281.
+Kirkland, CL, Smithies, R, Spaggiari, CV , Wingate, MTD, Quentin de 
+Gromard, R, Clark, C and Gardiner, N 2017, Proterozoic crustal evolution of the Eucla basement, Australia: Implications for destruction of oceanic crust during emergence of Nuna: Lithos, v. 278–281, p. 427–444.GSWA Record 2020/5  MRIW A M0470 final report — Mineral systems on the margins of cratons23Kohanpour, F, Kirkland, CL, Gorczyk, W, Occhipinti, S, Lindsay, MD, 
+Mole, D and Le Vaillant, M 2019, Hf isotopic fingerprinting of 
+geodynamic settings: Integrating isotopes and numerical models: Gondwana Research, v. 73, p. 190–199.
+Kohn, MJ 2016, Metamorphic chronology — A tool for all ages: Past 
+achievements and future prospects: American Mineralogist, v. 101, p. 25–42.
+Kohn, MJ 2017, Titanite petrochronology: Reviews in Mineralogy and 
+Geochemistry, v. 83, p. 419–441.
+Košler, J and Sylvester, PJ 2003, Present trends and the future of zircon 
+in geochronology: laser ablation ICPMS: Reviews in mineralogy and geochemistry, v. 53, no. 1, p. 243–275.
+Kylander-Clark, ARC, Hacker, BR and Cottle, JM 2013, Laser-ablation 
+split-stream ICP petrochronology: Chemical Geology, v.  345, p. 99–112.
+Loucks, RR and Mavrogenes, JA 1999, Gold solubility in supercritical 
+hydrothermal brines measured in synthetic fluid inclusions: Science, v. 284, no. 5423, p. 2159–2163.
+Maier, WD, Smithies, RH, Spaggiari, CV , Barnes, SJ, Kirkland, CL, 
+Kiddie, O and Roberts, MP 2016, The evolution of mafic and ultramafic rocks of the Mesoproterozoic Fraser Zone, Albany–Fraser Orogen and implications for Ni–Cu sulfide potential of the region: Geological Survey of Western Australia, Record 2016/8, 49p.
+McCuaig, TC and Hronsky, J 2014, The mineral systems concept: the key 
+to exploration targeting: Transactions of the Institution of Mining and Metallurgy, Section B: Applied Earth Science, v. 18, no. 2, p. 153–175, doi:10.1080/03717453.2017.1306274.
+Meert, JG and Santosh, M 2017, The Columbia supercontinent revisited, 
+Gondwana Research, v. 50, p. 67–83.
+Mole, DR, Fiorentini, ML, Thébaud, N, Cassidy, KF, McCuaig, TC, 
+Kirkland, CL, Romano, SS, Doublier, MP, Belousova, EA, Barnes, SJ and Miller, J 2014, Continent evolution and ultramafic volcanism: Proceedings of the National Academy of Sciences, v.  111, no.  28, p. 10083–10088; doi:10.1073/pnas.1400273111.
+Morrissey, LJ, Payne, JL, Hand, M, Clark, C, Taylor, R, Kirkland, CL 
+and Kylander-Clark, A 2017, Linking the Windmill Islands, east Antarctica and the Albany–Fraser Orogen: insights from U–Pb zircon geochronology and Hf isotopes: Precambrian Research, v.  293, p. 131–149.
+Naldrett, A 2004, Magmatic sulfide deposits: Geology, Geochemistry and 
+Exploration, Springer Science and Business Media, 728p.
+Nelson, DR 1995, 112128: muscovite–biotite–sillimanite paragneiss, 
+Point Malcolm, in Compilation of SHRIMP U–Pb Zircon 
+Geochronology Data, 1994: Geological Survey of Western Australia, Record 1995/3, p. 78–81.
+Occhipinti, SA, Tyler, IM, Spaggiari, CV , Korsch, RJ, Kirkland, CL, 
+Smithies, RH, Martin, K and Wingate, MTD 2017, Tropicana translated — a foreland thrust system imbricate fan setting for c. 2520 Ma orogenic gold mineralization at the northern margin of the Albany–Fraser Orogen, Western Australia, in Characterization of 
+ore-forming systems from geological, geochemical and geophysical studies, edited by  K Gessner, T Blenkinsop and P Sorjonen-Ward: 
+Geological Society Special Publication 453, p. 225–245
+Pirajno, F 2010, Intracontinental strike-slip faults, associated magmatism, 
+mineral systems and mantle dynamics: examples from NW China and Altay-Sayan (Siberia), Journal of Geodynamics, v. 50, no. 3–4, p. 325–346.
+Ripley, EM and Li, C 2013, Sulfide saturation in mafic magmas: is 
+external sulfur required for magmatic Ni–Cu–(PGE) ore genesis?: Economic Geology, v. 108, p. 45–58.
+Rubatto, D and Hermann, J 2007, Experimental zircon/melt and 
+zircon/garnet trace element partitioning and implications for the geochronology of crustal rocks: Chemical Geology, v. 241, p. 38–61.Shirey, SB and Richardson, SH 2011, Start of the Wilson cycle at 3 Ga 
+shown by diamonds from subcontinental mantle: Science, v. 333, p. 434–436.
+Smithies, RH, Spaggiari, CV , Kirkland, CL and Maier, WD 2014, 
+Geochemistry and petrogenesis of igneous rocks in the Albany–Fraser Orogen, in Albany–Fraser Orogen seismic and magnetotelluric (MT) 
+workshop 2014: extended abstracts compiled by  CV Spaggiari and 
+IM Tyler, Geological Survey of Western Australia, Record 2014/6, p. 77–88.
+Smithies, RH, Spaggiari, CV and Kirkland, CL 2015, Building the crust 
+of the Albany–Fraser Orogen; constraints from granite geochemistry: Geological Survey of Western Australia, Report 150, 49p.
+Spaggiari, CV , Kirkland, CL, Pawley, MJ, Smithies, RH, Wingate, MTD, 
+Doyle, MG, Blenkinsop, TG, Clark, C, Oorschot, CW, Fox, LJ and Savage, J 2011, The geology of the east Albany–Fraser Orogen — a field guide: Geological Survey of Western Australia, Record 2011/23, 97p.
+Spaggiari, CV , Kirkland, CL, Smithies, RH, Occhipinti, SA and 
+Wingate,  MTD 2014a, Geological framework of the Albany–Fraser Orogen, in Albany–Fraser Orogen seismic and magnetotelluric (MT) 
+workshop 2014: extended abstracts compiled by CV Spaggiari and 
+IM Tyler: Geological Survey of Western Australia, Record 2014/6, p. 12–27.
+Spaggiari, CV , Kirkland, CL, Smithies, RH and Wingate, MTD 2014b, 
+Tectonic links between Proterozoic sedimentary cycles, basin 
+formation and magmatism in the Albany–Fraser Orogen, Western 
+Australia: Geological Survey of Western Australia, Report 133, 63p.
+Spaggiari, CV and Smithies, RH (compilers) 2015, Eucla basement 
+stratigraphic drilling results release workshop: extended abstracts: Geological Survey of Western Australia, Record 2015/10, 70p.
+Spaggiari, CV , Kirkland, CL , Smithies, RH, Wingate, MTD and 
+Belousova, E 2015, Transformation of an Archean craton margin during Proterozoic basin formation and magmatism: the Albany–Fraser Orogen, Western Australia: Precambrian Research, v.  266, p. 440–466.
+Spaggiari, CV , Dutch, RA, Doublier, MP, Pawley, MJ, Thiel, S, Wise, TW, 
+Kennett, BLN, Gessner, K, Smithies, RH, Holzschuh, J and Clark, DJ 2017, Geological interpretation of the Madura and Coompana Provinces along the Eucla–Gawler seismic and magnetotelluric line 13GA-EG1: Geological Survey of Western Australia, non-series map.
+Spaggiari, CV , Smithies, RH, Kirkland, CL, Wingate, MTD, England, RN 
+and Lu, Y-J 2018, Buried but preserved: The Proterozoic Arubiddy Ophiolite, Madura Province, Western Australia: Precambrian Research, v. 317, p. 137–158.
+Toy, VG, Prior, DJ and Norris, RJ 2008, Quartz fabrics in the Alpine Fault 
+mylonites: influence of pre-existing preferred orientations on fabric development during progressive uplift: Journal of Structural Geology, v. 30, p. 602–621.
+Van Kranendonk, MJ, Kirkland, CL and Cliff J 2015, Oxygen isotopes in 
+Pilbara Craton zircons support a global increase in crustal recycling at 3.2 Ga: Lithos, v. 228–229, p. 90–98.
+Walker, AT 2019, Sulphur isotopes and trace element signatures within 
+mineralised occurrences in the Fraser Zone, Western Australia, PhD thesis, Curtin University, Perth, 191p.
+Walker, AT, Evans, KA, Kirkland, CL, Martin, L, Kiddie, OC and 
+Spaggiari, CV 2019, Tracking mineralisation with in situ multiple sulphur isotopes: a case study from the Fraser Zone, Western Australia: Precambrian Research, v. 332, article no. 105379. MRIWA M0470 FINAL REPORT — 
+MINERAL SYSTEMS ON THE MARGINS OF CRATONS: 
+ALBANY–FRASER OROGEN / EUCLA BASEMENT CASE STUDY, 
+AN EXECUTIVE SUMMARY RECORD 2020/5  Kirkland et al.This Record is published in digital format (PDF) and is available as a free download from the 
+DMIRS website at <www.dmirs.wa.gov.au/ GSWA publications>.
+Information Centre  
+Department of Mines, Industry Regulation and Safety  
+100 Plain Street  
+EAST PERTH  WESTERN AUSTRALIA  6004  
+Phone: +61 8 9222 3459   Email: publications@dmirs.wa.gov.au  
+www.dmirs.wa.gov.au/ GSWA publicationsFurther details of geolscience products are available from:

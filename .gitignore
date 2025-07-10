@@ -172,4 +172,5 @@ cython_debug/
 cache/
 
 output/
+logs/
 .DS_Store
