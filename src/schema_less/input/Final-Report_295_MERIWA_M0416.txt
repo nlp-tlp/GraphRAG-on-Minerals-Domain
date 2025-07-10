@@ -1,0 +1,2211 @@
+MINERALS AND ENERGY RESEARCH INSTITUTE OF
+ WESTERN AUSTRALIA
+(MERIWA)
+REPORT NO. 295
+Fine Particle Agglomeration in Process Slurries
+Results of research carried out as MERIWA Project No. M416
+at
+Central Chemical Consulting Pty Ltd
+by
+Emmanuel Karakyriakos and Vincent A. Patrick
+June 2012
+                                Distributed by: MERIWA
+Mineral House
+100 Plain Street
+Perth WA 6000
+© Crown Copyright reserved       to which all enquiries should be addressed
+       ISBN: 192098156XTABLE OF CONTENTS
+EXECUTIVE SUMMARY ................................................................................................................. 1
+1. INTRODUCTION......................................................................................................................... 3
+1.1 Project Background and Objectives .................................................................................... 3
+1.2 Froth Flotation..................................................................................................................... 4
+1.2.1 Contact Angle............................................................................................................. 5
+1.2.2 Collectors.................................................................................................................... 6
+1.2.3 Frothers...................................................................................................................... 7
+1.2.4 Depressants............................................................................................................... 8
+1.2.5 Activators.................................................................................................................... 9
+1.2.6 Dispersants............................................................................................................... 10
+1.2.7 pH Control................................................................................................................ 10
+1.2.8 Pulp Eh..................................................................................................................... 11
+1.3. Flotation of Fine Particles ................................................................................................ 12
+1.3.1 Selective Flocculation/Aggregation Techniques ........................................................ 15
+1.3.2 Carrier Flotation ........................................................................................................ 16
+1.3.3 High Intensity Conditioning (HIC) / Shear Aggregation / Shear Flocculation .............17
+1.3.4 Bubble Size............................................................................................................... 18
+1.3.5 Separate Flotation of Fines ....................................................................................... 18
+1.3.6 Magnetic Methods .................................................................................................... 19
+1.3.7 Other Potential Methods ........................................................................................... 20
+1.4. Sulfide Surface Oxidation ................................................................................................ 21
+1.5. Zeta Potential................................................................................................................... 24
+1.5.1 Pyrite (FeS2)............................................................................................................. 27
+1.5.2 Chalcopyrite (CuFeS 2).............................................................................................. 29
+1.5.3 Pentlandite [(Fe,Ni) 9S8]............................................................................................. 30
+1.5.4 Saline and Hypersaline Process Water ..................................................................... 31
+i1.6 Rheological Measurements .............................................................................................. 32
+2. EXPERIMENTAL....................................................................................................................... 34
+2.1 Zeta Potential and Sizing .................................................................................................. 34
+2.2 Rheology Measurements .................................................................................................. 35
+2.3 Materials........................................................................................................................... 35
+2.4 Milling............................................................................................................................... 37
+2.5 Flotation............................................................................................................................ 37
+3. RESULTS.................................................................................................................................. 39
+3.1 Pyrite................................................................................................................................. 39
+3.2 Chalcopyrite...................................................................................................................... 41
+3.3 Pentlandite........................................................................................................................ 43
+3.4 Haematite and Silica ......................................................................................................... 45
+3.5 Effect of Multivalent Ions ................................................................................................... 47
+3.6 Effect of Xanthate, Humate and Quaternary Ammonium Compounds ..............................49
+3.7 Effect of Salinity................................................................................................................ 51
+3.8 Sulfide Ores in Process Water .......................................................................................... 54
+3.9 Flotation............................................................................................................................ 57
+3.9.1 Sulfides in Sodium Chloride ...................................................................................... 57
+3.9.2 Ores in Process Water ............................................................................................. 59
+4. DISCUSSION............................................................................................................................ 64
+5. CONCLUSIONS........................................................................................................................ 69
+6. FURTHER WORK ..................................................................................................................... 70
+7. ACKNOWLEDGEMENTS .......................................................................................................... 71
+8. REFERENCES.......................................................................................................................... 72
+iiLIST OF FIGURES
+Figure 1: Froth flotation cell ........................................................................................................... 4
+Figure 2: Contact angle between the liquid-bubble interface and the solid surface. .......................5
+Figure 3: Eh/pH diagram for iron species ....................................................................................... 9
+Figure 4: Typical relationship between the flotation rate constant and particle size. ....................13
+Figure 5: Fine particle path along streamlines around an air bubble. ........................................... 14
+Figure 6: Zeta potential of a particle in solution. ........................................................................... 24
+Figure 7:  Gouy-Chapman-Stern model and change in potential with distance from surface. ......25
+Figure 8: Zeta potential trend with pH on sulfide oxidation ........................................................... 28
+Figure 9: DT1200 electroacoustic spectrometer and zeta potential probe. .................................. 34
+Figure 10: Stirred ceramic mill with zirconium oxide grinding media. ........................................... 37
+Figure 11: Denver D-12 laboratory flotation machine with 1.7 L stainless steel cell. ....................38
+Figure 12: Effect of pH on pyrite zeta potential in DI water  ........................................................ 39
+Figure 13: Effect of pH on pyrite P80 in DI water  ....................................................................... 39
+Figure 14: Effect of pH on pyrite slurry yield stress and viscosity. ................................................ 40
+Figure 15: Zeta potential change with time for pyrite in DI water .................................................. 41
+Figure 16: Effect of pH on chalcopyrite zeta potential and P80 in DI water .................................. 42
+Figure 17: Effect of pH on chalcopyrite elasticity and viscosity in DI water .................................. 43
+Figure 18: Effect of pH on pentlandite zeta potential and P80 in DI water .................................... 44
+Figure 19: Effect of pH on pentlandite elasticity and viscosity in DI water .................................... 44
+Figure 20: Effect of pH on haematite zeta potential and P80 in DI water ..................................... 45
+Figure 21: Effect of pH on silica zeta potential and P80 in DI water ............................................. 46
+Figure 22: Effect of pH on haematite zeta potential and viscosity in DI water ..............................46
+Figure 23: Effect of calcium ions on the zeta potential of a pentlandite containing slurry .............47
+Figure 24: Effect of ferric chloride addition on chalcopyrite zeta potential and elasticity. .............48
+Figure 25: Effect of CTAB on zeta potential of pyrite, pentlandite and chalcopyrite in DI water. . .50
+iiiFigure 26: Effect CTAB on the viscosity and elasticity of chalcopyrite in DI water. .......................51
+Figure 27: Effect of sodium chloride concentration on sulfide zeta potential at pH 10 ..................51
+Figure 28: Effect of sodium chloride concentration on sulfide particle size at pH 10 ....................52
+Figure 29: Effect of sodium chloride concentration on pyrite zeta potential at pH 7 and 10 .........52
+Figure 30: Zeta potentials of sponsors' ores in their process water. ............................................ 54
+Figure 31: Effect of  ore sulfur content on the zeta potential ........................................................ 56
+Figure 32: Effect of ore MgO + SiO 2 gangue content on the zeta potential .................................. 56
+Figure 33: Effect of 3 M sodium chloride on recovered solids for pyrite at basic pH ....................57
+Figure 34: Effect of 3 M sodium chloride on recovered solids for chalcopyrite at basic pH. ........58
+Figure 35: Effect of 3 M sodium chloride on recovered solids for pentlandite at basic pH. .........59
+Figure 36: Recoveries and grades for a pentlandite ore (PENT-2) after 8 minutes ......................60
+Figure 37: Recoveries and grades for a pentlandite ore (PENT-3) after 8 minutes ......................61
+Figure 38: Recoveries and grades for a pentlandite ore (PENT-1) after 8 minutes ......................61
+Figure 39: Recoveries and grades for a pyrite ore (PYR-2) after 8 minutes ................................. 62
+Figure 40: Recoveries and grades for a chalcopyrite ore (CHALC-3) after 8 minutes ..................62
+Figure 41: Recoveries and grades for a chalcopyrite ore (CHALC-1) after 8 minutes ..................63
+Figure 42: Idealised heterogeneous surfaces for metal sulfide particles. ..................................... 65
+Figure 43: Comparison of zeta potential and froth flotation recovery data for sponsors' ores ......67
+Figure 44: Comparison of zeta potential and froth flotation grade data for sponsors' ores ...........68
+LIST OF TABLES
+Table 1: Some Common Sulfide Mineral Collectors ...................................................................... 6
+Table 2: Chemical Analysis of Sulfide Samples ........................................................................... 35
+Table 3: Chemical Analysis of Process Waters ........................................................................... 36
+Table 4: Zeta Potentials of Sulfides in Process Water ................................................................. 53
+Table 5: P80(μm) of Sulfides in Process Water ........................................................................... 53
+ivEXECUTIVE SUMMARY
+PROJECT HIGHLIGHTS
+ Salinity and pH adjustments do not greatly increase fines agglomeration in a pumped system.
+ Froth flotation grades generally increase at low salinities.
+ Slime coatings on sulfides are less likely at low salinities.
+ An unoxidised sulfide surface is less sensitive to changes in salinity than a gangue surface.
+The  aim  of  this  project  was  to  modify  the  surface  charge  (zeta  potential)  of  fine  pyrite,  
+chalcopyrite and pentlandite particles in an attempt to selectively agglomerate them. The primary  
+conditions that were adjusted were the salinity and pH. As part of this work an extensive review  
+of the flotation of fine sulfide particles (less than 20 μm) was conducted. Several  potential fines 
+flotation methods were identified, including selective flocculation/aggregation, carrier flotation,  
+use of smaller bubbles, high intensity conditioning (HIC)/shear aggregation, the use of inert  
+grinding media, and separate flotation circuits for fines. 
+The splitting of fine material into a separate circuit and optimising the conditions for the flotation  
+of valuable fines is currently the only proven method in practice. The grades and recoveries of  
+this fine material can be high when conditions are optimised and inert grinding media are used.  
+There is also some evidence suggesting HIC and some magnetic methods  may aid in the 
+recovery of valuable fine material. Fine gangue entrainment can be a problem with any fines  
+flotation, so an efficient method of removal of fine gangue is required to prevent poor grades. 
+The other methods such as flocculation/aggregation, carrier flotation and the use of smaller  
+bubbles have yet to be successfully implemented for the specific purpose of increasing fines  
+recovery.
+The froth flotation results indicate that a positive zeta potential is typically associated with lower  
+grades and potentially lower recoveries. The two factors which had the largest influence on the  
+zeta potential were the sulfur content of the ore and the salinity of the process water. Ores with a  
+high sulfur content had negatively charged particles that remained relatively unchanged with  
+salinity. Ores with a low sulfur content tended to have particles that were less negatively charged  
+at low salinity and positively charged at high salinity. A positive zeta potential for an ore is an  
+indicator of a high amount of gangue material. The positively charged gangue material could  
+form  a  slime  coating  on  the  negatively  charged  sulfide  particles  and  reduce  grades  and  
+recoveries. 
+1Oxidation of sulfide minerals usually creates a superficial layer of metal hydroxides on particles  
+due to hydrolysis of the cations. Metal oxide/hydroxides on the sulfide minerals result in the  
+surfaces behaving more like metal oxide/hydroxide surfaces and this can lower the recovery by  
+flotation. The zeta potentials shift from the unoxidised sulfide values towards those of the metal  
+oxide/hydroxide  products.  These  differences,  between  oxidised  and  unoxidised  sulfide  zeta  
+potentials, increased with salinity. The zeta potential was affected to a much greater degree by  
+oxidation of the sulfide than by precipitation of metal hydroxide species.
+Regardless of the specific sulfide ore, salinity or pH, the zeta potentials were all less than 20 mV  
+in magnitude. Particles with zeta potentials in this range tend to agglomerate but our particle  
+sizing measurements did not show agglomeration. This may have been due to the break up of  
+agglomerates during pumping in the sizing instrument, which would suggest that agglomerates  
+formed by reducing the surface charge were weakly bound and easily broken up.
+In general the viscosities, elasticities and yield stress values for the sulfide slurries did not  
+change significantly between different ore samples, with pH or with changes in salinity. In some  
+cases where the zeta potential magnitude was minimised these rheological values did increase.  
+These values also increased at points where precipitation of a metal hydroxide was suspected.  
+The small but significant changes in rheology which occurred when a metal hydroxide was  
+forming were useful as a sensitive indicator of changes occurring within the slurry. 
+Multivalent ions, humate, sodium ethyl xanthate and potassium amyl xanthate did not significantly 
+affect the zeta potential of the unoxidised sulfides.  For the multivalent cations any effect was  
+small and restricted to high pH where metal hydroxide species were likely to form. The only  
+added species that had a large effect on the pure sulfide zeta potential was the quaternary  
+ammonium compound cetyltrimethylammonium bromide (CTAB). The addition of CTAB had a  
+significant effect on the zeta potentials of the sulfides shifting them to more positive values. The 
+viscosity, elasticity and yield all increased as the zeta potential approached a value of zero.  
+Although the zeta potential of the sulfides was minimised there was no evidence of any increase  
+in agglomeration for the fine sulfides.
+21. INTRODUCTION
+1.1 Project Background and Objectives
+Fine material (with a size less than 20 μm) in mineral processing circuits can cause numerous  
+problems. These include low froth flotation recoveries, slower solid-liquid separation and slime  
+coatings. The agglomeration of this fine material could lead to better thickening and filtration,  
+lower slurry viscosity and potentially better froth flotation recoveries. 
+The surface charge or zeta potential of this fine material can determine whether it agglomerates  
+or remains dispersed. A knowledge of the zeta potential and how it changes can give an insight  
+into the separation of solids by flotation, thickening and filtration. It can also provide information  
+on the effect of reagents and slime coatings.
+The zeta potential has been extensively studied at low pulp densities under dilute ideal conditions  
+over the last few decades for flotation and other applications. Very few studies have involved zeta  
+potential measurements at high sulfide pulp densities and none have studied sulfides at the high  
+ionic strengths found in some mineral processes.
+This project investigated the fine particle agglomeration of solids including pyrite, chalcopyrite,  
+and pentlandite. The conditions such as solution salinity, pH, presence of certain cations and  
+collectors that act to increase the agglomeration and decrease the viscosity of the slurries were  
+identified.  The  surface  charge  was  used  to  identify  conditions  which  could  increase  
+agglomeration.  The  degree  of  agglomeration  was  assessed  through  rheology  and  sizing  
+measurements.  Flotation tests  were  also  conducted to  determine any improvements  in the  
+recoveries and grades of the sulfides.
+The project objectives are summarised below:
+ Review the area of fine particle flotation.
+ Use  the  zeta  potential to  identify conditions  which  promote  the  agglomeration,  and  may  
+increase the flotation recovery and grade, of fine pyrite, chalcopyrite and pentlandite.
+ Determine the zeta potentials for pyrite, chalcopyrite and pentlandite at the high pulp densities  
+and salinities generally experienced in mineral processing.
+ Determine the zeta potentials and agglomeration for process ores in process water.
+ Assess the effect of salinity, pH, mulitvalent ions and collectors on fines agglomeration.
+ Correlate zeta potential changes with any changes in rheology.
+31.2 Froth Flotation
+Froth flotation is a critical step in the recovery of sulfide minerals from gangue as well as the  
+selective  separation of  different sulfides.  Froth flotation relies  on the differences  in surface  
+hydrophobicity  between  the  valuable  material  and  the  gangue.  These  differences  in  
+hydrophobicity are increased through the use of specific surface active reagents added to the  
+flotation pulp. The surface of the valuable material is rendered hydrophobic by using surfactants  
+commonly known as collectors. The gangue mineral surface can be made hydrophilic by the  
+addition of surfactants known as depressants. On passing a stream of air bubbles through the  
+pulp the minerals with a hydrophobic surface are able to attach to the bubbles and float to the  
+surface while the hydrophilic material sinks. The air bubbles can only continue to support the  
+particles once they reach the surface if they are able to form a stable froth. Reagents known as  
+frothers are often used to maintain this stable froth. The froth is removed from the flotation cell  
+and the concentrated mineral can be refined further. A simplified froth flotation cell is shown in  
+Figure 1.
+4Figure 1: Froth flotation cell
+Most plants have multiple banks of flotation cells that often involve three flotation stages. The  
+flotation cells themselves typically contain an impeller that mixes the pulp as well as injecting air  
+bubbles. The flotation pulps have a typical solid content between 25 to 45 percent by mass and  
+an upper and lower particle size limit for flotation of about 300 μm and 5 μm, respectively [1]. 
+Most of the mineral to be recovered is floated in the first group of cells or rougher circuit. This  
+concentrate is then sent to the cleaner circuit which consists of a set of cells used to re-float the  
+material producing a higher grade. The non-floating material or sink fraction from the rougher  
+circuit is normally sent to a set of flotation cells in a scavenger circuit. To avoid any loss of  
+valuable material the floated concentrate from the scavenger circuit, and the sink fraction from  
+the cleaner circuit, are typically returned to the rougher circuit.  
+There are many factors which can play a role in improving the flotation efficiency. These factors  
+include  pre-conditioning  of  the  pulp,  the  type  of  grinding  media,  pre-aeration,  reagent  
+concentration, sequence of addition, oxygen, nitrogen or sulfur dioxide conditioning, acid leaching  
+and conditioning time [ 2].
+1.2.1 Contact Angle
+The contact angle between the liquid-bubble interface and particle surface (shown in Figure 2) is 
+often used to assess the hydrophobicity of a mineral surface. The larger the contact angle the  
+greater  the  bubble-particle  adhesion  and  floatability  of  the  mineral.  Naturally  hydrophobic  
+surfaces like graphite, sulfur and  bituminous coal have high floatabilities with contact angles  
+between  60° to  90°.  The  activity  of  a  particular  collector  can  be  assessed  through  the  
+measurement of the contact angle.
+5Figure 2: Contact angle between the liquid-bubble interface and the solid surface.
+1.2.2 Collectors
+Collectors increase the hydrophobicity of sulfide mineral surfaces which in turn increases the  
+mineral flotation rate. Some of the more commonly used collectors for sulfide mineral flotation  
+are shown in Table 1. The most widely used of these are the xanthates and dithiophosphates  
+with the addition rates of xanthates in Australian plants typically ranging from 10 to 300 g/t [ 3]. An 
+example of the typical xanthate structure is sodium ethyl xanthate, as shown below.
+Table 1: Some Common Sulfide Mineral Collectors
+Collector Type Formula
+xanthates R-O-CSS-
+Dialkyl dithiophosphates (R-O)2PSS-
+Dialkyl dithiocarbamate R2-N-CSS-
+Isopropyl thionocarbamate (CH3)2CH-O-CSNHC2H5
+Mercaptobenzothiazole (C6H4)NSC-S-
+Hydrophobicity has to be imparted to most minerals in order to efficiently float them. The addition  
+of  the  collector  normally  occurs  with  agitation  during  a  conditioning  period.  The  collector  
+molecules contain both polar and non-polar groups. The polar group, through chemical, electrical  
+or physical attraction, attaches itself to surface sites on the mineral orientating the non-polar end  
+into the bulk solution which imparts hydrophobicity to the particle. In general the longer the  
+hydrocarbon chain length the more hydrophobic the surface will be . For the solubility required for  
+a collector in an aqueous system the chain length is typically limited to two (ethyl) to five (amyl)  
+carbon atoms. The chain structure also affects the collector solubility with branched chains  
+having a higher solubility  in water than straight chain analogues.
+Xanthates adsorb through the formation of insoluble metal xanthates and/or breakdown products  
+such as dixanthogen on the sulfide mineral surface [ 4, 5, references in 6, 7, 8]. Some of these 
+species are strongly hydrophobic. It has also been established that the sulfide is not joined to the  
+collector anions without the action of oxygen [ 1]. Some oxygen is essential for flotation of sulfide  
+minerals with thiol collectors.
+Dixanthogen is less stable under alkaline conditions whereas xanthates are more stable under  
+alkaline  conditions.  Dixanthogen  will  decompose  in  flotation  pulps  and  decomposes  in  the  
+presence of nucleophiles, such as hydroxide, cyanide and sulfite ions [ 3]. The structure of 
+dixanthogen is shown below.
+6
+The presence of  elemental sulfur on the surface  of  the sulfide mineral leads to increased  
+hydrophobicity and may even allow froth flotation of the mineral in the absence of collector. Sulfur  
+can be obtained by partial oxidation of metal sulfides, although sufficient control of the redox  
+conditions in these systems can be difficult. Further oxidation of the sulfide mineral past sulfur to  
+oxy-sulfur species can occur in the presence of excess oxygen. The fully oxidised oxy-sulfur  
+species are not hydrophobic, so additional collectors are usually required to promote flotation.
+At pH values around pH 4 all thiols act as effective collectors but xanthates are not stable . The 
+xanthates are therefore most widely used at mild alkaline pH. Such alkaline conditions not only 
+have the advantage of inhibiting xanthate breakdown , but also precipitate  out unwanted metal  
+ions  that  could  react with  the  xanthate.  Cationic  collectors,  like  quaternary  ammonium  
+compounds, are relatively weak collectors  because the collector-surface attraction is through  
+weaker electrostatic interactions rather than stronger chemical complexation [1]. However, amine 
+based collectors have been reported to be capable of floating cyanided pyrite without the use of  
+acid preconditioning [ 2].
+Mercaptobenzothiazole and dithiophosphates are often preferred to xanthates at lower pH as  
+they are more stable. Dithiophosphates are usually regarded as weaker collectors than xanthates  
+and do not float pyrite in alkaline solution.  However, dithiophosphonates  can be used as a 
+secondary collector [ 3]. Mercaptobenzothiazole is a specialised collector used in the flotation of  
+oxidised copper and lead ores and is also sometimes used for the flotation of copper sulfides  
+from copper-lead-zinc ores. Thionocarbamate is another specialised collector that is used for  
+sulfide copper minerals and copper activated sphalerite.
+1.2.3 Frothers
+The efficient recovery of valuable sulfide minerals requires a suitably stable froth to be formed.  
+The frothers used to help create and stabilise the foam layer are heteropolar surface active  
+organic reagents. Frothers  typically contain either hydroxyl, carboxyl, carbonyl, amino, or sulfo  
+functional groups in their structure. The frothing action is due to the abil ity of the frother to adsorb  
+at the air-water interface and reduce the surface tension which stabilises the bubbles. A good  
+frother has negligible collecting power and produces a  froth that is stable but not so stable that it  
+causes process transport problems [ 1]. 
+Common frothers include reagents such as pine oil, alcohols like methyl isobutyl carbinol (MIBC),  
+7
+polyglycols, polyoxyparaffins and cresylic acid.  The concentration of frothers in solution  can 
+typically vary between  10 to 50 mg/L [3]. 
+1.2.4 Depressants
+Depressants render certain minerals hydrophilic and prevent their flotation. Almost all of the  
+currently used depressants in sulfide flotation are inorganic with two of the most commonly used  
+being cyanide and zinc sulfate. Organic depressants are often not as selective and will depress  
+almost all the minerals present. Organic depressants include  guar gums, starch, dextrin, carboxy  
+methyl cellulose (CMC), tannic acid, lignin sulfonate and humic acid [ 1,  9]. Many dispersants,  
+such as silicates and phosphates, can be used as depressants because they increase the  
+hydrophilic nature of most surfaces. Slime coatings can also act as depressants by covering the  
+mineral surface and reducing collector adsorption. If the slime particles are hydrophilic they will  
+also make the surface they have attached to more hydrophilic further reducing the floatability.
+Cyanide is a common depressant for pyrite, sphalerite and certain copper sulfides. The cyanide  
+can  complex  with  metal  ions  in  solution  and  react  with  metal  xanthates  to  form  soluble  
+complexes [1]. As mentioned earlier the presence of metal xanthates on a surface are thought to  
+be partially responsible for the increased hydrophobicity of a surface. Cyanide can be quite  
+selective in its depressant effect because of the variation in the solubility of the metal xanthate  
+species. Cyanide will act as a depressant in systems once it reaches a critical concentration and  
+has complexed the metal ions in solution and solubilised the metal xanthates present.  When 
+using cyanides the pH is commonly controlled between pH 7.5 to 9.5 although the optimum value  
+may be higher depending on the ore.
+Zinc sulfate is another inorganic depressant most often used in the selective separation of galena  
+from sphalerite. It is capable of depressing the flotation of sphalerite in the presence of galena  
+and is most effective at high pH where zinc hydroxide precipitates. Any zinc hydroxide on the  
+mineral surface will render the surface more hydrophilic and depress its flotation. The zinc ions  
+will also prevent copper ions from depositing as a hydrophobic copper sulfide on the mineral  
+surface. The formation of insoluble hydrophilic zinc cyanide on a surface such as sphalerite will  
+also depress the mineral flotation.
+Aqueous ferrous and ferric hydroxide ions are associated with  significantly depressed flotation of  
+pyrite. There are several mechanisms by which this could occur . When the pH is greater than 6,  
+depressed flotation of pyrite by iron species has been previously attributed to the formation of  
+ferric hydroxyl xanthate compounds [ 6]. These species are not as hydrophobic in nature as the  
+metal xanthate and dixanthogen species believed to be responsible for the hydrophobic surface.  
+A second and more probable mechanism is that soluble ferrous or ferric hydroxide ions can react  
+with and precipitate out the soluble xanthate collector before the xanthate can adsorb at the  
+8pyrite surface.
+Non-complexed aqueous ferric ions are only stable under acidic oxidising conditions with Eh  
+above +700 mV, as shown in Figure 3. Since practical pyrite flotation occurs at an Eh between  
++200 mV and +300 mV, non-complexed ferric ions will not be present. However, aqueous ferric  
+hydroxide ions can exist under these conditions at very small concentrations, such as 10-7 molar.
+Wood extracts can also have a depressant effect on the flotation of  sulfide minerals. The  
+detrimental effect of  humus organics  on the flotation of  molybdenite has  been investigated  
+[reference in  3]. Sodium  humate has  also been shown to selectively depress  pyrite in the  
+presence of chalcopyrite at high pH [ 10].
+1.2.5 Activators
+Activators are soluble metal salts used to modify the surface chemical properties of the mineral  
+surface. They are normally used in conjunction with collectors. They can extend the pH range of  
+flotation, increase the rate of flotation and improve selectivity. Copper sulfate is one of the most  
+9Figure 3: Eh/pH diagram for iron species
+widely used activators and can be used to activate and improve the flotation of gold bearing  
+pyrite [2, 11], sphalerite [1] and pentlandite [12]. Copper sulfides are less susceptible to oxidation  
+than iron sulfides, and so t he formation of copper sulfide or copper xanthate at the mineral  
+surface can stabilise the surface and improve flotation [ 1, 11].
+Sodium sulfide or sodium hydrosulfide can be used as an activator for oxidised minerals of lead,  
+zinc and copper [1]. Over a pH of 8 to 11 almost all the sulfide is present as the hydrosulfide ion.  
+These reagents produce a pseudo sulfide surface coating which can then be floated using thiol  
+collectors.
+1.2.6 Dispersants
+Better flotation separations occur if the  particles are fully separated. To achieve this, dispersants  
+can be added. As previously noted dispersants often also act as depressants. Many reagents  
+have  dispersing  ability  and  include  sodium  hexametaphosphate  (Calgon),  calcium  
+ligninsulfonate, sodium silicate and both organic and inorganic polymers. These species can  
+disperse a pulp in two ways. They can adsorb onto the particle surface and either increase the  
+surface charge (zeta potential) magnitude or create a steric barrier. The result is an increased  
+particle-particle repulsion in both cases. An alternative to the addition of a dispersant to the pulp  
+is the use of ultrasound to disperse the particles, although an improper ultrasonic treatment can  
+induce particle aggregation rather than dispersion [ 13].
+1.2.7 pH Control
+Where  possible,  flotation  is  carried  out  under  alkaline  conditions  because  most  collectors,  
+including xanthates, are stable under these conditions. The alkaline conditions also minimise  
+corrosion to cells and pipework  and precipitate out any heavy metal ions, prior to flotation,  
+preventing them from activating certain sulfides. The pH is normally controlled by the addition of  
+lime, sodium carbonate and to a lesser extent sodium hydroxide and ammonia. Sulfuric acid is  
+often used where a decrease in pH is required.
+Adding sufficient alkali will depress almost any sulfide mineral and there is a critical pH below  
+which the mineral will float for a given collector type, collector concentration and temperature.  
+These critical pH values are different for different sulfide minerals and this can be used to  
+selectively separate sulfide mixtures. For examp le, lime can act as an effective pyrite depressant,  
+by increasing the pH . At high pH levels, most surfaces including the metal oxides and metal  
+hydroxides carry a strong negative charge, which  makes  the minerals  hydro philic  and less 
+floatable. The formation of a mixed iron hydroxide/oxide, calcium sulfate and calcium carbonate  
+film on the pyrite reduces the adsorption of xanthate and makes the surface more hydrophilic . 
+Another example is p entlandite which can be floated selectively from pyrrhotite by controlling the  
+10pH of flotation to about pH 9. All nickel flotation plants that reject pyrrhotite use pH control [ 14].
+Enhanced flotation rates for both pentlandite and chalcopyrite occur when sodium carbonate is  
+used [15]. The use of sodium carbonate instead of lime for pH control increases the rate of  
+flotation of pentlandite relative to that of pyrrhotite. Sodium carbonate can also increase nickel  
+flotation selectivity against magnesium oxide minerals when compared with hydrated lime [ 16]. It 
+has been suggested that the carbonate may act as a dispersant in these systems [references in  
+16].
+1.2.8 Pulp Eh
+The reduction or pulp potential, E h, can affect the properties and floatability of sulfide minerals  
+and it can be a valuable parameter for monitoring and controlling the flotation process. The E h is 
+traditionally measured using a noble metal electrode, usually platinum or gold, with reference to  
+either a calomel or silver/silver chloride electrode. The results are then normally reported on a  
+hydrogen scale (Standard Hydrogen Electrode, SHE) by adding the appropriate values to the  
+reference  electrodes.  This  potential  will  normally  represent  a  mixed  potential  arising  from  
+concurrent redox reactions in the pulp. The different types of electrodes that can be used for E h 
+measurements and the practical considerations about their use have been reviewed  in detail 
+elsewhere [17].
+The majority of sulfide flotation plants operate at the “air set” E h potential, generally between  
++200 to +300 mV relative to the SHE [ 7]. The normal operation of a plant within this range with no  
+special consideration of E h can give a satisfactory flotation [ 3]. For most sulfides the flotation  
+recovery is a function of E h,  and flotation recoveries are normally at their highest in the +200 to  
++300 mV Eh range which is in the mildly to moderately oxidising region . Flotation is slight or  
+absent under strongly reducing conditions. The independent control of E h is not simple since any  
+reagent added to modify the E h can also have an effect on the mineral surface and other  
+parameters.
+Changes in Eh are the result of various changes in the concentrations of the species in solution.  
+One of  the most  important species  is oxygen. The oxygen concentration decreases during  
+grinding and conditioning before rapidly rising to the solubility limit of oxygen in the liquor [ 3]. This 
+results in the Eh values becoming more positive as the pulp proceeds through the plant and the  
+pulp oxidation becomes more complete. Changes in E h can also be brought about by altering the  
+pH, adding redox reagents, altering the flotation gas and controlling the type of grinding media  
+and mill. In tests using a mild steel mill, the slurry E h was between -400 to -100 mV [ 18, 19] and 
+increased to between +100 to +300 mV on aeration [ 7, 20]. Slurry pH is normally alkaline and  
+remains similar throughout flotation.
+The pulp potential in a steel mill is frequently in the reducing region and must be raised to a  
+11satisfactory level by aeration  otherwise  flotation  recoveries  may be low.  When  the pulp is  
+exposed to air the Eh will increase and promote the uptake of collector. The control of pH is about  
+the only method by which the E h can be permanently altered in air [ 19]. For conventional flotation  
+practice, with the large volumes of oxygen present, the E h is only amenable to control in regions  
+that are more oxidising than the natural E h of the pulp. The amount of reducing agents required  
+to maintain a reducing environment  would be unrealistically large and therefore not economical.  
+The only way Eh control by reagent addition can realistically be achieved is if an inert gas is used  
+for flotation [19].
+An example of the possible variation in E h is given here for chalcopyrite. When chalcopyrite is  
+ground in an inert mill the E h value is about +300 mV and must be lowered to the desired flotation  
+value by adding a reducing agent. Grinding in a steel mill gives a much lower potential for the  
+chalcopyrite between -300 to -400 mV and an oxidising agent must be added to raise the E h to 
+the desired value. Sulfide minerals in a reducing environment are relatively more hydrophilic and  
+so it is only when the environment becomes slightly oxidising that flotation occurs [ 19]. 
+Self induced flotation is displayed by many sulfides in moderately oxidising solutions but not in  
+reducing solutions. Typical conditions required for collectorless flotation are a low pH and a slight  
+oxidising potential [1]. In general flotation is observed near potentials at which sulfur would be  
+expected to form and the minerals which produce sulfur appear to float most strongly. The  
+mineral-collector interaction  may also be potential dependent and so flotation normally only  
+occurs over a limited E h range.
+The collector induced flotation of sulfide particles with xanthate is a function of E h. The process 
+leading to hydrophobicity with thiol collectors  is reported to involve the anodic oxidation of the  
+collector at the mineral surface which is driven by the cathodic reduction of oxygen [ 8]. The 
+xanthate oxidation process involves the anodic charge transfer chemisorption of xanthate and/or  
+the oxidation of xanthate to dixanthogen and/or formation of a metal xanthate [ 7]. The formation 
+of the hydrophobic dixanthogen and metal xanthates requires a specific E h value. For example  
+the maximum recovery of chalcopyrite occurs at an E h of +200 mV with a butyl xanthate collector.  
+The increased flotation recovery at this potential has been attributed to dixanthogen formation.
+1.3. Flotation of Fine Particles
+The typical change in flotation rate constant as a function of particle size is shown in Figure 4  [1, 
+21]. This generalised curve shows that fine and coarse particles are either not recovered at all or  
+are recovered poorly during flotation. The grade for recovered fine particles is also lower due to  
+the entrainment of gangue fines.  The maximum grade will not necessarily coincide with the  
+maximum in the flotation rate constant shown in Figure 4. For example the maximum grade was  
+found to occur at a larger particle size than the maximum recovery [ 22].  
+12Fine particles are generally considered to be less than 20 μm [22, 23] and intermediate particles  
+which float well range from approximately 20 μm up to 150 μm [24]. The slower fines recovery is  
+thought to be primarily due to fewer bubble-particle collisions and their low particle momentum  
+which reduces the chance of adhesion [ 25]. The proposed mechanism is that fine particles have  
+a low inertia and tend to follow liquid streamlines around the bubble rather than continue on in a  
+direct path and collide with it, as shown in Figure 5. Intermediately sized particles are more likely  
+to continue on in a direct path resulting in more bubble-particle collisions. The decrease in  
+recovery for the coarser particles is due to the larger particles being more easily dislodged from  
+the bubbles.
+The  low  recovery  of  fines  can  also  be  affected  by  electrostatic  forces.  For  fine  particles  
+electrostatic forces can be large compared with the inertial and hydrodynamic forces. This means  
+that particles which are normally strongly hydrophobic may still not float if their zeta potentials are  
+large, particularly if they have the same charge as the bubbles. As the particle size is reduced,  
+the influence of these surface forces increases, while the energy transferred to the particle by the  
+fluid decreases. For 10 μm particles the kinetic energy transferred to the particle by the fluid can  
+still be substantial and in cases of sufficient shear will dominate over the electrostatic forces [ 22]. 
+However,  the  electrostatic  forces  may still have  a role  to  play in  fine  particle  interactions,  
+especially where the particles are less than 10 μm or under quiescent conditions.
+13Figure 4: Typical relationship between the flotation rate constant and particle size.04080120160200
+Particle size (μm)Flotation rate constant
+TailingsRougher Concentrate
+ScavengersThe improved flotation of t he fines fraction will ideally require both an increasing rate of flotation  
+of the valuable mineral and a decrease in the rate of entrainment of fine gangue. Entrainment  
+can be the principal recovery method for fine gangue and  accounts for much of the observed  
+behaviour of fine material.  The fines occupy the space between the bubbles and enter the  
+concentrate via the water in the top most layers of froth. It is usually considered that t he low 
+grade of the fine fractions is not due to the non-selective adsorption of the collector but instead is  
+caused by the entrainment of fine gangue material [ 21]. This gangue entrainment can limit the  
+success of recovering valuable fines at high grades by flotation. All particles finer than 30 μm are 
+affected  by  entrainment  [ 22].  Unless  this  gangue  entrainment  is  reduced  techniques  for  
+increasing the rate of true flotation could still result in relatively low concentration grades in the  
+fine fraction. Some methods for decreasing the effect of g angue entrainment include increasing  
+the flotation rate of the valuable mineral, diluting the pulp which flows to the concentrate or  
+washing the concentrate to remove the entrained gangue but not the valuable mineral. Unless 
+entrainment  can  be  reduced,  conventional  flotation  is  unlikely  to  succeed  as  the  sole  
+concentrating method for systems where fine particles dominate [ 21].
+Most proposed modifications to conventional flotation have focused on increasing the rate of  
+fines flotation. There are several potential methods that may increase the flotation rate of the fine  
+material and these are outlined in the following sections. Th e flotation recovery of 2 μm particles 
+is approximately 10 times slower than that of 20  μm particles [22]. Any method for improving  
+fines recovery would therefore need to improve the recovery approximately 10 fold to get it to that  
+of the intermediate particle sizes.
+14Figure 5: Fine particle path along streamlines around an air bubble.
+1.3.1 Selective Flocculation/Aggregation Technique s
+Increasing the overall particle size of the fines will increase their flotation rate and recovery [ 26]. 
+The techniques developed to try and increase particle size are all similar in that the fine particles  
+are induced to form flocs or aggregates. The flocculation or aggregation of the fine particles  
+increases their effective size which increases the probability of particle-bubble collisions. For  
+hydrophobic surfaces any increase in particle-bubble collisions will lead to an increased flotation  
+rate. These techniques can be divided into three groups: selectiv e flocculation, hydrophobic  
+aggregation and electrolyte induced aggregation.
+Selective flocculation involves flocculating the valuable fine material while leaving the gangue  
+dispersed. The fine material flocs can then be separated from the gangue by flotation at a higher  
+rate than would be possible using  non-flocculated fines. If the fine mineral particles in the system  
+are not dispersed prior to flocculation and flotation , then the flocculation may not be selective. 
+Therefore, it is essential that the system is first fully dispersed prior to selective flocculation. 
+Selective flocculation often uses long chain polymer molecules or ions to bridge between the  
+particles and form the flocs. Synthetic anionic, non-ionic and cationic polymers can be chosen to  
+suit the specific surface charge and groups on the minerals to be aggregated. Multivalent metal  
+ions as activators or dispersants can also be used to improve the selectivity of the flocculation.  
+The  selectivity of  the flocculants  can  also  be increased  by using modified polymers  which  
+incorporate functional groups on the polymers which are known to selectively adsorb to certain  
+minerals. 
+At one point selective flocculation was a favoured method for fines recovery, but the progress  
+was not impressive, especially for low grade feeds [ 21]. Selective flocculation is yet to find  
+general application as entrapment of gangue is a major issue. Selectively flocculating the gangue  
+first could potentially offer some improvement. In general, a lack of selectivity has restricted the  
+applicability of selective flocculation [ 26]. Recently flocculation using a temperature responsive  
+flocculant has shown an improved flotation recovery of fine mineral particles compared with  
+conventional flotation. The disadvantages of this method are the potentially high energy costs  
+associated with raising the pulp temperature as well as the likely entrapment of gangue material  
+[27]. 
+Another  potential  method  to  increase  the  flotation  of  fines  is  hydrophobic  aggregation.  In  
+hydrophobic aggregation the particles are selectively made hydrophobic then intense agitation is  
+applied to bring them into very close proximity. The surfaces can be made hydrophobic using a 
+hydrophobic polymer like polyethylene oxide (PEO), or a collector. The hydrophobic surfaces  
+flocculate through their mutual attraction [ 22] and the more hydrophobic a particle surface is  
+made the greater the degree of hydrophobic flocculation. The strength of these aggregates can  
+be increased by the addition of a non-polar oil. 
+15Hydrophobic aggregation of fine particles can occur in the presence of a xanthate collector. For  
+example the hydrophobic flocculation of fine galena particles (less than 30  μm) in aqueous 
+suspensions could be induced by adding potassium amyl xanthate and using sufficient kinetic  
+energy input [28]. A constant degree of aggregation was obtained after a critical stirring duration  
+with the maximum floc size occurring at stirrer speeds between 500 to 700 rpm. The  hydrophobic 
+flocculation and the flotation of these galena flocs were substantially enhanced by the addition of  
+kerosene. Using a non-polar substance like kerosene (200 mg/L) resulted in a 20-fold reduction  
+in the amount of collector required for complete flotation of galena fines. It was suggested that  
+the use of kerosene to enhance the floc flotation could give large savings in operating costs since  
+kerosene is much cheaper than potassium amyl xanthate. It was also found that the finer the  
+galena the more powerful the hydrophobic flocculation.
+Finally the aggregation of fine particles can be achieved through the addition of electrolyte which  
+decreases  the electrostatic  repulsion  between the  particles.  The  problem  with  this  form  of  
+aggregation is that it often causes hetero-agglomeration with no selectivity. Selectivity is essential  
+for minerals processing and it is difficult to obtain selective aggregation by electrolyte addition  
+alone. This method is rarely used in the mineral processing industry for particle enlargement.
+1.3.2 Carrier Flotation
+Carrier flotation uses the more easily floated coarse or intermediate sized particles as carriers for  
+the fines. The fine particles attach to these coarser particles and are carried into the froth layer.  
+This method can be used in situations where it is easier to attach the fines to carrier particles and  
+recover them than to selectively aggregate the fines and float them. The weight of the carrier  
+particle can be as high as 20 to 40 times the weight of the fines to be removed [ 22]. In some 
+cases the carrier may not be a particle but an oil droplet. This variation on carrier flotation is  
+sometimes referred to as e mulsion flotation.
+The  mechanisms  of  carrier  flotation  are  governed  by  physical,  chemical  and  geometrical  
+variables [29]. When the repulsive force due to like charges (zeta potential) is greater than the  
+attractive van der Waals force fine particle, or slime, coatings are unlikely to form. The degree of  
+fines on the surface a nd the proportion of fines removed from the pulp tend to increase with  
+increasing carrier particle size. It could be thought that this would result in the larger particles  
+continuing to grow at the expense of smaller particles. In reality the situation deviates from this  
+and the aggregation is opposed by a process of re-dispersion due to attrition.
+An advantage of carrier flotation over selective aggregation of fines is that the rate of aggregation  
+is much faster and the rate of shear required to cause aggregation is less. An oil (e.g. kerosene)  
+is normally also added along with a surfactant (e.g. oleate) in carrier flotation to help strengthen  
+the aggregates. Oil (kerosene) and oleate were used to aid in the removal of haematite slimes by  
+16coarser haematite [30]. It is often simpler if the carrier species is the same mineral as the  
+adsorbed fines since this will prevent the difficulties associated with having to separ ate the fine 
+material from the carrier. 
+1.3.3 High Intensity Conditioning (HIC)  / Shear Aggregation / Shear Flocculation
+On intense agitation the fine particles in a pulp or sample can aggregate in a process termed  
+shear aggregation or shear flocculation. The agitation speeds required are generally between  
+800 to 3000 rpm but are known to vary from system to system [ 29]. The hydrophobicity and  
+charge of the particles can influence this aggregation. Particles that carry an opposite charge and  
+those with a low or almost zero charge would be expected to aggregate more easily on agitation.  
+Surfaces with a high degree of hydrophobicity can also aggregate more easily on agitation. This  
+aggregation can still occur for particles carrying charges with the same sign if there are strong  
+chemical or hydrophobic interactions between the particles. The intense agitation tends to force  
+the particles  together,  which  can  overcome  the repulsion  between the  particles.  Once  this  
+repulsive barrier is overcome the particles remain aggregated due to the strong chemical or  
+hydrophobic interactions. Neutral oils like kerosene can also be added to help strengthen and  
+form these aggregates.
+In principle it could be possible to selectively aggregate particles of a certain mineral with low  
+surface charge from other minerals with higher charges by the technique of shear aggregation. It 
+is likely that the particles with a lower surface charge would require lower levels of agitation for  
+aggregation  than  the  particles  with  higher  charges.  This  means  that  potentially  we  could  
+selectively aggregate particles by varying the agitation speed. The aggregates or flocs once  
+formed by shear aggregation/flocculation are normally tough enough to withstand the turbulence  
+in mineral processing plants, and if hydrophobic they can be floated [ 22]. Long periods of intense  
+agitation tends to produce more compact, rounded aggregates or flocs. If the agitation is too  
+intense the larger aggregates or flocs will be broken up. 
+Shear aggregation can be used to attach the fines to the coarser particles in carrier flotation. The  
+aggregates  or  flocs  produced  by shear  aggregation  can  float  at  rates  similar  to  those  of  
+intermediately sized particles. 
+High intensity conditioning (HIC) is known to enhance the flotation recovery, grade and kinetics of 
+the fine particles [references within 31]. One HIC mechanism thought to increase the flotation  
+rate is cleaning of gangue slimes  and oxidation products from  the surface of  the valuable  
+particles. Another proposed mechanism is the selective agglomeration of particles through HIC,  
+which increases the effective size and floatability of the valuable fines [ 32].
+HIC  has  been  shown  to  increase  the  flotation  rate  of  fine  galena  at  higher  collector  
+concentrations without compromising galena selectivity against sphalerite [ 32]. The flotation of 
+17gold fines in tailings is also improved using HIC prior to flotation [ 31]. In the case of these gold  
+fines the flotation selectivity and kinetics were enhanced as a result of aggregation of gold fines  
+followed by carrier flotation.
+HIC has also been shown to improve the flotation of pentlandite from a nickel ore [ 33]. HIC 
+increased the flotation rate of the 8 to 75 μm particles but did not increase the flotation rate of  
+particles less than 8 μm. The changes observed after HIC were similar in many ways to those  
+observed after desliming of the slurry which had a greater beneficial effect than HIC. The HIC  
+was able to remove hydrophilic gangue slimes from both the pentlandite and gangue mineral  
+surfaces [34]. The amount removed depended on the agitation intensity and time.
+1.3.4 Bubble Size
+The average bubble size in existing flotation cells is of the order of 655  μm [23]. There is 
+evidence that bubble-particle collection efficiency and flotation rate increase with decreasing  
+bubble size [23,  26]. These observations are consistent with the increase in available bubble  
+surface area which occurs as bubble size decreases. In addition, the pressure inside a bubble  
+increases inversely with bubble diameter, so smaller bubbles present air in a higher energy state  
+than large bubbles. The high energy air in small bubbles is more likely to interact with surfaces in  
+order to produce  a  lower  energy particle-bubble combination.  As  previo usly stated  the  low  
+flotation rate and recovery of fine hydrophobic particles is predominantly due to their low collision  
+efficiency with bubbles. A decrease in the bubble size can increase this collision efficiency and  
+therefore increase flotation rates. The flotation rate of fines is highest using small bubbles (less  
+than 100 μm) at low to moderate stirrer speeds [ 23]. The Concorde Cell uses smaller bubbles  
+and has recently been reported to give a flotation rate of the order of one hundred times that of a  
+mechanical cell [35]. 
+There are some disadvantages to using small bubbles; these include long flotation times and  
+increased gangue entrainment [ 26]. The higher water recoveries when small bubbles are used  
+lead to the higher gangue entrainment. To obtain high grades it is essential that as much of this  
+entrained gangue as possible drains back into the pulp from the froth. For example a high grade  
+iron ore concentrate from fines was obtained using cationic reverse flotation with controlled use  
+of wash water to remove the entrained fine iron mineral particles from the froth [ 36]. 
+1.3.5 Separate Flotation of Fines
+The reason that fines do not float well in many process circuits is because they are mixed with  
+coarse particles and composites. Fine and coarse particles typically do not float well together in  
+the same cell because they each require different conditions for optimum flotation. Fines lost to  
+tails are often there because they were not made hydrophobic enough, either through insufficient  
+18collector or through a hydrophilic surface coating. The degree of hydrophobicity required for  
+maximum floatability tends to increase with particle size [ 21]. Where a range of sizes is present  
+there is no single collector addition which will be appropriate for all the sizes. A certain surface  
+coverage will be required to attain a level of hydrophobicity to give good floatability. The high  
+coverage requirements of the coarsest particles may not be met when a substantial amount of  
+fines are present. This fine material will consume reagent in proportion to its increased surface  
+area. For fine particles the critical level of hydrophobicity required for flotation is easily exceeded,  
+since coverages of less than 5 % are sufficient to produce recognisable flotation [ 21].
+Fines can be floated to high recoveries if attention is paid to the surface chemistry, solution  
+chemistry, classification and materials handling. For example, the use of clean mineral surfaces  
+produced with inert grinding media can transform the flotation performance of fines compared  
+with conventional grinding with steel media [ 37]. The selection of a suitable flotation environment  
+is a compromise between the differing requirements of all the particles present. This means that  
+the conditions will not be optimal for any of  the individual sizes including the fines. These  
+limitations can be alleviated by using separate circuits for fine, intermediate and coarse particles  
+[21].  Optimising  the  collector/depressant  combination  for  both  fine  and  coarse  fractions  in  
+different streams has been shown to improve the flotation rate coefficient [reference in 32].The 
+use of separate circuits has been generally overlooked in the push for circuit simplification and  
+the use of larger flotation cells. There is also the possibility of using small bubbles to float fines in  
+one circuit and a separate circuit using larger bubbles for the flotation of the intermediate/coarser  
+particles [23]. 
+There are operations, for example the Xstrata McArthur River and Mt Isa operations, that are  
+able to efficiently float their fine material [ 37]. The high recoveries are not due to changes in  
+flotation mechanisms but rather getting the right degree of liberation and adjusting the surface 
+chemistry. The surfaces  of  fines are  sensitive to oxidation and surface  precipitates. These  
+operations use inert grinding media to produce clean surfaces  and they minimise the time  
+between grinding and flotation to increase the flotation efficiency of the fines.
+1.3.6 Magnetic Methods
+Magnetic carrier methods use the adsorption of magnetic reagent or the attachment of magnetite  
+onto the particles to be separated to make them more magnetic. A particle with as little as 1 % or  
+less of a magnetic material such as magnetite can show a dramatic increase in its magnetic  
+response. Calculated volume contents of only 0.01 to 0.1 % of magnetite were enough to make a  
+normally non-magnetic material become sufficiently magnetic to be separated by a conventional  
+high intensity magnetic separator [ 38].
+There are two methods for attaching magnetic materials to non-magnetic particles [ 38]. One 
+19involves a magnetic reagent which is a composite of magnetic materials and surface active  
+agent. The surface active agent has functional groups that can interact with magnetic and non-
+magnetic materials. The second method involves hydrophobic magnetic agglomeration. This  
+requires highly selective surfactants or chemicals with functional groups with an affinity for the  
+target surface in a mixture. Both the magnetite carrier and particles to be attached need to be  
+made hydrophobic. Finally high agitation is used to induce hydrophobic agglomeration between  
+the  particles.  The  magnetic  carrier  method  has  been  shown  to  increase  c oal recovery  by 
+approximately 5 % over conventional flotation [38].
+Magnetic flocculation is another technique that can be used to aggregate mineral fines [ 39]. Fine 
+magnetic particles are induced to aggregate or flocculate making them easier to float. For the  
+particles to aggregate they must be at least partially magnetic. Ferromagnetic particles, such as  
+magnetite, are easily magnetised and flocculate using relatively low intensity magnetic fields. For  
+paramagnetic particles which are not as easily m agnetised, the application of high  intensity 
+magnetic fields is required to induce flocculation. Diamagnetic materials which are non -magnetic 
+do not flocculate on application of a magnetic field. 
+Plant trials have shown that magnetic flocculation can improve the recoveries of fine chalcopyrite  
+and gold [40, 42], pentlandite [41] and sphalerite [42]. The increased recoveries occur in the fine  
+fractions (less than 20 μm), with improvements of approximately 2 % and 3.5 % for copper and  
+gold,  respectively;  0.85%  for  pentlandite  and  3.8%  for  sphalerite.  This  particular  magnetic  
+conditioning method (ProFlote ®) uses permanent rare earth magnets to generate the magnetic  
+field and is currently in use at some sites. 
+Other  examples  where  magnetic  methods  have  been  applied  include  iron  oxide/silica  and  
+gibbsite/quartz systems.  Haematite and magnetite can co-flocculate whilst leaving the silica  
+dispersed. The resultant magnetic flocs c an be magnetically separated from the silica [ 38]. Fine 
+gibbsite (2 to 20 μm) was co-flocculated with magnetite using a high molecular weight anionic  
+polyacrylamide while the quartz remained dispersed. A magnetic separator was used to recover  
+the gibbsite at a recovery of 87.1 % from a feed grade of 39.6 %.
+A factor that should be kept in mind with any of these magnetic methods  is the potentially high 
+capital and operational costs involved with maintaining a high intensity magnetic field.  Although 
+where permanent rare earth magnets are used to generate the magnetic fields (e.g. ProFlote ®) 
+the operational costs would be reduced.
+1.3.7 Other Potential Methods
+A method not involving a particle-bubble collision step has been suggested. Using this method a  
+mixture of graphite (hydrophobic) and quartz (hydrophilic) particles were selectively separated by  
+direct contact with an air-water interface [ 43]. It was shown that a scale up of the process from a  
+20simple batch to a continuous process was possible. For the continuous process a satisfactory 
+selectivity for this one stage separation was obtained with the efficiency dependent  on the area of 
+the air-water interface.
+The vacuum or pressure release flotation method also does not involve a direct bubble-particle  
+collision mechanism. In this case the gas is precipitated onto the particle to be floated. This  
+method can be used to float very fine particles and has been used to remove fine solids in water  
+clarification. At the moment there is no evidence that it is successful with selective separations  
+[21]. 
+A  method  involving  the  use  of  vibration  to  improve  flotation  performance  has  also  been  
+suggested. This technique utilises high frequency vibrations on a deformable wall in contact with  
+the pulp to reduce the flotation time and quantity of air expended [ 44]. This technique has the  
+potential to  increase  the  agglomeration  and  particle-bubble  collision  efficiency  of  the  fines  
+present.             
+Finally, increasing  the  flotation  time  will  normally  increase  the  fines  recovered  [ 21].  The 
+disadvantage is that it will also increase the amount of fine gangue recovered. Extending the time  
+of flotation  was reported to increase  the amount of fine pentlandite recovered but  reduce the 
+selectivity. Changing the type of collector and doubling its concentration in  a conditioning stage  
+for fine pentlandite did not improve the recovery. The fine pentlandite was quite non-responsive  
+and if very high recoveries were to be achieved there appeared to be  no choice but to float for a  
+long time which would have decreased  the grade [45].
+1.4. Sulfide Surface Oxidation
+Sulfide mineral surfaces are heterogeneous in nature [reference in 7] and have both hydrophilic  
+and hydrophobic sites on the surface. The relative amounts of these sites will affect the contact  
+angle and floatability of the mineral. The sulfide surface may also be fractured or fissured giving  
+both a chemically and an energetically heterogeneous surface. An example is the chalcopyrite  
+surface which can have both hydrophobic patches (sulfur based entities) and hydrophilic patches  
+(hydroxides) [46]. The floatability will be determined by the relative amounts of these hydrophobic  
+and hydrophilic patches on the mineral surface. There may also be differences between the  
+relative amounts of these hydrophobic and hydrophilic patches with particles of varying size. If  
+more  hydrophilic  groups  are  present  on  the  fine  particles  compared  with  the  intermediate  
+particles then, even with a high collector concentration, the net hydrophobicity of the fine particles  
+could be less than the intermediate particles [ 32].
+Sulfides are not stable in air and are readily oxidised. Thermodynamically they are expected to  
+react immediately on exposure to air. The oxidation rate for sulfides depends on the surface area  
+21available for reaction, the type and composition of the sulfide, the solution pH, the temperature  
+and the partial pressure of oxygen [ 7]. The oxygen concentration in a pulp varies depending on  
+where it is in the process. For example it is often low after grinding in a steel mill and higher after  
+being pumped or aerated. It has been reported that the oxygen concentration can vary from  
+about 5 mg/L up to 10 mg/L [ 3].
+It is believed that the early stages in oxidation of a sulfide mineral may involve the progressive  
+removal of metal atoms leaving behind either a metal deficient sulfur-rich surface layer or an  
+elemental sulfur layer [ 1]. These sulfur rich areas would make the surface hydrophobic and can  
+lead to the collectorless flotation of some sulfides such as chalcopyrite [ 8, 19]. This effect is most 
+pronounced  at  acidic  pH  values  and  most  studies  show it  does  not  occur  under  alkaline  
+conditions. In descending order, the collectorless floatability for some sulfides has been given as  
+chalcopyrite, galena, pyrrhotite, pentlandite, covellite, bornite, chalcocite, sphalerite, pyrite and  
+arsenopyrite [7]. The floatability of the first four sulfides is strong and differences are only slight.  
+The last four all show very little collectorless floatability, with their relative ranking dependent on  
+the quantity of frother present. In general, the less easily oxidised the sulfide the more readily it  
+floats without a collector. However, we have found some literature results which do not fit with the  
+above trend relating the 'rest potential' (natural pulp E h) with collectorless floatability [ 7].  The 
+excessive oxidation of the sulfur rich areas would pr oduce thiosalts and finally sulfate, making  
+the surface less hydrophobic.
+It has been proposed that the dissolved metal atoms from a sulfide mineral re-adsorb onto the  
+sulfide surface as metal hydroxides [ 4, 47, 48, 49]. The adsorption of insoluble or partly soluble  
+metal hydroxides onto the sulfide surface will lead to the surface assuming the surface properties  
+of the hydroxide (hydrophilic) [ 6,  50,  51,  52]. The adsorption of these metal hydroxides  onto 
+sulfide mineral surfaces in plant pulps interferes with the flotation and in general they interact  
+indiscriminately with the minerals [ 46].
+The  depressant  effects  of  insoluble hydroxides  have  been known  for  some  time  [ 53].  For 
+example chalcopyrite and pentlandite are easily depressed by metal hydroxides [ 46, 54].  For the 
+chalcopyrite  complete  floatability  could  be  restored  at  pH  9  by  adding  enough  
+ethylenediaminetetraacetic acid (EDTA) to dissolve the metal hydroxides formed. The metal  
+hydroxide formed could also be dissolved by acidifying the solution. The xanthate added to these  
+chalcopyrite systems more or less behaved in a conventional manner interacting with those  
+surfaces not coated by insoluble metal hydroxide [ 46]. In the case of  pentlandite, samples  
+oxidised for the longest period of time showed the lowest pentlandite recovery [ 54]. Also samples 
+oxidised after grinding showed significantly greater losses of 8.0 to 24.6% pentlandite compared  
+with 0.8 to 3.5% for those oxidised before grinding. This may have been because the grinding  
+exposed clean and less oxidised surfaces. As well as the reduced pentlandite recovery after  
+oxidation a higher pyrrhotite recovery was obtained for the oxidised samples. The oxidation of  
+22pentlandite leads to the enrichment of iron and oxygen at the surface [ 55,  56]. The rates of 
+oxidation for nickel and iron differ, with iron being more rapidly oxidised in the early stages of  
+oxidation. 
+The type of grinding media used can affect the degree of metal hydroxide contamination of the  
+sulfide. The iron hydroxide formed from the oxidation of steel grinding media can depress the  
+mineral floatability. The galvanic coupling of the steel grinding media with the sulfide minerals  
+can accelerate this oxidation of the steel media, as will increasing the ionic strength of the  
+solution  [57].  Using  a  more  inert  grinding  media  can  prevent  this  iron  hydroxide/oxide  
+contamination of the mineral surfaces. For example the surface of galena after grinding with a  
+high chromium alloy steel media was more hydrophobic than when a high carbon steel media  
+was used [57]. The use of ceramic media rather than steel media can reduce this contamination  
+even  further.  An  example  is  the  greatly  improved  copper  grade-recovery  relationship  and  
+selectivity against pyrite using inert grinding media [ 57]. 
+It has been reported that pyrite, unlike other sulfide minerals,  does not show a significant  
+difference when milled using a mild steel or more inert grinding media. Since pyrite is the most  
+readily oxidised  of  the  common  sulfide  minerals  it  has  been  suggested  that  the  reducing  
+conditions created in mild steel mills have little effect on the subsequent behaviour of pyrite . 
+Because pyrite is easily oxidised, the selectivity of pyrite in the presence of other sulfides has  
+been enhanced through the use of nitrogen [ 2].
+Due the larger available surface area of fine materials they are particularly susceptible and  
+influenced by surface oxidation. Fine particles are also less subject to diffusion limitations which  
+can slow down the transport of oxygen and other dissolved species during oxidation reactions.  
+For these reasons, fine particles  can undergo a higher level of oxidation which results in the  
+eventual adsorption of more metal hydroxide species. This makes fine particle flotation more  
+susceptible to iron contamination emanating from grinding media [ 20,  51]. It has also been 
+reported that the iron oxidation species from grinding media show a greater affinity for fine  
+particles [57]. This acts to further depress the flotation of these fine sulfides and is in addition to  
+the already lower flotation recoveries due to their size.
+The flotation of fine fractions can be increased by not using mild steel grinding media [ 20, 37, 
+57]. An example is the increased recovery of fine chalcopyrite particles using ceramic media [ 57]. 
+In this case, a lack of adsorption of thiol collectors onto chalcopyrite is the main reason for the  
+depression of chalcopyrite by the iron hydroxide. The hydrophilic iron hydroxide layers on the  
+chalcopyrite do not interact with the collector at neutral to alkaline pH. 
+A reversal of this detrimental oxidation of the sulfide mineral surface can be achieved in some  
+cases  using sulfidisation  [ 58].  Sulfide and hydrosulfide ions  in solution could  potentially be  
+oxidised to elemental sulfur and polysulfides, depending on the pH, and these could deposit onto  
+23the mineral surface making it hydrophobic. The sulfidisation of an oxidised chalcopyrite surface  
+leads to formation of copper sulfide like species as well as polysulfides and elemental sulfur on  
+the  surface.  However,  the  complete  remediation  of  the  oxidised  pentlandite  surfaces  by  
+sulfidisation was  not readily achievable. When sulfidised  in the presence  of  other oxidised  
+sulfides, particularly pyrrhotite, the sulfidisation of adsorbed iron hydroxides formed pyrrhotite-like  
+and possibly pyrite-like surfaces.
+Other potential methods  of  removing  the oxidation products  from  a  sulfide surface  include  
+sonication, attrition by quartz, pH adjustment and the use of complexing species like EDTA [ 59].
+1.5. Zeta Potential
+The zeta potential (ζ) is a measure of the effective charge on a particle as it moves in a solution.  
+When the particle moves, it drags along a close layer of solution and ions. The zeta potential is  
+the field due to the particle charge and the ions in the surrounding layer of  adhering solution 
+within the shear or slipping plane. The shear plane of a particle is commonly considered to be the  
+effective particle surface in a solution. These features are shown in Figure 6.
+The classical electrical double layer model incorporates a layer of strongly bound inner counter  
+ions, called the Stern layer, on the charged particle surface along with a diffuse outer layer of  
+counter ions. This model of the double layer is often referred to as the Gouy-Chapman-Stern  
+model and is shown in Figure 7 along with a typical decrease in the potential with distance from  
+the surface. The shear plane is normally considered to be at or close to the interface of the Stern  
+and diffuse layers. For the thin double layers which occur in concentrated electrolyte solutions the  
+potential decays rapidly over a short distance and so the zeta potential at the shear plane is  
+small. At lower ionic strengths the potential decays over a larger distance and so the zeta  
+potential at the shear plane is larger.
+24Figure 6: Zeta potential of a particle in solution.
+++++++++
+--
+--
+----layer of ionslayer of ions
+  and waterand water
+particleparticle
+shear planeshear planezeta potential (zeta potential (ζζ))
+The zeta potential can be critical in controlling particle-particle interactions, rheological behaviour  
+and reagent interactions. It can also provide information on the mineral surface chemistry and  
+purity. Zeta potential measurements provide a good way of ascertaining adsorption mechanisms  
+and conditions in systems [ 60]. Modifying the zeta potential is probably one of the best ways of  
+achieving selectivity between minerals with similar surface properties [ 30].
+Bubbles have a zeta potential which will affect the way they interact with mineral surfaces. It has  
+been reported that the zeta potential of micro-bubbles, bubbles with diameters less than 50 μm, 
+ranges from 20 mV at pH 2 to -120 mV at pH 11 [ 61]. Other studies have shown the zeta  
+potential to be negative over this whole pH range [ 62] with a shift to more negative values on  
+addition of sodium dodecyl sulfate [ 63]. Both the particle and bubble zeta potentials can affect the  
+particle-bubble interactions which in turn will influence the flotation. The flotation rate constant  
+was shown to decrease by an order of magnitude as the particle and bubble charge were  
+doubled from 30 mV to 60 mV. In this system both the particles and bubbles had similar positive  
+charges [64]. Increasing the zeta potential magnitudes increased the particle-bubble repulsion  
+making particle-bubble attachment less likely.
+If we neglect oppositely charged bubble and particle surfaces the maximum rate of flotation is  
+obtained when both surfaces have a charge close to zero [ 65]. A zeta potential of close to zero  
+may improve the flotation rate but would increase the agglomeration between different mineral  
+species. As a rough rule for solutions of low salinity, zeta potentials in the range -15 to 15 mV are  
+not sufficient to cause much repulsion [ 66]. We therefore require a zeta potential high enough to  
+prevent agglomeration but not so high as to prevent bubble coalescence. A charge of 20 mV has  
+25Figure 7:  Gouy-Chapman-Stern model and change in potential with distance from surface.
+been suggested to be adequate for this purpose [ 23].
+The zeta potential can give an indication of changes that may be occurring to the surface. For  
+sulfide minerals the surface adsorption of metal hydroxides/oxides will alter the zeta potential [ 51, 
+52, 67, 68]. The zeta potentials will shift towards those of the metal hydroxide/oxide in proportion  
+to the amount present on the sulfide surface. The zeta potential will also have an effect on the  
+adsorption of collector. For example cationic collectors would preferentially adsorb onto negative  
+surfaces and anionic collectors would adsorb onto positive surfaces. This means that often the  
+adsorption of a collector can be enhanced by modifying the zeta potential, which is typically  
+achieved through adding potential determining ions or pH regulation [ 12].
+Collectors are also able to adsorb onto a surface with the same charge by chemisorption. This  
+involves a specific chemical interaction or bond being formed between the collector and the  
+surface. For example chemisorbing anionic collectors can still adsorb onto a negatively charged  
+surface unless the opposing charges are large. If the opposing charges are large enough the  
+electrostatic repulsion can overcome the chemisorption. Whether collectors are physisorbed or  
+chemisorbed they both have distinct effects on the zeta potential of the mineral [ 60]. An example 
+is the shift of the zeta potential for galena to more negative values on addition of potassium amyl  
+xanthate [28].
+The  zeta  potential  can  be  used  to  determine  the  conditions  which  will  promote  fast  
+agglomeration, settling and filtration rates. The point at which the zeta potential is at its minimum  
+value  (zero)  is  known  as  the  isoelectric  point  (IEP).  It  is  at  this  point  that  the  maximum  
+agglomeration, settling rate, filtration rate and slurry yield value would be expected. In general  
+there is a good correlation between fast agglomeration and this minimum value for several  
+mineral types [13, 66]. The agglomeration of particles will also increase the solid bed porosity  
+which in turn increases its permeability [ 69].
+When more than one mineral is present heteroagglomeration will occur at pH values between the  
+isoelectric points of the two minerals, i.e. heteroagglomeration occurs if the two minerals are  
+carrying opposite charges.  Particle agglomeration can also occur when both mineral surfaces  
+have a small zeta potential (close to the isoelectric point, or in the presence of significant salt  
+concentrations).  When  selective  removal  is  required,  agglomeration  of  the  mineral  species  
+present is undesirable. To prevent this agglomeration, and to prevent the formation of potential  
+slime coatings [70], the surfaces require relatively high zeta potentials of the same sign, greater  
+than 40 mV [22] in magnitude. This gives enough repulsion between the particles to prevent their  
+agglomeration. Agglomeration or sliming often occurs due to the electrostatic attraction between  
+the particles of opposite charge [ 71]. Slime particle surface coverages as low as 10 % can  
+decrease the flotation rate of a sulfide mineral by an order of magnitude [ 72]
+The rheology of the slurry often correlates with the zeta potential, and can be used as an  
+26indicative  measure  of  the degree  of  inter-particle  interaction  or  aggregation  in  a  pulp. F or 
+example the maximum in the slurry yield value has been shown to occur at the isoelectric point  
+for a sulfide mineral system [ 73]. The addition of metal ions, xanthates and slime particles all  
+dramatically affect not only the zeta potential but also the pulp rheology [ 74].
+So  far  we  have  restricted  the  discussion  to  zeta  potential  and  the  resultant  electrostatic  
+interactions. Another important factor is the hydrophobic interaction th at occurs between surfaces 
+at  short  separation  distances.  Aggregation  can  be  controlled  by  both  electrostatic  and  
+hydrophobic interactions. These hydrophobic interactions can be one or two orders of magnitude  
+larger than the electrostatic interactions [ 28]. A hydrophobic interaction was used to explain why  
+the sphalerite zeta potential results do not correlate with the respective settling rate data [ 75]. A 
+hydrophobic force was also used to explain the heteroagglomeration in a sphalerite-silica system  
+[76]. For the sphalerite-silica systems the zeta potentials provided only a partial interpretation of  
+the results. The heteroagglomeration occurred even when both minerals had negative zeta  
+potentials. A hydrophobic attraction was also used to explain the increase in the slurry yield value  
+at low pH in another sphalerite system [ 74].
+When the zeta potential magnitude is low the surface is more hydrophobic. The increased  
+particle-particle agglomeration and bubble-particle attachment at low zeta potentials are often  
+attributed to the hydrophobic interactions between the surfaces.  Often a reduction in the  zeta 
+potential magnitude is required for the particles to  approach  each  other more closely for the 
+hydrophobic interactions to have an effect.
+1.5.1 Pyrite (FeS2)
+The isoelectric point of metal sulfides including zinc, cadmium, lead, nickel, mercury, copper,  
+iron, cobalt, manganese, antimony, arsenic and molybdenum are all estimated to be between pH  
+0.6 to 3.3, with most below pH 2 [ 77,  78]. At pH levels below the isoelectric point the sulfide  
+surfaces will be positive and above the isoelectric point sulfides will have a negative charge, so  
+for most practical applications sulfide minerals have a negative surface. Metal oxides, however,  
+can  be  present  as  either  positive  or  negative  particles  depending  on  the  processing  pH.  
+Compared with metal oxides the sulfides have isoelectric points that are largely independent of  
+the nature of the metal cation in the solid [ 79]. The overall similarity between the various sulfides  
+in the absence of potential determining ions suggests that the surface is dominated by the sulfur  
+surface functional groups. This is in contrast to metal oxides and hydroxides where the surface is  
+typically more stable (not subject to further oxidation) and so the metal oxide has a greater  
+influence on the isoelectric point.
+The zeta potential of an unoxidised pristine pyrite surface is negative over the entire pH 3 to 12  
+range. The zeta potentials and isoelectric points of pyrite, and most other sulfides, are very  
+27susceptible to any changes in surface oxidation. Exposing the pyrite to oxygen results in a  
+reversal of the zeta potential from negative to positive at low pH. The dissolution of iron from the  
+surface followed by electrostatic adsorption of p ositively charged iron species onto negatively  
+charged surface sites on pyrite has been used to explain the zeta potential observations [ 47]. 
+The reversal of zeta potential could also be due to iron hydroxide forming in solution at higher pH  
+values and precipitating on the pyrite surface. The result is a zeta potential trend with pH which  
+above pH 3 approaches that of an iron hydroxide as the pyrite is oxidise d. This means the 
+isoelectric point for the pyrite moves to higher pH values and can be used as an indicator of the  
+degree of surface oxidation. The formation of an oxide or hydroxide film on the pyrite surface  
+makes it less hydrophobic and therefore less likely to float.  Figure  8 shows the typical zeta  
+potential trend with pH on oxidation of a sulfide surface.
+The adsorption of a collector onto the pyrite surface will also affect the zeta potential. The zeta  
+potential becomes more negative with an increasing xanthate concentration [references within 6]. 
+Zeta potential measurements have been used to show that low concentrations of xanthate  
+cannot adsorb readily onto pyrite above pH 6 [ 6]. At pH values greater than pH 6 xanthate is  
+mainly consumed due to the formation in solution and on the surfaces of less hydrophobic ferric  
+dihydroxy  xanthate,  which  leads  to  the  poor  floatability  of  fine  pyrite.  The  zeta  potential  
+relationship with pH for pyrite with and without xanthate was also used to develop a model  
+involving the dissolution of iron from the surface followed by adsorption of iron hydroxide and iron  
+hydroxide xanthate species [ 4]. It was postulated that various iron xanthate and iron hydroxide  
+xanthate complexes are formed and adsorb onto the pyrite surface. These complexes contribute  
+to the flotation of pyrite.
+28Figure 8: Zeta potential trend with pH on sulfide oxidation24681012pHzeta potential (mV)
+Increasing 
+oxidationMetal 
+oxide/hydroxide
+Non-oxidised 
+sulfideFully oxidised 
+sulfide+ve
+-veOften there is only a limited correlation between the zeta potential and the tendency of particles  
+to adsorb organic molecules [ 10,  78]. In the interaction between the pyrite surface and both  
+phosphorylated and low molecular weight organic molecules, the organic anions continue to  
+adsorb when the pyrite surface is negative. In such cases, the adsorption of an organic anion can  
+lead to a more negative zeta potential for the surface [ 10]. Under anaerobic conditions it has  
+been speculated that the interactions between these organic solutes and pyrite are dominated by  
+interactions with specific surface sites (thiol or iron surface sites), and that electrostatic forces  
+were  less  important  [ 78,  80].  In  one  of  the  studies,  dissolved  metal  ions  enhanced  the  
+interactions of the organic species with the pyrite surface [ 80]. This enhancement was attributed  
+to either an alteration in the distribution of thiol and iron groups on the surface or the formation of  
+ternary surface complexes. The shift in the pyrite surface charge to become more positive in the  
+presence of metal ions did not appear to have been considered a significant factor in increasing  
+the adsorption of the organic species. However, we would expect the addition of metal cations to  
+reduce the negative surface charge, and in this way allow an increase in anion adsorption.
+1.5.2 Chalcopyrite (CuFeS 2)
+Like  pyrite  the  zeta potential of  chalcopyrite  is  affected  by the  surface  coverage  of  metal 
+hydroxides  which  increases with pH. The isoelectric point of chalcopyrite  also behaves in a 
+similar fashion to pyrite and  increases with the degree of oxidation [ 48]. The isoelectric point  of 
+unoxidised chalcopyrite is at pH 2 and shifts to higher pH values on oxidation [ 20]. This means 
+that the oxidation of chalcopyrite can result in a zeta potential sign change. This can then affect  
+the adsorption of charged species onto the surface.
+Zeta potential measurements were used in a heteroagglomeration study of chalcopyrite with  
+pyrite [81]. Pyrite and chalcopyrite were both found to have positive zeta potentials up to their  
+isoelectric points. In this particular investigation the isoelectric points of chalcopyrite and pyrite  
+were  pH  5.5  and  pH  2.2,  respectively.  The  higher  than  expected  isoelectric  point  for  the  
+chalcopyrite indicates that the surface may have been partially oxidised. The opposite zeta  
+potential signs for the chalcopyrite and pyrite in the pH 2.2 to pH 5.5 range are the most likely  
+reason for their agglomeration. This agglomeration was not only confirmed by the zeta potential  
+measurements but also small scale flotation tests [ 81]. At pH 10 these two minerals do not  
+heteroagglomerate in the presence of flotation collector. Under these conditions it is quite likely  
+that both the chalcopyrite and pyrite have the same zeta potential sign and would repel each  
+other rather than agglomerate.
+Others have found that information on the oxidation of chalcopyrite, chalcocite, covellite, bornite,  
+enargite and tennantite can be obtained using zeta potential measurements [ 82]. The observed 
+changes in zeta potential with pH are consistent with the presence of a copper hydroxide layer  
+covering a metal deficient sulfur rich surface. The extent of this copper hydroxide coverage  
+29increases with oxidation conditions.
+1.5.3 Pentlandite [(Fe,Ni)9S8]
+There have not been a large number of zeta potential studies involving pentlandite, most likely  
+due to the difficulty of obtaining pure pentlandite samples. In one investigation of a synthesised  
+pentlandite  sample  the  isoelectric  point was  at  pH  4.5,  [ 83]  while  for  another  synthesised  
+pentlandite  an  isoelectric  point  was  found  at  pH  8.6  [ 84].  Like  most  sulfide  minerals  the  
+isoelectric point of pentlandite is likely to increase from a typical unoxidised value of pH 2 to the  
+fully oxidised values associated with iron and nickel hydroxides. The isoelectric points of pH 4.5  
+and pH 8.6 indicate a partially oxidised pentlandite surface. This oxidation of the pentlandite  
+surface shifts the surface charge from a negative value to a slightly positive value at pH 9 [ 85].
+Above pH 4 the zeta potential of the synthesised pentlandite shifted to more positive values after  
+the addition of copper ions [ 84]. The positive zeta potential of the untreated pentlandite was used  
+to rule out an electrostatic interaction with the positive copper ions, with the suggestion that the  
+interaction was chemical in nature. However, electrostatic interactions could well have played a  
+significant role through copper cations  interacting with heterogeneous charged sites  on the  
+pentlandite surface. The copper ions were used in this study to show that they could enhance  
+pentlandite recovery with xanthate ions at pH 4 and 9. Another study also showed that adding  
+copper ions could increase the recovery of fine pentlandite but the addition caused a marked loss  
+of selectivity [14].
+The presence of fine serpentine minerals can interfere with pentlandite flotation [ 85]. The flotation 
+depression caused by slime coatings of these minerals on pentlandite is controlled by the zeta  
+potential differences between the slime and sulfide particles. Unoxidised pentlandite will normally  
+have a negative zeta potential over most of the pH range and would therefore be expected to  
+attract particles with a positive zeta potential. Serpentine minerals such as chrysotile and lizardite  
+have positive zeta potentials up to pH 11 and form slime coatings on pentlandite [ 83, 85]. If these 
+serpentine minerals are made to have a negative zeta potential they do not form a slime coating  
+and flotation is not impeded. The addition of a reagent like carboxy methyl cellulose (CMC) can  
+do this while leaving the pentlandite zeta potential relatively unchanged [ 83]. The introduction of  
+CMC can depress talc and other rock mineral flotation and result in an improvement to de-
+watering and filtering of the concentrate [ 15]. CMC and sodium hexametaphosphate (Calgon)  
+have also been found to remove iron oxide slime coatings from galena and quartz particles [ 72]. 
+Both can reverse  the charge  on the slime  particle leading to a net repulsion between the  
+particles.
+301.5.4 Saline and Hypersaline Process Water
+In flotation plant practice, where high levels of dissolved salts are often experienced, high ionic  
+strengths can influence both particle-particle and particle-bubble interactions. The process water  
+quality is an essential variable to consider when optimising flotation. The process water can  
+contain metal ions like calcium as well as sulfate, thiosulfate, trithionate and tetrathionate. All  
+these  ions  can  influence  the  surface  chemistry  and  floatability  of  minerals  [ 86].  Calcium, 
+thiosulfate and sulfate are all surface active at normal process pH [reference in  86] and can 
+compete with xanthate for adsorption onto the surface of a mineral sulfide like pentlandite. Any  
+residual collector in the process water can also affect the recovery of sulfides [ 87]. Increasing the 
+concentration of simple electrolytes, like sodium chloride, will also have a significant effect on the  
+zeta potential of the particles and bubbles present [ 62, 88, 89]. With a prior knowledge of the  
+species that will be present in solution, particles and bubbles can be made to acquire a desired  
+sign and magnitude of charge by adding the required amount of appropriate salts.
+Flotation in a 10 % salt solution has been shown to promote the flotation of a fine nickel sulfide  
+[90]. Electrolytes affect the flotation of sulfides in three ways: through improved dispersion, when  
+slime coatings are a problem; through enhanced hydrophobicity by modifying the hydration layers  
+around mineral particles and air bubbles; and through altering the water structure in a way which  
+reduces the solubility for many of the slightly hydrophobic organic and sulfide species ("salting  
+out"). The hydration layer is the adhered water/ion layer around a particle or bubble. Typically, the  
+higher the ionic strength, the thinner this hydration layer. High recoveries of fine sphalerite, pyrite  
+and chalcopyrite from the Red Sea (P 80 of 2 μm) were successfully floated at high ionic strength  
+[90].  Other  investigators  have  also  found  saline  water  can  improve  fine  sulfide  flotation  
+[references in 90]. 
+At the Kambalda operation in Western Australia the nickel flotation is 2.5 times faster in circuit  
+water than in local potable water, and the presence of salts in the circuit water was found to be  
+the reason for the increased flotation rate [ 90]. The addition of sodium chloride was found to  
+increase the diffusion of xanthate anions to the particle surface and increases the amount of  
+collector adhering to it. In another investigation using process water containing 77.1 g/L dissolved  
+solids, most of which was sodium chloride, the pentlandite recovery from the fine fraction was  
+slower and 8 % lower than from the coarse fraction for the same flotation time [ 91].
+High concentrations of salt (greater than 0.1 M sodium chloride) can increase the kinetics and  
+yield of coal flotation without the addition of frother or collector [references within 92]. The higher 
+floatability of coal at high ionic strength is not simply due to a reduction in the zeta potential  
+magnitude  and  reduced  bubble-particle  repulsion  [ 93].  Single  bubble  experiments  at  salt  
+concentrations more than 0.01 M indicate that the attractive hydrophobic force between the  
+bubble and coal particle becomes stronger [ 93]. This may be due to "salting out" of the slightly  
+water-soluble organic species which act as natural collectors in coal [ 94] or in combination with  a 
+31reduction in the zeta potential.
+The zeta potentials of coal particles and bubbles are negative in BHP Billiton Mt Keith operation  
+bore water [95]. The bore water contained the following ions at significant levels : calcium, 
+potassium, magnesium, sulfate, sodium and chloride. The predominant species was sodium  
+chloride with a concentration of about 0.7 M. At approximately pH 8 the zeta potential for the coal  
+was reduced from about -20 mV, in 0.001 M potassium chloride, to -7.84 mV in the bore water.  
+The zeta potential of  the bubbles at the same  pH was  approximately -50 mV in 0.001 M  
+potassium chloride. The reduction of the zeta potential magnitude at high electrolyte levels will  
+reduce  the  repulsive  electrostatic  interaction.  This  means  that  the  hydrophobic  force  will  
+dominate the bubble-particle interaction and enable bubble particle attachment to occur and a  
+better flotation response. 
+Improved flotation performance in saline water has been attributed to a greater number of small  
+stabilised bubbles and a reduction of the particle-bubble electrostatic repulsion [ 95, 96, 97]. The 
+bubble stabilisation effect at high salinities means that potentially less frother is required. The  
+flotation performance is not always improved at high salinities. High ionic strengths result in  
+greater froth stabilities which increases the mass pulls and water recoveries. The higher water  
+recoveries at high ionic strength introduce more gangue into the final concentrate and therefore  
+can lower the grade [ 98, 99].
+1.6 Rheological Measurements
+Rheological measurements provide us with an insight into the handling properties of a material.  
+The rheology of  a sample is determined by the interparticle interactions and these can be  
+influenced  by the  zeta  potential.  Therefore  modification  of  the  zeta potential can  alter  the  
+rheology of a slurry or dispersion. As part of the current project, the rheological properties of yield  
+stress, viscosity and elasticity were compared with the zeta potential results.
+The yield stress is the minimum force required to cause the sample to flow. This can give an  
+insight into the strength of the interparticle interactions. A previous investigation on a sulfide  
+slurry has shown a correlation between yield stress and zeta potential [ 100]. In general, as the 
+zeta potential magnitude decreases the yield stress increases. Similarly, the viscosity of the  
+system can give an indication of the strength of the interparticle interactions. Like the yield stress  
+the viscosity would be expected to increase as the zeta potential magnitude decreases. This is  
+due to the reduced electrostatic repulsion between the particles.
+As well as the yield stress and viscosity the elasticity of a system is also affected by the nature of  
+the interparticle forces. The elasticity is normally described by the elasticity or storage modulus,  
+G', which relates to the total energy stored in the elastic contributions. The loss or viscous  
+32modulus G” relates to the dissipated energy due to material flow. 
+In general, the larger the G' value the more a material acts as a solid, and tends to retain its  
+shape when deforming forces are removed. Under these conditions, bonds tend to be deformed  
+but not broken. On the other hand, the larger the G” value, the more the material acts as a 'thick'  
+liquid, with flow being increasingly hindered as the magnitude of G” increases. Even at very high  
+G”, deformation causes flow and irreversible changes to local linkages at a microscopic scale, as  
+well as changes to shape at the macroscopic scale. In aqueous slurries this usually means that  
+hydrogen bonds are being broken.
+Both the elasticity modulus G' and the viscous modulus G” can be determined by dynamic  
+oscillation measurements. Elasticity measurements can provide a great deal of information about  
+the interparticle interactions within a slurry or dispersion including those of flocculated systems  
+[101, 102]. Elasticity measurements have been used to determine the interparticle interactions  
+during dewatering of flocculated kaolinite dispersions [ 103]. Faster dewatering occurred at higher  
+values of G'. It was suggested that the G' potentially could be used as a diagnostic tool for  
+predicting the relative effectiveness of flocculants.
+Parallel data on both rheological properties and zeta potential will provide more comprehensive  
+and useful information on  the systems to be investigated. The rheometer used for this work  
+provided much more information than currently available from conventional viscometers, through  
+both its higher sensitivity and the ability to measure slurry elasticity. Slurry v iscosity and yield 
+stress measurements were correlated with zeta potential. The rheometer provided information on  
+the  strength  or  degree  of  any particle  agglomeration  as  well  as  experimental  evidence  of  
+changes  occurring within the slurry. There are few detailed comparisons  between the zeta  
+potential and rheological properties for systems approaching industrial process conditions.
+ 
+332. EXPERIMENTAL
+2.1 Zeta Potential and Sizing
+The  zeta  potential  and  particle  sizing  measurements  were  recorded  using  a  Dispersion  
+Technology DT1200 electroacoustic spectrometer, shown in Figure 9. The measurements were  
+conducted under ambient conditions at temperatures between 24 to 27 °C. Typically 200 mL of  
+sample was continually pumped around the DT1200 sample chamber using a peristaltic pump.  
+Most samples had solid loadings between 15 to 20 weight percent and were prepared in either  
+deionised  water,  sodium  chloride  solution  or  process  water.  The  sodium  chloride  solution  
+concentrations ranged from 0.1 M up to 3 M. The dispersions were all sonicated for 5 minutes  
+and pumped around the DT1200 sample chamber for approximately 5 minutes prior to any  
+measurements. For the sizing measurements a  P80 size (80% of particles by mass less than this  
+size) was used to determine whether a change in the particle size distribution had occurred.
+For increased zeta potential accuracy the background due to the ions present was subtracted  
+from the total recorded signal. This background subtraction becomes essential for background  
+electrolyte levels greater than 0.1 M. The background was recorded either by collecting the  
+supernatant at the end of the experiment or by using the solution the slurry was prepared in. The  
+supernatant was collected by centrifuging at 4000 rpm for 10 minutes or allowing the solids to  
+settle  then decanting the clear supernatant.  T he zeta potentials  in  this  report  have had a  
+background correction applied as well as adjustments for the variations in sound speed, density  
+and viscosity differences between the various background solutions used. The zeta potentials for 
+a single point reading  were typically measured to a standard deviation of 0.2 mV or less.
+34Figure 9: DT1200 electroacoustic spectrometer and zeta potential probe.
+2.2 Rheology Measurements
+The rheology measurements were performed on a TA Instruments AR-G2 rheometer using a  
+temperature  controlled  double  concentric  cylinder  system.  The  measurements  were  all  
+conducted at 25°C with samples transferred from the DT1200 to the rheometer. Shear stress  
+versus shear rate, dynamic oscillation and viscosity versus time measurements were run. From  
+these measurements the  Casson yield points, viscosities and elasticities of the slurries were  
+determined.
+2.3 Materials
+Sulfide ore and process water samples were supplied by the sponsors. The sulfide samples used  
+included mill feed ore, drill core samples, cleaner-scavenger feed and sulfide concentrate. A high  
+purity pyrite sample from Huanzala, Peru was also used and supplied by Ward's Natural Science  
+Establishment. A chemical analysis of the sulfide samples was conducted by ALS Minerals using  
+sodium peroxide fusion with ICPAES/ICPMS finish. The major species are given in Table 2. The 
+calculated purity values in the Table are for either pyrite, chalcopyrite or pentlandite and are  
+based on the analyses and ideal chemical formulae for each sulfide. The process water samples  
+were analysed by ALS Environmental using ICPAES/ICPMS, titration, chloride discrete analyser  
+and turbidimetric techniques. The results of the process water analyses are given in Table 3.
+Table 2: Chemical Analysis of Sulfide Samples
+Sample%purity*%Fe%Cu%Ni%S%SiO2%MgO%CaO%Al2O3
+PYR-19648.20.164<0.00551.3<0.20.010.270.05
+PYR-22.410.55<0.0050.0081.3146.23.817.8313.40
+CHALC-126.423.49.130.03122.236.90.141.962.55
+CHALC-270.831.424.50.02634.91.60.160.230.40
+CHALC-377.224.926.70.05727.710.00.222.300.13
+PENT-18.214.000.2023.387.4531.433.80.781.20
+PENT-28.557.50.8273.4734.22.00.060.060.59
+PENT-3#20.828.30.2728.5418.9524.74.393.783.37
+PENT-43740.20.31315.1034.22.70.391.940.66
+PENT-551.540.80.13621.136.73.30.551.280.66
+ * %pyrite for PYR-1 and PYR-2 samples, %chalcopyrite for CHALC-1, CHALC-2 and CHALC-3 samples 
+and %pentlandite for PENT-1, PENT-2, PENT-3, PENT-4 and PENT-5 samples.
+# -212 μm sieved fraction. 
+35Table 3: Chemical Analysis of Process Waters
+Analyte UnitsPW-1PW-2PW-3PW-4PW-5PW-6
+Hydroxide alkalinity as CaCO 3mg/L<1<1<1<1<1<1
+Carbonate alkalinity as CaCO 3mg/L<1<1<1<1<1<1
+Bicarbonate alkalinity as CaCO 3mg/L27<130<1105124
+Total alkalinity as CaCO 3mg/L27<130<1106125
+sulfate mg/L23021302490493052505420
+chloride mg/L170010001400436004900049400
+calcium mg/L118072381113602090316
+magnesium mg/L465086245017701770
+sodium mg/L151663861245002800029600
+potassium mg/L148561422394641340
+aluminium mg/L0.070.32<0.1053.6<0.10<0.10
+arsenic mg/L0.001<0.010.01<0.010<0.10<0.10
+chromium mg/L<0.001<0.01<0.01<0.010<0.10<0.10
+cobalt mg/L0.015<0.010.110.5030.11<0.10
+copper mg/L0.0250.240.020.366<0.10<0.10
+iron mg/L0.721.35<0.051.980.34<0.10
+lead mg/L<0.0010.52<0.010.054<0.10<0.10
+manganese mg/L0.114--2.280.290.16
+nickel mg/L0.1810.050.040.1925.790.23
+zinc mg/L<0.0053.96<0.010.07<0.10<0.10
+pH 6.33.97.44.28.07.9
+Conductivity mS/cm5.25.56.9106.3112.7115.5
+The  collectors  used were  sodium  ethyl xanthate (Orica),  potassium  amyl xanthate  (Orica),  
+sodium isobutyl xanthate (Orica) and a modified thionocarbamate (Cytec). A 200 g/L solution of  
+each xanthate collector in deionised water was prepared prior to the flotation tests and stored at  
+approximately 5 °C between tests. The solutions were stored for no more than a week before  
+fresh solutions were prepared. The frother used was methyl isobutyl carbinol supplied by Sigma  
+Aldrich.
+Wherever possible all other chemicals used were of analytical grade and in most cases were  
+supplied by Sigma Aldrich. The non-sulfide solids in this work included 0.5 μm median particle  
+sized haematite and 1 to 5 μm median particle sized silica. Sodium hydroxide and hydrochloric  
+acid solutions were used for any pH adjustments.
+362.4 Milling
+Sulfide ore samples were initially crushed and pulverised to 85% passing 75 μm by ALS Minerals 
+and then stored at -5 to -10  °C until required. Some of the samples received did not require  
+crushing or pulverising and were simply stored until needed. The ore (65 g) was combined with  
+35 mL of either deionised water, sodium chloride solution or process water and milled with 2.25  
+kg of zirconium oxide grinding media (6 mm diameter balls) in a stirred ceramic mill (Figure 10). 
+After 10 minutes of milling at 200 rpm more than 80% of the particles were less than 10 μm. The 
+milled material was then transferred into a beaker using 210 mL of the background solution. This  
+gave approximately 220 mL of slurry for the zeta potential, sizing and rheology measurements.  
+The  weight  percentages  of  the  milled  sulfide  samples  were  determined  using  density  
+measurements and drying small aliquots of the samples. Air was not excluded at any time during  
+the milling or subsequent measurement processes.
+2.5 Flotation
+All flotation tests were conducted using the Metso Minerals Denver D-12 laboratory flotation  
+machine with the 1.7 L capacity stainless steel tank (Figure 11). Solid loadings of 10 or 20 weight  
+percent with a P85 of 75  μm were used for the majority of samples. The slurry volumes were  
+approximately 1 L with the solids in either deionised water, 1 M sodium chloride, 3 M sodium  
+chloride or process water.
+The stirrer speed was 800 rpm; this was sufficient to keep the solids suspended and produce an  
+air flow rate into the tank of approximately 5 L/min. The collector dosages used were either 25,  
+50 or 100 g/t (grams per tonne of solids) and 25 g/t or 100 g/t MIBC was added. The slurries  
+were conditioned with the collector/frother for 3 minutes prior to the introduction of the air and  
+37Figure 10: Stirred ceramic mill with zirconium oxide grinding media.
+commencement of flotation. The pH was adjusted to the required value prior to conditioning  
+using either sodium hydroxide or hydrochloric acid solutions.
+Concentrates were collected after cumulative times of 1, 2, 3, 4 and 8 minutes. The froths were  
+collected by continually scraping the top layer of the froth. The collected concentrates were  
+weighed, dried at 80°C, re-weighed, then a chemical analysis conducted.
+38Figure 11: Denver D-12 laboratory flotation machine with 1.7 L stainless steel cell.
+3. RESULTS
+3.1 Pyrite
+The effect of pH on the zeta potential, particle size and rheology of 20 weight percent pyrite  
+(PYR-1) in deionised water was determined. A summary of the results from pH 3 to pH 12 is  
+shown in Figures 12, 13 and 14.
+39Figure 12: Effect of pH on pyrite (PYR-1) zeta potential in deionised water  34.567.5910.512-10-8-6-4-20
+pHzeta potential (mV)
+Figure 13: Effect of pH on pyrite (PYR-1) P 80 (μm) in deionised water  34.567.5910.5120246810
+pHP80 (μm)The zeta potential and P 80 for the pyrite did not significantly change as the pH was increased. A  
+maximum for the viscosity and yield stress occurs around pH 8. The elasticity of the slurry also  
+showed this same trend and maximum. The increased slurry viscosity, yield stress and elasticity,  
+at high pH, coincide with known lower pyrite recoveries by flotation at high pH [ 6]. A typical 
+recovery curve for pyrite with pH is shown in Figure 14. Particles with a zeta potential magnitude  
+less than 20 to 30 mV will often agglomerate due to a lack of mutual repulsion. Although the zeta  
+potential magnitude for the pyrite was well below 20 mV, which would suggest a high likelihood  
+that  the  particles  would  agglomerate,  the particle  size  measurements  did  not  suggest  that  
+agglomeration occurred.
+As previously shown in Figure  8 the zeta potential for an ideal unoxidised sulfide surface will  
+remain negative over the entire pH range. As the degree of oxidation increases this zeta potential  
+will  shift  towards  more  positive  values,  especially under  acidic  conditions.  The  pyrite  zeta  
+potential was negative across the whole investigated pH range. This is consistent with a pyrite  
+surface that is mostly unoxidised.
+The increases in viscosity, elasticity and yield stress of the pyrite slurry are most likely due to iron  
+hydroxide formation as the pH is increased. The pH at which the maxima occur fits with the pH at  
+which iron hydroxide would begin to precipitate. A small increase in the solids present through  
+precipitation, or the precipitation of these solids on the sulfide surface, are both likely to affect the  
+rheology. The change in the parameters, in particular the yield stress, were not large and this fits  
+with the expected relatively small amount of precipitated solids that would form compared with  
+40Figure 14: Effect of pH on pyrite (PYR-1) slurry yield stress and viscosity. Lines through the points are not  
+mathematical fits and are given to show the trends. Typical trend for pyrite flotation recovery (dashed line).34.567.5910.51200.511.522.5
+048121620
+viscosity
+yield stress
+pyrite recovery
+pHyield stress (Pa)
+viscosity (cP)the total sulfide solids present. It appears that the rheology measurements were capable of  
+picking up this small change while the zeta potential and sizing measurements were not.
+Over a period of time, a small zeta potential change occurred for the pyrite surface in deionised  
+water at pH 10. This shift to slightly more negative zeta potentials is shown in Figure 15 along 
+with the associated particle size (P 80) values. As evident in the Figure, the size distribution did not  
+change significantly. The slight shift in zeta potential with time to more negative values could be  
+due to iron hydroxide being stripped from the pyrite surface as the slurry is pumped around the  
+sample chamber. Even though the zeta potential magnitude has increased, this increase is  
+unlikely to be sufficient to keep the particles fully dispersed and prevent any agglomeration.  
+3.2 Chalcopyrite
+The zeta potentials, particle sizes and rheology of 15 weight percent chalcopyrite (CHALC-2) in  
+deionised water were measured over the range pH 5 to pH 12.  A summary of the results is  
+shown in Figures 16 and 17. The chalcopyrite zeta potential shifts to more negative values as the  
+pH increases. This trend, and the absence of an isoelectric point, is typical of unoxidised sulfide  
+surfaces. The increasingly negative zeta potential at higher pH would be expected to lead to  
+decreased rather than increased particle agglomeration. The magnitudes of the zeta potentials  
+were less than 20 mV over the full pH range, and at this moderate potential particles commonly  
+exhibit at least partial agglomeration. Nevertheless, particle size measurements suggested that  
+agglomeration of the chalcopyrite was minimal, with less than a 0.5 μm P80  increase across the 
+investigated pH range.
+41Figure 15: Zeta potential change with time for pyrite (PYR-1) in deionised water (pH 10)020406080100120-8-7-6-5
+0246810
+zeta potential
+P80
+time (mins)zeta potential (mV)
+P80 (μm)Less surface oxidation is expected to occur for chalcopyrite compared with the pyrite . This higher 
+level of oxidation in pyrite results in a lower initial pH and higher solution conductivity compared  
+with the chalcopyrite system. The higher conductivity will contribute to the reduced zeta potential  
+magnitude for the pyrite system compared to the equivalent chalcopyrite system.
+The changes in elasticity and viscosity which occurred with changing pH for the chalcopyrite  
+slurry in deionised water are shown in Figure 17. The yield stress was very low with values less  
+than 0.1 Pa and the differences in viscosity and elasticity were also small. The decrease for both  
+elasticity and viscosity at high pH could be due to the larger zeta potential magnitude (associated  
+with  a higher  particle  charge).  This  would increase  the electrostatic  repulsion  between the  
+chalcopyrite particles and could lower the viscosity and elasticity. Another possible explanation  
+involves the formation of iron hydroxide. Some iron hydroxide will almost certainly form in these  
+samples as the pH increases. This iron hydroxide, whether precipitated on the chalcopyrite  
+surface or in solution, could affect the rheology. Less of it would form in these chalcopyrite  
+samples compared with the previously discussed pyrite systems. The smaller amount of iron  
+hydroxides formed in the chalcopyrite samples could explain the similar but smaller rheology  
+changes observed for chalcopyrite compared with pyrite.
+The observed yield stress and viscosity for the pyrite slurries were much higher than those  
+observed for chalcopyrite slurries over the whole pH range. This is primarily due to the slightly  
+higher solids content of the pyrite system (20 weight percent solids compared with 15 weight  
+percent) but there are other factors involved. Firstly, the pyrite slurries had a higher conductivity  
+42Figure 16: Effect of pH on chalcopyrite (CHALC-2) zeta potential and P 80 in deionised water4681012-25-20-15-10-50
+0246810
+zeta potential
+P80
+pHzeta potential (mV)
+P80 (μm)due to oxidation of the pyrite. In addition, the greater oxidation of pyrite is likely to have produced  
+a more hydrophilic surface, with stronger water-mineral interactions. Finally, the production of a  
+separate amorphous iron hydroxide phase from oxidation of pyrite could help to bind the minerals  
+and increase the mineral-mineral interactions.
+3.3 Pentlandite
+The zeta potential and sizing measurements for pentlandite samples in deionised water with solid  
+loadings of between 15 to 20 weight percent are given in Figure 18.  The zeta potential and P 80 
+did not significantly change over the investigated pH range. Each of the two pentlandite samples  
+contained significant proportions of pyrite and/or pyrrhotite, which will have affected the zeta  
+potential. The zeta potentials for the pentlandite samples were negative across the whole pH  
+range, which suggests that the surfaces were unlikely to be fully oxidised. The zeta potentials  
+were less negative than similar measurements for pyrite. The major difference between the  
+pentlandite samples and the pyrite samples is the additional presence of both pyrrhotite and  
+pentlandite, which results in an average zeta potential that is closer to zero. This shift to less  
+negative zeta potentials for the pentlandite samples may be related to their oxidation products  
+and the iron hydroxides formed at high pH. The particle size distributions did not significantly  
+change for the pentlandite samples across the pH range and they were similar to the distributions  
+recorded for the chalcopyrite and pyrite samples. The results did not show an increased particle  
+agglomeration at a specific pH.
+43Figure 17: Effect of pH on chalcopyrite (CHALC-2) elasticity and viscosity in deionised water4681012051015
+22.22.42.62.83
+elasticity
+viscosity
+pHelasticity, maxG'(Pa)
+viscosity (cP)The viscosity and elasticity measurements for the pentlandite samples are shown in Figure 19. 
+There were no significant changes in either the viscosity or elasticity with pH. The yield stress  
+values for these samples were all below 0.1 Pa.
+44Figure 18: Effect of pH on pentlandite (PENT-4 and PENT-5) zeta potential and P 80 in deionised water56789101112-10-8-6-4-20
+0246810
+zeta potential
+P80
+pHzeta potential (mV)
+P80 (μm)
+Figure 19: Effect of pH on pentlandite (PENT-4 and PENT-5) elasticity and viscosity in deionised water56789101112012345
+0123
+viscosity
+elasticity
+pHelasticity, maxG'(Pa)
+viscosity (cP)3.4 Haematite and Silica
+Haematite and silica are common in the slimes and gangue associated with the flotation feed.  
+For comparison with the sulfides, the zeta potential, particle size distributions and rheology of  
+haematite and silica slurries were determined. Figures  20,  21 and  22 show the results for 20  
+weight percent haematite and 11 weight percent silica in deionised water. For the haematite, as  
+the zeta potential approaches zero the viscosity increases. The increase in viscosity is due to the  
+reduced repulsion between the haematite particles. However, any reduced inter-particle repulsion  
+resulted in less than 0.2  μm increase in the haematite particle size (P 80), i.e. no significant 
+agglomeration of the haematite particles was observed.
+As the pH was increased from pH 4 to pH 12 for silica, the silica zeta potential shifted to larger  
+negative values and the particle size (P 80) decreased. A greater degree of agglomeration for  
+silica was observed at lower pH where the zeta potential magnitude was smaller. The increase in  
+particle size at low pH was approximately 1.2 μm.
+As the sulfides are oxidised and more iron oxide/hydroxide products are formed or adsorbed onto  
+the sulfide surface the zeta potential trend with pH would be expected to approach the trend for  
+haematite shown in Figure 22. A positive zeta potential under acidic conditions is one indication  
+of a heavily oxidised sulfide surface. The silica surface, like the sulfide surface, had a negative  
+zeta potential across the whole pH range, but the zeta potentials for silica were much larger at  
+high pH than those of the sulfides. The source of the negative zeta potentials for silica are silanol  
+groups (Si-OH) on the surface which can de-protonate to form  Si-O- groups. These silanol  
+groups make the silica surface hydrophilic. The zeta potential for an unoxidised sulfide surface is  
+45Figure 20: Effect of pH on haematite zeta potential and P 80 in deionised water3.5 6.5 9.5 12.5-40-200204060
+0.920.971.021.07
+zeta potential
+P80
+pHzeta potential (mV)
+P80 (μm)also expected to become more negative as the pH increases. This did not occur with the pyrite  
+and pentlandite, probably because of the presence of metal hydroxides in the samples. 
+Based only on the zeta potentials, heteroagglomeration between silica and sulfide particles is  
+unlikely to occur since both have the same charge. Inter-particle repulsion between the silica and  
+sulfide will decrease the chances of the particles combining. This would also be the case for  
+haematite and sulfide particles at high pH. However, at low pH where haematite has a positive  
+zeta potential some heteroagglomeration is possible. A certain amount of heteroagglomeration  
+may also occur in regions where the zeta potential magnitudes are small.      
+46Figure 21: Effect of pH on silica zeta potential and P 80 in deionised water4681012-75-60-45-30-150
+3.754.254.755.25
+zeta potential
+P80
+pHzeta potential (mV)
+P80 (μm)
+Figure 22: Effect of pH on haematite zeta potential and viscosity in deionised water3.5 6.5 9.5 12.5-40-200204060
+91113151719
+zeta potential
+viscosity
+pHzeta potential (mV)
+viscosity (cP)3.5 Effect of Multivalent Ions
+We examined the effects of calcium, copper, zinc, magnesium, iron, carbonate and sulfate ions  
+on the zeta potential of pyrite (PYR-1), chalcopyrite (CHALC-2 and CHALC-3) and pentlandite  
+(PENT-4). In each case, the solids were dispersed in deionised water. The concentrations of the  
+ions added to the milled slurries were 0.032 M (1.3 g/L) calcium, 0.018 M (1.7g/L) sulfate and  
+0.01 M (0.6 g/L) carbonate. These ions were dosed as either calcium chloride solution, sodium  
+sulfate or sodium carbonate solids.  Copper, zinc and magnesium ions were added up to levels of 
+0.25 g/L using metal sulfate solutions. The ferric ions were dosed in at approximately 0.005 M  
+(0.28 g/L) using solid ferric chloride hexahydrate.
+At these concentrations the calcium, sulfate and carbonate ions did not have a large effect on  
+either the zeta potential, particle size or rheology of the pyrite or chalcopyrite slurries. The  
+addition of calcium ions did change the sign of the zeta potential for a pentlandite containing  
+slurry from a negative to a positive value, and these results are shown in Figure 23. The shift of 
+the zeta potential to more positive values is due to the adsorption of either calcium ions, calcium  
+hydroxide cations (CaOH+) or calcium hydroxide solid depending on the pH. A similar zeta  
+potential shift due to calcium was not observed for pyrite or chalcopyrite. The addition of calcium  
+did not have a large effect on either the particle size or rheology of the pentlandite samples.  
+The addition of 0.25 g/L copper, zinc and magnesium ions did not have a large effect on the  
+pyrite zeta potential, particle size or rheology at either pH 7 or pH 10. The addition of copper and  
+magnesium ions also did not significantly affect the chalcopyrite results. The addition of zinc ions  
+at concentrations of 0.25 g/L did shift the zeta potential of chalcopyrite from -7.3 mV to -6.8 mV  
+47Figure 23: Effect of calcium ions on the zeta potential of a pentlandite (PENT-4) containing slurry56789101112-50510no calcium
+calcium added
+pHzeta potential (mV)at pH 7. Zinc ions had the opposite effect on the chalcopyrite zeta potential at pH 10 shifting it to  
+a more negative value, from -11.4 mV to -14.3 mV. The shift in the zeta potential at pH 7 is most  
+likely due to the adsorption of positive zinc/zinc hydroxide cations. At pH 10, the formation of  
+anionic zinc hydroxides and the zincate anion ( Zn(OH) 42- ) can cause the shift to more negative  
+zeta potentials. The slightly more negative zeta potential of sulfides at pH 10 after addition of zinc  
+ions also suggests that the sulfides become less hydrophobic.
+The effect of iron cations on the zeta potential of chalcopyrite (CHALC-3) in deionised water is  
+shown in Figure 24. Approximately 0.005 M (0.28 g/L) ferric ions (Fe3+) were added to the milled  
+sample using solid ferric chloride hexahydrate. The zeta potential shifted to a less negative value  
+and the sample elasticity increased slightly on addition of ferric ions. The increase of the elasticity  
+at the minimum in the zeta potential magnitude is consistent with a stronger interaction between  
+the sulfide particles, due to reduced electrostatic repulsion.
+There are several possible reasons for the shift of the zeta potential to a less negative value in  
+measurement 2. They include the decrease in pH (due to the addition of acidic ferric ions) from  
+an initial adjusted value of pH 9.7 down to pH 5.3. In addition, ferric ions can act as a mild  
+oxidising agent, and oxidation of the sulfide surface could shift the zeta potential to slightly less  
+negative values. Adsorption of the positive ferrous ions (Fe+2) at pH 5.3 onto the chalcopyrite  
+surface would also shift the zeta potential to less negative values. Finally, the slight increase in  
+the ionic strength of the solution would also act to lower the zeta potential magnitude. All these  
+48Figure  24: Effect of ferric chloride hexahydrate addition on chalcopyrite (CHALC-3) zeta potential and  
+elasticity. Measurement 1- pH 9.7 no ferric chloride added, measurement 2- ferric chloride added pH 5.3,  
+measurement 3- pH increased back up to pH 9.7 and measurement 4- pH 10 and 0.3 g haematite added.1 2 3 4-7-6-5-4
+468101214
+zeta potential
+elasticity
+Measurementzeta potential (mV)
+max G'(Pa)factors may have had an impact on the zeta potential of chalcopyrite.
+On adjusting the pH back up to the initial value of approximately pH 10 (measurement 3 in Figure  
+24) the zeta potential shifts back to a value only slightly less negative than the initial value. The  
+increase in pH would cause the precipitation of iron hydroxide. This solid formation did not  
+significantly change the zeta potential, suggesting the precipitate  most  likely formed  in the  
+solution rather than directly on the chalcopyrite surface. If most of the precipitation was on the  
+chalcopyrite surface, a larger zeta potential difference would have occurred. On adding a similar  
+amount of haematite solid as would be expected from precipitation of ferric ions at pH 10 (1.6  
+g/L, measurement 4 in Figure 24), no significant change was recorded. These observations are  
+consistent with pH being the dominant factor in affecting the zeta potential for chalcopyrite, and  
+the iron hydroxide precipitation occurring in the solution rather than on the sulfide surface.
+3.6 Effect of Xanthate, Humate and Quaternary Ammonium Compounds
+The effects of sodium ethyl xanthate and potassium amyl xanthate on approximately 18 weight  
+percent pyrite in deionised water at pH 7 and pH 10 were investigated. Each collector was dosed  
+in at two levels, approximately 240 g/t and 1200 g/t. For both collectors only a small shift in the  
+zeta potential was observed at the higher dosage level. This shift was to a more negative value  
+and only approximately 1 mV. The trends and shifts were the same at either pH 7 or pH 10 and a  
+significant change in the particle size distribution and rheology was not observed.
+The addition of the quaternary ammonium compound cetyltrimethylammonium bromide (CTAB)  
+shifted the zeta potential of pyrite (PYR-1), chalcopyrite (CHALC-3) and pentlandite (PENT-5)  
+samples to more positive values (Figure 25). These samples had a solid loading of approximately  
+20 weight percent and were maintained at pH 10. The results show that the pyrite and pentlandite  
+samples both required an increased amount of CTAB to shift the zeta potential to a positive value  
+compared with the chalcopyrite sample. Given the initial zeta potentials were relatively similar for  
+the sulfides, this suggested that  the CTAB adsorbs more strongly to the chalcopyrite surface.  
+This could be due to an increased hydrophobicity of the chalcopyrite surface compared with the  
+other sulfides. A more hydrophobic surface would be expected to adsorb more of the CTAB  
+compared with a relatively hydrophilic surface.  The concentration required to shift the zeta  
+potential from negative to positive was similar for both the pentlandite and pyrite samples. The  
+pentlandite sample contains a significant amount of iron sulfides which could be a contributing  
+factor  to  the  similarity  of  the  zeta  potential  data  for  the  pentlandite  and  pyrite  samples.  
+Alternatively, the oxidation products present on the sulfide surfaces may be similar for the pyrite  
+and pentlandite  samples, and different for the chalcopyrite.
+49The particle size (P80) increased only slightly with the addition of CTAB, and this increase was  
+only observed at the very highest CTAB concentration of 1000 ppm. The P 80 values for the 
+chalcopyrite and pentlandite samples only increased by approximately 0.2  μm while the P80 
+increase for the pyrite was larger at 2 μm. These results suggest that the addition of CTAB does  
+not cause the unoxidised sulfides to undergo a high degree of agglomeration. Although the  
+particle size did not show a large change, measured values of the viscosity, elasticity and yield all  
+increased as the zeta potential approached a value of zero. The greatest changes were for the  
+chalcopyrite sample and some of these results are shown in Figure 26. This increase could be  
+due  to  the  lower  electrostatic  repulsion  between  the  particles  when  the  zeta  potential  is  
+minimised, and the subsequent formation of a weak structure in the slurry. Although the zeta  
+potential was minimised, an increased agglomeration of the sulfides was not apparent from the  
+sizing data. It is possible that other non-electrostatic forces were acting to keep the particles from  
+agglomerating. In this case, with the addition of CTAB it could have been a steric effect from the  
+CTAB on the surface that acted to prevent the particles from agglomerating.
+Humate had a negligible effect on the zeta potential of the sponsors' ores in 1 M sodium chloride  
+at basic pH. The humate was dosed in at 50 ppm and 200 ppm and the zeta potentials shifted by  
+less than 1 mV towards more negative values. Humate did not significantly change the particle  
+size distribution and only slightly reduced the viscosity, yield and elasticities of the samples. 
+50Figure 25: The effect of cetyltrimethylammonium bromide (CTAB) on the zeta potential of pyrite (PYR-1),  
+pentlandite (PENT-5) and chalcopyrite (CHALC-3) in deionised water at pH 10.02004006008001000-8-5-214710
+chalcopyrite
+pentlandite
+pyrite
+[CTAB] ppmzeta potential (mV)3.7 Effect of Salinity
+Figures  27 and 28 show the changes in zeta potential and particle size (P 80) at pH 10 as the 
+sodium chloride concentration is increased to 3 M. High concentrations of sodium chloride had a  
+significant effect on the zeta potentials of pyrite (PYR-1), chalcopyrite (CHALC-2) and pentlandite  
+51Figure 27: Effect of sodium chloride concentration on sulfide zeta potential at pH 100 1 2 3-6-30369
+pyrite
+chalcopyrite
+pentlandite
+[NaCl] mol/Lzeta potential (mV)Figure  26:  The  effect  of  cetyltrimethylammonium  bromide  (CTAB)  on  the  viscosity  and  elasticity  of  
+chalcopyrite (CHALC-3) in deionised water at pH 10.02004006008001000020406080100120
+02468
+viscosity
+elasticity
+[CTAB] ppmviscosity (cP)
+elasticity, maxG'(Pa)(PENT-4). The zeta potentials shifted from small negative values to small positive values. High  
+sodium chloride concentrations did not have a large effect on the particle size, with only a small 
+increase for the P80 values of chalcopyrite and pentlandite and no change for pyrite.
+The zeta potential of pyrite (PYR-1) with an increasing sodium chloride concentration is pH  
+dependent (Figure 29). At pH 7, increasing the sodium chloride concentration caused an initial  
+shift  to a more  negative value before  the zeta potential became  slightly less  negative  and  
+52Figure 28: Effect of sodium chloride concentration on sulfide particle size (P80) at pH 10
+Figure 29: Effect of sodium chloride concentration on the pyrite (PYR-1) zeta potential at pH 7 and pH 100 1 2 3-15-10-50510
+pH 7
+pH 10
+[NaCl] mol/Lzeta potential (mV)0 1 2 30246810
+pyrite
+chalcopyrite
+pentlandite
+[NaCl] mol/LP80 (μm)remained negative to 3 M. The zeta potentials for the pyrite at high salinities and pH 7 did not  
+differ substantially from that of pyrite dispersed in deionised water. At pH 10, pyrite exhibited a  
+positive zeta potential at high salinity levels, which was most likely due to a charge reversal of  
+negative metal oxide and hydroxide species on the sulfide surface. Metal oxides and hydroxides  
+normally have a positive zeta potential when under high ionic strength conditions [ 88, 89]. Iron 
+hydroxychloride/chloride species at pH 7 may also have contributed to the different zeta potential  
+observations for pH 7 and pH 10 at high salinity.
+A summary of  the results  involving pyrite (PYR-1),  chalcopyrite (CHALC-2) and pentlandite  
+(PENT-4) samples in low and high salinity process waters are shown in Tables 4 and 5. All the 
+samples had solid loadings between 15 to 17 weight percent. The low salinity process water  
+(PW-3) had a chloride concentration of 1400 mg/L while the high salinity process water (PW-4)  
+had a chloride level of approximately 44000 mg/L.
+Table 4: Zeta Potentials of Sulfides in Process Water
+pH*Low salinity process water (PW-3) High salinity process water (PW-4)
+pyritechalcopyritepentlanditepyritechalcopyritepentlandite
+acidic-3.5-9.5 -5.1-5.8
+neutral-7.8-10.1-2.93.43.61.8
+basic-6.8-9.4-2.21.61.61.6
+* Low salinity pH values were pH 4.7, pH 6.6 and pH 10.1 (pyrite); pH 5.7, pH 6.8 and pH 9.7 (chalcopyrite)  
+and pH 7.0 and pH 9.5 (pentlandite). High salinity pH values were pH 4.4,  pH 6.6 and pH 9.7 (pyrite), pH  
+5.3, pH 7.1 and pH 9.8 (chalcopyrite) and pH 6.6 and pH 9.6 (pentlandite).
+Table 5: P80(μm) of Sulfides in Process Water
+pH*Low salinity process water (PW-3) High salinity process water (PW-4)
+pyritechalcopyritepentlanditepyritechalcopyritepentlandite
+acidic3.83.6 6.75.2
+neutral3.83.64.46.65.86.3
+basic3.73.84.775.76.8
+* Low salinity pH values were pH 4.7, pH 6.6 and pH 10.1 (pyrite); pH 5.7, pH 6.8 and pH 9.7 (chalcopyrite)  
+and pH 7.0 and pH 9.5 (pentlandite). High salinity pH values were pH 4.4,  pH 6.6 and pH 9.7 (pyrite), pH  
+5.3, pH 7.1 and pH 9.8 (chalcopyrite) and pH 6.6 and pH 9.6 (pentlandite).
+Generally the zeta potential decreased in magnitude on going from low to high salinity process  
+water for all three sulfide samples. There was also a change in sign for the neutral and basic  
+values. This change in sign suggests that at a specific salinity between these two extremes the  
+zeta  potential would  be  zero  and  at  this  point the  repulsion  between the  particles  will  be  
+53minimised. The higher P 80 values in the high salinity process water indicate a slightly greater  
+degree of agglomeration, most likely due to the reduction in the zeta potential magnitude.
+The trends are also consistent with metal oxide/hydroxides in the samples and on the sulfide  
+surfaces. The positive zeta potentials at neutral and basic pH for the samples in high salinity  
+process water are most likely due to the presence of metal oxide/hydroxides. Under acidic  
+conditions the zeta potential remains negative in the high salinity process water. Under these  
+acidic conditions the oxide/hydroxides are likely to at least partially dissolve leaving a “clean”  
+essentially  unoxidised  sulfide  surface.  The  results  suggest  that  the  zeta  potential  of  an  
+unoxidised metal sulfide surface is less sensitive to changes in salinity than the equivalent metal  
+oxide/hydroxide surface. 
+3.8 Sulfide Ores in Process Water
+Zeta potentials, particle size distributions and rheology of the sponsors' ores were measured in  
+the sponsors' process water. Figure 30 shows the zeta potential results for the investigated pH  
+range. The majority of samples had a solid loading of approximately 20 weight percent.
+The zeta potentials for all the ores in high salinity process water were positive, while zeta  
+potentials in low salinity process water were negative. A positive zeta potential at high salinity  
+was also observed for the sulfides in sodium chloride solutions (see Figure  27). The sodium 
+54Figure  30: Zeta potentials of sponsors' ores in their process water. Low salinity process water (dashed  
+lines), high salinity (solid lines), red (copper ores), blue (nickel ores) and black (pyrite ore).56789101112-12-8-4048 CHALC-1 in PW-2
+PENT-2 in PW-1
+CHALC-3 in PW-3
+PENT-1 in PW-6
+PENT-3 in PW-5
+PYR-2 in PW-4
+pHzeta potential (mV)chloride concentration in the process water appears to be the dominant factor influencing the  
+zeta potential rather than any of the other ions present. 
+The particle size distribution for the ores in process water did not significantly change as the pH  
+was increased. The P 80 increased only slightly, by less than 0.6 μm, as the pH was increased.  
+The rheological properties  of the samples were also similar,  with only small increases in the  
+viscosities, elasticities and yield stress points occurring for most samples as pH increased. 
+The sizing results suggest that large , stable agglomerated particles are not forming in the high  
+salinity process waters. The non-zero positive zeta potential  may help to prevent  significant 
+agglomeration of the sulfides in the saline process waters , but this is unlikely  to be the main 
+factor given the relatively small magnitudes of the zeta potential, i.e. less than 10 mV. The slight 
+increase in the P80, viscosity, elasticity and yield values at the highest pH values may possibly be 
+due to metal hydroxide formation in the slurries , which could influence  all these factors as well as  
+the zeta potential. It is also possible that the pumping and sonication during our measurement of  
+particle size is breaking up weakly held agglomerates, even though these weak agglomerates  
+could still be influencing rheological properties.
+The sulfide content of the ore samples correlated with their zeta potential. Figure 31 shows the 
+change in zeta potential at basic pH (pH 9 to 10) for the varied ore samples in low and high  
+salinity process waters, as well as in 1 M sodium chloride. The overall trend is a shift towards  
+more negative zeta potential values as the sulfur content of the ore increases. The trend towards  
+more negative zeta potential values with increasing sulfur content appears to occur regardless of  
+the salinity.
+Figure 32 shows how the zeta potential changes as the percentage of magnesium and silicon  
+containing gangue material in the ore increases. The zeta potential for all salinities shifts towards  
+more positive values as the percentage of gangue material increases. From these and other zeta  
+potential results obtained during the course of this project it seems that the sulfide surface is  
+negative and relatively insensitive to increases in salinity while the gangue material, including  
+metal oxides/hydroxides, is more sensitive to the salinity. This gangue material has a positive  
+zeta potential at high salinities while an unoxidised sulfide surface would have a negative zeta  
+potential. This means that the zeta potential, typically measured as the average of all surfaces  
+present, can give an indication of the relative amounts of sulfide and gangue  in an ore sample.  
+In general, the more positive the zeta potential, the more gangue is present in the ore and the  
+less sulfide. These opposite charges on the gangue and sulfide surfaces are likely to cause a  
+significant amount of heteroagglomeration between the gangue and sulfide particles.    
+5556Figure 31: Effect of  ore sulfur content on the zeta potential (pH 9 - 10)05101520253035
+-10-8-6-4-202468low salinity process water
+1 M NaCl
+high salinity process water
+%Szeta potential (mV)
+Figure 32: Effect of ore MgO + SiO 2 gangue content on the zeta potential (pH 9 - 10)010203040506070
+-10-8-6-4-202468
+low salinity process water
+1 M NaCl
+high salinity process water%MgO
++%SiO2zeta potential (mV)3.9 Flotation
+3.9.1 Sulfides in Sodium Chloride
+Flotation tests conducted on 10 weight percent pyrite (PYR-1) slurries in deionised water and 3 M  
+sodium chloride are shown in Figure 33. The pH was initially adjusted to approximately pH 12 but  
+this tended to decrease during the flotation. Bo th MIBC frother and a potassium amyl xanthate  
+collector were dosed in at 100 g/t.
+Regardless of whether a collector was used or not, a higher recovery of solids occurred when the  
+solids were in the 3 M saline solution rather than water. Carrying out the flotation at high salinity  
+gave a 4.6 fold increase in recovery with collector and a 3.2 fold increase with no collector. The  
+high  salinity stabilised  smaller  bubbles  and in  general produced  more  froth.  These  factors  
+contributed to the increase in recovered solids due to entrainment. From the water recovery  
+percentages it was determined that the increase in recovery was not just due to increased  
+entrainment. For example, the water recoveries from  the deionised water and 3 M sodium  
+chloride samples were very similar, yet the recovered solids were slightly higher from the more  
+saline sample.
+The addition of the collector increased the recovery of solids in the 3 M sodium chloride solution  
+more than it did in deionised water. In this case the water recoveries from the saline solution  
+were much higher, so a substantial amount of this increase was probably due to entrainment. In  
+57Figure 33: Effect of 3 M sodium chloride on the recovered solids for pyrite (PYR-1) at basic pH, with and  
+without potassium amyl xanthate collector.0 2 4 6 801234DI
+3 M NaCl
+DI + collector
+3 M NaCl + collector
+time (mins)%recovery (solids)the 3 M sodium chloride sample, the solid surfaces could more readily have a positive zeta  
+potential which could increase the adsorption of the anionic collector. The high salinity may also  
+have reduced the solubility of the xanthate, causing some of it to precipitate out onto the solid  
+surfaces present. The increase in the water recovery along with the solids recovery for the high  
+salinity solutions is consistent with the salt causing an increase in froth, which can happen if the  
+frother solubility is decreased slightly. These results suggest that increasing the pH to depress  
+pyrite flotation is not as effective at higher salinity.
+Flotation tests similar to those above were conducted for chalcopyrite and pentlandite in both  
+deionised water and 3 M sodium chloride. For these tests 100 g/t potassium amyl xanthate and  
+25 g/t MIBC were used. The results under basic pH conditions are shown in Figures 34 and 35. 
+For both chalcopyrite and pentlandite more solids were recovered in the froth flotation when  
+using 3 M sodium chloride rather than when using deionised water. This increase in recovered  
+solids is in part due to the slightly increased amount of froth produced in the 3 M sodium chloride  
+and entrainment, but as for the pyrite case this cannot account for all of the increase in the  
+recovered solids.
+58Figure 34: Effect of 3 M sodium chloride on the recovered solids for a chalcopyrite sample at basic pH. 0 2 4 6 8020406080100
+DI water
+3 M NaCl
+time (mins)%recovery (solids)3.9.2 Ores in Process Water
+The flotation of the sponsors' ores were carried out on slurries with solid loadings of 20 weight  
+percent with 25 g/t MIBC frother. The same collectors as those used in the sponsors' processes  
+were used for the tests and included sodium ethyl xanthate, potassium amyl xanthate, sodium  
+isobutyl xanthate and a modified thionocarbamate. The collector dosages used were similar to  
+those used in the sponsors' processes and were in the 25 to 75 g/t range. For each test, the ore  
+was dispersed in either deionised water, 1 M sodium chloride or the sponsors' process water.  
+The effect of 50 g/t humate on the ores in 1 M sodium chloride and process water was also  
+investigated. The metal sulfide recoveries and grades for the ores after a cumulative collection  
+time of 8 minutes are shown in Figures 36, 37, 38, 39, 40 and 41.
+The results suggest a general trend of reduced grade with increasing salinity, and therefore with  
+more positive zeta potentials. As the salinity increa ses, the zeta potential is likely to pass through  
+a point at which it is zer o, where the maximum particle agglomeration would be expected to  
+occur. The small positive zeta potential of the ore in some of the saline backgrounds may not be  
+high enough to fully re-disperse the particles. If the high salinity has caused agglomeration  
+between sulfide and gangue particles, which is quite likely, then the grade would be reduced. The  
+measured zeta potential for the ore samples is an average of the zeta potentials of all the  
+particles present, so it is feasible that heteroagglomeration could occur between gangue and  
+sulfide particles with opposite charges.  It is also possible that heteroagglomeration could occur  
+between oxidised sulfide ores and unoxidised sulfide ores.  
+59Figure 35: Effect of 3 M sodium chloride on the recovered solids for a pentlandite sample at basic pH. 0 2 4 6 802468
+DI
+3 M NaCl
+time (mins)%recovery (solids)The trend in recovery with increasing salinity was not as clear for the ore samples. In many cases  
+the recoveries decreased as the salinity was increased but for some tests it increased. While the  
+lower purity PENT-2 sample gave worse flotation results in the presence of 1 M sodium chloride,  
+the higher purity PENT-3 sample produced better flotation grade and recovery in the presence of  
+1 M sodium chloride. Similarly, the lower purity chalcopyrite CHALC-1 exhibited a poorer flotation  
+separation with 1 M sodium chloride, while the higher purity CHALC-3 produced a good flotation  
+yield and recovery with 1M sodium chloride. In some cases where an increased recovery was  
+observed this could be attributed to a greater amount of froth forming for the more saline  
+samples. Therefore this increased recovery could be partially due to entrainment. In general an  
+increased salinity and overall positive zeta potential for the solids in the ore samples did not  
+appear to increase the recovery.
+The addition of humate decreased the grade and recovery in almost every single case. Humate  
+is  a  surface  active  compound  which  readily adsorbs  onto particle  surfaces.  When  humate  
+adsorbs onto a sulfide surface it will make the surface more hydrophilic, which will reduce both  
+grade and recovery.
+60Figure  36: Recoveries and grades for a pentlandite ore (PENT-2) after 8 minutes of froth flotation in  
+deionised water, low salinity process water (PW-1), 1 M NaCl and 1 M NaCl + 50 g/t humateDI waterprocess water 1 M NaCl1 M NaCl + humate0102030405060
+9101112recovery
+graderecovery(%pent)
+grade(%pent)61Figure  38: Recoveries and grades for a pentlandite ore (PENT-1) after 8 minutes of froth flotation in  
+deionised water, high salinity process water (PW-6), 1 M NaCl and process water + 50 g/t humateDI water1 M NaClprocess waterprocess + humate03691215
+0714212835
+recovery
+graderecovery(%pent)
+grade(%pent)Figure  37: Recoveries and grades for a pentlandite ore (PENT-3) after 8 minutes of froth flotation in  
+deionised water, high salinity process water (PW-5), 1 M NaCl and process water + 50 g/t humateDI water1 M NaClprocess waterprocess + humate048121620
+07142128
+recovery
+graderecovery(%pent)
+grade(%pent)62Figure 40: Recoveries and grades for a chalcopyrite ore (CHALC-3) after 8 minutes of froth flotation in  
+deionised water, low salinity process water (PW-3), 1 M NaCl and 1 M NaCl + 50 g/t humateDI waterprocess water 1M NaCl1M NaCl + humate0255075100
+60708090100
+recovery
+graderecovery(%chalc)
+grade(%chalc)Figure 39: Recoveries and grades for a pyrite ore (PYR-2) after 8 minutes of froth flotation in deionised  
+water, high salinity process water (PW-4), 1 M NaCl and process water + 50 g/t humateDI water1 M NaClprocess waterprocess + humate07142128
+0481216
+recovery
+graderecovery(%pyrite)
+grade(%pyrite)63Figure 41: Recoveries and grades for a chalcopyrite ore (CHALC-1) after 8 minutes of froth flotation in  
+deionised water, low salinity process water (PW-2), 1 M NaCl and 1 M NaCl + 50 g/t humateDI waterprocess water 1 M NaCl1 M NaCl + humate0102030405060
+4548515457
+recovery
+graderecovery(%chalc)
+grade(%chalc)4. DISCUSSION
+The zeta potential magnitudes for all the sulfide samples in this work were below 20 mV. Zeta  
+potential magnitudes less than this are typically considered insufficient to keep the particles from  
+agglomerating. However, the sizing measurements did not show any significant degree of fine  
+particle agglomeration with only small increases occasionally observed at higher pH and high  
+salinities. To have a significant impact on the flotation recoveries of these fine sulfides a four or  
+five fold increase in the median particle size would be required.
+The sulfide particles did not appear to agglomerate to any significant degree even when the zeta  
+potential magnitude was decreased towards a value of zero. The samples during the sizing  
+measurements are continuously circulated around the measurement chamber using a peristaltic  
+pump. It is possible that the pumping of the samples breaks up any agglomerates and keeps the  
+particles dispersed. If this is the case then the fine sulfide particles in the agglomerates are not  
+tightly bound and can be easily broken up. This suggests that any agglomerates formed through  
+modification of the zeta potential may be unlikely to withstand the conditions experienced during  
+processing, in particular those in the flotation cells.
+The rheology measurements showed subtle changes in the samples related to precipitation of  
+metal hydroxide species and some zeta potential changes. The precipitation of metal hydroxides  
+that would occur on increasing the pH increased the viscosities, elasticities and yields of the  
+samples. These increases were not large but did give an indication that changes were occurring  
+within the slurries and on the particle surfaces. The rheometer would often pick up changes  
+before  any  changes  in  the  zeta  potential  were  detected.  Despite  the  small  rheological  
+differences, the rheology of all the sulfide ore samples were generally similar. These similarities  
+could be related to the similar particle sizes and overall zeta potentials of the samples.
+The pyrite, chalcopyrite and pentlandite surfaces were all negative from approximately pH 4 up to  
+pH 12. Chalcopyrite was the only sulfide to show a significant zeta potential shift with pH. The  
+chalcopyrite zeta potential shifted to slightly more negative values as the pH was increased while  
+the pyrite and pentlandite samples did not substantially differ across the whole pH range. Of the  
+three sulfides the chalcopyrite would be unlikely to oxidise to the same degree as the pyrite and  
+pentlandite samples. For mixtures of sulfides, this difference in oxidation behaviour could result  
+in small amounts of iron oxide/hydroxide oxidation products on the chalcopyrite surface. Both  
+pyrite and pentlandite are more prone to oxidation than chalcopyrite, and the oxidation results in  
+iron oxidation products on the particle surface. The pyrite and pentlandite samples would both  
+have higher amounts of ferric/ferrous ions present which would precipitate out as the hydroxide  
+when the pH is increased. These hydroxides, as well as the greater amount of surface oxidation  
+in the pyrite and pentlandite samples, are the most likely cause of the zeta potential not shifting to  
+more negative values when the pH is increased. The chalcopyrite is not as prone to oxidation  
+64and there would be less metal hydroxide formed at high pH, so the surface behaved more like a  
+pristine unoxidised sulfide surface.
+The effect of oxidation of the sulfides appears to be greater than the effect of metal hydroxide  
+precipitation. Direct oxidation of the surface might be expected to lead to more oxidation products  
+directly on the sulfide particle surface, where the oxidation products would have the largest effect  
+on the zeta potential. On the other hand, the precipitation of metal hydroxide at high pH does not  
+necessarily produce as much metal hydroxide localised on the sulfide surface. A significant  
+proportion will precipitate out in the bulk solution and therefore it will not have as large an impact  
+on the sulfide zeta potential and surface chemistry.
+The surface of the sulfide particle is not likely to be homogeneous. There will be patches on the  
+surface that are not oxidised and other patches that contain sulfide oxidation products such as  
+iron oxides/hydroxides. Figure  42 attempts to illustrate the likely heterogeneous surface for a  
+sulfide particle. The surface chemistry of the sulfide will be an average or combination of the  
+various patches that make up the particle surface. For example if a surface is more heavily  
+oxidised and has more oxide patches on it the surface will behave more like that particular oxide.  
+The patches on different sulfide particles will also interact. These interactions are illustrated in  
+Figure 42 by the dashed lines between the particles. The interactions between the patches, on  
+the different sulfide particles, will affect the rheology and agglomeration characteristics. The  
+greater the strength and number of these interactions the increased likelihood of agglomeration  
+and an increased slurry yield, elasticity and viscosity. If these interactions are repulsive in nature  
+65Figure  42: Idealised heterogeneous surfaces for metal sulfide particles. The dashed  
+lines represent possible inter-particle interactions.
+then agglomeration is less likely and the viscosity, yield and elasticity of the slurry will decrease.  
+The zeta potential is one factor that would determine whether these interactions are of an  
+attractive or repulsive nature.
+During the course of this project it was found that the solid loading had a significant impact on the  
+proportion of the sulfide surface that was oxidised. Sulfide slurries that had a lower solid loading  
+exhibited zeta potentials which were typical of a greater degree of oxidation. The initial amount of  
+oxygen  present  for  both  low and high  solid  loadings  would  be  the  same,  but  the  relative  
+proportion of unoxidised sulfide surface to available oxygen increases with higher solid loadings.  
+Therefore, to obtain results closer to those expected for an unoxidised sulfide surface, it was  
+necessary to use a relatively high solid loading.     
+As the salinity was increased, the sulfide zeta potentials shifted in some cases and remained  
+relatively unchanged for others. These differences can be attributed to the degree of sulfide  
+oxidation. For systems with sulfide surfaces which were predominantly unoxidised, the zeta  
+potentials remained relatively unchanged as salinity was increased. For systems where a change  
+in zeta potential occurred with increasing salinity, the sulfide surface was likely to be more  
+oxidised. The zeta potential behaviour for these systems was similar to that expected for the  
+sulfide oxidation products,  i.e. the zeta potentials were similar to that of the metal hydroxides.
+The change in zeta potential behaviour of a sulfide surface with salinity was found to vary  
+depending on the pH. At high pH the zeta potential for a sulfide surface shifted from a negative to  
+a positive value with increasing salinity. This change in zeta potential is attributed to the oxidation  
+and hydroxide products on the sulfide surface. Metal oxides and hydroxides have positive zeta  
+potentials at high ionic strength. At lower pH less oxide and hydroxide would be expected on the  
+sulfide  surface,  and  the  surface  behaved  more  like  an  unoxidised  sulfide  surface.  This  
+predominantly unoxidised sulfide surface showed very little change as the salinity was increased.  
+As well as the “cleaning” of hydroxides from the sulfide surface at lower pH there is another  
+factor that could contribute to these differences. The smaller underlying negative charge for a  
+surface at low pH would attract fewer cations to the sulfide surface. The accumulation of cations,  
+like sodium, near a surface at high ionic strength can have an impact on the zeta potential [ 89].  
+The  salinity could  not  be  used  to  agglomerate  the  fine  sulfides  to  the  extent  required  to  
+significantly increase recovery by froth flotation. In some cases where an increase in recovery  
+was obtained some of this was due to a greater degree of entrainment within the froth. In at least  
+one case where a relatively pure sulfide sample in 3 M sodium chloride was tested a small  
+increase in the recovery that was not simply due to entrainment was obtained. 
+In highly saline solutions smaller bubbles are stabilised and normally more froth is produced. The  
+amount of oxygen in the solution will also decrease as solubility of oxygen decreases as salinity  
+increases. The smaller bubbles produced may help to float more of the finer material and a lower  
+66amount of oxygen in the sample could reduce the amount of oxidation to the sulfide surface. Both  
+these factors may be responsible for the small increase in recovery of sulfides in 3 M sodium  
+chloride. Perhaps the most important factors, however, are the tendency of the potential on  
+negative surfaces to be made positive when in the presence of high salt levels, and the high salt  
+concentration causing the particle surfaces to act as if more hydrophobic.
+The zeta potential of sulfide ores in process and saline waters did show a correlation with the  
+froth flotation recoveries and grades (Figures 43 and 44). The overall trend was a shift to higher  
+recoveries  and  grades  as  the  zeta  potential  shifted  to  more  negative  values,  which  also  
+correlated with less oxidation. These trends were similar to the zeta potential trends with sulfur  
+and gangue content (Figures 31 and 32). In these cases, the zeta potential reflected the changes  
+in the ore rather than itself acting to increase or decrease the flotation recoveries and grades.  
+The zeta potential shifted to less positive values for ores containing a higher sulfur and lower  
+gangue content. Ores with less gangue material and more sulfide simply give better recoveries  
+and grades, and the zeta potential was essentially acting as an indicator of the ore quality. The  
+more negative the zeta potential, the higher the sulfur content and the lower the gangue content  
+of the ore. 
+Similarly, the zeta potential acted as an indicator for the degree of oxidation of the sulfide  
+surface. The more positive the zeta potential the more oxidised the sulfide, and the less well it  
+will be separated by flotation.
+In Figure  44 there are two points that do not fit the general trend of a higher grade with an  
+increasingly negative zeta potential. These points have a zeta potential in the vicinity of -8 mV  
+and have a grade of approximately 10%. These points are from a pentlandite ore (PENT-2)  
+67Figure 43: Comparison of zeta potential and froth flotation recovery data for sponsors' ores020406080100
+-10-8-6-4-202468
+recovery (%)zeta potential (mV)which had the highest sulfur content of all the ores investigated. This ore contains a substantial  
+amount of  non-pentlandite sulfides  such  as  pyrite and pyrrhotite. The  lower than expected  
+pentlandite grade, for this zeta potential, was due to a substantial amount of non-pentlandite  
+sulfides in the recovered solids. The shift in zeta potential to more negative values does not  
+differentiate between the sulfides recovered from an ore into the concentrate. This zeta potential  
+shift only acts as an indicator for the total recovered sulfides and gives no information on the  
+sulfides that may be present in the concentrate.  
+For the less pure or more oxidised ores, an increase in salinity decreased the grade and often  
+the recovery. In most of these cases the zeta potential shifted towards more positive values. This  
+shift to more positive values was probably due to the change in the zeta potential of the gangue  
+material and the oxides on the sulfide surfaces. The zeta potential for the unoxidised sulfides  
+remained a relatively unchanged negative  value  even at  high salinities.  Therefore  the zeta  
+potentials for an unoxidised sulfide surface and gangue surface at high salinities have the  
+opposite charge. This means that these particles could agglomerate under the right conditions  
+and a slime coating of the gangue material on the sulfide surface is possible. This would be a  
+contributing factor to the reduced recoveries and grades with increasing salinity. The other major  
+factor which was mentioned previously was the initial gangue content of the ore. The more non-
+sulfide gangue present, the more positive the zeta potential for the ore and the lower the grades.
+68Figure 44: Comparison of zeta potential and froth flotation grade data for sponsors' ores020406080100
+-10-8-6-4-202468
+grade (%)zeta potential (mV)5. CONCLUSIONS
+Adjusting the salinity and pH did not cause the agglomeration of fine sulfide particles to a size  
+where a significant improvement in recoveries and grades would occur. Significant increases in  
+salinity reduced both recoveries and grades for most sulfide ores, although the increased salinity  
+enhanced the flotation of at least two higher grade ores. 
+In  saline  and  hypersaline  process  water,  gangue  particles  have  the  opposite  charge  to  
+unoxidised sulfide particles, and the opposite charges subsequently cause an attraction between  
+gangue and pure sulfide surfaces. Therefore, the decreased grades and recoveries in saline  
+process  water  probably arise  from  increased  slime  coating  of  the  sulfide  surface.  This  is  
+consistent with our results showing that flotation of the lower grade ores at high salinity produced  
+the lowest recoveries and grades.
+The zeta potential was a useful indicator of the overall ore quality. It provided a measure of the  
+level of oxidation, sulfur and gangue content for an ore. Generally, the more negative the zeta  
+potential the higher the sulfur content and the lower the gangue/oxidised sulfide content. The  
+unoxidised sulfide and gangue/oxidised sulfide surfaces behaved very differently at high salinity.  
+The unoxidised sulfide surface showed very little change with salinity while the gangue and  
+oxidised sulfide surfaces were more sensitive to changes in salinity.
+The pyrite, pentlandite and chalcopyrite zeta potentials  from pH 4 to pH 12 were all negative and  
+less than 20 mV. The chalcopyrite was the only sulfide to shift to slightly more negative values as  
+the pH was raised. This shift to a more negative surface is expected for unoxidised sulfides but  
+did not occur for the pyrite and pentlandite samples due to their greater degree of oxidation and  
+the hydroxide products on the surface.
+The sulfide surface can become covered by metal oxide and hydroxide either through oxidation  
+of the surface or precipitation/adsorption from the solution at high pH. If there is enough of the  
+oxides/hydroxides on the sulfide surface it will behave more like a gangue particle than a sulfide  
+particle, this will reduce recoveries and grades.
+Multivalent metal cations only had a minor impact on the results, with most only having an effect  
+at higher pH where metal hydroxide species form. Cetyltrimethylammonium bromide (CTAB) had  
+a significant impact on the zeta potential of the sulfide particles shifting them from negative to  
+positive values.
+Rheology measurements provided the most sensitive method of detecting changes within a  
+slurry. Changes in rheology were sometimes observed even when there were no significant  
+particle size or zeta potential differences. The yield, viscosity and elasticity all increased when  
+metal hydroxides formed in the sample, and when the zeta potential was closest to zero.     
+696. FURTHER WORK
+Conditions where sulfide and gangue surfaces have an opposite charge are undesirable.  These 
+conditions can produce sulfides with more of a slime coating which will reduce r ecoveries and 
+grades. Using conditions, or adding species, that will result in sulfide and gangue surfaces having  
+the same charge could reduce the slime coating on the sulfide. A reduced salinity will shift the  
+surfaces to the same charge but this may not be a viable option. Another possible method would  
+involve the addition of a surface active species that is able to either shift the gangue charge from  
+positive to negative or the sulfide charge from negative to positive. CTAB is an example of one  
+such surface active compound. Further work exploring the conditions and the possible species  
+that can be used to maximise and maintain oppositely charged sulfide and gangue particles  
+could help to improve recoveries and grades.
+Metal oxides/hydroxides on the sulfide surface cause it to behave more like a gangue particle.  
+The zeta potential measurement is an average value of all the surfaces present in a sample. This  
+includes unoxidised and oxidised sulfide surfaces as well as metal hydroxide both in solution and  
+on the sulfide surface. An idealised heterogeneous sulfide surface was used earlier in this report  
+to explain some of the observations. An investigation of the nature and coverage of the oxidation  
+and metal hydroxide products on the sponsors' sulfides would be of value. This would provide an  
+opportunity to identify any potential methods for the removal and prevention of these coatings  
+which lower recoveries and grades.
+All the zeta potential values measured as part of this work had magnitudes less than 20 mV. Zeta  
+potentials  in  this  range  are  not  usually  considered  large  enough  to  prevent  particle  
+agglomeration, yet significant agglomeration of the fine sulfides did not occur. This was partly  
+attributed  to  the  break  up  of  any agglomerates  formed  by the  pumping  of  the  slurry.  An  
+investigation into strengthening of these fine particle agglomerates so that they were able to  
+withstand the applied forces during pumping and agitation in a flotation cell would be worthwhile.  
+If the fine particles do not agglomerate at these low zeta potentials then there must be other  
+factors involved, such as a reduced attractive force or a non-electrostatic repulsion between the  
+particles which also warrants further investigation.
+The effectiveness  of  the collectors at high salinities was not investigated in this project. A  
+decrease in collector performance as the salinity increases is possible and if this does occur  
+recoveries and grades will decrease. An investigation into this possibility would help to determine  
+whether the decrease in recoveries and grades at high salinities is related in any way to a  
+decreased collector performance.   
+          
+707. ACKNOWLEDGEMENTS
+The authors would like to thank all involved with MERIWA M416 for their help, advice and  
+assistance over the course of the project. We thank the Minerals and Energy Research Institute  
+of Western Australia (MERIWA), Barrick (Australia Pacific), Birla Nifty Copper Operation, Jabiru  
+Metals, Panoramic Resources, Western Areas and Xstrata Nickel Australasia  for their financial 
+support of the project.
+Our personal thanks and acknowledgement go to the following individuals for their support and  
+encouragement during the project:
+John Rumball, Matthew Shields, Alex Ciluzzo, Jodi Wilding, Lyndon Hood, Patrick H éroux, Craig 
+Fitzmaurice, Jason Fewings, Chris Munro, Mike Cooper and Les Henderson.
+We are particularly grateful to Pamela Smith and Tony Bagshaw of MERIWA who provided  
+encouragement and coordination throughout the project and to Gwen Davies and Yvonne Lewis  
+of MERIWA for their administrative support. We also thank Ross Marshall of MERIWA for his  
+support.
+Finally, we would like to thank Jennifer Patrick and Martin Finn of Central Chemical Consulting  
+for their help in various ways during the course of the project.
+    
+718. REFERENCES
+[1] B. A. Wills, “Mineral processing technology, An introduction to the practical aspects of ore  
+treatment  and  mineral  recovery”,  4th Edition,  International  series  on  Materials  science  and  
+technology, D. W. Hopkins (Ed), Pergamon Press, 1988.
+[2] C. T. O'Connor and R. C. Dunne, “The flotation of gold bearing ores – a review”, Miner. Eng., 
+1994, 7, 839.
+[3] M. H. Jones and J. T. Woodcock, “Applications of pulp chemistry to regulation of chemical  
+environment in sulfide mineral flotation” in Principles of Mineral Flotation, (M. H. Jones and J. T.  
+Woodcock, Eds.), Aus.I.M.M., Symposia Series, No. 40, 1984, pp. 147-183.
+[4] D. Fornasiero and J. Ralston, “Iron hydroxide complexes and their influence on the interaction  
+between ethyl xanthate and pyrite”, J. Colloid Interface Sci. , 1992, 151(1), 225.
+[5] J. M. Cases, M. Kongolo, P. de Donato, L. J. Michot and R. Erre, “Interaction between finely  
+ground pyrite and potassium amylxanthate in flotation: 1. Influence of alkaline grinding”, Int. J. 
+Miner. Process., 1993, 38, 267.
+[6] C. L. Jiang, X. H. Wang, B. K. Parekh and J. W. Leonard, “The surface and solution chemistry  
+of pyrite flotation with xanthate in the presence of iron ions”, Colloids Surf. A., 1998, 136, 51.
+[7] J. Ralston, “Eh and its consequences in sulfide mineral flotation ”, Miner. Eng., 1991, 4(7-11), 
+859.
+[8] R Woods, “Electrochemistry of sulfide flotation” in Principles of Mineral Flotation, (M. H. Jones  
+and J. T. Woodcock, Eds.), Aus.I.M.M., Symposia Series, No. 40, 1984, pp. 91-115.
+[9] I. D. dos Santos and J. F. Oliveira, “Utilization of humic acid as a depressant for hematite in  
+the reverse flotation of iron ore”, Miner. Eng., 2007, 20, 1003.
+[10] J. Chen, Y. Li and Y. Chen, “Cu-S flotation separation via the combination of sodium humate  
+and lime in a low pH medium”, Miner. Eng., 2011, 24, 58.
+[11] C. T. O'Connor, C. Botha, M. J. Walls and R. C. Dunne, “The role of copper sulfate in pyrite  
+flotation“, Miner. Eng., 1988, 1(3), 203.
+[12] D. Fornasiero and J. Ralston, “ Cu(II) and Ni(II) activation in the flotation of quartz, lizardite  
+and chlorite”, Int. J. Miner. Process. , 2005, 76, 75.
+[13] S. C. Lu, S. X. Song and Z. F. Dai, “Dispersion of fine mineral particles in water”, Advanced 
+Powder Technol., 1992, 3, 89.
+72[14] G. D. Senior, L. K. Shannon and W. J. Trahar, “ The flotation of pentlandite from pyrrhotite  
+with particular reference to the effects of particle size ”, Int. J. Miner. Process. , 1994, 42, 169.
+[15] G. E. Agar, “Flotation of chalcopyrite, pentlandite, pyrrhotite ores ”, Int. J. Miner. Process. , 
+1991, 33, 1.
+[16] M. C. Pietrobon, S. R. Grano, S. Sobieraj and J. Ralston, “ Recovery mechanisms  for  
+pentlandite and MgO-bearing gangue minerals in nickel ores from Western Australia ”,  Miner. 
+Eng., 1997, 10(8), 775.
+[17] S. Chander, “A brief review of pulp potentials in sulfide flotation ”,  Int. J. Miner. Process. , 
+2003, 72, 141.
+[18] S. Grano, J. Ralston and R. St. C. Smart, “Influence of electrochemical environment on the  
+flotation behaviour of Mt. Isa copper and lead-zinc ore”, Int. J. Miner. Process. , 1990, 30, 69.
+[19] W. J. Trahar, “The influence of pulp potential in sulfide flotation” in Principles of Mineral  
+Flotation, (M. H. Jones and J. T. Woodcock, Eds.), Aus.I.M.M., Symposia Series, No. 40, 1984,  
+pp. 117-135.
+[20] Y. Peng and S. Grano, “Effect of iron contamination from grinding media on the flotation of  
+sulfide minerals of different particle size”, Int. J. Miner. Process. , 2010, 97, 1.
+[21] W. J. Trahar, “A rational interpretation of the role of particle size in flotation”, Int. J. Miner. 
+Process., 1981, 8, 289.
+[22] L. J. Warren, “Ultrafine particles in flotation” in Principles of Mineral Flotation, (M. H. Jones  
+and J. T. Woodcock, Eds.), Aus.I.M.M., Symposia Series, No. 40, 1984, pp. 185-213.
+[23] G. J. Jameson, “Physical aspects of fine particle flotation” in Principles of Mineral Flotation,  
+(M. H. Jones and J. T. Woodcock, Eds.), Aus.I.M.M., Symposia Series, No. 40, 1984, pp. 215-
+232.
+[24] C. de F. Gontijo, D. Fornasiero and J. Ralston, “The limits of fine and coarse particle  
+flotation”, Can. J. Chem. Eng., 2007, 85, 739.
+[25] W. J. Trahar and L. J. Warren, “The flotability of very fine particles – a review”, Int. J. Miner. 
+Process., 1976, 3, 103.
+[26] T. Miettinen, J. Ralston and D. Fornasiero, “The limits of fine particle flotation”, Miner. Eng., 
+2010, 23, 420.
+[27] E. Forbes, “Shear, selective and temperature responsive flocculation: A comparison of fine  
+particle flotation techniques”, Int. J. Miner. Process. , 2011, 99, 1.
+73[28] S. Song, A. Lopez-Valdivieso, J.  L. Reyes-Bahena, H.  I. Bermejo-Perz and O.  Trass,  
+“Hydrophobic flocculation of galena fines in aqueous suspensions”,  J. Colloid Interface Sci. , 
+2000, 227, 272.
+[29] T. V. Subrahmanyam and K. S. Eric Forssberg, “Fine particles processing: shear flocculation  
+and carrier flotation – a review”, Int. J. Miner. Process. , 1990, 30, 265.
+[30] R. Sivamohan, “The problem of recovering very fine particles in mineral processing – a  
+review”, Int. J. Miner. Process. , 1990, 28, 247.
+[31] L. Valderrama and J. Rubio, “ Unconventional column flotation of low-grade gold fine particles  
+from tailings”, Int. J. Miner. Process. , 2008, 86, 75.
+[32] G. L. Small, S. R. Grano, J. Ralston and N. W. Johnson, “ Methods to increase fine mineral  
+recovery in the Mount Isa mines lead/zinc concentrator” , Miner. Eng., 1997, 10(1), 1.
+[33] G. Chen, S. Grano, S. Sobieraj and J. Ralston, “ The effect of high intensity conditioning on  
+the flotation of a nickel ore, Part 1: Size-by-size analysis ”, Miner. Eng., 1999, 12(10), 1185.
+[34] G. Chen, S. Grano, S. Sobieraj and J. Ralston, “ The effect of high intensity conditioning on  
+the flotation of a nickel ore, Part 2: Mechanisms ”, Miner. Eng., 1999, 12(11), 1359.
+[35] G. J. Jameson, “New directions in flotation machine design ”, Miner. Eng., 2010, 23, 835.
+[36] L. Rocha, R. Z. L. Cancado and A. E. C. Peres, “Iron ore slimes flotation”, Miner. Eng., 2010, 
+23(11-13), 842.
+[37] J. D. Pease, D. C. Curry and M. F. Young, “Designing flotation circuits  for high fines  
+recovery”, Miner. Eng., 2006, 19, 831.
+[38] Q. Liu and F. J. Friedlaender, “Fine particle processing by magnetic carrier methods”, Miner. 
+Eng., 1994, 7, 449.
+[39] H. A. Garcia-Martinez, M. Llamas-Bueno, S. Song and A. Lopez-Valdivieso, “Magnetic  
+flocculation of mineral fines in an external magnetic field”,  Mineral Processing and Extractive  
+Metall. Rev., 2004, 25, 67.
+[40] T. Rivett, G. Wood and B. Lumsden, “Improving fine copper and gold flotation recovery- A  
+plant evaluation”, Ninth Mill Operators' Conference , Fremantle, WA, 19-21 March 2007, 1.
+[41] D. Zoetbrood, P. Vass and B. Lumsden, “Magnetic conditioning of pentlandite flotation- Plant  
+evaluation”, Technical paper from www.ausmetec.com.au .
+74[42] D. Engelhardt, K. Ellis and B. Lumsden, “Improving fine sulfide mineral recovery- Plant  
+evaluation of a new technology”, Centenary of Flotation Symposium , Brisbane, QLD, 6 - 9 June 
+2005, 829.
+[43] D. N. H. Tran, C. P. Whitby, D. Fornasiero and J. Ralston, “Selective separation of very fine  
+particles at a planar air-water interface”, Int. J. Miner. Process. , 2010, 94, 35.
+[44] T. J. Taplin, “Froth flotation concentration process”, United States Patent Office Patent No.  
+2093898, 21st September 1937.
+[45] G. D. Senior, W. J. Trahar and P. J. Guy, “ The selective flotation of pentlandite from a nickel  
+ore”, Int. J. Miner. Process. , 1995, 43, 209.
+[46] G. D. Senior and W. J. Trahar, “The influence of metal hydroxides and collector on the  
+flotation of chalcopyrite”, Int. J. Miner. Process. , 1991, 33, 321.
+[47] D. Fornasiero, V. Eijt and J. Ralston, “An electrokinetic study of pyrite oxidation”, Colloids 
+Surfaces, 1992, 62, 63.
+[48] G. Fairthorne, D. Fornasiero and J. Ralston, “Effect of oxidation on the collectorless flotation  
+of chalcopyrite”, Int. J. Miner. Process. , 1997, 49, 31.
+[49] D. Fornasiero, F. Li and J. Ralston, “Oxidation of galena II. Electrokinetic study”, J. Colloid 
+Interface Sci., 1994, 164, 345.
+[50] D. Fullston, D. Fornasiero and J. Ralston, “Oxidation of synthetic and natural samples of  
+enargite and tennantite: 1. Dissolution and zeta potential study”, Langmuir, 1999, 15, 4524.
+[51] Y. Peng and S. Grano, “Dissolution of fine and intermediate sized galena particles and their  
+interactions with iron hydroxide colloids”, J. Colloid Interface Sci. , 2010, 347(1), 127.
+[52] T. W. Healy, “Pulp chemistry, surface chemistry, and flotation” in Principles of Mineral  
+Flotation, (M. H. Jones and J. T. Woodcock, Eds.), Aus.I.M.M., Symposia Series, No. 40, 1984,  
+pp. 43-56.
+[53] A. M. Gaudin, “Flotation mechanism, a discussion of the function of flotation reagents”, Am. 
+Inst. Min. Metall. Eng. , 1927, Tech. Publ. No. 4.
+[54] B. Nanthakumar, S. Kelebek and P. D. Katsabanis, “ Impact of oxidation on flotation of Ni-Cu  
+sulfide ore with respect to grinding ”, Mineral Processing and Extractive Metallurgy (Trans. Inst.  
+Min. Metall. C.), 2007, 116(3), 197.
+[55] A. N. Buckley and R. Woods, “ Surface composition of pentlandite under flotation-related  
+conditions”, Surf. Interface Anal., 1991, 17(9), 675.
+75[56] D. L. Legrand, G. M. Bancroft and H. W. Nesbitt, “ Surface characterisation of pentlandite,  
+(Fe, Ni)9S8, by X-ray photoelectron spectroscopy ”, Int. J. Miner. Process. , 1997, 51, 217.
+[57] S. Grano, “The critical importance of the grinding environment on fine particle recovery in  
+flotation”, Miner. Eng., 2009, 22, 386.
+[58] A. J. H. Newell, W. M. Skinner and D. J. Bradshaw, “ Restoring the floatability of oxidised  
+sulfides using sulfidisation ”, Int. J. Miner. Process. , 2007, 84, 108.
+[59] P. Clarke, D. Fornasiero, J. Ralston and R. St. C. Smart, “ A study of the removal of oxidation  
+products from sulfide mineral surfaces ”, Miner. Eng., 1995, 8, 1347.
+[60] D. W. Fuerstenau and Pradip, “Zeta potentials in the flotation of oxide and silicate minerals”,  
+Adv. Colloid Interface Sci. , 2005, 114-115, 9.
+[61] M. Takahashi, “ζ potential of microbubbles in aqueous solutions: Electrical properties of the  
+gas-water interface”, J. Phys. Chem. B., 2005, 109, 21858.
+[62]  C.  Li and P.  Somasundaran,  “Reversal  of  bubble  charge  in  multivalent  inorganic  salt  
+solutions – Effect of magnesium”, J. Colloid Interface Sci. , 1991, 146, 215.
+[63] S. I. Karakashev, E. D. Manev and A. V. Nguyen,”Effect of double-layer repulsion on foam  
+film drainage “, Colloids Surf. A., 2008, 319, 34.
+[64] G. L. Collins and G. J. Jameson, “Double-layer effects in the flotation of fine particles”,  
+Chem. Eng. Sci., 1977, 32(3), 239.
+[65] K. E. Bremmell, G. J. Jameson and S. Biggs, “ Adsorption of ionic surfactants in particulate  
+systems: flotation, stability and interaction forces ”, Colloids Surf. A., 1999, 146, 75.
+[66] J. M. Vergouw, A. Difeo, Z. Xu and J. A. Finch, “An agglomeration study of sulfide minerals  
+using zeta potential and settling rate. Part 1: pyrite and galena”, Miner. Eng., 1998, 11(2), 159.
+[67] N. P. Finkelstein, “The activation of sulfide minerals for flotation: a review”,  Int. J. Miner. 
+Process., 1997, 52, 81.
+[68] S. Acar and P. Somasundaran, “ Effect of dissolved mineral species on the electrokinetic  
+behaviour of sulfides ”, Miner. Eng., 1992, 5(1), 27.
+[69] J. J. Carlson and S. K. Kawatra, “Effects of CO 2 on the zeta potential of hematite ”, Int. J. 
+Miner. Process., 2010, 98(1-2), 8.
+[70] L. Huynh, A. Feiler, A. Michelmore, J. Ralston and P Jenkins, “Control of slime coatings by  
+the use of anionic phosphates: A fundamental study”, Miner. Eng., 2000, 13(10-11), 1059.
+76[71] A. M. Gaudin, D. W. Fuerstenau and H. L. Miaw, ”Slime-coatings in galena flotation”, CIM 
+Bulletin, 1960, 53, 960.
+[72] P. Bandini, C. A. Prestidge and J. Ralston, “Colloidal iron oxide slime coatings and galena  
+particle flotation”, Miner. Eng., 2001, 14(5), 487.
+[73] C. A. Prestidge and W. N. Rowlands, “Electroacoustic measurements of sulfide mineral  
+particles”, Miner. Eng., 1997, 10(10), 1107.
+[74] T. H. Muster and C. A. Prestidge, “Rheological investigations of sulfide mineral slurries”,  
+Miner. Eng., 1995, 8(12), 1541.
+[75] J. M. Vergouw, A. Difeo, Z. Xu and J. A. Finch, “An agglomeration study of sulfide minerals  
+using zeta potential and settling rate. Part 2: sphalerite/pyrite and sphalerite/galena”, Miner. Eng., 
+1998, 11(7), 605.
+[76] A. Difeo, J. A. Finch and Z. Xu, “Sphalerite-silica interactions: effect of pH and calcium ions”,  
+Int. J. Miner. Process. , 2001, 61, 57.
+[77] J.  C.  Liu and C.  P. Huang,  “Electrokinetic  characteristics  of  some  metal sulfide-water  
+interfaces”, Langmuir, 1992, 8, 1851.
+[78] R. Murphy and D. R. Strongin, “Surface reactivity of pyrite and related sulfides”, Surf. Sci. 
+Rep., 2009, 64, 1.
+[79]  J.  Bebie,  M.  A.  A.  Schoonen,  M.  Fuhrmann  and  D.  R.  Strongin,  “Surface  charge  
+development on transition metal sulfides: An electrokinetic study”, Geochimica et Cosmochimica  
+Acta, 1998, 62(4), 633.
+[80] J. Bebié and M. A. A. Schoonen,  “Pyrite surface interaction with selected organic aqueous  
+species under anoxic conditions“, Geochem. Trans., 2000(October), 1, 47.
+[81] T. K. Mitchell, A. V. Nguyen and G. M. Evans, “Heterocoagulation of chalcopyrite and pyrite  
+minerals in flotation separation”, Adv. Colloid Interface Sci. , 2005, 114-115, 227.
+[82] D. Fullston, D. Fornasiero and J. Ralston, “Zeta potential study of the oxidation of copper  
+sulfide minerals”, Colloids Surf. A., 1999, 146, 113.
+[83]  K.  E.  Bremmell,  D.  Fornasiero  and  J.  Ralston,  “ Pentlandite-lizardite  interactions  and  
+implications for their separation by flotation ”, Colloids Surf. A., 2005, 252, 207.
+[84] V. Malysiak, C. T. O'Connor, J. Ralston, A. R. Gerson, L. P. Coetzer and D. J. Bradshaw,  
+“Pentlandite-feldspar interaction and its effect on separation by flotation ”, Int. J. Miner. Process. , 
+2002, 66, 89.
+77[85] C. R. Edwards, W. B. Kipkie and G. E. Agar, “ The effect of slime coatings of the serpentine  
+minerals, chrysotile and lizardite, on pentlandite flotation ”, Int. J. Miner. Process. , 1980, 7, 33.
+[86] V. Kirjavainen, N. Schreithofer and K. Heiskanen, “ Effect of some process variables on  
+flotability of sulfide nickel ores ”, Int. J. Miner. Process. , 2002, 65, 59.
+[87] J. Chen, R. Liu, W. Sun and G. Qiu, “Effect of mineral processing wastewater on flotation of  
+sulfide minerals”, Trans. Nonferrous Met. Soc. China , 2009, 19, 454.
+[88] E. Karakyriakos and V. Patrick, “Industrial Applications using Improved Measurements of  
+Particle Surface Charge”, MERIWA M367, Report 253, June 2005.
+[89] E. Karakyriakos, C. J. Patrick and V. Patrick, “Measuring Particle Surface Charge and  
+Particle Interactions in Process Liquors', MERIWA M390, Report 282, May 2010.
+[90] E. J. Wellham, L. Elber and D. S. Yan, “ The role of carboxy methyl cellulose in the flotation  
+of a nickel sulfide transition ore ”, Miner. Eng., 1992, 5(3-5), 381.
+[91] Y. Peng, B. Wang and D. Bradshaw, “ Pentlandite oxidation in the flotation of a complex  
+nickel ore saline water. ”, Miner. Eng., 2011, 24(1), 85.
+[92] M. A. Hampton and A. V. Nguyen, “Accumulation of dissolved gases at hydrophobic surfaces  
+in water and sodium chloride solutions: Implications for coal flotation”,  Miner. Eng.,  2009,  22, 
+786.
+[93] P. A. Harvey, A. V. Nguyen and G. M. Evans, “Influence of electrical double-layer interaction  
+on coal flotation”, J. Colloid Interface Sci. , 2002, 250, 337.
+[94]  H. Bustamante,  V. A. Patrick,  L. J. Warren  and G. Woods, "Coal cleaning by flotation",  
+NERDDC Project 554 Final Report ,  December 1985, [ CSIRO MCC019/P ].
+[95] O. Ozdemir,  E. Taran, M. A. Hampton, S. I. Karakashev and A. V. Nguyen, “Surface  
+chemistry aspects of coal flotation in bore water”, Int. J. Miner. Process. , 2009, 92, 177.
+[96]  R.  J.  Pugh,  P.  Weissenborn  and  O.  Paulson,  “Flotation  in  inorganic  electrolytes;  the  
+relationship between recover of hydrophobic particles, surface tension, bubble coalescence and  
+gas solubility”, Int. J. Miner. Process. , 1997, 51, 125.
+[97] S. Castro and J. S. Laskowski, “Froth flotation in saline water”, KONA Powder and Particle  
+Journal, 2011, No. 29, 4.
+[98] K. C. Corin, A. Reddy, L. Miyen, J. G. Wiese and P. J. Harris, “The effect of ionic strength of  
+plant  water  on  valuable  mineral  and gangue  recovery in  a  platinum  bearing  ore  from  the  
+Merensky reef”, Miner. Eng., 2011, 24, 131.
+78[99] M. S. Manono, K. C. Corin and J. G. Wiese, “An investigation into the effect of various ions  
+and their ionic strength on the flotation performance of a platinum bearing ore from the Merensky  
+reef”, Miner. Eng., 2012, http://dx.doi.org/10.1016/j.mineng.2012.03.035.
+[100] T. H. Muster and C. A. Prestidge, “Rheological investigations of sulfide mineral slurries”,  
+Miner. Eng., 1995, 8, 1541.
+[101] Th. F. Tadros, “Correlation of viscoelastic properties of stable and flocculated suspensions  
+with their interparticle interactions”, Adv. Colloid Interface Sci. , 1996, 68, 97.
+[102] Th. F. Tadros, “Control of stability/flocculation and rheology of concentrated suspensions”,  
+Pure & Appl. Chem., 1992, 64, 1715.
+[103] A. J. McFarlane, J. Addai-Mensah and K. Bremmell, “ Rheology of flocculated kaolinite  
+dispersions”, Korea-Australia Rheology Journal , 2005, 17(4), 181.
+79

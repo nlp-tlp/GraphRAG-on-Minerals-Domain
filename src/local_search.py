@@ -172,14 +172,25 @@ search_engine = LocalSearch(
     response_type="multiple paragraphs",
 )
 
-# print("Search engine setup")
 
 
 def answer_query(chat, query, debug=False):
     result = search_engine.search(query)
-    # print("Queried")
-    sources = []
-    return (result.response, sources)
+
+    result_row = {
+        "query": query,
+        "response": result.response,
+        "llm_calls": result.llm_calls,
+        "prompt_tokens": result.prompt_tokens,
+        #"output_tokens": result.output_tokens,
+        "entities": result.context_data["entities"].head().to_json(),
+        "relationships": result.context_data["relationships"].head().to_json(),
+        "sources": result.context_data["sources"].head().to_json(),
+        "reports": result.context_data.get("reports", pd.DataFrame()).head().to_json(),
+        "claims": result.context_data.get("claims", pd.DataFrame()).head().to_json(),
+    }
+
+    return result_row
 
 
 if __name__ == "__main__":
@@ -200,10 +211,23 @@ if __name__ == "__main__":
             "Which MRIWA reports relate to mining extraction?",
             "Which MRIWA reports relate to mineral processing?",                
     ]
+
+    results_list = []
     for query in questions:
+
         print("Query:\n")
         print(query)
         print("\n")
-        result, sources = answer_query([], query, debug=False)
+
+        result_row = answer_query([], query, debug=False)
+
+        results_list.append(result_row)
+
         print("Response:\n")
-        print(result)
+        print(result_row["response"])
+        print("\n")
+
+    df_results = pd.DataFrame(results_list)
+    csv_filename = user_choice + "_local_results.csv"
+    df_results.to_csv(csv_filename, index=False)
+    print("Saved results to " + csv_filename)

@@ -116,9 +116,17 @@ search_engine = GlobalSearch(
 
 def answer_query(chat, query, debug=False):
     result = search_engine.search(query)
-    # print("Queried")
-    sources = []
-    return (result.response, sources)
+
+    result_row = {
+        "query": query,
+        "response": result.response,
+        "llm_calls": result.llm_calls,
+        "prompt_tokens": result.prompt_tokens,
+        #"output_tokens": result.output_tokens,
+        "reports": result.context_data.get("reports", pd.DataFrame()).head().to_json(),
+    }
+
+    return result_row
 
 
 if __name__ == "__main__":
@@ -139,10 +147,23 @@ if __name__ == "__main__":
             "Which MRIWA reports relate to mining extraction?",
             "Which MRIWA reports relate to mineral processing?",                
     ]
+
+    results_list = []
     for query in questions:
+
         print("Query:\n")
         print(query)
         print("\n")
-        result, sources = answer_query([], query, debug=False)
+
+        result_row = answer_query([], query, debug=False)
+
+        results_list.append(result_row)
+
         print("Response:\n")
-        print(result)
+        print(result_row["response"])
+        print("\n")
+
+    df_results = pd.DataFrame(results_list)
+    csv_filename = user_choice + "_global_results.csv"
+    df_results.to_csv(csv_filename, index=False)
+    print("Saved results to " + csv_filename)

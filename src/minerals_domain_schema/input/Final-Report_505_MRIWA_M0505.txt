@@ -20,8 +20,7 @@ Glycine Heap Leaching
 Mining & Process Solutions Pty Limited  
 ABN 496 008 101 15  
 Suite 11/16 Brodie Hall Drive, Technology Park, Bentley, 6102  
-Postal: PO Box 1086, Bentley DC , WA, 6983 
- 
+Postal: PO Box 1086, Bentley DC , WA, 6983  
  P a g e  | 2 
  
  
@@ -54,7 +53,6 @@ Published Date: 30th June 2020
  
  
  
-
  
  P a g e  | 3  
  
@@ -86,8 +84,7 @@ subject to legal action against the unauthorised user.
  
  
  
- 
- 
+  
  P a g e  | 4 
  
 CONTENTS  
@@ -132,8 +129,7 @@ ABOUT GLYCINE  ................................ ................................
 ABOUT GLYCATTM ................................ ................................ ................................ ................................ .......................  105 
 ABOUT GTTM ................................ ................................ ................................ ................................ .............................  105 
  
-  
- 
+   
  P a g e  | 5 
 LIST OF FIGURES  
 FIGURE 1: A COMPARISON BETWEEN THE DETERMINED GLYCINE CONCENTRATIONS BY THE TWO METHODS AT DIFFERENT P H’S ...................  11 
@@ -182,8 +178,7 @@ FIGURE 42: EXTRACTION – MINI COLUMN TESTS FOR ORE 4 ..........................
 FIGURE 43: EXTRACTION – MINI COLUMN TESTS FOR ORE 5 ................................ ................................ ................................ ..........  53 
 FIGURE 44: EXTRACTION – MINI COLUMN TESTS FOR ORE 6 ................................ ................................ ................................ ..........  53 
 FIGURE 45: EXTRACTION – MINI COLUMN TESTS FOR ORE 7 (SAMPLE 1) ................................ ................................ .........................  56 
-FIGURE 46: ACID EXTRACTION – MINI COLUMN TESTS FOR ORE 7 (SAMPLE 2) ................................ ................................ ..................  56 
- 
+FIGURE 46: ACID EXTRACTION – MINI COLUMN TESTS FOR ORE 7 (SAMPLE 2) ................................ ................................ ..................  56  
  P a g e  | 6 
 FIGURE 47: GLYLEACHTM EXTRACTION – MINI COLUMN TESTS FOR ORE 7 (SAMPLE 2) ................................ ................................ .......  57 
 FIGURE 48: EXTRACTION – LARGE COLUMN TESTS FOR ORE 1 ................................ ................................ ................................ ........  58 
@@ -232,8 +227,7 @@ FIGURE 90: XRD  PATTERN FOR ORE 4 ................................ .............
 FIGURE 91: XRD  PATTERN FOR ORE 5 ................................ ................................ ................................ ................................ .......  99 
 FIGURE 92: XRD  PATTERN FOR ORE 6 ................................ ................................ ................................ ................................ .......  99 
 FIGURE 93: XRD  PATTERN FOR ORE 7 ................................ ................................ ................................ ................................ ..... 100 
-FIGURE 94: TG AND DTA  FOR ORE 1 ................................ ................................ ................................ ................................ ...... 100 
- 
+FIGURE 94: TG AND DTA  FOR ORE 1 ................................ ................................ ................................ ................................ ...... 100  
  P a g e  | 7 
 FIGURE 95: TG AND DTA  FOR ORE 2 ................................ ................................ ................................ ................................ ...... 101 
 FIGURE 96: TG AND DTA  FOR ORE 3 ................................ ................................ ................................ ................................ ...... 101 
@@ -242,8 +236,7 @@ FIGURE 98: TG AND DTA  FOR ORE 5 ................................ ..............
 FIGURE 99: TG AND DTA  FOR ORE 6 ................................ ................................ ................................ ................................ ...... 103 
 FIGURE 100:  TG AND DTA  FOR ORE 7 ................................ ................................ ................................ ................................ .... 103 
  
-  
- 
+   
  P a g e  | 8 
 LIST OF TABLES  
 TABLE 1: MEASURED GLYCINE BY APAF  AFTER 1 YEAR ................................ ................................ ................................ ..................  12 
@@ -287,8 +280,7 @@ TABLE 37: CONVENTIONAL PROCESS FOR EACH ORE TYPE  ..............................
 TABLE 38: PROCESS CONDITIONS FOR EACH ORE TYPE  ................................ ................................ ................................ ...................  79 
 TABLE 39: METAL PRICES AND EXCHANGE RATE  ................................ ................................ ................................ ...........................  79 
 TABLE 40: REAGENT COSTS ................................ ................................ ................................ ................................ .....................  81 
- 
- 
+  
  P a g e  | 9 
 EXECUTIVE SUMMARY  
 Glycine heap leaching is an emerging metallurgical technology with potential to unlock significant value from 
@@ -322,8 +314,7 @@ As part of the process engineering work, flowsheet and financial modelling showe
 leaching would be the preferred option for the treatment of high acid (>30 kg/t) consuming ores (for example 
 carbonate hosted copper oxides), for gold ores that contain elevated levels of copper, and mixed copper and 
 gold ores where metals can be recovered in a single stage heap leach.  
-  
- 
+   
  P a g e  | 10 
 1 INTRODUCTI ON 
 Glycine heap leaching is an emerging metallurgical technology with the potential to unlock substantial 
@@ -367,8 +358,7 @@ a. Chemically?
 b. Biologically?  
 3. How much is adsorbed?  
 4. Can it be recovered from solution?  
-5. How does percolation, irrigation rate or cement agglomeration affect leaching?  
- 
+5. How does percolation, irrigation rate or cement agglomeration affect leaching?   
  P a g e  | 11 
 2.1 DETECTING GLYCINE IN SOLUTION  
 A simple titration method was determined through a literature review to be the easiest and quickest way to 
@@ -396,7 +386,6 @@ via a similar  method h owever, the analysis costs  for both  are quite high .
  
  
 Figure 1: A comparison between the determined glycine con centrations by th e two methods at different pH’s  
-
  
  P a g e  | 12 
 2.2 GLYCINE STABILITY  
@@ -433,8 +422,7 @@ Fridge  mg/L  10,034      7,274  10,127  10,088
 Bench  mg/L  10,028      4,540  10,020  10,138   
 Outside  mg/L  9,946  9,916  9,710  5,467  4,011  3,444  10,022  9,990  9,943  
  
- 
- 
+  
  P a g e  | 13 
  
 Figure 2:  Effect of copper on glycine storage  after 1 year of storage  
@@ -442,7 +430,6 @@ Figure 2:  Effect of copper on glycine storage  after 1 year of storage
  
 Figure 3:  Change in maximum and minimum temperatures throughout the test work  
  
-
  
  P a g e  | 14 
 Glycine is readily degraded by microorganisms  but under GlyLeachTM or GlyCatTM conditions their growth and 
@@ -470,7 +457,6 @@ to removed 80% of that adsorbed glycine.  Honours report of the student can be m
 request . 
  
  
-
  
  P a g e  | 15 
  
@@ -492,7 +478,6 @@ Cement  Binder  CaO:SiO 2:Al2O3:MgO
  
 Figure 5: Glycine adsorption in the absence of copper onto a range of material  
  
-
  
  P a g e  | 16 
  
@@ -501,7 +486,6 @@ Figure 6: Glycine adsorption in the presence of 1 g/L copper onto a range of mat
  
 Figure 7: Glycine adsorption in the absence of copper  onto each ore sample  
  
-
  
  P a g e  | 17 
  
@@ -530,7 +514,6 @@ leaching respectively.  It was found the irrigation rate did change the extracti
 GlyCatTM.  Increasing the rate above 6 L/m2/hr for GlyLeachTM was found to be detrimental to copper  
 extraction  (Figure 9). 
  
-
  
  P a g e  | 18 
  
@@ -543,7 +526,6 @@ oxygen to penetrat e into the heap which improves the dissolu tion of precious a
  
 Figure 10: Effect of irrigation rate on GlyCatTM 
  
-
  
  P a g e  | 19 
 Standard irrigation is 10 sec on and 40 sec off but additional tests were run with  irrigating  for 4 days on and 
@@ -561,7 +543,6 @@ believed the intermittent flows aids in oxygen penetration into the column which
 extraction of silver .  The best result was for the percolation protocol  that had irrigation on for 4 days and off 
 for 3 days for GlyCatTM with  the gold ore . 
  
-
  
  P a g e  | 20 
  
@@ -578,7 +559,6 @@ achieved copper extraction with GlyLeachTM.
  
  
 Figure 13: Effect of cement addition during agglomerating on extraction  
-
  
  P a g e  | 21 
  
@@ -599,7 +579,6 @@ Industrial Research Organisation (CSIRO ).
  
 Figure 14: MRIWA test work flowsheet  
  
-
  
  P a g e  | 22 
 4 FEED SIZINGS  
@@ -627,7 +606,6 @@ Ore 7  0.027  0.59  170 - -
  
  
  
-
  
  P a g e  | 23 
  
@@ -676,8 +654,7 @@ it was expected to leach 95% of the contained gold while Ore 3 had 40% of the go
 and arsenic minerals which would limit the gold recovery to  an estima ted maximum of 80%.  
  
  
- 
- 
+  
  P a g e  | 24 
  
 Table 7: Sequential Head Assay (Gold Ores)  
@@ -729,8 +706,7 @@ magnesite where ores 1 and 2 contain between 5 to 9% acid consuming minerals res
  
  
  
- 
- 
+  
  P a g e  | 25 
 Table 9: Summary of the minerals identified  
 Ore 1  Ore 2  Ore 3  Ore 4  
@@ -787,8 +763,7 @@ Ilmenite  0.22    Fe Sulphides  4.91
 Hematite  0.54    Pentlandite/Violarite  0.80  
 Ca Mg (Al,K,Mg) Silicate  0.58    Heazlewoodite  0.51  
 Others  1.36    Serpentine  64.86  
- 
- 
+  
  P a g e  | 26 
 5.3.2 XRD 
 The XRD scan of ore 1 (Figure 87) identified quartz (Si 2O), dolomite (CaMg(CO 3)2), clinochlore 
@@ -830,8 +805,7 @@ encapsulated water and a further drop of 3.83% at 650oC from oxidation from sulp
 (Figure 98). 
 For Ore 6 t he TG analysis showed about 0.96% loss at 120oC due to water loss, loss of 5.07% due to 
 encapsulated water and a further drop of 3.49% at 650oC from oxidation from sulphide and ox ide minerals 
-(Figure 99). 
- 
+(Figure 99).  
  P a g e  | 27 
 For Ore 7 t he TG analysis showed about 0.88% loss at 120oC due to encapsulated water and a more significant 
 drop of 5.14% at 650oC from oxidat ion from sulphide and oxide minerals ( Figure 100). 
@@ -873,8 +847,7 @@ GlyLeachTM is expected to leach 51% of the nickel and 70%  of the copper from th
 noting that this nickel sample contain ed significant acid -soluble serpentine and carbonate minerals that 
 would require a lot of acid that w ould hamper extraction and make this option inhibitory . 
  
- 
- 
+  
  P a g e  | 28 
 Tabl e 11: Predicted mineralogy and extraction from modelling for Ore 7  
  Ore 7 
@@ -935,8 +908,7 @@ gold
 Ore 4  • Mainly silicate minerals with 0.8%  pyrite  • Contains very little 
 mineral that contain water 
 or oxidise  • None  
- 
- 
+  
  P a g e  | 29 
  
 Table 12 (continued): Predicted outcomes from the mineralogy information  
@@ -984,7 +956,6 @@ to determine  (if any ) had any real benefit.  This was followed up with bottle 
 a larger column (6 m) test with glycine were setup and monitored . 
  
 Figure 16: Illustration of the mini (1m) columns  
-
  
  P a g e  | 30 
  
@@ -1000,7 +971,6 @@ provide  indicative conclusions .  These tests were carried out for 48 hours and
 at the end.  The sample was pulverised, so all ores would be 100% passing 75 m.  Table 13 summarises the 
 additives that were added during leaching and the below figures summarises the results.  All showed a 
 positive response except additive 4 . 
-
  
  P a g e  | 31 
  
@@ -1021,7 +991,6 @@ these ore samples than GlyLeachTM.
  
  
 Figure 18: Leach e xtraction – Optim isation  testing (Ore 1)  
-
  
  P a g e  | 32 
  
@@ -1036,7 +1005,6 @@ the optimised test.
  
 Figure 20: Cure and leach e xtraction – Optimisation  testing (Ore 1)  
  
-
  
  P a g e  | 33 
  
@@ -1050,7 +1018,6 @@ used.  Note only gold was analysed for these tests.
  
  
 Figure 22: Leach extraction – Optimisation te sting (Ore 3)  
-
  
  P a g e  | 34 
  
@@ -1063,7 +1030,6 @@ double d so this approach was investigated in small colum ns.
  
  
 Figure 24: Leach e xtraction – Optimisation  testing (Ore 5)  
-
  
  P a g e  | 35 
  
@@ -1079,7 +1045,6 @@ optimal ( Figure 28).
  
 Figure 26: Leach e xtraction – Optimisation  testing (Ore 6)  
  
-
  
  P a g e  | 36 
  
@@ -1091,7 +1056,6 @@ Figure 28: Leach e xtraction – NaCN Optimisation  testing for Ore 6
 6.1.5 ORE 7 
 Adding additives to the leach was also shown to have minimal impact with Ore 7 but curing and leaching did 
 show a response.  This approach was investigated in small columns .  
-
  
  P a g e  | 37 
  
@@ -1109,7 +1073,6 @@ conditions and extraction have bee n tabulated while the extraction s are shown 
 An acid and GlyLeachTM was undertaken on copper  ores 1 & 2 to represent the traditional v ersus  new 
 technology .  The results of these tests have been summarised in Table 14.  The acid bottle roll was maintained 
 at pH 1.0 at regular interval throughout the test.  
-
  
  P a g e  | 38 
  
@@ -1141,7 +1104,6 @@ Figure 31: Extraction – Bottle roll  test for Ore 1
 The results showed very similar responses between the two samples with  the acid leach ing more copper then 
 GlyLeachTM.  Overall, it would be expected that 90% of the copper would be leached by acid for both samples 
 while only around 50% of the copper is leached with GlyLeachTM. 
-
  
  P a g e  | 39 
  
@@ -1151,7 +1113,6 @@ Figure 32: Extraction – Bottle roll  test for Ore 2
 For the gold ores , two leach tests were performed on each sample , a cyanidation and GlyCatTM leach  to 
 represent the traditional v ersus the  glycine  technology .  Ore 3 had an extra leach at a lower cyanide 
 addition.  The results o f these tests have been tabulated in   
-
  
  P a g e  | 40 
 Table 15 and the extraction curves presented in Figure 33 and Figure 34. 
@@ -1163,8 +1124,7 @@ extractions were achieved with cyanidation and GlyCatTM extracting 95% of the go
 The best GlyCatTM conditions were undertaken at 60% l ower  cyanide although the cyanide or glycine 
 combination were not optimised for both ores.  
  
-  
- 
+   
  P a g e  | 41 
 Table 15: Bottle roll test conditions and summary of results for Ores 3 & 4  
 Test   1 2 3 4 5 
@@ -1195,7 +1155,6 @@ Accountability  % 96.6%  93.6%  93.4%  105.3%  110.4%
  
  
 Figure 33: Extraction – Bottle roll test for Ore 3  
-
  
  P a g e  | 42 
  
@@ -1227,7 +1186,6 @@ Residue  % 0.56  2.10
 Extraction (1 -AT/AH)  % 77.1%  15.6%  
 Accountability  % 99.6%  102.0%  
  
-
  
  P a g e  | 43 
 The results showed that acid leached more copper then GlyLeachTM reaching a maximum of 78%.  GlyLeachTM 
@@ -1245,7 +1203,6 @@ needed.  A GlyCatTM (glycine with cyanide) leach was not performed as the optimi
 been completed before these tests were under taken.  
  
 Figure 36: Extraction – Bottle roll  test for Ore 6  
-
  
  P a g e  | 44 
  
@@ -1278,7 +1235,6 @@ summary of these results are presented in Table  18 while the extraction profile
 Figure 38. 
  
 Figure 37: Acid E xtraction – Bottle roll  test for Ore 7  
-
  
  P a g e  | 45 
  
@@ -1316,8 +1272,7 @@ Accountability  % 102.2%  99.1%
 The results showed th e acid would extract 75% of the nickel and copper and 45% of the cobalt .  However,  it 
 was also noted that the acid would extract 75% of the iron.  GlyLeachTM extracted 45% of the nickel and 
 copper and 12% of the cobalt .  No iron was dissolved.  
- 
- 
+  
  P a g e  | 46 
  
 Figure 38: GlyLeachTM Extraction – Bottle roll  test for Ore 7  
@@ -1338,13 +1293,11 @@ before glycine solution was irrigated.  For the second sample an acid and t wo G
 undertaken where one column was agglomerated with cement  (10 kg/t) and another cured with 20 kg/t A2 
 and A3 before glycine solution was irrigated.  For the acid columns the pH of the leachate started at pH 2 
 for about 60 days before being lowe red to pH 1 for the remaining leaching period.    
-
  
  P a g e  | 47 
 Table 19 summarises the results and the extraction curves are shown graphically in Figure 39 and Figure 40. 
  
-  
- 
+   
  P a g e  | 48 
 Table 19: Mini column test conditions and summary of results  for Ores 1 & 2  
 Test   1 2 3 4 5 6 7 
@@ -1382,8 +1335,7 @@ A2 and A4 cure and glycine leach tended to leach more copper (>10%) then cement 
 GlyLeachTM.  This cure dramatically improved the extraction of copper and made it close to the acid cure and 
 acid leach test f or the second ore sample.  For the first sample  GlyLeachTM only leached about half the copper 
 while the extraction of copper by acid leaching achieve d similar extractions between the two samples.  
- 
- 
+  
  P a g e  | 49 
  
 Figure 39: Extraction – Mini column  tests for Ore 1  
@@ -1393,7 +1345,6 @@ Figure 40: Extraction – Mini column  tests for Ore 2
  
  
  
-
  
  P a g e  | 50 
 6.3.2 ORES 3 & 4 
@@ -1431,8 +1382,7 @@ that undertaken in the bottle rolls the GlyCatTM column was irrigated with 60% o
 shows that a similar extraction was ach ieved.  Halving the reagent only lowered the extraction of gold and 
 silver by 15%.  Likewise, for Ore 4, 93% of the gold and 30% of the silver was extracted within 100 days.  
 Halving the reagent also only lowered the extraction of gold and silver by 15%.  
- 
- 
+  
  P a g e  | 51 
  
 Figure 41: Extraction – Mini column tests for Ore 3  
@@ -1441,7 +1391,6 @@ Figure 41: Extraction – Mini column tests for Ore 3
 Figure 42: Extraction – Mini column tests for Ore 4  
  
  
-
  
  P a g e  | 52 
 6.3.3 ORE 5 
@@ -1476,8 +1425,7 @@ Copper
 Curing and glycine leach ing tended to leach more copper th an just a glycine leach that was cement 
 agglomerated.  There was an additional 25% copper extraction giving slightly lower th an achieved by acid 
 leaching.  
- 
- 
+  
  P a g e  | 53 
  
 Figure 43: Extraction  – Mini column  tests for Ore 5  
@@ -1490,7 +1438,6 @@ irrigated.  Table 22 summarises the results and the extractions are  shown graph
  
 Figure 44: Extraction – Mini column  tests for Ore 6  
  
-
  
  P a g e  | 54 
 Table 22: Mini column test conditions and summary of results  for Ore 6  
@@ -1531,8 +1478,7 @@ Figure 47 for the second sample.
  
  
  
- 
- 
+  
  P a g e  | 55 
 Table 23: Mini column test conditions and summary of results  for Ore 7  
 Test   1 2 3 4 5 
@@ -1577,8 +1523,7 @@ achieved similar extraction of nickel to just acid cure and acid leach.  However
 samples similar nickel extractions were achieved wit h both samples.  A noticeable difference was acid tended 
 to leach all the elements while GlyLeachTM leached no iron, only 5% of the cobalt and only copper and nickel 
 which was slower to be leached then in acid.  
- 
- 
+  
  P a g e  | 56 
  
 Figure 45: Extrac tion – Mini column  tests for Ore 7 (Sample 1)  
@@ -1586,7 +1531,6 @@ Figure 45: Extrac tion – Mini column  tests for Ore 7 (Sample 1)
  
 Figure 46: Acid E xtraction – Mini column  tests for Ore 7 (Sample 2)  
  
-
  
  P a g e  | 57 
  
@@ -1613,7 +1557,6 @@ Figure 48 graphically compare s the performance to 1 m column performance .
  
  
  
-
  
  P a g e  | 58 
 Table 24: Large column test conditions and summary of results  for Ores 1 & 2  
@@ -1643,7 +1586,6 @@ the 1 m column.  The results show considerably slower extraction for the first o
 second ore sample.  While the second sample did have percolation issues which lowered the irrigation rate 
 to half of the Ore 1 no visible copper was evident in the liquor.  
  
-
  
  P a g e  | 59 
  
@@ -1657,7 +1599,6 @@ Figure 50: Extraction – Large column tests for Ore 3
  
  
  
-
  
  P a g e  | 60 
 Table 25: Large column test conditions and summary of results for Ores 3 & 4  
@@ -1695,8 +1636,7 @@ For Ore 4 , a slightly slower extraction of gold was observed but still attained
 column for the same time period and given the extended time achieved slightly more extraction of gold and 
 silver to th e 1 m column.  Similar to the results for Ore 3 , there was an increase in silver extraction at the very 
 end due to desorbed leached silver being recovered in the wash solution.  
- 
- 
+  
  P a g e  | 61 
  
 Figure 51: Extraction – Large column tests for Ore 4  
@@ -1727,7 +1667,6 @@ Accountability  % 103.4%
 The extraction results showed a much slower copper dissolution from the 6 m column compared to  the 1 m 
 column test.  The jump up at the end was due to water wash which liberated some desorbed copper from 
 the leached residue.  
-
  
  P a g e  | 62 
  
@@ -1742,7 +1681,6 @@ results showed no visible leaching was evident until 130 days af ter which the c
  
 Figure 53: Extraction – Large column  tests for Ore 6  
  
-
  
  P a g e  | 63 
 Table 27: Large column test conditions and summary of results  for Ore 6  
@@ -1771,16 +1709,14 @@ Extraction  % 4.2%
 Accountability  % 102.4%  
  
 6.4.5 ORE 7 
-For Ore 7 , the ore was cement agglomerated and glycine leached with the results tabulated in    
- 
+For Ore 7 , the ore was cement agglomerated and glycine leached with the results tabulated in     
  P a g e  | 64 
 Table 28 and graphically presented in Figure 54.  The results were very comparable between the 6 m and 1 
 m column tests.  They show that t he copper and cobalt had reached a maximum extraction but the nickel is 
 still slowly being leached and achieved  nearly double the  extraction than that achieved in the 1 m column 
 test.  
  
-  
- 
+   
  P a g e  | 65 
 Table 28: Large colum n test conditions and summary of results  for Ore 7  
 Test   1 
@@ -1810,8 +1746,7 @@ Calculated head  ppm  320
 Residue  ppm  240 
 Extraction  % 26.5%  
 Accountability  % 119.9%  
- 
- 
+  
  P a g e  | 66 
  
 Figure 54: Extraction – Large column  tests for Ore 7 (Sample 2)  
@@ -1824,7 +1759,6 @@ elemental distribution before and after leaching.
 For Ore 1 , the copper distribution followed the mass which suggests the copper is finely disseminated in the 
 ore.  In the second ore sample the copper was mainly in the coarser size fractions.  
  
-
  
  P a g e  | 67 
  
@@ -1844,7 +1778,6 @@ based on the  new  calculated residue analysis.  This has been tabulated in Tabl
 of the copper would have been leached from these ore s based on the above assumptions.  These results are 
 materially different to that  achieved in the 1 m column tests and is in line with what one would have 
 expected.  
-
  
  P a g e  | 68 
  
@@ -1862,7 +1795,6 @@ Leach ed (6 m Column)  20.7%  0.1%
 Determined what leached  71.1%  75.5%  
 1 m Column  leached  53.0%  82.1%  
  
-
  
  P a g e  | 69 
 6.5.2 ORES 3 & 4 
@@ -1886,7 +1818,6 @@ the finest fraction then a new calculated residue grade can be determined which 
 determine the achieved extraction by that new residue grade.  This has been tabulated in Table 30 where an 
 additional 4% and 8% of the gold and silver would have been leached from these ores based on the above 
 assumptions.  
-
  
  P a g e  | 70 
 Likewise, for Ore 4 a similar trend was observed where the gold and silver had leached from all fractions 
@@ -1901,7 +1832,6 @@ Figure 61: Distribution of gold in the feed and residues (Ore 3)
  
 Figure 62: Distribution of silver in the feed and residues (Ore 3)  
  
-
  
  P a g e  | 71 
  
@@ -1919,7 +1849,6 @@ Leached (6 m Column)  81.3%  28.1%  93.5%  43.8%
 Determined  85.6%  36.0%  94.2%  42.8%  
 Expected (1 m Column)  89.9%  28.0%  93.3%  30.9%  
  
-
  
  P a g e  | 72 
 6.5.3 ORE 5 
@@ -1939,7 +1868,6 @@ to determine the achieved extraction  with the new  residue grade .  This has be
  
 Figure 66: Distribution of copper in the feed and residues (Ore 5)  
  
-
  
  P a g e  | 73 
 Table 31: Determined extraction for Ore 5  
@@ -1964,7 +1892,6 @@ and replace in the finest fraction then a new calculated residue grade can be de
 used to determine the achieved extraction.  This has been tabulated in Table 32 where 7 5.1% of the copper 
 would have been leached from these ores based on the above assumptions.  
  
-
  
  P a g e  | 74 
  
@@ -1986,7 +1913,6 @@ nickel had leached from all fraction s.  There were noticeable falls below 200 �
 finest fraction.  Even though sample 2 feed size was not undertaken a similar curve was achieved in the 
 residue analysis.  
  
-
  
  P a g e  | 75 
  
@@ -2007,7 +1933,6 @@ in GlyLeachTM.
  
  
  
-
  
  P a g e  | 76 
 Table 33: Slump and percolation  summary  (Ores 1 & 2)  
@@ -2046,8 +1971,7 @@ Agglomeration  GlyCatTM
 Cement  Cement + Gly  A1 
 Slump  2.58 % 3.06 % 9.31 % 
 Percolation rate (L/h/m2) 16,920  16,821  5,920  
- 
- 
+  
  P a g e  | 77 
 6.6.5 ORE 7 
 There was a noticeable difference in slumpage under GlyLeachTM compared to acid with the nickel ore ( Table 
@@ -2077,7 +2001,6 @@ ore is shown in Table 38.
  
  
  
-
  
  P a g e  | 78 
 Table 38: Conventional process for e ach ore type  
@@ -2114,8 +2037,7 @@ rate of 1 Mtpa for a 10 -year mine life.  The ore is assumed to  be leached in 1
 operated on an off and on heap i.e. after each year the ore is removed and new ore stacked.  To keep 
 production steady there will be two 1 Mtpa heaps in operation.  
  
-  
- 
+   
  P a g e  | 79 
 Table 39: Process conditions for each ore type  
  Unit  Copper  mine  Gold  mine  Nickel  mine  
@@ -2156,8 +2078,7 @@ Copper price  US$/t  5,573
 Nickel price  US$/t  15,771  
 Gold price  US$/oz  1,529  
 Discount rate  % 8% 
- 
- 
+  
  P a g e  | 80 
 7.2 CAPITAL COST – HEAP LEACH PAD 
 For the copper and nickel cases, the heap leach pad cost was estimated from first principles.  Pad dimensions 
@@ -2198,8 +2119,7 @@ the case to recover  and the case not to  recover the c opper .  Additional capi
 the recovery option where a sulphide precipitation plant is used to recover copper from the PLS.  
 There was no detailed capital estimate undertaken for the common equipment.  A lumped estimate for the 
 combined heap leach and downstream plant was taken from a published source (Stebbins, 2007) , and scaled 
-by the 0.6 rule.  
- 
+by the 0.6 rule.   
  P a g e  | 81 
 The additional cost for the alternative case (sulphide precipitation) was derived from major equipment cost s 
 with factors applied for installation and indirect costs, as per the copper comparison.  
@@ -2239,8 +2159,7 @@ Activated carbon  $1,200
 Grinding media  $1,000  
 Collector  $2,000  
 Frother  $200  
- 
- 
+  
  P a g e  | 82 
 7.4 REVENUE  
 Production rates were calculated from the input ore grades and recoveries, as shown on the  process design 
@@ -2273,8 +2192,7 @@ y = 330.44x -385.08
 -$500-$400-$300-$200-$100$0$100$200$300$400$500
 0 0.25 0.5 0.75 1 1.25 1.5 1.75 2NPV @ 8% (AUD millions)
 Cu Grade (%)
-Acid GlyLeach
- 
+Acid GlyLeach 
  P a g e  | 83 
  
 Figure 73: Effect of copper recovery at a grade of 1.25% Cu  
@@ -2290,7 +2208,6 @@ occurs at an acid consumption of 45 kg/t.
  
 Figure 74: Sensivity analysis for copper  
  
-
  
  P a g e  | 84 
 7.5.2 GOLD 
@@ -2312,7 +2229,6 @@ y = 345.51x -322.75
 0 0.5 1 1.5 2 2.5 3 3.5 4NPV @ 8% (AUD millions)
 Grade of Gold (g/t)
 Cyanidation GlyCat
-
  
  P a g e  | 85 
 Increasing levels of cyan ide soluble copper (“nuisance copper”) create elevated cyanide consumption.  The 
@@ -2339,7 +2255,6 @@ product.  Payable metal content is thus much higher with GlyLeachTM, and the mod
 Due to the recovery difference between the conventional vs. glycine technology the conventional options 
 would  always  be more economic.  
  
-
  
  P a g e  | 86 
  
@@ -2362,7 +2277,6 @@ GlyLeachTM also has a further advantage over nickel flotation in cases where ars
 creat es difficulty in selling the final product.  This is because GlyLeachTM dissolves minimal arsenic into 
 solution.  This could be evaluated by further sensitivity analysis.  
  
-
  
  P a g e  | 87 
 7.6 MODELLING RECOMMENDATIONS  
@@ -2405,8 +2319,7 @@ preferred option to not only recover the precious metals but also the copper.  W
 undertaken at 60% of cyanide concentration,  optimisation testing and direct comparison was not undertaken 
 to validate the savings.  Residue analysis once again highlight an underlining challenge  of possible adsorption 
 issue s where some leached gold and silver reabsorbed onto the leach residue durin g GlyCatTM leaching.  
- 
- 
+  
  P a g e  | 88 
 During the initial small columns study, curing with a number of additives improved the extraction greatly and 
 enabled comparable extraction to acid.  While this was not demonstrated at the larger scale economic 
@@ -2447,8 +2360,7 @@ any copper in solution.
  
  
  
- 
- 
+  
  P a g e  | 89 
 10 REFERENCES  
  
@@ -2462,8 +2374,7 @@ Jodidi, S.  L. (1926). The formol titration of certain amino acids, J. Am. Chem.
 Sceresini, B. B. (2016). Gold -Copper Ores. In M. Adams, Gold Ore Processing, 2nd ed (pp. 771 -800). Elsevier.  
 Smith, M. E. (2014). Leach Pad Cost Benchmarking. Proceedings of Heap Leach Solutions. Lima: InfoMine.  
 Stebbins, S. A. (2007). CostMine Cost Models. Mining Co st Service. InfoMine USA, Inc.  
-  
- 
+   
  P a g e  | 90 
 11 GLOSSARY  
  
@@ -2506,8 +2417,7 @@ UV-Vis Ultra violet visible spectrometry. Analytical method used to measure cupr
 concentration  
 XRD X-ray powder diffraction analysis  
  
-  
- 
+   
  P a g e  | 91 
 12 APPENDICES: QEMSCAN, XRD, TGA GRAPHS  
  
@@ -2515,16 +2425,14 @@ XRD X-ray powder diffraction analysis
  
 Figure 80: QEMSCAN selected images for Ore 1 (A) Raw image (B) Cu minerals  
 A 
-B 
- 
+B  
  P a g e  | 92 
  
  
  
 Figure 81: QEMSCAN selected images for Ore 2 (A) Raw image (B) Cu minerals  
  
-B A 
- 
+B A  
  P a g e  | 93 
  
 Figure 82: QEMSCAN selected images for Ore 3  
@@ -2532,7 +2440,6 @@ Figure 82: QEMSCAN selected images for Ore 3
  
 Figure 83: QEMSCAN selected images for Ore 4  
  
-
  
  P a g e  | 94 
  
@@ -2540,24 +2447,21 @@ Figure 83: QEMSCAN selected images for Ore 4
 Figure 84: QEMSCAN selected images for Ore 5 (A) Raw image (B) Cu minerals  
  
 A 
-B 
- 
+B  
  P a g e  | 95 
   
  
 Figure 85: QEMSCAN selected images for Ore 6 (A) Raw image (B) Cu minerals  
  
 A 
-B 
- 
+B  
  P a g e  | 96 
   
  
 Figure 86: QEMSCAN selected images for Ore 7 (A) Raw image (B) Ni and Cu minerals  
  
 B 
-A 
- 
+A  
  P a g e  | 97 
  
 Figure 87: XRD pattern for Ore 1  
@@ -2565,7 +2469,6 @@ Figure 87: XRD pattern for Ore 1
  
 Figure 88: XRD pattern for Ore 2  
  
-
  
  P a g e  | 98 
  
@@ -2574,7 +2477,6 @@ Figure 89: XRD pattern for Ore 3
  
 Figure 90: XRD pattern for Ore 4  
  
-
  
  P a g e  | 99 
  
@@ -2583,7 +2485,6 @@ Figure 91: XRD pattern for Ore 5
  
 Figure 92: XRD pattern for Ore 6  
  
-
  
  P a g e  | 100 
  
@@ -2592,7 +2493,6 @@ Figure 93: XRD pattern for Ore 7
  
 Figure 94: TG and DTA for Ore 1  
  
-
  
  P a g e  | 101 
  
@@ -2601,7 +2501,6 @@ Figure 95: TG and DTA for Ore 2
  
 Figure 96: TG and DTA for Ore 3  
  
-
  
  P a g e  | 102 
  
@@ -2610,7 +2509,6 @@ Figure 97: TG and DTA for Ore 4
  
 Figure 98: TG and DTA for Ore 5  
  
-
  
  P a g e  | 103 
  
@@ -2619,7 +2517,6 @@ Figure 99: TG and DTA for Ore 6
  
 Figure 100: TG and DTA for Ore 7  
   
-
  
  P a g e  | 104 
 13 APPENDICES: ABOUT MINING & PROCESS SOLUTIONS (MPS)  
@@ -2663,8 +2560,7 @@ process conditions.
 and process losses can be minimised  by good design.  
  
  
- 
- 
+  
  P a g e  | 105 
 ABOUT GLYCATTM 
 Small amounts of cyanide used in conjunction with a glycine -dominant lixiviant has many beneficial 
@@ -2687,8 +2583,6 @@ Thiourea in conjunction with a glycine lixiviant has found to be beneficial, for
 and base metals in the aci dic region. Benefits include:  
 • No neutralisation costs.  
 • Co-extraction: Gold and base metal extraction can be achieved.  
-Precious metals still able to still be recovered from with activated carbon.   
- 
+Precious metals still able to still be recovered from with activated carbon.    
  P a g e  | 106 
  
-

@@ -17,8 +17,7 @@ MRIWA
 East  Perth WA 6004  
  
  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 2 
  
@@ -38,8 +37,7 @@ ChemCentre, Resources and Chemistry Precinct, South Wing, Building 500, Manning 
 6102  
 Phone:   08 9422 9964  
 Fax:  08 9422 9801  
-E-mail:   sblack@chemcentre.wa.gov.au   
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+E-mail:   sblack@chemcentre.wa.gov.au   Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 1 
 ChemCentre initiated a series of discussions with industry and WA regulatory authorities, in particular th e 
@@ -75,8 +73,7 @@ understand potential risks and (iii) better inform mining operation risk managem
 mine waste storage options and ultimately mine site closure.  
 Access to faster methodology will allow streamlining of the process in predicting the potential impact of 
 mining operations on ground and surface water quality. This will lead to reduced o perational costs 
-associated with earlier identification of risks and better informed operation and mining plans.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+associated with earlier identification of risks and better informed operation and mining plans.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 2 
 This project propose d to investigate the potential use of sequential leaching methodologies to identify 
@@ -84,8 +81,7 @@ iron ore waste rock -metal/metalloid ris k factors which can be used to inform a
 expensive kinetic testing and subsequent investigations as required. The main aim of this investigation 
 was to research, develop and validate sequential leaching methodologies as a tool to better identify 
 potential contamination risks to ground and surface water quality.  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 3 
 Key Findings  and Project Outcomes  
@@ -123,8 +119,7 @@ environmentally significant metals and metalloids being similar to or less than 
 abundances.  Under t ypical circumstances, samples of this nature woul d not normally be selected for 
 kinetic leach testing.  However, leachates from the kinetic column test exceeded the livestock drinking 
 guideline values for copper and selenium, demonstrating the potential for this waste type to produce 
-neutral metalliferou s drainage (NMD).  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+neutral metalliferou s drainage (NMD).  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 4 
 Analysis of th is sample by the optimised sequential extraction method indicated the copper in the kinetic 
@@ -164,15 +159,13 @@ selenium) at concentrations that can affect the quality of surface water and gro
 A decision support tool was developed for the application of the optimised sequential leaching test as a 
 screening tool for early identification of risks that can be used to direct and prioritise longer term kinetic 
 studies subsequent to, or as a condition of, the Environmental Impact Assessment, waste management 
-and mine -site closure planning and approval.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+and mine -site closure planning and approval.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 5 
 Through a project scientific advisory panel, the MRIWA M432 study included  input from the industry 
 sponsor (BHP Billiton) and the WA regulatory agencies; Department of Water and Environmental 
 Regulation (DWER, that includes the formerly OEPA and DER)  and Department of Mines, Industry 
-Regulation and Safety (DMIRS, formerly DMP) . 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Regulation and Safety (DMIRS, formerly DMP) . Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 6 
 CORRESPONDENCE DETAILS  ................................ ................................ ................................ .....................   
@@ -201,8 +194,7 @@ LIST OF TABLES  ................................ ...............................
 4.3       Statistical Analysis  ................................ ................................ ................................ ..............  36 
 5 RESULTS AND DISCUSSION  ................................ ................................ ................................ ...... 37 
 5.1    Materials Cha racterisation  ................................ ................................ ................................ . 37 
-5.1.1        Elemental Composition  ................................ ................................ ................................ ...... 37 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+5.1.1        Elemental Composition  ................................ ................................ ................................ ...... 37 Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 7 
 5.1.2        Sulfur Speciation and Acid Formation Potential  ................................ ................................  37 
@@ -232,8 +224,7 @@ Sequential Leaching Project  M432  –  Final Report to MRIWA
 9 GLOSSARY  ................................ ................................ ................................ ................................  90 
 10 APPENDICES  ................................ ................................ ................................ .............................  92 
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 8 
 LIST OF FIGURES  
@@ -262,8 +253,7 @@ Elements , Copper and Sulfur  ................................ .................
 Figure 1 3: Comparison for Sequential Leach and Kinetic Column Data for JN/OB25 Fresh: Metals and 
 Metalloids  ………………………………………………………………………………………………………………………………………….. 73 
 Figure 1 4: Example of a Decision Tree  Using the Sequential Laeching test to Classify Mine Waste .......  78 
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 9 
 LIST OF TABLES  
@@ -278,8 +268,7 @@ Table 6 :           Minerals identified by XRPD and SEM/EDX  …………….…
 Table 7 :           Concentrations of Contaminating Elements in Extracting Solutions for Four SLP Methods  ..50 
  
  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 10 
 ChemCentre initiated a series of discussions with industry and WA regulatory authorities, in particular the 
@@ -317,8 +306,7 @@ kinetic leaching studies to validate predictions. The aim of this project was to
 optimised sequential leaching procedure can be used as a sample screening tool to support EIA processes 
 through the early identification of potential c ontaminants of concern, which may impact on future 
 ground and surface water quality.  Thus, better informing waste management and mine -site closure 
-planning and approval.   
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+planning and approval.   Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 11 
 The major objective of the project w as to validate sequential leaching methodologies against a range of 
@@ -333,8 +321,7 @@ methodologies may also be applicable as sample screening tools to assessing the 
 metals including chromium, manganese, nickel and cobalt from ultramafic rocks associated with gold, 
 nickel and other base metal deposits. The researchers would be very keen to explore this possibility at 
 some stage, but for the purposes of the  current project there was a need to restrict the project scope in 
-accordance with the industry sponsor’s requirements . 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+accordance with the industry sponsor’s requirements . Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 12 
 ChemCentre initiated a series of discussions with industry and WA regulatory authorities, in particular the 
@@ -373,8 +360,7 @@ This approach was suggested to ChemCentre by technical experts within DWER (form
 DoW)  and DM IRS and followed a series of meetings with t he individual agencies and subsequently at a 
 combined meeting to reach a consensus view of the key regulatory agency information needs and the 
 tools that were needed to address these needs. Subsequent discussions with industry geochemists, in the 
-iron ore and gold mining industry, confirmed the regulatory agency view and in particular the potential 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+iron ore and gold mining industry, confirmed the regulatory agency view and in particular the potential Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 13 
 value of sequential leaching methodologies for the early identification of risks to the environment  and for 
@@ -412,8 +398,7 @@ associated, oxidisable (associated with organic matter and/ or sulfide minerals)
 Water -soluble and exchangeable fractions are highly bi oavailable; oxide -, carbonate - and oxidisable - 
 bound fractions may be potentially bioavailable; while the silicate mineral fraction is mainly not available 
 to either plants or microorganisms (Ma and Rao, 1997; He et al , 2005). Figure 1 shows some of the 
-physical and chemical factors that influence the magnitude and rate of leaching or transport of different 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+physical and chemical factors that influence the magnitude and rate of leaching or transport of different Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 14 
 phases within a solid regolith (soil or mine waste) particle. In many cases, both the chemical reaction and 
@@ -435,7 +420,6 @@ minerals. Factors influencing the remobilisation of these sorbed/precipitated mi
 understood. This is particularly true for rock samples taken from either un -weathered (fresh) rock or 
 below the water table. Efforts to minimise the oxidation of pyritic shales, and hence potential 
 contamination of ground and surface water qual ity, are largely focused on minimising the exposure of 
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 15 
@@ -476,8 +460,7 @@ Evans, 1998; Moral et al , 2005; Patricia et al , 2011; Francisco et al , 2011) 
 chemical partitioning of trace metals in regolith.  
 A study by Al -Abed et al , (2006) involved a comparative evaluation of short -term leaching tests for heavy 
 metal release from mineral processing wastes from a copper mine. These studies were undertaken to 
-better understand the potential significance, mobilisation and mineral phase source of a range of metals 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+better understand the potential significance, mobilisation and mineral phase source of a range of metals Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 16 
 and metalloids, including Cu, Pb, Zn and Se from different types of wast es. The partitioning of metals 
@@ -517,14 +500,12 @@ mobilisation, particularly where m etal/metalloid species mobilisation and the m
 from iron ore mine waste is poorly understood. A better understanding of the order of mobilisation 
 (desorption) of metal/metalloids  from mineral surfaces, especially waste rock taken from either un -
 weathered or below water table areas, is needed. The findings will inform the EIA process and identify 
-the need for further research, including the parameters involved in longer term (2 -3 years) kinetic testing.   
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+the need for further research, including the parameters involved in longer term (2 -3 years) kinetic testing.   Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 17 
 Access to faster methodology will allow streamlining of the process in predicting the potential impact of 
 mining operations on ground and surface water quality. This will lead to reduced operational costs 
-associated with earlier ide ntification of risks and better informed operation and mining plans.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+associated with earlier ide ntification of risks and better informed operation and mining plans.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 18 
 The aim of this project was to demonstrate that sequential leaching studies can be used to support EIAs 
@@ -556,8 +537,7 @@ o the highest % S, high CRS value
 o high Cr and slightly elevated Mn and Pb  
 o different mineralogy to the  other samples in that there is very little 
 goethite/hematite/maghemite and 50 -60% mica -dioctahedral (Table 6), which can have 
-some elemental associations with it.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+some elemental associations with it.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 19 
 • MM/OB29 Weathered  Marra Mamba Iron Formation. This sample is characterised by:  
@@ -577,8 +557,7 @@ o representing a different member of the Marra Mamba Formation (Mt Newman member
 o transition zone material (not fresh)  
 o located below the water table.  
  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 20 
 Table 1: Description of rock samples collected from different iron ore deposits  in Western Australia.  
@@ -623,8 +602,7 @@ Code
  MM  OB29  N614568  EEG1135R  9 12 1.2 1 0 
  W OB25  N569613  FG4692R  21 24 2.9 1 0 
  D1 Whaleback  WHB1341DG -42 WHB1341DG  102 105 2.2 1 0 
-Note s:            Weathering code: 0 - fresh, 1 - transition, 2 - weathered;               Water table:   0- above, 1 - below.                 Shaded rows denote samples sele cted for sequential leach test.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Note s:            Weathering code: 0 - fresh, 1 - transition, 2 - weathered;               Water table:   0- above, 1 - below.                 Shaded rows denote samples sele cted for sequential leach test.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 21 
  
@@ -660,8 +638,7 @@ simulating one environmental condition and thus one standard test cannot be appl
 range of receiving environments which may change through time.  
 Typically, experiments are run using a range of predicted (model) pH, TDS, salinity and redox 
 potentials and can also be run under aerobic/anaerobic conditio ns. 
-Submerged column techniques are usually used on a case by case basis.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Submerged column techniques are usually used on a case by case basis.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 22 
 The kinetic test chosen for  the present  investigation has been  widely used throughout Australia 
@@ -698,8 +675,7 @@ f) Each Friday add 200 mL of water after 15:00 hr (to reduce surface evaporation
 lamps on cycle from 04:00 to 12:00 hr on that day). Place a collection container under the 
 column although  it is unlikely any leachate will be collected. Should leachate be collected, 
 filter through a 0.2 µm filter and store. Composite with the other weekly leachates and the 
-monthly leachate.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+monthly leachate.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 23 
 g) Continue this cycle fo r four weeks. On the fourth Friday weigh the funnel and sample prior 
@@ -731,8 +707,7 @@ order and extent of metal and metalloid species leaching from municipal, industr
 mineral and mine wastes. Various complicated sequential extraction procedures were u sed world -
 wide to provide more detailed information regarding different metal phase associations (Tessier et 
 al, 1979; Bordas and Bourg, 1998; Templeton et al , 2001).  In addition, heavy metal speciation in 
-environmental media using sequential extraction i s based on the selective extraction of heavy 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+environmental media using sequential extraction i s based on the selective extraction of heavy Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 24 
 metals in different physicochemical fractions of material using specific solvents (Bruder -Hubscher et 
@@ -771,8 +746,7 @@ system. The most commonly used reagent for the extraction of trace metals from c
 in soils, sediments and mine waste is a weakly acidic solution, such as 1  M sodium acetate buffered  
 to pH 5.0 wi th acetic acid (Tessier et al , 1979). The carbonate fraction is a loosely bound phase and 
 bound to changes with environmental factors such as pH (Beck et al , 2001). The time lag for the 
-complete solubilisation of carbonates depends on factors such as the t ype and amount of the 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+complete solubilisation of carbonates depends on factors such as the t ype and amount of the Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 25 
 carbonate in the sample  and the  particle size of the solid (Beck et al , 2001).  Extraction of metals 
@@ -812,8 +786,7 @@ hydrogen peroxide in conjunction wit h ammonium acetate to minimise  adsorption 
 of released metals. Cha o and Sanzalone (1977) compared the efficiency of the following reagents in 
 the dissolution of nine sul fide minerals: aqua -regia; 4 M HNO 3; H 2O2-ascorbic acid; oxalic acid; KCIO 3 
 plus HCl; and KClO 3 plus HCl followed by 4 M HNO 3 with gentle boiling. Only w ith the last reagent 
-mixture were all the sul fide minerals completely dissolved.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+mixture were all the sul fide minerals completely dissolved.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 26 
 3.3.1.6. Residual Phase  
@@ -838,8 +811,7 @@ were:
 Australia.  
 The det ailed methodology for the four  sequential extraction procedures (highlighted in green) is 
 described in Table 2 together with other methods that were considered during the selection process . 
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 27 
 Table 2: Four sequential extraction procedures  (highlighted in green)  performed on seven samples  plus other methods from the literature . 
@@ -1003,8 +975,7 @@ HCl. At 25 C for
 for 20 min  
  (6) HF+HNO 3+HClO 4 
  
-(7) Tailings & soil  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+(7) Tailings & soil  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 28 
 secondary sulfides)  (primary sulfides)  
@@ -1108,8 +1079,7 @@ rock
 *   Tam m reagent =  10.9g/L oxal ic acid + 16.1 g/L ammon ium oxalate, pH 2.85.  
  
  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 29 
 The proposed sequential extraction procedure is a combination of methods developed by Pinto, Al -
@@ -1148,8 +1118,7 @@ Exchangeable metals, those held through electrostatic attraction on exchange sit
 and interface of negatively charged complexes of soils and weathered regolith, also generally 
 constitute a small proportion and can be replaced by neutral salts such as MgCl 2, BaCl 2, ammonium 
 chloride or ammonium acetate. Ammonium acetate was selected as the preferred extractant as it is 
-available in high purity, does not introduce an analyte of interest (such as magnesium, sodium or 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+available in high purity, does not introduce an analyte of interest (such as magnesium, sodium or Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 30 
 potassium) and e nables very low detection limits with modern analytical instruments due to its 
@@ -1185,8 +1154,7 @@ Amorphous Fe/Mn oxyhydroxide fraction (F4)
 Easily reducible fraction ie  the fraction bound to amorphous Fe and Mn oxides (metals bound to 
 short range -order Fe, Al and Mn (oxy) hydroxides and poorly crystallised ferric hydroxysulfates.  
 Step 10. To the residue from step 9, add 40 mL 0.25M NH 2OH.HCl in 0.25 M HCl. Cap and vortex 
-contents for  5-10 seconds.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+contents for  5-10 seconds.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 31 
 Step 11.  Place in a shaking water bath at 50°C for 30 minutes with cap loosened. Occasionally cap 
@@ -1222,8 +1190,7 @@ Step 17.    Leave the sample for 45 minutes with cap loosened. Cap ti ghtly and 
 regularly to expel the gas if the reaction is vigorous and use appropriate PPE during this step.  
 Step 18.   Centrifuge for 10 -20 minutes at 3,000 rpm. Decant separated aqueous phase into a labelled 
 test-tube and dilute with 20 m L M illi-Q water. Rinse the residue with 5 mL of Milli -Q water, 
-shaken/agitated for 10 -15 minutes and centrifuged at 3 ,000 rpm; repeat and add supernatant rinses 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+shaken/agitated for 10 -15 minutes and centrifuged at 3 ,000 rpm; repeat and add supernatant rinses Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 32 
 to the labelled test -tube. Make the volume up to the 50 mL and filtered through a 0.45 μm 
@@ -1256,14 +1223,12 @@ of hydrochloric, nitric, perchloric and hydrofluoric acids).  This procedure res
 quartz and primary aluminosilicate minerals, resulting in very high recoveries of most metals and 
 metalloids.  Poor recoveries of volatile elements (such as boron and mercury) may be expected.  
 Step 24.  Calculate the concentrations of analytes measured in Step 23 using the original weight of 
-sample (nominally 2 g, Step 1).   
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+sample (nominally 2 g, Step 1).   Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 33 
  
 Figure 2:   Proposed Sequential Leaching Method Schematic . 
   
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 34 
@@ -1298,8 +1263,7 @@ Particle Size
 2.0 40 ± 0.02  48 ± 2 
 5.0 80 ± 0.02  72 ± 2 
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 35 
  
@@ -1329,16 +1293,14 @@ The residue samples derived from all the sequential leaching tests were analysed
 composition (for Ag, Al, As, Ba, Be, Ca, Cd, Co, Cr, Cu, Fe, K, Li, Mg, Mn, Mo, Na, Nb, Ni, P, Pb, S, Se, 
 Si, V and Zn ) by four aci d digestion (HNO 3/HClO 4/HF/HCl) with analysis using inductively coupled 
 plasma -atomic emission spectrometry (ICP -AES) . 
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 36 
 Statistical data analysis was performed using Excel to compare the predicted metal concentrations 
 derived from  the sequential leaching studies against the metal concentrations arising from the 
 kinetic studies. Reproducibility data was obtained for quality control and quality assurance from 
 performing kinetic leaching, sequential leaching and LEAF 1313 test in dupl icate for each of the 
-seven rock samples.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+seven rock samples.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 37 
 Results for total elemental analysis of seven rock samples are summarized in  Table  4.   
@@ -1370,8 +1332,7 @@ expressed in integer  increments from 0 t o 6 (GARD Guide , INAP 2009 ). A GAI o
 the element is less than or up to  three times the average crustal abundance; a GAI of 1 corresponds to a three 
 to six fold enrichment; a GAI of 2  corresponds to a 6 to 12 fold enrichment  and so forth, up to a GAI of 6, which 
 corresponds to a 96 -fold, or greater,  enrichment above average crustal abundances. A GAI of 3 or more is 
-generally considered significant and may  warrant further investigation.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+generally considered significant and may  warrant further investigation.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 38 
 • Chromium Reducible Sulfur (CRS).  This method is a direct measure of acid volatile and 
@@ -1408,14 +1369,12 @@ clay.  MM/OB29 Weathered had similar mineralogy, bu t with a lower goethite cont
 kaolinite clay (20 -30%).  The corresponding sample of unweathered material (W/OB25) 
 contained dioctahedral mica (20 -30%) and less (2 -5%) kaolinite;  
 • D1/Whaleback Fresh was a moderately ferruginous quart -rich sediment (55 -65% quartz) 
-with minor kaolinite clay (5 -10%); and  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+with minor kaolinite clay (5 -10%); and  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 39 
 • MM/OB32 Transition (below water table) was a sample of banded BIF comprising 50 -60% 
 quartz and both hematite (1 -15%) and goethite (28 -36%) as iron oxide minerals . 
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 40 
 Table 4. Results for total elemental co mposition of waste rock samples  
@@ -1439,8 +1398,7 @@ W/OB25 Fresh  20 3200  3260  8 275 23 350 723 145 X 52 147
 D1/Whaleback Fresh  1 95 56 X X 5 395 6 220 X 22 15 
 MMOB32 Trans/BWT  4 270 1180  7 <50 <5 385 <5 <20 <10 <1 8 
 Average Crustal  20 23000  950 1.5 23000  75 1000  14 420 0.2 135 70 
-Note s: X denotes values below the method reporting limit.   
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Note s: X denotes values below the method reporting limit.   Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 41 
 Table 5. Results for sulfur speciation and acid base accounting calculations  
@@ -1466,8 +1424,7 @@ Note s:   TOS - total oxidisable sulfur, calculated as difference between total 
 The sample would have been classified as “Uncertain” using a NAPP value calculated from TOS.  In this case, a calculated posi tive NAPP value of 
 8.4 kg H2SO4/t indicates an e xcess of acid -forming sulfide minerals over acid consuming minerals, suggesting PAF classification.  This was not 
 supported by a NAG pH value of 5.8, indicating minimal acid acid production under strongly oxidising conditions.  According t he AMIRA 2002 aci d 
-formation potential classification criteria, such a material would be classified as “Uncertain”.   
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+formation potential classification criteria, such a material would be classified as “Uncertain”.   Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 42 
 Table 6. Minerals identified by XRPD and SEM/ EDX 
@@ -1490,8 +1447,7 @@ MMOB32 Trans/BWT  50-60 nd nd nd 10-15 28-36 nd
 Notes:   nd – not detected;  
  * - the amount of crystalline quartz and kaolinite observed in this sample are insufficient to account for the concentrations of alumina and silica foun d by EDX analysis.  
  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 43 
 Results for the concentrations of solutes (with pH and EC data) from the long -term leaching of seven 
@@ -1527,8 +1483,7 @@ oxidation of small amount of sulfide minerals in this material (Section  5.1.2).
 Concentrations of several metals and metalloids increased steadily over time, with concentrations of 
 copper and selenium exceeding livestock drinking water quality guidelines after month s 9 and 4, 
 respectively.  Maximum concentrations (from column  1) were 7.5 mg/L (month 24) and 0.19 mg/L 
-(month 21), respectively.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+(month 21), respectively.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 44 
 Maximum concentrations of other environmentally important metals  and metalloids (from column 
@@ -1562,8 +1517,7 @@ Concentrations of metals and metalloids were consistently very low and showed no
 increasing or decreasing concentration trends over time.  
 Despite this sample being enriched in lead (723 mg/kg, Table 4 ), concentrations in leachate were 
 generally below the method reporting limit of 0.0001 mg/L.  The highest concentration wa s 0.0004 
-mg/L recorded in leachate from column 1 in month 21.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+mg/L recorded in leachate from column 1 in month 21.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 45 
 Concentrations of iron, manganese, chromium and vanadium were very low, indicating moderately 
@@ -1596,8 +1550,7 @@ value was 0.012 mg/L in leachate collected at month 10.   All leachate samples c
 Concentrations of iron, manganese, chromium and vanadium were very low, indicating moderately 
 oxic conditions within the column.  
 Water leachates of this material  were circum -neutral to slightly alkaline, with mea n pH values 
-ranging from 8.05 (week 0) to 7.5 at month 24.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ranging from 8.05 (week 0) to 7.5 at month 24.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 46 
 Leachate salinity was generally low, as indicated by mean EC values ranging from 120 to 6.8 mS/m 
@@ -1631,8 +1584,7 @@ rainwater quality.
 Concentrations of metals and metalloids were consistently very low and showed no systematic 
 increasing or decreasing concentration trends over time.  
 Concentrations of iron, manganese, chromium and vanadium were very low, indicating moderately 
-oxic conditions within the column.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+oxic conditions within the column.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 47 
 The four sequential extraction procedures studied are summa rised in Table 2 (highlighted in green), 
@@ -1667,8 +1619,7 @@ four methods.  Results that may affect the overall quality of data are summarise
 over of magnesium into the following step (‘carbonate’). Quantitation of magnesium in the 
 ‘carbonate’ step is important because dissolution of calcium and magnesium carbonates is 
 an important source of solute release in many WA mi ne waste materials.  
-• Sodium is present as a constituent of the following extracting solutions:  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+• Sodium is present as a constituent of the following extracting solutions:  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 48 
 o The acidic sodium acetate buffer used to measure ‘carbonate’ fraction solutes in the 
@@ -1702,16 +1653,14 @@ solutes in the method of Rio T into (2014).
 o Manganese in the magnesium chloride used to measure ‘exchangeable’ fractions 
 fraction solutes in the method of Abed et al , (2014).  
 o Niobium in the ammonium oxalate solution used to measure crystalline Fe/Mn oxide 
-fractions in the method of Abed  et al , (2014).  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+fractions in the method of Abed  et al , (2014).  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 49 
 o Magnesium and sodium in the potassium dihydrogen phosphate solution used to 
 measure ‘soluble and exchangeable’ fraction solutes in the method of Piatek et al , 
 (2007).  
 o Phosphorus in the hydrogen peroxide solution used to measure ‘oxidisable’  fractions 
-fraction solutes in the method of Rio Tinto (2014).  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+fraction solutes in the method of Rio Tinto (2014).  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 50 
 Table 7: Concentrations of Contaminating Elements in Extracting Solutions for Four SLP Methods  
@@ -1740,8 +1689,7 @@ Rio Tinto  1)  H2O <0.0001  <0.005  <0.001  0.0002  <0.0001  <0.1  <0.0001  <0.0
  4)  NH 2OH.HCl/HOAc  pH  <2 0.003 4 <0.050  <0.010  <0.0010  <0.0010  <1.0  <0.0010  <0.0010  <0.0050  <0.0010  <0.050  
  5)  H2O2 (NAG)  <0.0001  0.058  <0.001  0.0013  <0.0001  <0.1  0.0022  0.0002  0.0061  0.0027  0.047  
  6)  Aqua regia  pH  <1 <0.0010  0.34  <0.010  0.0026  <0.0010  <1.0  <0.0010  0.0012  <0.0050  0.12 0.062  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 51 
  
@@ -1770,8 +1718,7 @@ Rio Tinto  1)  H2O 0.4 <0.0001  <0.1  <0.0001  <0.001  <0.1  <0.0002  <0.001  <0
  4)  NH 2OH.HCl/HOAc  pH  <2 <1.0  <0.0010  <1.0  <0.0010  <0.010  <1.0  <0.0020  <0.010  <1.0  0.0041  
  5)  H2O2 (NAG)  0.2 <0.0001  <0.1  0.0091  <0.001  24.1  0.0032  0.003  8 0.0034  
  6)  Aqua regia  pH  <1 <1.0  <0.0010  <1.0  <0.0010  <0.010  <1.0  <0.0020  <0.010  <1.0  0.019  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 52 
  
@@ -1800,8 +1747,7 @@ Rio Tinto  1)  H2O <0.1  <0.001  <0.0001  5.5 1.4
  4)  NH 2OH.HCl/HOAc  pH<2  <1.0  <0.010  <0.0010  1.4 4550  
  5)  H2O2 (NAG)  <0.1  <0.001  <0.0001  4.4 12.5  
  6)  Aqua regia  pH  <1 <1.0  <0.010  <0.0010  <0.1   
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 53 
 Results for concentrations  of elements in each fraction from seven samples using the four sequential 
@@ -1837,8 +1783,7 @@ and magnesium carbon ates are not stable) and the highly weathered state.
 • There is reasonable agreement for calcium measured by the Leinz  et al , (200 0), Abed et al , (2014)  
 and Piatek  et al , (2007)  methods, while the Rio Tinto  (2014)  method results are significantly 
 higher.  Ho wever, the Rio Tinto  (2014)  method for this fraction also include s the ‘exchangeable’ 
-fraction, in which calcium concentrations are significant.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+fraction, in which calcium concentrations are significant.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 54 
 • There is reasonable agreement for magnesium measured by the Leinz  et al , (200 0) and Piatek et 
@@ -1863,8 +1808,7 @@ Figure 3:   Comparison of Calcium in Carbonate Fraction Measured in the Seven Sa
 Total Concentration (mg/kg)Abed
 Leinz
 Piatek
-Rio Tinto
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Rio TintoSequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 55 
  
@@ -1895,8 +1839,7 @@ proportion of total iron.  This indicates that much of the iron present in iron 
 Total Concentration (mg/kg)Abed
 Leinz
 Piatek
-Rio Tinto
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Rio TintoSequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 56 
 goethite and hematite is not extracted in eithe r fraction , and most likely contributes significantly 
@@ -1924,8 +1867,7 @@ Methods .
 Total Concentration (mg/kg)Abed
 Leinz
 Piatek
-Rio Tinto
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Rio TintoSequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 57 
  
@@ -1952,8 +1894,7 @@ associated with sulfide  (and/or oxid isable organic matter) minerals:
 Total Concentration (mg/kg)Abed
 Leinz
 Piatek
-Rio Tinto
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Rio TintoSequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 58 
 • Using a mild oxidising agent , such as sodium chlorate in HCl solution used by the Leinz et al , 
@@ -1981,8 +1922,7 @@ extremely large, discussion in this section on the partitioning of elements is l
 Total Concentration (mg/kg)Abed
 Leinz
 Piatek
-Rio Tinto
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Rio TintoSequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 59 
 • JN/OB25  fresh .  This sample is of particular interest as it is the only material containing significant 
@@ -2022,8 +1962,7 @@ bariu m than the procedures used by the other three methods.
 80%), with small er proportions in the water -extractable and carbonate fractions.  This main be 
 explained by the presence of weathering product minerals such as gypsum (or anhydrite), jarosite 
 or alunite in which sulfate -sulfur is present in sparingly soluble forms.  
-• All re sults for cadmium, including total cadmium, were below the method reporting limits.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+• All re sults for cadmium, including total cadmium, were below the method reporting limits.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 60 
 • Cobalt was distributed among four fractions; silicate/residual (53%), crystalline Fe/Mn oxides 
@@ -2066,8 +2005,7 @@ observation may, however, be an artefact of the fractionation procedure as a con
 hydrogen peroxide reagent used in this step.  Some sources of commercial hydrogen peroxide 
 use low levels of phosphate as a preservative.  
 • Most of the lead (97%) w as present in the silicate/residual fraction, and therefore not associated 
-with primary sulfide minerals such as galena (PbS).  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+with primary sulfide minerals such as galena (PbS).  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 61 
 • The portioning of sulfur in this sample is of particular interest.  As discussed in Section 5.1.2, 
@@ -2103,8 +2041,7 @@ was also present in the wat er-extractable (1.5%) and exchangeable (3.1%) fracti
 results indicate an original source of zinc in primary sulfide minerals (sphalerite, ZnS) and zinc 
 silicate minerals.  Partial oxidation of the sulfide fraction has resulted in re -distribution  of zinc 
 into more labile fractions.  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 62 
  
@@ -2129,8 +2066,7 @@ fraction.
 Ag AlAs Ba Be CaCd Co CrCu Fe KLiMg Mn Mo NaNb Ni PPb SSe VZnJN/OB25 Fresh
 Recalcitrant Oxidisable Easily oxidisable Crystalline Fe/Mn oxide
 Amorphous Fe/Mn oxide Carbonate Exchangeable
-Water Extractable
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Water ExtractableSequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 63 
 • A substantial proportion (approximately 70%) of the non -silicate aluminium is present in the 
@@ -2172,8 +2108,7 @@ fractions, most of the magnesium is present in the exchangeable fraction.  Magne
 commonly the major exchangeable cation in non -sodic weathered regolith in WA.   This sample 
 resembles JN/OB25 Fresh with respect to magnesium fractionation.  
 • This sample contained the highest concentration of manganese (3,260 mg/kg) of all seven 
-samples. Most of the manganese (93%) was recovered in amorphou s Fe/Mn oxide fraction . 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+samples. Most of the manganese (93%) was recovered in amorphou s Fe/Mn oxide fraction . Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 64 
 • This sample contained significant  molybdenum ( 8 mg/kg), which was distributed between the 
@@ -2214,8 +2149,7 @@ respect to vanadium fractionation.
 of the preceding sample (JN/OB25; 41%) . The balance was distributed in the crystalline  Fe/Mn 
 oxide ( 13% ), and carbonate fraction (6%) , but differed from JN/OB25  in that it contained only a 
 small proportion (4%) in the oxidisable fractions  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 65 
  
@@ -2224,8 +2158,7 @@ Figure 9:  Partitioning of Elements in Sample WB/OB25 in Seven Fractions (Silica
 0%10%20%30%40%50%60%70%80%90%100%
 Ag Al As Ba Be Ca Cd Co Cr Cu Fe K LiMg Mn Mo Na Nb Ni PPb SSe VZnW/OB25  Fresh
 Recalcitrant Oxidisable Easily oxidisable Crystalline Fe/Mn oxide Amorphous Fe/Mn oxide
-Carbonate Exchangeable Water Extractable
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Carbonate Exchangeable Water ExtractableSequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 66 
 All samples were also analysed by LEAF Method 1313, which provides a measure of dissolution of metals 
@@ -2255,8 +2188,7 @@ metalloids for these sample s than LEAF Method 1313.  Note however that the use 
 specia tion modelling in conjunction with LEAF may improve its predictive capacity under different redox 
 conditions.  
  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 67 
  
@@ -2282,8 +2214,7 @@ Labile Fraction (mg/kg)Nickel
 Labile Fraction (mg/kg)Lead
 024681012
 0 2 4 6 8 10 12 14 16LEAF pH 2 (mg/kg)
-Labile Fraction (mg/kg)Zinc
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Labile Fraction (mg/kg)ZincSequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 68 
 One of the challenges of this study is how consistent relations can be identified between the eight -stage 
@@ -2315,8 +2246,7 @@ o Figure A5 -3 for sample MM/OB29 Transition.
 o Figure A5 -4 for sample W/OB25 Transition.  
 o Figure A5 -5 for sample W/OB25 Fresh.  
 o Figure A5 -6 for sample D1/ Whaleback Fresh  
-o Figure A5 -7 for sample MM/OB32  Transition BWT (below water table).  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+o Figure A5 -7 for sample MM/OB32  Transition BWT (below water table).  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 69 
 Review of data presented in this fashion demonstrates that for most samples (JN/OB25 being a notable 
@@ -2354,8 +2284,7 @@ aluminium and silicon, for sample JN/OB25 a re presented in Figure 1 2.
 The mass of potassium recovered from the leachates from the kinetic leach columns after 24 months was 
 33/mg/kg, slightly higher than the 28 mg/kg present in the water -extractable fraction.  In this respect, the 
 behaviour of the h ighly mobile potassium ion is similar to that described for sodium in the previous 
-section.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+section.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 70 
 The mass of sulfur recovered from the leachates from the kinetic leach columns after 24 months was 
@@ -2381,8 +2310,7 @@ case 403  mg/kg (comprising 162 mg/kg in the exchangeable fraction and 241 mg/kg
 fraction).  This behaviour is interpreted as a result of formation of exchange able cations (calcium and 
 magnesium) from reactive mineral phases in the sample competing for cation exchange sites of the 
 (dioctahedral) mica clay minerals .  These cations may have subsequently displaced some of the copper 
-occupying these exchange sites.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+occupying these exchange sites.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 71 
  
@@ -2407,8 +2335,7 @@ ExtractableExchangeable Carbonate Amorphous
 Fe/Mn oxideCrystalline
 Fe/Mn oxideEasily
 oxidisableRecalcitrant
-OxidisableOne month 6 month 12 months 24 monthsAmount (mg/kg)JN/OB25 FreshAl Cu Fe K S Si
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+OxidisableOne month 6 month 12 months 24 monthsAmount (mg/kg)JN/OB25 FreshAl Cu Fe K S SiSequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 72 
  
@@ -2439,8 +2366,7 @@ that of sulfur ( Section 5.3.6.1.2), which is consistent with the properties of 
 chemical periodic table.  
  
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 73 
  
@@ -2465,8 +2391,7 @@ Fe/Mn oxideCrystalline
 Fe/Mn oxideEasily
 oxidisableRecalcitrant
 OxidisableOne month 6 month 12 months 24 monthsAmount (mg/kg)JN/OB25 Fresh
-Cr Ba Pb Se VZn
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Cr Ba Pb Se VZnSequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 74 
 Sequential leaching methodologies w ere validated and assessed against longer term kinetic leaching 
@@ -2500,8 +2425,7 @@ months of column leaching.
 The sequential leaching protocol also correctly predicted that one of the seven samples (sample JN/OB25 
 Fresh) would give rise to copper leacha te concentrations of potential concern, which was confirmed by 
 the subsequent long -term kinetic study. The optimised sequential extraction method proved useful for 
-understanding the geochemistry of sample JN/OB25 Fresh, a sample of fresh shale mine waste f rom the 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+understanding the geochemistry of sample JN/OB25 Fresh, a sample of fresh shale mine waste f rom the Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 75 
 Jeerinah Formation at BHP’s Orebody 25 deposit.  Conventional AMD characterisation of this material 
@@ -2542,8 +2466,7 @@ ___________________
  
 2  This sample was also classified as ‘Uncertain’ using the TOS acid base accounting method (Section 5.1.2).  There was a wide 
 discrepancy between TOS (0.33%) and CRS (0 .017%), indicating unusual sulfur speciation in this sample (consistent with 
-sequential leach test results) . 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+sequential leach test results) . Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 76 
  
@@ -2580,15 +2503,13 @@ assess their potential for producing NMD.
 • Samples above the sulfur threshold, but classified as NAF or Uncertain by acid base accounting 
 are subsequently assessed for NMD potential using the sequential extraction method.  If 
 significant concentrations are found to be present in oxidisable fraction, kinetic tests may  be 
-required  to estimate the rates of release of contaminants of potential concern . 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+required  to estimate the rates of release of contaminants of potential concern . Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 77 
 • Samples requiring assessment by kinetic tests are selected from mate rials:  
 o Classified as potentially acid forming by acid base accounting methods.  
 o Classified as NAF or Uncertain by acid base accounting methods, but contain substantial 
-concentrations of potential contaminants in oxidisable fractions.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+concentrations of potential contaminants in oxidisable fractions.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 78 
  
@@ -2610,8 +2531,7 @@ Managed WasteTotal Sulfur Assay
 Elemental AssayAcid Base Accounting Kinetic Testing
 Not acid 
 forming or 
-uncertain
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+uncertainSequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 79 
 From this study, a sequential leaching procedure has been developed and customised for variably 
@@ -2644,8 +2564,7 @@ study should be extended to validate the optimised sequential leac hing procedur
 number of samples more widely representative of the range of lithologies encountered by the iron ore 
 industry.   
 The method adopted was optimised to meet the requirements of assessing potentially problematic mine 
-waste produc ed by mining iron ore.  These waste types are characterised by very high  iron content, 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+waste produc ed by mining iron ore.  These waste types are characterised by very high  iron content, Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 80 
 slightly elevated sulfur contents (much of which is associated with insoluble sulfate minerals , such as 
@@ -2674,8 +2593,7 @@ such as coal mine and mineral san d mine wastes.  Further work will be required 
 for assessment of these waste types.  
  
  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 81 
 Abed A, Sadaqah R, d AlKuisi M (2008) Uranium and potentially toxic metals during the mining, 
@@ -2701,8 +2619,7 @@ AIMM 2001. Field Geologists’ Manual. Australasian Institute of Mining and Meta
 Monograph 9. Fourth Edition. Carlton, Victoria.  
 Al-Hwaiti M, Tardio J, Reynolds H, Bhargava S (2014) Selectivty Assessments of a Sequen tial 
 Extraction Procedure for Potential Trace Metals’ Mobility and Bioavailability in Phosphate 
-Rocks from Jordan Phosphate Mines. Soil and Sediment Contamination , 23:417 –436. 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Rocks from Jordan Phosphate Mines. Soil and Sediment Contamination , 23:417 –436. Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 82 
 Allen D, North M, Black S, Price B and Rothnie N. May 2016. “Using Chromium Redu cible Sulfur 
@@ -2728,8 +2645,7 @@ Barna R, Sanchez F, Moszkowicz P, Mehu J (1997) Leaching behaviour of pollutants
 stabilized/solidified wastes. Journal of Hazard Mater. 52 (2 –3): 287 –310.  
 Beck JN, Gauthreaux K, Sneddon J (20 01) Abstracts of Papers, 221st ACS National Meeting, San 
 Diego, CA, United States, April 1 - 5. 
-Beckett PHT (1989) Advances in soil science , 9: 143 -146.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Beckett PHT (1989) Advances in soil science , 9: 143 -146.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 83 
 Benzaazoua M, Bussiere B, Dagenais AM, Archambault M (2004) Kinetic tests comparison and 
@@ -2757,8 +2673,7 @@ and mineralogical approach. J. Geochem. Explor . 93:  78–90.
 Chao T T, Sanzolon e RF (1977)  Chemical dissolution of sulphide minerals. Journal of Research of 
 the U.S. Geological Survey, Vol 5(4): 409 –412.  
 Claff SR, Sullivan LA, Burton ED, Bush RT (2010 ) A sequential extraction procedure for acid 
-sulfate soils: Partitioning of iron. Geoderma . 155: 224-230.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+sulfate soils: Partitioning of iron. Geoderma . 155: 224-230.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 84 
 Concas A, Ardau C, Cristini A, Zuddas P, Cao G (2006 ) Mobility of heavy metals  from tailings to 
@@ -2787,8 +2702,7 @@ extraction techniques. TNO Institute of Applied Science, Delft, the Netherlands.
 93-65 A: 90p. plus 2 appendices.  
 Hall GEM, Vaive JE, MacLaurin AI ( 1996) Analytical aspects of the application of sodium 
 pyrophosphate reagent in the specific extraction of the labile organic component of 
-humus and soils. J. Geochem. Explor. 56, 23–36. 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+humus and soils. J. Geochem. Explor. 56, 23–36. Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 85 
 He ZL, Yanga XE, Stoffellab PJ (2005 ) Trace elements in agroecosystems  and impacts on the 
@@ -2817,8 +2731,7 @@ Nyamangara J (1998 ) Use of sequential extraction to evaluate zinc and copper in
 with sewage sludge and inorganic metal salts. Agriculture Ecosystem and  Environment.  
 69: 135–141.  
 Paktunc AD (1999)  Mineralogical constraints on the determination of neutralization potential  
-and prediction of acid  mine drainage. Environmental Geology. 39(2):103 –12. 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+and prediction of acid  mine drainage. Environmental Geology. 39(2):103 –12. Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 86 
 Patricia M, Monica RA, Carolina M, Carrillo -Chavez A (2011) Use  of partition and redistribution 
@@ -2846,8 +2759,7 @@ Rio Tinto  (2014). Linklater C, Chapman J, Brown P, Green R and Leake S. Assessi
 leachability from low sulfur wastes – sequential extrac tion methods. In: Proc. 8th 
 Australian Workshop on acid and metalliferous drainage , 315 -322.  
 Robertson  JD and Ferguson K D (1995)  Predicting acid rock drainage; Mining Journal. London, UK. 
-Mining Environmental Management. Vol 3, p.4 -5, 7-8. 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Mining Environmental Management. Vol 3, p.4 -5, 7-8. Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 87 
 Rodriguez  L, Rui z E, Alonso -Azcarate J, Rincon J (2009)  Heavy metal distribution and chemical 
@@ -2874,8 +2786,7 @@ van der Sloot HA (1996) Developments in evaluating environmental impact from uti
 bulk inert wastes using laboratory leaching tests and field verification. Waste 
 Management.  16(1 –3):65 –81. 
 Vega  FA., Covelo EF, Andrade ML (2006)  Competitive s orption and desorption of  heavy metals in 
-mine soils: influence of mine soil characteristics. J. Colloid  Interf. Sci  298: 582–592.  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+mine soils: influence of mine soil characteristics. J. Colloid  Interf. Sci  298: 582–592.  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 88 
 Villeneuve M, Bussiere B, Benzaazoua M (2009) Assessment of interpretation methods 
@@ -2885,8 +2796,7 @@ Villeneuve M, Bussie re B, Benzaazoua M  (2009) Assessment of interpretation  me
 kinetic tests performed on tailings having a  low acid  generating potential, Paper 
 presented at the Securing the  Future and 8th ICARD. Skelleftea, Sweden . 
 Xiangdong L, Coles BJ, Ramsey MH, Thornton I (1995) Sequential extraction of soils for 
-multielement analysis by ICP -MS. Chem. Geol. 124, 109 –123 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+multielement analysis by ICP -MS. Chem. Geol. 124, 109 –123 Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 89 
 The research team and authors of this report wish to acknowledge the funding support for this study 
@@ -2894,8 +2804,7 @@ from BHP Billiton and MRIWA.
 Also acknowledged is the in -kind support provided by BHP Billiton, DWER and DMIRS by providing 
 scientific staff to p articipate in the scientific advisory panel for this project.  
 ChemCentre’s in -kind contribution to this project is also appreciated.  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 90 
 Term  Explanation  
@@ -2937,8 +2846,7 @@ yellow -brown iron ore known as limonite.
 Hematite  A common iron oxide mineral with the formula Fe2O3.  
 INAP  International Network for Acid Prevention.  
 Jarosite  A hydrated potassium potassium sulfate mineral KAl 3(SO4) 2(OH) 6, often formed as an 
-oxidation product of pyrite and related iron sulfide minerals.   The potassium ions may be 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+oxidation product of pyrite and related iron sulfide minerals.   The potassium ions may be Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 91 
 Term  Explanation  
@@ -2975,14 +2883,12 @@ Sphale rite A zinc sulfide mineral, ZnS
 TOS Total oxidisable sulfur. Defined in this study as the difference between total sulfur and 
 sulfate -S, usually measured by extraction by dilute HCl.  
  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 92 
  
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 93 
 APPENDIX 1: KINETIC COLUMN TEST  – LEACHATE CONCENTRATIONS  (mg/L) 
@@ -2994,8 +2900,7 @@ Livestock drinking water guidelines are derived from ANZECC 2000.
 Leachates containing concentrations above the livestock drinking water guidelines are denoted by yellow 
 shading.  
  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 94 
 Table A1 -1: Leachate Concentrations  
@@ -3025,12 +2930,10 @@ Month 15  47.1  5.6 0 0.018  0 0.0071  0 30.5  0.0004  0.11  0.0009  3.2 0.046  
 Month 18  44.1  6.2 0 0 0 0.0079  0 28 0.0004  0.12  0 4.8 0 17.3  
 Month 21  40.9 5.5 0 0 0 0.01  0 24 0.0004  0.14  0 6.0 0 14 
 Month 24  32.1  6.1 0 0.015  0 0.0087  0 19 0.0006  0.13  0 7.5 0 11.3  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 95 
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 96 
 Sample JN/OB25 Fresh, Column 1  
@@ -3059,8 +2962,7 @@ Month 15  0.0041  24.3  0.13  0 3.4 0 0.018  0 0.0014  57 0.14  0 0.14  4.2
 Month 18  0.0052  21.9  0.13  0 2.9 0 0.023  0 0.0002  61 0.18  0.0001  0.16  5.9 
 Month 21  0.0041  17.7  0.14  0 5.9 0 0.029  0 0.0078  53 0.19  0 0.19  5.3 
 Month 24  0.0035  13.5  0.13  0 1.4 0 0.032  0 0.0018  42 0.15  0 0.22  5 
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 97 
 Sample JN/OB25 Fresh, Duplicate Column  
@@ -3090,8 +2992,7 @@ Month 18  36.1  6.4 0 0 0 0.0089  0 26.2  0.0004  0.096  0 4.6 0 15.3
 Month 21  29.5  6.1 0 0 0 0.0076  0 21.3  0.0003  0.094  0 3.3 0 10.2  
 Month 24  26.4  6.2 0 0.031  0 0.0089  0 18 0.0003  0.088  0 6.0 0.006  9.8 
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 98 
 Sample JN/OB25 Duplicate Column  
@@ -3120,8 +3021,7 @@ Month 15  0.0044  21.4  0.13  0 1.5 0 0.022  0 0 50 0.22  0.0001  0.13  4.7
 Month 18  0.0045  15.4  0.11  0 1.3 0 0.021  0 0 48 0.24  0.0001  0.16  5.7 
 Month 21  0.0042  12.4  0.12  0 1.3 0 0.023  0 0.0032  40 0.23 0 0.16  4 
 Month 24  0.0036  9.3 0.11  0 1.1 0 0.025  0 0.0021  34 0.22  0 0.19  5.1 
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 99 
 Sample MM/OB29 Weathered , Column 1  
@@ -3151,8 +3051,7 @@ Mont h 18  13.5  7.6 0 0 0.002  0.047  0 1.8 0 0.0002  0.0008  0.023  0.010  2.3
 Month 21  8.2 7.3 0 0.006  0 0.05  0 1.2 0 0.0002  0 0.013  0.037  1.1 
 Month 24  7.6 7.1 0 0.016  0.001  0.053  0 1.3 0 0.0002  0 0.0053  0.05  1.0 
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 100 
 Sample MM/OB29 Weathered , Column 1  
@@ -3181,8 +3080,7 @@ Month 15 0.0026  0.4 0.0001  0.006  20.8  0 0 0 0 7.1 0 0 0 7.5
 Month 18  0.0044  0.4 0 0.007  23.7  0 0 0 0 7.9 0 0 0.001  8.7 
 Month 21  0.0076  0.2 0.0001  0.007  14.4  0 0 0 0.0007  5.1 0 0 0.002  8.4 
 Month 24  0.0032  0.3 0.0009  0.007  12.9  0 0 0 0.0003  5.8 0 0 0.002  7.7 
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 101 
 Sample MM/OB29 Weathered , Duplicate Column  
@@ -3212,8 +3110,7 @@ Month 18  10.5  6.9 0 0 0 0.036  0 3.9 0 0 0 0.003  0 2.8
 Month 21  10.7  6.5 0 0 0 0.053  0 4.6 0 0.0001  0 0.017  0 1.7 
 Month 24  10.4  6.6 0 0.011  0 0.052  0 4.7 0 0 0 0 0 1.6 
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 102 
 Sample MM/OB29 Weathered, Duplicate Column  
@@ -3242,8 +3139,7 @@ Month 15  0.0028  3.4 0.0002  0 8.1 0 0 0 0 9.6 0 0 0 5.1
 Month 18  0.0031  2.9 0 0 6.6 0 0 0 0 7.6 0 0 0.002  5.2 
 Month 21  0.0051  3.2 0.0002  0 5.0 0 0 0 0.0023  7.9 0 0 0.007  6.0 
 Month 24  0.0066  3.3 0.0006  0 4.3 0 0 0 0.0009  6.8 0 0 0.024  5.6 
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 103 
 Sample MM/OB29 Transition , Column 1  
@@ -3273,8 +3169,7 @@ Month 18  14.6  6.9 0 0 0 0.027  0 4.5 0 0 0 0.0050  0 3.8
 Month 21  9.3 6.6 0 0 0 0.036  0 3.4 0 0 0 0.0049  0 1.4 
 Month 24  9.4 6.8 0 0.013  0 0.04  0 3.5 0 0 0 0.0059  0 1.4 
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 104 
 Sample MM/OB29 Transition , Column 1  
@@ -3303,8 +3198,7 @@ Month 15  0.0037  4.1 0.0011  0 10.6  0 0 0 0.0003  11 0.001  0 0.005  5.3
 Month 18  0.0031  3.7 0 0 9.8 0 0 0 0 10 0 0 0.001  6.4 
 Month 21  0.003  2.6 0.0003  0 4.8 0 0 0 0.0007  6.5 0 0 0.003  6.2 
 Month 24  0.004  3.0 0.0002  0 4.6 0 0 0 0.0001  6.4 0 0 0.006  8.2 
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 105 
 Sample MM/OB29 Transition , Duplicate Column  
@@ -3334,8 +3228,7 @@ Month 18  10.6  5.9 0 0 0 0.017  0 1.7 0 0.0006  0 0.017  0 2.8
 Month 21  8.4 6.1 0 0 0 0.016  0 1.6 0 0.0009  0.001  0.015  0 2.1 
 Month 24  8.6 5.9 0 0.012  0 0.018  0 1.6 0 0.0014  0 0.0013  0 2.3 
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 106 
 Sample MM/OB29 Transition , Duplicate Column  
@@ -3364,8 +3257,7 @@ Month 15  0.0009  3.2 0.0087  0 8.6 0 0 0 0 9.9 0 0 0.003  9.3
 Month 18  0.0008  3.8 0.005  0 7.9 0 0 0 0.0002  12 0 0 0.003  11 
 Month 21  0.001  3.3 0.0049  0 4.6 0 0 0 0.0003  9.5 0.001  0 0.003  11 
 Month 24  0.0008  3.2 0.012  0 3.9 0 0 0 0.0008  8.7 0 0 0.008  9.7 
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 107 
 Sample W/OB25 Transition , Column 1  
@@ -3395,8 +3287,7 @@ Month 18  11.4  6.0 0 0 0 0.021  0 1.9 0 0.0008  0 0.010  0 3.4
 Month 21  9.2 6.0 0 0 0 0.017  0 1.6 0 0.0013  0.0007  0.0021  0 2.3 
 Month 24  10.8  5.8 0 0.10  0 0.021  0 1.8 0 0.0015  0 0.0004  0 2.7 
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 108 
 Sample W/OB25 Transition, Column 1  
@@ -3425,8 +3316,7 @@ Month 15  0.0007  3.4 0.011  0 8.2 0 0 0 0 9.7 0.001  0 0.003  10
 Month 18  0.0008  4.0 0.008  0 8.0 0 0 0 0 12 0 0 0.004  13 
 Month 21  0.0006  3.5 0.0098  0 4.9 0 0 0 0.0009  10 0 0 0.004  11 
 Month 24  0.0006  4.0 0.013  0 5.7 0 0 0 0.0007  10 0.001  0 0.006  10 
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 109 
 Sample W/OB25 Transition, Duplicate Column  
@@ -3456,8 +3346,7 @@ Month 18  10.6  5.9 0 0 0 0.017  0 1.7 0 0.0006  0 0.017  0 2.8
 Month 21  8.4 6.1 0 0 0 0.016  0 1.6 0 0.0009  0.001  0.015  0 2.1 
 Month 24  8.6 5.9 0 0.012  0 0.018  0 1.6 0 0.0014  0 0.0013  0 2.3 
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 110 
 Sample W/OB25 Transition, Duplicate Column  
@@ -3485,8 +3374,7 @@ Month 12  0.0008  3.0 0.011  0 10.0  0 0 0 0 12 0 0 0.002  12
 Month 15  0.0009  3.2 0.0087  0 8.6 0 0 0 0 9.9 0 0 0.003  9.3 
 Month 18  0.0008  3.8 0.005  0 7.9 0 0 0 0.0002  12 0 0 0.003  11 
 Month 21  0.0010  3.3 0.0049  0 4.6 0 0 0 0.0003  9.5 0.001  0 0.003  11 
-Month 24  0.0008  3.2 0.012  0 3.9 0 0 0 0.0008  8.7 0 0 0.008  9.7 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Month 24  0.0008  3.2 0.012  0 3.9 0 0 0 0.0008  8.7 0 0 0.008  9.7 Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 111 
 Sample W/OB25, Fresh , Column 1  
@@ -3516,8 +3404,7 @@ Month 18  4.2 7.1 0 0 0 0.0024  0 2.0 0 0.0016  0 0.005  0 2.2
 Month 21  4.0 6.9 0 0 0 0.0029  0 2.1 0 0.0031  0 0.003  0.008  1.6 
 Month 24  3.8 7.0 0 0.034  0 0.0045  0 2.4 0 0.003  0 0.0068  0.005  1.5 
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 112 
 Sample W/OB25 , Column 1  
@@ -3546,8 +3433,7 @@ Month 15  0.0007  1.2 0.016  0 1.6 0 0 0 0 2.2 0 0.0001  0.002  10
 Month 18  0.0003  1.5 0.010  0 1.7 0 0 0 0 2.8 0 0.0002  0.002  14 
 Month 21  0.0004  1.5 0.023  0 1.2 0 0 0 0.0004  2.7 0 0.0002  0.002  12 
 Month 24  0.0003  1.7 0.029  0 1.0 0 0 0 0.0003  2.3 0 0.0002  0.010  11 
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 113 
 Sample W/OB25, Fresh, Duplicate Column  
@@ -3577,8 +3463,7 @@ Month 18  3.0 6.8 0 0 0 0.0025  0 1.2 0 0.0041  0 0.0020  0 1.8
 Month 21  3.2 6.7 0 0 0 0.0030  0 1.2 0 0.0043  0 0.013  0.009  1.6 
 Month 24  3.5 6.5 0 0.018  0 0.0035  0 1.5 0 0.0074  0 0.00 49 0.013  1.6 
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 114 
 Sample W/OB25, Duplicate Column  
@@ -3606,8 +3491,7 @@ Month 12  0.0007  0.9 0.050  0.001  1.0 0 0 0 0 1.9 0 0.0002  0.003  12
 Month 15  0.0011  1.1 0.066  0.001  1.3 0 0 0 0 2.2 0 0.0002  0.003  11 
 Month 18  0.0021  0.9 0.040  0.001  0.7 0 0 0 0 2.0 0 0.0002  0 11 
 Month 21  0.0011  1.0 0.035  0.001  0.6 0 0 0 0.0064  2.2 0 0.0002  0.009  11 
-Month  24 0.0008  1.1 0.072  0 0.5 0 0 0 0.0003  2.4 0 0.0001  0.008  9.3 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Month  24 0.0008  1.1 0.072  0 0.5 0 0 0 0.0003  2.4 0 0.0001  0.008  9.3 Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 115 
 Sample D1/Whaleback Fresh,  Column 1  
@@ -3637,8 +3521,7 @@ Month 18  5.0 7.1 0 0.014  0 0.012  0 3.3 0 0.0005  0.0058  0.0004  0.39  0.4
 Month 21  4.7 7.2 0 0.020  0 0.015  0 2.5 0 0.0006  0.014  0.0011  0.13  0.8 
 Month 24                
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 116 
 Sample D1/Whaleback Fresh , Column 1  
@@ -3667,8 +3550,7 @@ Month 15 0.0034  1.2 0.002  0.006  0.6 0 0 0 0.0004  0.4 0 0 0.03  6.6
 Month 18  0.0079  1.8 0.009  0.009  0.6 0 0 0 0.0014  0.7 0 0 0.009  11 
 Month 21  0.0091  1.2 0.019  0.009  0.9 0 0 0 0.0005  0.7 0 0 0.006  8.0 
 Month 24                
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 117 
 Sample D1/Whaleback Fresh , Duplica te Column  
@@ -3698,8 +3580,7 @@ Month 18  8.5 7.7 0 0.044  0.016  0.0007  0 0.7 0 0.0006  0.028  0.004  0.16  14
 Month 21  9.9 7.5 0 0.019  0.011  0.0007  0 1.0 0 0.0007  0.027  0.016  0.051  15.9  
 Month 24  7.8 7.4 0 0.074  0.017  0.0023  0 0.9 0 0.0007  0.015  0.0033  0.11  13.0  
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 118 
 Sample D1/Whaleback Fresh, Duplicate Column  
@@ -3727,8 +3608,7 @@ Month 12  0.011  0.7 0.002  0.031  5.8 0 0 0 0.0003  0.4 0 0 0.003  10
 Month 15  0.0015  0.8 0.002  0.045 7.0 0 0 0 0.0002  0.8 0 0 0.004  10 
 Month 18  0.0009  0.7 0.004  0.045  6.8 0 0 0 0.0008  0.8 0 0 0.003  10 
 Month 21  0.0007  1.0 0.0021  0.044  7.0 0 0.001  0 0.0046  1.3 0 0 0.011  10 
-Month 24  0.0005  0.8 0.0038  0.037  4.9 0 0 0 0.0021  0.7 0 0.0003  0.007  9.7 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+Month 24  0.0005  0.8 0.0038  0.037  4.9 0 0 0 0.0021  0.7 0 0.0003  0.007  9.7 Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 119 
 Sam ple D1/Whaleback Fresh BWT, Column 1  
@@ -3758,8 +3638,7 @@ Month 18  5.0 7.1 0 0.014  0 0.012  0 3.3 0 0.0005  0.0058  0.0004  0.39  0.4
 Month 21  4.7 7.2 0 0.020  0 0.015  0 2.5 0 0.0006  0.014  0.0011  0.13  0.8 
 Month 24                
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 120 
 Sample D1/Whaleback Fresh BWT, Column 1  
@@ -3788,8 +3667,7 @@ Month 15  0.0034  1.2 0.002  0.006  0.6 0 0 0 0.0004  0.4 0 0 0.030  6.6
 Month 18  0.0079  1.8 0.009  0.009  0.6 0 0 0 0.0014  0.7 0 0 0.009  11 
 Month 21  0.0091  1.2 0.019  0.009  0.9 0 0 0 0.0005  0.7 0 0 0.006  8.0 
 Month 24                
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 121 
 Sample D1/Whaleback Fresh BWT, Duplicate Column  
@@ -3819,8 +3697,7 @@ Month 18    0 0.014  0 0.013  0 3.7 0 0.0004  0.0046  0.0004  0.28  0.3
 Month 21    0 0.10  0 0.016  0 3.3 0 0.0013  0.0086  0.0006  0.053  0.7 
 Month 24                
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                      
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                      
  
 122 
 Sample D1/Whaleback Fresh BWT, Duplicate Column  
@@ -3849,16 +3726,14 @@ Month 15  0.0027  1.3 0.002  0.007  0.5 0 0 0 0.0006  0.4 0 0 0.035  6.6
 Month 18  0.025  1.9 0.004  0.008  0.5 0 0 0 0.0008  0.3 0 0 0.008  10 
 Month 21  0.0074  1.5 0.045  0.009  0.6 0 0 <0.1  0.0004  0.3 0 0 0 8.9 
 Month 24                
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 123 
 APPENDIX 2: KINETIC COLUMN TEST  – CUMULATIVE LEACH 
 CONCENTRA TIONS  (mg/Kg) 
  
  
  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 124 
  
 Sample JN/OB25 Fresh  
@@ -3884,8 +3759,7 @@ Month 18  0.000  0.003  0.000  0.015  0.000  56.81  0.000  0.132  0.000  2.861  
 Month 21  0.000  0.003  0.000  0.016  0.000  60.32  0.001  0.151  0.000  3.621  0.006  31.39  0.035  
 Month 24  0.000  0.007  0.000  0.018  0.000  63.21  0.001  0.168  0.000  4.681  0.007  33.04  0.035  
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 125 
 Sample JN/OB25 Fresh  
 Time  Mg Mn Mo Na Nb Ni P Pb S Se V Zn 
@@ -3909,8 +3783,7 @@ Month 15  43.70  0.127  0.002  22.69  0.000  0.019  0.000  0.000  111.69  0.214 
 Month 18  47.27  0.150  0.002  23.09  0.000 0.023  0.000  0.000  122.11  0.254  0.001  0.161  
 Month 21  49.66  0.170  0.002  23.73  0.000  0.027  0.000  0.001  129.45  0.285  0.001  0.188  
 Month 24  51.46  0.189  0.002  23.92  0.000  0.032  0.000  0.001  135.41  0.314  0.001  0.220  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 126 
 Sample WB/OB25 Transition  
 Time  Ag Al As Ba Be Ca Cd Co Cr Cu Fe K Li 
@@ -3935,8 +3808,7 @@ Month 18  0.000  0.013  0.000  0.043  0.000  7.23  0.000  0.005  0.000  0.012  0
 Month 21  0.000  0.013  0.000  0.046  0.000  7.51  0.000  0.005  0.000  0.014  0.001  8.68  0.007  
 Month 24  0.000  0.023  0.000  0.050  0.000  7.80  0.000  0.005  0.000  0.014  0.001  9.11  0.007  
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 127 
 Sample WB/OB25 Transition  
 Time  Mg Mn Mo Na Nb Ni P Pb S Se V Zn 
@@ -3960,8 +3832,7 @@ Month 15  15.68  0.039  0.000  81.44  0.000  0.008  0.000  0.000  49.42  0.003  
 Month 18  16.31  0.041  0.000  82.72  0.000  0.008  0.000  0.000  51.36  0.003  0.000  0.013  
 Month 21  16.89  0.042  0.000  83.54  0.000  0.008  0.000  0.000  53.05  0.004  0.000  0.014  
 Month 24  17.51  0.044  0.000  84.36  0.000  0.008  0.000  0.000  54.65  0.004  0.000  0.015  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 128 
 Sample WB/OB25 Fresh  
 Time  Ag Al As Ba Be Ca Cd Co Cr Cu Fe K Li 
@@ -3986,8 +3857,7 @@ Month 18  0.000  0.011  0.000  0.017  0.000  6.68  0.000  0.048  0.000  0.005  0
 Month 21  0.000  0.011  0.000  0.018  0.000  7.05  0.000  0.049  0.000  0.007  0.004  7.07  0.026  
 Month 24  0.000  0.018  0.000 0.019  0.000  7.55  0.000  0.050  0.000  0.008  0.006  7.47  0.026  
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 129 
 Sample JN/OB25 Fresh  
 Time  Mg Mn Mo Na Nb Ni P Pb S Se V Zn 
@@ -4011,8 +3881,7 @@ Month 15  5.59  0.471  0.001  19.60  0.000  0.000  0.000  0.000  18.61  0.002  0
 Month 18  5.86  0.478  0.001  19.87  0.000  0.000  0.000  0.000  19.17 0.002  0.000  0.010  
 Month 21  6.15  0.484  0.001  20.07  0.000  0.000  0.000  0.001  19.73  0.002  0.000  0.011  
 Month 24  6.51  0.498  0.001  20.26  0.000  0.000  0.000  0.001  20.34  0.002  0.001  0.013  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 130 
 Sample MM/OB29 Transition  
 Time  Ag Al As Ba Be Ca Cd Co Cr Cu Fe K Li 
@@ -4037,8 +3906,7 @@ Month 18  0.000  0.004  0.000  0.094  0.000  32.72  0.000  0.002  0.000  0.006  
 Month 21  0.000  0.004  0.000  0.102  0.000  33.46  0.000  0.002  0.000  0.008  0.003  14.60  0.028  
 Month 24  0.000  0.009  0.000  0.118  0.000  34.82  0.000  0.002  0.000  0.009  0.003  15.12  0.029  
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 131 
 Sample MM/OB29 Transition  
 Time  Mg Mn Mo Na Nb Ni P Pb S Se V Zn 
@@ -4062,8 +3930,7 @@ Month 15  26.33  0.003  0.000  113.64  0.000  0.001  0.000  0.000  73.46  0.005 
 Month 18  26.94  0.003  0.000  115.16  0.000  0.001  0.000  0.000  75.09  0.005  0.000  0.012  
 Month 21  27.47  0.003  0.000  116.05  0.000  0.001  0.000  0.000  76.41  0.005  0.000  0.013  
 Month 24  28.57  0.003  0.000  117.67  0.000  0.001  0.000  0.000  78.74  0.005  0.000  0.017  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 132 
 Sample MM/OB29 Weathered  
 Time  Ag Al As Ba Be Ca Cd Co Cr Cu Fe K Li 
@@ -4088,8 +3955,7 @@ Month 18  0.000  0.003  0.001  0.162  0.000  20.99  0.000  0.002  0.000  0.016  
 Month 21  0.000  0.005  0.001  0.170  0.000  21.19  0.000  0.002  0.000  0.017  0.018 8.75  0.019  
 Month 24  0.000  0.009  0.001  0.180  0.000  21.41  0.000  0.002  0.000  0.019  0.028  8.95  0.019  
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 133 
 Sample MM/OB29 Weathered  
 Time  Mg Mn Mo Na Nb Ni P Pb S Se V Zn 
@@ -4113,8 +3979,7 @@ Month 15  5.19  0.001  0.012  117.11  0.000  0.000  0.000  0.000  69.13  0.004  
 Month 18  5.26  0.001  0.013  121.51  0.000  0.000  0.000  0.000  70.56  0.004  0.000  0.010  
 Month 21  5.29  0.001  0.014  123.26  0.000  0.000  0.000  0.000  71.19  0.004  0.000  0.011  
 Month 24  5.34  0.001  0.015  125.59  0.000  0.000  0.000  0.000  72.18  0.004  0.000  0.011  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 134 
 D1/Whaleba ck Fresh  
 Time  Ag Al As Ba Be Ca Cd Co Cr Cu Fe K Li 
@@ -4139,8 +4004,7 @@ Month 18  0.000  0.043  0.030  0.006  0.000  9.43  0.000  0.003  0.038  0.004  0
 Month 21  0.000  0.048  0.032  0.007  0.000  9.55  0.000  0.003  0.043  0.006  0.128  75.84  0.038  
 Month 24  0.000  0.071  0.038  0.007  0.000  9.86  0.000  0.003  0.047  0.007  0.155  80.08  0.038  
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 135 
 D1/Whaleback Fresh  
 Time  Mg Mn Mo Na Nb Ni P Pb S Se V Zn 
@@ -4164,8 +4028,7 @@ Month 15  10.23  0.014  0.091  79.13  0.000  0.000  0.000  0.000  27.78  0.004  
 Month 18  10.36  0.015  0.100  80.57  0.000  0.000  0.000  0.001  27.92  0.004  0.000  0.012  
 Month 21  10.47  0.015  0.106  81.49  0.000  0.000  0.000 0.001  28.05  0.004  0.000  0.014  
 Month 24  10.72  0.017  0.117  83.06  0.000  0.000  0.000  0.002  28.24  0.004  0.000  0.016  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 136 
 Sample D1/Whaleback Fresh BWT  
 Time  Ag Al As Ba Be Ca Cd Co Cr Cu Fe K Li 
@@ -4190,8 +4053,7 @@ Month 18  0.000  0.006  0.000  0.056  0.000  12.74  0.000  0.006  0.011  0.001  
 Month 21  0.000  0.018  0.000  0.059  0.000  13.36  0.000  0.006  0.013  0.001  0.343  5.71  0.062  
 Month 24               
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 137 
 Sample D1/Whaleback Fresh BWT  
 Time  Mg Mn Mo Na Nb Ni P Pb S Se V Zn 
@@ -4215,37 +4077,29 @@ Month 15  6.69  0.049  0.017  16.76  0.000  0.000  0.000  0.000  6.31  0.000  9.
 Month 18  7.14  0.051  0.019  16.89  0.000  0.000  0.000  0.000  6.43  0.000  11.984  0.000 
 Month 21  7.43  0.058  0.021  17.05  0.000  0.000  0.000  0.000  6.54  0.000  13.792  0.000  
 Month 24              
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 138 
 Appendix 2 Figures: C umulative Release of Solute over 24 Months  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 139 
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 140 
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 141 
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 142 
  
   
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 143 
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 144 
 APPENDIX 3: SEQUENTIAL LEACH TESTS – PUBLISHED METHODS  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 145 
 Table A3 -1. Elemental concentrations (mg/kg) in sequential extraction fraction using the method of Pinto, Al -Abed et al., 2014  
    Al Ba Be Ca Co Cr Cu Fe Li Mn Ni P Pb S V Zn Cd Mo 
@@ -4289,8 +4143,7 @@ Carbonate bound  JN/OB25 Fresh  Mean  31.2 0.70 0.00 12.5 0.29 0.00 174 0.00 0.0
 Amorphous Iron Oxide  JN/OB25 Fresh  Mean  211 1.82 0.05 13.7 0.15 0.73 129 2450  0.06 0.61 0.37 0.00 1.04 8.75 2.14 4.00 0.00 0.02 
   SE 8.76 0.01 0.00 1.25 0.00 0.01 1.24 50.1 0.00 0.12 0.00 0.00 0.08 1.25 0.04 4.25 0.00 0.02 
  MM/OB29 Weathered  Mean  437 10.7 0.04 18.7 1.26 0.41 0.54 3000  0.02 4.49 0.27 0.00 0.75 8.75 0.24 ND 0.001  0.00 
-  SE 12.5 0.25 0.00 1.25 0.01 0.00 0.00 0.22 0.00 0.25 0.00 0.00 0.04 1.25 0.01 ND 0.001 0.00 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  SE 12.5 0.25 0.00 1.25 0.01 0.00 0.00 0.22 0.00 0.25 0.00 0.00 0.04 1.25 0.01 ND 0.001 0.00 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 146 
    Al Ba Be Ca Co Cr Cu Fe Li Mn Ni P Pb S V Zn Cd Mo 
  MM/OB29 Trans  Mean  325 0.92 0.08 10.0 0.95 0.31 0.40 4498  0.03 4.74 0.41 0.00 0.97 2.50 0.02 3.37 0.005  0.02 
@@ -4334,14 +4187,12 @@ Residue JN/OB25 Fresh  Mean  107000  97.5 1.10 75.0 2.00 140 98.5 18150  32.0 53
  W/OB25 trans  Mean  46800  28.0 1.10 67.50  ND 82.5 16.50  185500  2.00 81.5 17.5 1195  16.5 35.0 46.0 13.5 0.00 0.00 
   SE 2500  1.00 0.00 2.50 ND 2.50 0.50 1500  0.00 1.50 2.50 15.00  0.50 5.00 1.00 0.50 0.00 0.00 
  W/OB25 Fresh  Mean  35950  62.5 1.45 75.00  2.00 47.5 51.50  130500  20.0 124 30.5 310 165 70.0 48.5 120 0.00 10.00  
-  SE 1050  1.50 0.05 0.00 0.00 2.50 0.50 1500  0.00 3.00 2.50 0.00 2.00 5.00 1.50 2.50 0.00 0.00 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  SE 1050  1.50 0.05 0.00 0.00 2.50 0.50 1500  0.00 3.00 2.50 0.00 2.00 5.00 1.50 2.50 0.00 0.00 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 147 
    Al Ba Be Ca Co Cr Cu Fe Li Mn Ni P Pb S V Zn Cd Mo 
  D1/Whaleback fresh  Mean  13850  8.00 0.85 65.00  2.00 25.0 13.00  224000  2.00 27.5 12.0 330 ND 220 18.0 8.50 0.00 0.00 
   SE 450 0.00 0.05 0.00 0.00 0.00 0.00 7000  0.00 1.50 0.00 0.00 0.00 10.00  1.00 0.50 0.00 0.00 
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 148 
  
  
@@ -4349,7 +4200,6 @@ Figure A3-1. Distribution of metals in the several phases of the seven rock samp
 of Pinto, Al -Abed et al., 2014  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 149 
 Table A3 -2. Elemental concentrations (mg/kg) in sequential extraction fraction using the method of by Leinz et al., 200 0 
@@ -4389,8 +4239,7 @@ Exchangeable  JN/OB25 Fresh  Mean  0.00 0.58 0.00 95.91  0.15 0.00 0.90 0.00 0.0
 Weathered  Mean  0.00 106.93  0.00 80.99  0.00 0.00 0.00 0.00 0.00 ND 0.00 0.00 0.00 0.00 37.49  0.00 ND 0.00 0.00 0.00 0.27 0.00 
   SE 0.00 0.01 0.00 0.01 0.00 0.00 0.00 0.00 0.00 ND 0.00 0.00 0.00 0.00 1.50 0.00 ND 0.00 0.00 0.01 0.27 0.00 
  MM/OB29 Trans  Mean  0.00 3.90 0.00 17.99  0.00 0.00 0.00 0.00 0.00 ND 0.00 0.00 0.00 0.00 53.98  0.00 ND 0.00 0.00 -0.01 0.00 0.00 
-  SE 0.00 0.15 0.00 17.99  0.00 0.00 0.00 0.00 0.00 ND 0.00 0.00 0.00 0.00 0.00 0.00 ND 0.00 0.00 0.00 0.00 0.00 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  SE 0.00 0.15 0.00 17.99  0.00 0.00 0.00 0.00 0.00 ND 0.00 0.00 0.00 0.00 0.00 0.00 ND 0.00 0.00 0.00 0.00 0.00 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 150 
    Al Ba Be Ca Co Cr Cu Fe Li Mn Nb Ni P Pb S V Zn Ag As Cd Mo Se 
  W/OB25 trans  Mean  0.00 0.73 0.00 59.97  0.00 0.00 0.00 0.00 0.00 ND 0.00 0.00 0.00 0.00 47.97  0.00 0.93 0.00 0.00 -0.01 0.00 0.00 
@@ -4431,8 +4280,7 @@ Weathered  Mean  1949.66  7.50 0.00 44.99  0.75 4.05 4.23 64489  0.00 14.55  0.0
 6 0.00 81.42  0.00 0.00 62.98  38.99  0.00 8.70 10.20  0.00 80.97  0.00 0.00 0.00 
   SE 0.108  0.045  0.00
 0 1.497  0.330  0.301  0.151  4.95 0.000  1.51 0.000  0.000  0.005  0.003  0.000  0.001  1.500  0.000  0.006  0.000  0.000  0.000  
- D1/Whaleback Mean  914.72  0.91 0.00 0.00 1.11 12.90  6.90 74977  0.00 7.50 0.00 0.00 115.46  0.78 41.99  13.65  3.90 0.00 0.00 0.00 0.00 0.00 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ D1/Whaleback Mean  914.72  0.91 0.00 0.00 1.11 12.90  6.90 74977  0.00 7.50 0.00 0.00 115.46  0.78 41.99  13.65  3.90 0.00 0.00 0.00 0.00 0.00 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 151 
    Al Ba Be Ca Co Cr Cu Fe Li Mn Nb Ni P Pb S V Zn Ag As Cd Mo Se 
 fresh  
@@ -4481,8 +4329,7 @@ Weathered  Mean  25700.00  21.00  1.00 345.00  3.00 42.50  31.50  412000  1.00 1
 0 2.500  0.000  0.000  0.500  500 0.000  0.000  0.00 4.000  2.500  3.000  5.000  0.000  0.500  0.00 1.500  0.00 0.000  0.00 
  D1/Whaleback 
 fresh  Mean  15150.00  7.00 0.65 70.00  1.00 ND 6.50 168500  1.50 22.00  0.00 26.00  205.00  ND 202.50  2.00 8.50 0.00 17.00  0.00 0.00 0.00 
-  SE 50.00  0.00 0.05 0.00 0.00 0.00 0.50 3500  0.50 0.00 0.00 13.00  0.00 0.00 12.50  0.00 0.50 0.00 2.00 0.00 0.00 0.00 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  SE 50.00  0.00 0.05 0.00 0.00 0.00 0.50 3500  0.50 0.00 0.00 13.00  0.00 0.00 12.50  0.00 0.50 0.00 2.00 0.00 0.00 0.00 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 152 
  
  
@@ -4490,7 +4337,6 @@ Figure A3-2. Distribution of metals in the several phases of the seven rock samp
 of Leinz et al., 200 0 
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 153 
 Table A3 -3. Elemental concentrations (mg/kg) in sequential extraction fraction using the method of Piatak et al., 2007  
@@ -4536,8 +4382,7 @@ Crystalline Fe/Mn oxide  Mean  JN/OB25 Fresh  0.40 241.96  1.26 0.00 0.00 0.10 1
  0.01 16.48  0.00 0.00 0.00 0.00 0.00 13.73  0.35 0.00 0.11 0.00 0.00 0.00 0.05 0.22 0.00 0.00 0.00 0.00 0.00 0.00 
  Mean  MM/OB29 Weathered  0.02 505.87  10.17  0.00 0.00 0.35 0.80 0.66 9622.57  0.00 2.50 93.48  0.36 71.48  0.51 1.48 0.00 0.00 0.00 0.00 0.00 0.00 
  SE 
- 0.00 5.45 0.27 0.00 0.00 0.01 0.03 0.11 273.97  0.00 0.30 0.01 0.00 0.01 0.03 0.27 0.00 0.00 0.00 0.00 0.00 0.00 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ 0.00 5.45 0.27 0.00 0.00 0.01 0.03 0.11 273.97  0.00 0.30 0.01 0.00 0.01 0.03 0.27 0.00 0.00 0.00 0.00 0.00 0.00 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 154 
    Ag Al Ba Be Ca Co Cr Cu Fe Li Mn P Pb S V Zn As Cd Mo Nb Ni Se 
  Mean  MM/OB29 Trans  0.00 393.21  0.50 0.00 0.00 0.55 0.46 0.36 11823.80  0.00 2.94 151.23  0.31 0.00 0.06 2.31 0.00 0.00 0.00 0.00 0.00 0.00 
@@ -4584,8 +4429,7 @@ Residue  Mean  JN/OB25 Fresh  ND 103150.00  75.50  1.00 117.50  2.50 195.00  53.
  0.00 2000.00  1.00 0.00 7.50 0.00 0.00 1.50 3500.00  0.00 3.50 35.00  0.00 5.00 2.00 1.50 0.00 0.00 0.00 0.00 0.50 0.00 
  Mean  W/OB25 Fresh  ND 43100.00  57.50  1.25 70.00  2.00 35.00  40.00  92500.00  19.50  82.50  247.50  159.50  70.00  41.00  85.50  228.50  0.00 9.50 0.00 20.00  0.00 
  SE 
- 0.00 500.00  2.50 0.05 5.00 0.00 0.00 1.00 2700.00  0.50 2.50 2.50 1.50 5.00 1.00 1.50 5.50 0.00 0.50 0.00 1.00 0.00 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ 0.00 500.00  2.50 0.05 5.00 0.00 0.00 1.00 2700.00  0.50 2.50 2.50 1.50 5.00 1.00 1.50 5.50 0.00 0.50 0.00 1.00 0.00 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 155 
    Ag Al Ba Be Ca Co Cr Cu Fe Li Mn P Pb S V Zn As Cd Mo Nb Ni Se 
  Mean  D1/Whaleback fresh  0.00 18700.00  8.00 0.70 77.50  1.00 15.00  10.00  175500.00  1.00 28.00  242.50  7.50 260.00  16.50  8.00 18.00  0.00 0.00 0.00 13.50  0.00 
@@ -4610,15 +4454,13 @@ Total Oxidisable  Mean  JN/OB25 Fresh  0.00 147.44  0.00 0.00 0.00 0.00 0.00 218
  SE 
  0.00 65.85  0.96 0.02 16.49  0.12 0.06 117.33  1659.00  0.01 0.39 109.46  0.11 4.50 0.54 10.50  0.04 0.00 0.00 0.00 0.07 0.04 
  
- 
-Sequential Leaching Project  M432  –  Final Re port to MRIWA                                   
+ Sequential Leaching Project  M432  –  Final Re port to MRIWA                                   
 156 
  
 Figure A3-3.  Distribution of metals in the several phases of the seven rock samples according to the method 
 of Piatek et a l., 2007  
  
  
-
 Sequential Leaching Project  M432  –  Final Re port to MRIWA                                   
 157 
 Table A3 -4. Elemental concentrations (mg/kg) in sequential extraction fraction using the method of Rio Tinto 2014  
@@ -4658,8 +4500,7 @@ Fe/Mn oxide  D1/Whaleback fresh  Mean  0.07 220 0.00 0.85 0.01 0.00 1.74 0.00 0.
   MM/OB29 Weathered  Mean  0.00 215 0.00 117 0.00 0.00 0.77 0.00 0.27 0.41 1337  0.00 0.00 0.00 2.37 0.00 101 0.00 0.00 0.00 0.31 0.00 0.00 0.39 1.17 
     SE 0.00 0.0 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.16 12.7 0.00 0.00 0.00 0.10 0.00 1.24 0.00 0.00 0.00 0.01 0.00 0.00 0.01 0.10 
   W/OB25 Fresh  Mean  0.24 387 0.00 82.4 0.05 0.00 4.37 0.10 0.99 2.09 1100  169 0.13 0.00 2475  0.00 0.00 0.00 0.54 0.00 450 0.00 0.00 1.44 3.67 
-    SE 0.00 12.5 0.00 0.00 0.00 0.00 0.13 0.00 0.11 0.14 25.1 1.26 0.00 0.00 0.12 0.00 0.00 0.00 0.04 0.00 0.02 0.00 0.00 0.04 0.00 
-Sequential Leaching Project  M432  –  Final Re port to MRIWA                                   
+    SE 0.00 12.5 0.00 0.00 0.00 0.00 0.13 0.00 0.11 0.14 25.1 1.26 0.00 0.00 0.12 0.00 0.00 0.00 0.04 0.00 0.02 0.00 0.00 0.04 0.00 Sequential Leaching Project  M432  –  Final Re port to MRIWA                                   
 158 
   W/OB25 trans  Mean  325 0.0 1.69 0.00 0.00 0.30 0.66 0.76 1887  0.00 1.87 0.00 0.00 1.20 0.00 3.12 2.55 1.25 4920  0.03 0.00 0.00 0.00 0.00 0.00 
     SE 0.06 0.0 0.04 0.00 0.00 0.00 0.01 0.01 12.83  0.00 0.05 0.00 0.00 0.10 0.00 0.13 0.13 0.05 10.0 0.00 0.00 0.00 0.00 0.00 0.00 
@@ -4698,8 +4539,7 @@ Aqua Regia  D1/Whaleback fresh  Mean  0.00 1106  0.00 1.53 0.00 0.00 0.00 0.00 9
     SE 0.00 150 0.00 0.75 0.00 1.49 0.00 0.00 0.30 0.45 4493  0.00 0.00 2.99 0.90 0.00 3.01 0.00 0.00 5.97 0.18 7.49 0.00 0.30 0.15 
   W/OB25 Fresh   Mean  0.00 1796  115 2.97 0.00 31.5 0.00 0.00 19.65  12.45  61485  622 0.82 85.5 45.8 0.00 52.5 0.00 0.00 240 37.49  0.00 0.00 8.10 15.4 
     SE 0.00 180 7.49 0.03 0.00 1.50 0.00 0.00 0.45 0.45 4496  49.5 0.02 10.5 1.50 0.00 7.50 0.00 0.00 0.01 1.50 0.00 0.00 0.30 1.95 
-  W/OB25 trans  Mean  4645  11.5 2.01 0.00 0.00 0.00 5.70 54.0 127473  16.5 38.3 34.5 1155  5.25 0.00 26.4 2.70 0.00 69350  0.00 0.00 0.00 0.00 0.00 0.00 
-Sequential Leaching Project  M432  –  Final Re port to MRIWA                                   
+  W/OB25 trans  Mean  4645  11.5 2.01 0.00 0.00 0.00 5.70 54.0 127473  16.5 38.3 34.5 1155  5.25 0.00 26.4 2.70 0.00 69350  0.00 0.00 0.00 0.00 0.00 0.00 Sequential Leaching Project  M432  –  Final Re port to MRIWA                                   
 159 
     SE 151 0.45 0.18 0.00 0.00 0.00 0.00 0.01 1522  16.5 0.01 1.49 15 0.15 0.00 0.30 1.20 0.00 550 0.00 0.00 0.00 0.00 0.00 0.00 
 Residue  D1/Whaleback fresh  Mean  ND 14000  17.5 7.50 0.70 70.0 1.00 ND ND 7.00 180500  125 2.00 70.0 26.0 ND 85.0 ND 8.00 248 ND 185 ND 3.50 20.00  
@@ -4714,14 +4554,12 @@ Residue  D1/Whaleback fresh  Mean  ND 14000  17.5 7.50 0.70 70.0 1.00 ND ND 7.00
     SE ND 1650  1.00 4.00 0.00 0.00 0.00 ND 0.00 1.50 1700  500 0.50 100.00  0.50 0.00 10.0 ND 1.50 0.00 3.50 0.00 ND 1.50 5.50 
   W/OB25 trans  Mean  54050  11.0 32.0 0.95 65.0 ND 13.0 15.0 49100  148 38.0 110 378 14.0 20.0 8.50 12.0 ND ND ND ND 485 3.00 ND ND 
     SE 1550  1.00 0.00 0.05 0.00 ND 0.00 0.00 1300  2.50 0.00 10.0 2.50 0.00 ND 0.50 0.00 ND ND ND ND 5.00 0.00 ND ND 
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 160 
  
  
 Figure A3-4.  Distribution of metals in the several phases of the seven rock samples according to the method 
 of Rio Tinto  2014  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 161 
 Table A3-5.  Percent recovery obtained for all elements in sequentially extraction pro cedure s performed by all four  method s for seven rock samples.  
@@ -4763,8 +4601,7 @@ MM/OB29 Trans  Abed  Total of all
 fractions  12945 #DIV/0!  1.16 214 11.5 15.3 20.0 620364  2.05 173.6  18.7 16.3 435 0.07 83.0 
   Pseudo total  14200  <5 1.10 155 27.0 10.0 18.0 623000  1.00 168.0  10.0 11.0 470 9.00 78.0 
   Recovery (%)  91 #DIV/0!  106 138 43 153 111 100 205 103 187 149 93 1 106 
- Leinz  Total  of all 18930  #DIV/0!  1.10 165 13.9 17.5 24.5 710350  2.02 197.8  20.5 17.1 518 1.09 105 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Leinz  Total  of all 18930  #DIV/0!  1.10 165 13.9 17.5 24.5 710350  2.02 197.8  20.5 17.1 518 1.09 105 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 162 
   Fraction  Al Ba Be Ca Co Cr Cu Fe Li Mn Ni Pb S V Zn 
 fractions  
@@ -4807,8 +4644,7 @@ fractions  44479  145 1.38 179 9.72 39.5 44.9 111683  19.82  2615  21.1 636 100 
   Pseudo total  44700  172 1.50 210 19.0 55.0 51.0 136000  20.00  3260  23.0 723 145 52.00  147 
   %recovery  100 84 92 85 51 72 88 82 99 80 92 88 69 84 62 
  RT Total of all 
-fractions  46677  165 1.62 199 10.9 59.0 57.0 142534  23.84  2670  30.6 642 90 56.33  148 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+fractions  46677  165 1.62 199 10.9 59.0 57.0 142534  23.84  2670  30.6 642 90 56.33  148 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 163 
   Fraction  Al Ba Be Ca Co Cr Cu Fe Li Mn Ni Pb S V Zn 
   Pseudo total  44700  172 1.50 210 19.0 55.0 51.0 136000  20.00  3260  23.0 723 145 52.00  147 
@@ -4847,13 +4683,11 @@ fraction  4469  162 0.27 165 8.43 6.18 14.1 376848  5.45 1137  17.9 1.60 4.99 8.
   Recovery (%)   102  122    115 136 96     133 
  
  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 164 
 APPENDIX 4: SEQUENTIAL LEACH TESTS – OPTIMISED METHOD  
  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 165 
 Table A4 -1.  Elemental composition of extractant blank solutio ns in the optimised sequential extraction method  
  Ag Al As Ba Be Ca Cd Co Cr Cu Fe K 
@@ -4870,8 +4704,7 @@ Easily oxidisable
 Recalcitrant Oxidisable  
 (H2O2/ HNO 3) <0.0001  <0.050  <0.001  0.0003  <0.0001  <0.1  <0.0001  0.0001  0.007  0.0002  0.0325  0.3 
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 166 
  Li Mg Mn Mo Na Nb Ni P Pb S Se V Zn 
  mg/L  mg/L  mg/L  mg/L  mg/L  mg/L  mg/L  mg/L  mg/L mg/L  mg/L  mg/L  mg/L  
@@ -4890,8 +4723,7 @@ Recalcitrant Oxidisable
  
  
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 167 
 Table 4 -2. Elemental concentrations (mg/kg) in sequential extraction fraction using the optimised method  
   Ag Al As Ba Be Ca Cd Co Cr Cu Fe K 
@@ -4922,8 +4754,7 @@ MM/OB29 Trans.  Water Extractable  0.00  0.00  0.00  0.49  0.00  32.50  0.00  0.
  Exchangeable  0.00  0.00  0.00  4.88  0.00  40.00  0.00  0.00  0.00  0.00  0.00  10.00  
  Carbonate  0.04  87.50  0.00  1.08  0.10  10.00  0.00  0.73  0.08  0.06  189 0.00  
  Amorpho us Fe/Mn oxide  0.00  106 0.00  0.68  0.00  0.00  0.00  0.70  0.21  0.00  950 0.00  
- Crystalline Fe/Mn oxide  0.00  2088  0.00  0.73  0.00  0.00  0.00  2.33  2.39  2.41  91250  0.00  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Crystalline Fe/Mn oxide  0.00  2088  0.00  0.73  0.00  0.00  0.00  2.33  2.39  2.41  91250  0.00  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 168 
   Ag Al As Ba Be Ca Cd Co Cr Cu Fe K 
   mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/ kg mg/kg  mg/kg  mg/kg  
@@ -4955,8 +4786,7 @@ W/OB25 fresh  Water Extractable  0.00  0.00  0.00  0.02  0.00  2.50  0.00  0.00 
  Total of all fractions  0.39  40384  323.50  166 1.44  196 0.10  11.85  58.18  56.37  134961  19515  
  Total  0.60  44700  281.00  172 1.50  210 <1 19.00  55.00  51.00  136000  16300  
  Recovery (%)  64.38  90.34  115.12  96.24  96.25  93.45   62.34  105.79  110.53  99.24  120 
-D1/Whaleback  Water Extractable  0.00  0.00  0.00  0.05  0.00  7.50  0.00  0.25  0.00  0.00  0.00  7.50  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+D1/Whaleback  Water Extractable  0.00  0.00  0.00  0.05  0.00  7.50  0.00  0.25  0.00  0.00  0.00  7.50  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 169 
   Ag Al As Ba Be Ca Cd Co Cr Cu Fe K 
   mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/ kg mg/kg  mg/kg  mg/kg  
@@ -4982,8 +4812,7 @@ Sequential Leaching Project  M432  –  Final Report to MRIWA
  Total  <0.5  1930  4.00  160 <0.5  135.00  <1 <1 <10 6.00  327000  <100  
  Recovery (%)   112 0.63  110  59.26     353.42  91.95   
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 170 
   Li Mg Mn Mo Nb Ni P Pb S Se V Zn Na 
   mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  
@@ -5015,8 +4844,7 @@ MM/OB29 Trans.  Water Extractable  0.01  25.00  0.01  0.00  0.00  0.08  0.00  0.
  Amorphous Fe/Mn oxide  0.00  17.50  1.29  0.00  0.00  0.00  0.00  0.36  0.00  0.00  0.04  0.85  0.00  
  Crystalline Fe/Mn oxide  0.00  80.00  32.50  0.00  0.00  2.88  81.25  2.03  38.75  0.00  0.99  21.88  0.00  
  Easily oxidisabl e 0.00  0.00  0.00  0.00  0.00  0.00  0.00  0.00  0.00  0.00  0.00  1.38  213750  
- Recalcitrant Oxidisable  0.01  2.50  0.28  0.46  0.01  0.13  18.75  0.02  2.50  0.00  0.00  0.16  705.00  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Recalcitrant Oxidisable  0.01  2.50  0.28  0.46  0.01  0.13  18.75  0.02  2.50  0.00  0.00  0.16  705.00  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 171 
   Li Mg Mn Mo Nb Ni P Pb S Se V Zn Na 
   mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  
@@ -5048,8 +4876,7 @@ W/OB25 fresh  Water Extractable  0.03  2.50  0.03  0.01  0.00  0.03  0.00  0.00 
  Recovery (%)  111.89  113 78.74  156.72   116.07  177 87.66  78.74   94.29  107 152023.18  
 D1/Whaleback  Water Extractable  0.00  5.00  0.18  0.00  0.00  0.00  0.00  0.00  10.00  0.00  0.00  0.31  20.00 
  Exchangeable  0.00  36.25  10.13  0.00  0.00  0.00  0.00  0.00  17.50  0.00  0.00  0.23  7.50  
- Carbonate  0.02  5.00  18.00  0.00  0.00  0.26  0.00  0.15  8.75  0.00  0.40  1.79  7.50  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Carbonate  0.02  5.00  18.00  0.00  0.00  0.26  0.00  0.15  8.75  0.00  0.40  1.79  7.50  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 172 
   Li Mg Mn Mo Nb Ni P Pb S Se V Zn Na 
   mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  
@@ -5073,8 +4900,7 @@ Sequential Leaching Project  M432  –  Final Report to MRIWA
  Total  4.00  270 1180  7.00  <10 <5 385 <5 <20 <10 <1 8.00  <50 
  Recovery (%)  100.91  112 96 5.54    166     273.44   
  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 173 
  
 Figure A4-1. Distribution of metals in the  several phases of the seven rock samples according to the 
@@ -5085,7 +4911,6 @@ Optimised Method
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 174 
 APPENDIX 5: COMPARISON OF OPTIMISED SLP  AND KINETIC TESTS 
@@ -5093,8 +4918,7 @@ APPENDIX 5: COMPARISON OF OPTIMISED SLP  AND KINETIC TESTS
  
  
  
- 
- 
+  
 Table A5-1. Percent of elements in different phases of the optimised s equential le aching procedure and kinetic leach over 24 months.  
  Phase  Al As Ba Be Ca Co Cr Cu Fe K Li Mg Mn Mo Ni P Pb S V Zn Cd Se 
 JN/OB25 Fresh  Labile  0.06  0.60  1.63  5.79  93.8  28.3  0.05  39.2  0.13  0.15  0.05  0.99  2.54  0.00  1.36  0.63  0.43  1.21  0.40  10.8  0.00  2.08  
@@ -5131,59 +4955,49 @@ D1/Whaleback  Labile  1.52  0.34  21.87  9.69  58.2  72.8  5.69  9.41  0.13  10.
  MM/OB32 Trans BWT  Labile  3.01  100 11.5  97.2  93.8  62.5  10.3  1.47  0.09  3.96  0.65  14.5  7.78  0.00  28.2  0.00  0.60  100.0  0.00  14.8  ND ND 
  KLP 0.00  1.34  0.03  0.00  15.9  0.07  0.19  0.01  0.00  4.40  1.50  2.36  0.00  4.81  0.02  0.00  0.05  32.14  0.00  0.12  ND ND 
  Reducing  35.8  0.00  88.2  0.00  0.00  37.5  79.3  11.3  24.1  15.8  0.00  32.6  85.4  0.00  61.2  17.8  99.1  0.00  98.8  45.4  ND ND 
- Oxidised  0.55  0.00  0.24 2.78  6.25  0.06  10.3  0.02  0.17  80.2  0.25  0.83  0.09  100.0  10.6  16.6  0.30  0.00  1.18  12.4  ND ND 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Oxidised  0.55  0.00  0.24 2.78  6.25  0.06  10.3  0.02  0.17  80.2  0.25  0.83  0.09  100.0  10.6  16.6  0.30  0.00  1.18  12.4  ND ND Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 176 
  Residue  60.6  0.00  0.00  0.00  0.00  0.00  0.00  87.2  75.7  0.00  99.1  52.1  6.73  0.00  0.00  65.6  0.00  0.00  0.00  27.4  ND ND  
 Note: ND - not detected; Labile: Water solub le+ exchangeable + carbonate; Reducing: amorphous Fe/Mn oxide + crystalline Fe/Mn oxide; Oxidising: Easily oxidisable + Recal citrant oxidisable: KLP – kinetic leach 
 procedure over 24 months  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 177 
  
 Figure A5-1 Comparison of Sequential leaching procedure and ki netic leaching test for JN/OB25 Fresh.  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 178 
  
 Figure A5-2   Comparison of Sequential leaching procedure and kinetic leaching test for MM/OB29 Weathered.  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 179 
  
 Figure A5 -3  Comparison of Sequential leaching procedure and kinetic leaching test for MM/OB29 Trans.  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 180 
  
 Figure A5 -4  Comparison of Sequential leaching procedure and kinetic leaching test W/OB25 Trans.  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 181 
  
 Figure A5-5  Comparison of Sequential leaching procedure and kinetic leaching test W/OB25 Fresh.  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 182 
  
 Figure A5-6  Comparison of Sequential leaching procedure  and kinetic leaching test D1/Whaleback Fresh.  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 183 
  
 Figure A5 -7  Comparison of Sequential leaching procedu re and kinetic leaching test MM OB32 Trans /BWT.  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 184 
 APPENDIX 6: LEAF  METHOD 1313  RESULTS  
  
- 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 185 
 Table A6 -1 Results for Analysis of Sa mples Using LEAF Method 1313  
   Ag Al As Ba Be Ca Cd Co Cr Cu Fe K 
@@ -5215,8 +5029,7 @@ MM/OB29 Transition  pH 13.1  <0.010  170 0.24  0.022  <0.010  <1 <0.010  <0.010 
  pH 6.3  <0.001  <0.05  <0.01  1.8 <0.001  56 <0.001  0.017  <0.005  <0.001  <0.05  12 
  pH 4.8  <0.001  0.34  <0.01  3.6 0.002  68 <0.001  0.34  <0.005  0.007  1.8 22 
  pH 4.3  <0.001  5.2 <0.01  4.5 0.015  71 0.001  0.85  <0.005  0.003  12 16 
- pH 2.0  0.005  150 0.01  5.5 0.051  75 0.01  1.3 0.065  0.19  360 45 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ pH 2.0  0.005  150 0.01  5.5 0.051  75 0.01  1.3 0.065  0.19  360 45 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 186 
   Ag Al As Ba Be Ca Cd Co Cr Cu Fe K 
   mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  
@@ -5249,8 +5062,7 @@ D1/Whaleback  pH 13.0  <0.005  440 1.3 <0.00 5 <0.005  <1 <0.005  <0.005  0.085 
  pH 2.2  <0.002  240 0.03  2.2 0.066  64 0.006  13 0.92  3.1 430 17 
  MM/OB32 Trans /BWT  pH 12.8  <0.010  120 0.41  0.024  <0.010  <1 <0.010  <0.010  0.15  0.018  0.25  40000  
  pH 11.6  <0.001  58 0.24  0.31  <0.001  1 0.001  0.08  0.088  0.022  250 3540  
- pH 10.0  <0.001  5.8 0.08  0.15  <0.001  <1 <0.001  0.028  0.034  0.008  92 444 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ pH 10.0  <0.001  5.8 0.08  0.15  <0.001  <1 <0.001  0.028  0.034  0.008  92 444 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 187 
   Ag Al As Ba Be Ca Cd Co Cr Cu Fe K 
   mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  
@@ -5261,8 +5073,7 @@ Sequential Leaching Project  M432  –  Final Report to MRIWA
  pH 3.2  <0.001  48 0.02  19 0.013  59 <0.001  6.3 0.2 0.12  1.4 11 
  pH 2.3  0.001  100 0.02  30 0.024  69 0.006  6.8 0.93  0.58  310 9 
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 188 
   Li Mg Mn Mo Na Nb Ni P Pb S Se V Zn 
   mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  
@@ -5295,8 +5106,7 @@ MM/OB29 Transition  pH 13.1  <0.010  <1 <0.010  0.18  55 <0.020  <0.10  12 <0.01
  pH 4.3  0.038  62 1.2 <0.01  110 <0.002  0.07  <1 0.003  <1 <0.01  <0.001  0.07  
  pH 2.0  0.044  71 1.9 <0.01  111 <0.002  0.16  <1 0.31  <1 <0.01  <0.001  0.44  
 W/OB25 Transition   pH 12.8  <0.005  <1 <0.005  0.25  78 <0.010  <0.05  110 <0.005  85 0.06  3.2 0.11  
- pH 11.9  <0.001  5 0.88  0.32  74 0.086  0.02  100 0.16  84 0.05  4.4 0.23  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ pH 11.9  <0.001  5 0.88  0.32  74 0.086  0.02  100 0.16  84 0.05  4.4 0.23  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 189 
   Li Mg Mn Mo Na Nb Ni P Pb S Se V Zn 
   mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  
@@ -5329,8 +5139,7 @@ D1/Whaleback  pH 13.0  <0.0 05 <1 0.012  0.16  22 <0.010  <0.05  12 <0.005  85 0
  pH 11.6  0.002  <1 2.4 0.39  15 <0.020  0.01  25 0.003  7 <0.01  1.2 0.09  
  pH 10.0  0.005  <1 1.1 0.29  12 0.023  <0.01  10 <0.001  6 <0.01  0.32  0.03  
  pH 9.7  0.005  <1 1.7 0.28  11 0.011  <0.01  9 <0.001  6 <0.01  0.22  0.02  
- pH 7.3  0.01  <1 0.49  0.24  12 <0.002  <0.01  3 <0.001  6 <0.01  0.019  0.01  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ pH 7.3  0.01  <1 0.49  0.24  12 <0.002  <0.01  3 <0.001  6 <0.01  0.019  0.01  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 190 
   Li Mg Mn Mo Na Nb Ni P Pb S Se V Zn 
   mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  
@@ -5339,8 +5148,7 @@ Sequential Leaching Project  M432  –  Final Report to MRIWA
  pH 3.2  0.032  42 120 <0.01  15 <0.002  0.25  <1 <0.001  <1 <0.01  <0.001  0.41  
  pH 2.3  0.047  55 190 <0.01  16 <0.002  0.76 <1 0.002  <1 <0.01  <0.001  0.62  
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 191 
 Duplicate Samples:  
  
@@ -5373,8 +5181,7 @@ MM/OB29 Transition  pH 13.0  <0.010  160 0.27  <0.010  <0.010  <1 0.012  <0.010 
  pH 6.2  <0.001  <0.05  <0.01  3 <0.001  58 <0.001  0.016  <0.005  <0.001  <0.05  263 
  pH 4.2  <0.001  7.9 <0.01  4.8 0.017  76 0.001  0.5 <0.005  <0.001  11 18 
  pH 2.0  <0.001  130 <0.01  7.9 0.052  83 0.038  1.4 0.063  0.093  320 18 
-W/OB25 Transition   pH 12.9  <0.005  380 1.1 <0.005  <0.005  <1 <0.005  <0.005  0.14  0.006  <0.05 29000  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+W/OB25 Transition   pH 12.9  <0.005  380 1.1 <0.005  <0.005  <1 <0.005  <0.005  0.14  0.006  <0.05 29000  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 192 
   Ag Al As Ba Be Ca Cd Co Cr Cu Fe K 
   mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  
@@ -5407,8 +5214,7 @@ D1/Whaleback  pH 13.0  <0.005  420 0.9 <0.005  <0.005  <1 <0.005  <0.005  0.045 
  MM/OB32 Trans /BWT  pH 12.8  <0.010  130 0.41  0.024  <0.010  <1 <0.010  <0.010  0.14  <0.010  0.25  41200  
  pH 11.6  <0.001  65 0.25 0.39  <0.001  <1 0.001  0.082  0.094  0.024  270 3560  
  pH 10.4  <0.001  11 0.1 0.18  <0.001  <1 <0.001  0.048  0.043  0.007  120 555 
- pH 8.8  <0.001  4.2 0.04  0.15  <0.001  <1 <0.001  0.038  0.034  0.005  99 201 
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ pH 8.8  <0.001  4.2 0.04  0.15  <0.001  <1 <0.001  0.038  0.034  0.005  99 201 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 193 
   Ag Al As Ba Be Ca Cd Co Cr Cu Fe K 
   mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  
@@ -5418,8 +5224,7 @@ Sequential Leaching Project  M432  –  Final Report to MRIWA
  pH 3.6  <0.001  35 0.01  14 0.015  61 <0.001  6.0 0.034  0.034  0.18  7 
  pH 2.3  0.001  92 0.02  33 0.021 65 0.004  6.3 1.4 0.68  310 10 
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 194 
   Li Mg Mn Mo Na Nb Ni P Pb S Se V Zn 
   mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  
@@ -5452,8 +5257,7 @@ MM/OB29 Transition  pH 13.0  <0.010  <1 <0.010 0.22  61 <0.020  <0.10  12 <0.010
  pH 2.0  0.048  72 2.7 <0.01  118 <0.002  0.13  <1 0.3 <1 <0.01  <0.001  0.33  
 W/OB25 Transition   pH 12.9  <0.005  <1 <0.005  0.31  84 <0.010  <0.05  120 <0.005  89 0.08  3.6 <0.05  
  pH 12.0  <0.001  3 0.51  0.28  74 0.052  0.01  89 0.091  83 0.05  3.6 0.10 
- pH 8.8  <0.001  3 0.54  0.18  71 0.062  0.01  41 0.092  69 0.01  1.4 0.04  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ pH 8.8  <0.001  3 0.54  0.18  71 0.062  0.01  41 0.092  69 0.01  1.4 0.04  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 195 
   Li Mg Mn Mo Na Nb Ni P Pb S Se V Zn 
   mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  
@@ -5486,8 +5290,7 @@ D1/Whaleback  pH 13.0  <0.005  <1 0.017  0.12  22 <0.010  <0.05  12 <0.005  91 <
  pH 10.4  0.004  <1 1.4 0.3 11 0.031  <0.01  12 <0.001  6 <0.01  0.45  0.02  
  pH 8.8  0.007  <1 1.2 0.25  12 0.003  <0.01  7 <0.001  6 <0.01  0.1 0.02  
  pH 7.4  0.013  <1 0.49  0.22  13 <0.002  <0.01  1 <0.001  6 <0.01  0.009  0.01  
- pH 6.8  0.034  11 0.064  0.01  14 <0.002  <0.01  <1 <0.001  6 <0.01  <0.001  <0.01  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+ pH 6.8  0.034  11 0.064  0.01  14 <0.002  <0.01  <1 <0.001  6 <0.01  <0.001  <0.01  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 196 
   Li Mg Mn Mo Na Nb Ni P Pb S Se V Zn 
   mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  mg/kg  
@@ -5495,15 +5298,13 @@ Sequential Leaching Project  M432  –  Final Report to MRIWA
  pH 3.6  0.027  40 77 <0.01  14 <0.002  0.26  <1 <0.001  <1 <0.01  <0.001  0.39  
  pH 2.3  0.045  52 220 <0.01  16 <0.002  0.51  <1 0.003  <1 <0.01  <0.001  0.52  
  
-  
-Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
+  Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 197 
 JN/OB25 Fresh  (C907244 ) 
  
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 198 
 JN/OB25 Fresh  (C907244 ) 
@@ -5511,7 +5312,6 @@ JN/OB25 Fresh  (C907244 )
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 199 
 JN/OB25 Fresh  (C907244 ) 
@@ -5519,18 +5319,15 @@ JN/OB25 Fresh  (C907244 )
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 200 
 JN/OB25 Fresh  (C907244 ) 
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 201 
 JN/OB25 Fresh  (C907244 ) 
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 202 
 MM/OB29 Weathered  (N613801 ) 
@@ -5538,7 +5335,6 @@ MM/OB29 Weathered  (N613801 )
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 203 
 MM/OB29 Weathered  (N613801 ) 
@@ -5546,7 +5342,6 @@ MM/OB29 Weathered  (N613801 )
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 204 
 MM/OB29 Weathered  (N613801 ) 
@@ -5554,19 +5349,16 @@ MM/OB29 Weathered  (N613801 )
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 205 
 MM/OB29 Weathered  (N613801 ) 
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 206 
 MM/OB29 W eathered  (N613801 ) 
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 207 
 MM/OB29 Trans  (N613691 ) 
@@ -5574,14 +5366,12 @@ MM/OB29 Trans  (N613691 )
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 208 
 MM/OB29 Trans  (N613691 ) 
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 209 
 MM/OB29 Trans  (N613691 ) 
@@ -5589,19 +5379,16 @@ MM/OB29 Trans  (N613691 )
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 210 
 MM/OB29 Trans  (N613691 ) 
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 211 
 MM/OB29 Trans  (N613691 ) 
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 212 
 W/OB25 trans  (N569611 ) 
@@ -5610,7 +5397,6 @@ W/OB25 trans  (N569611 )
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 213 
 W/OB25 trans  (N569611 ) 
@@ -5619,7 +5405,6 @@ W/OB25 trans  (N569611 )
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 214 
 W/OB25 trans  (N569611 ) 
@@ -5628,19 +5413,16 @@ W/OB25 trans  (N569611 )
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 215 
 W/OB25 trans  (N569611 ) 
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 216 
 W/OB25 trans  (N569611 ) 
  
   
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 217 
 W/OB25 Fresh  (N589264 ) 
@@ -5648,7 +5430,6 @@ W/OB25 Fresh  (N589264 )
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 218 
 W/OB25 Fresh  (N589264 ) 
@@ -5656,7 +5437,6 @@ W/OB25 Fresh  (N589264 )
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 219 
 W/OB25 Fresh  (N589264 ) 
@@ -5664,20 +5444,17 @@ W/OB25 Fresh  (N589264 )
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 220 
 W/OB25 Fresh  (N589264 ) 
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 221 
 W/OB25 Fresh  (N589264 ) 
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 222 
 D1/Whaleback fresh (WHB1333DG)  
@@ -5685,7 +5462,6 @@ D1/Whaleback fresh (WHB1333DG)
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 223 
  
@@ -5693,7 +5469,6 @@ D1/Whaleback fresh (WHB1333DG)
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 224 
 D1/Whaleback fresh (WHB1333DG)  
@@ -5701,18 +5476,15 @@ D1/Whaleback fresh (WHB1333DG)
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 225 
 D1/Whaleback fresh (WHB1333DG)  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 226 
 D1/Whaleback fresh (WHB1333DG)  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 227 
 MMOB32 Trans/BWT ( N572940 ) 
@@ -5721,7 +5493,6 @@ MMOB32 Trans/BWT ( N572940 )
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 228 
 MMOB32 Trans/BWT ( N572940 ) 
@@ -5729,25 +5500,21 @@ MMOB32 Trans/BWT ( N572940 )
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 229 
 MMOB32 Trans/BWT ( N572940 ) 
  
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 230 
 MMOB32 Trans/BWT ( N572940 ) 
  
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 231 
 MMOB32 Trans/BWT ( N572940 ) 
  
-
 Sequential Leaching Project  M432  –  Final Report to MRIWA                                   
 232 
  

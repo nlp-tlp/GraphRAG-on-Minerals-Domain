@@ -25,7 +25,6 @@ Tania Hidalgo1, 2, Laura Kuhar2, Andreas Beinlich1, Andrew Putnis1
 2 CSIRO Mineral Resources, P.O. Box 7229, Karawara, W.A. 6152, Australia  
  
 1 
-
   
  
  
@@ -61,7 +60,6 @@ To which all enqu iries should be  addressed
 © Crown Copyright reserved  
  
 2 
-
 Contents  
 Executive  summary  ................................ ................................ ................................ ...........................  4 
 1. Introduction  ................................ ................................ ................................ ................................ . 6 
@@ -104,8 +102,7 @@ of metals from deep  ore bodies  ................................ ..............
  
  
  
-3 
-Executive summary  
+3 Executive summary  
  
 Project M0488 presented a geometallurgical approach to ISR processing by understanding the fluid – 
 rock interactions through solid –fluid analysis after reaction. The results provide valuable information 
@@ -139,8 +136,7 @@ analysis  of chalcopyrite  dissolution  was performed.  The tests  were  perform
 leach  solutions  (FeCl 3, CuCl 2 and K2Cr2O7 in HCl; Fe2(SO 4)3, CuSO 4, NaNO 3 and H2O2 in H2SO 4; O2 and H2O2 
 in glycine;  (NH 4)2SO 4 in ammonium  hydroxide  and ferric  methanesulfonate)  at 110°C  (below  the sulfur 
 melting  point)  and 170°C  (above  the sulfur  melting  point),  and under  anoxic  conditions.  Copper  
-4 
-dissolution  tended  to increase  with  an increase  in temperature,  but some  solutions,  such  as potassium 
+4 dissolution  tended  to increase  with  an increase  in temperature,  but some  solutions,  such  as potassium 
 dichromate  and hydrogen  peroxide,  were  affected  negatively  by elevated  temperature.  Mineralogical 
 characterisation of the reacted solids showed the formation of different surface layers, which 
 depended  on the fluid  chemistry.  Some  of the product  phases  that replaced  chalcopyrite  had a porous 
@@ -176,8 +172,7 @@ and could produce blockages that pose a risk for subsurface ISR  operations.
  
  
  
-5 
-This work was conducted via a PhD study by Tania Hidalgo. The introduction, approach, main 
+5 This work was conducted via a PhD study by Tania Hidalgo. The introduction, approach, main 
 conclusions and recommendations and project outputs (journal and conference paper) are provided 
 below with detail given in the thesis in the appendix.  
  
@@ -204,7 +199,6 @@ wells, red arrows represent injected lixiviant solution and blue arrows represen
 solution that is recovered for processing.  
  
 6 
-
 ISR is applied in uranium mining operations globally (e.g., USA, Kazakhstan) and accounts for more 
 than 50% of global production. Copper deposits may also be promising candidates for ISR, especially 
 for oxidised zones where sulfuric acid is the preferred lixiviant. Copper ISR has been applied to oxide 
@@ -240,8 +234,7 @@ sulfide minerals, an oxidant is necessary for sulfide oxidation to release coppe
 show slow leach kinetics (see Table 1).  
  
  
-7 
-7 3 Table 1. Comparative dissolution rates in laboratory -scale tests using acidic sulfide systems for 
+7 7 3 Table 1. Comparative dissolution rates in laboratory -scale tests using acidic sulfide systems for 
 different copper -bearing minerals in heaps and dumps of low -grade ores (modified from Watling, 
 2013).  
 Time  required        Type  Mineral  Ideal formula  
@@ -291,8 +284,7 @@ of sulfide  to sulfate  and copper  and iron release  into solution  by chalcopy
 A variety of other oxidants, acids and bases have been tested in hydrometallurgical processing. 
 Oxidants include Cu2+, O 2, Cr 2O 2₋, NO ₋, H2O2 and O 3 in sulfuric acid, hydrochloric acid, hydrofluoric acid,  
 nitric  acid,  ammonium  hydroxide  and glycine  (Antonijević  et al., 1994;  Aydogan  et al., 2006;  
-8 
-Beckstead  and Miller,  1977;  Córdoba  et al., 2008;  Dutrizac  and Macdonald,  1978;  Dutrizac  et al., 1970; 
+8 Beckstead  and Miller,  1977;  Córdoba  et al., 2008;  Dutrizac  and Macdonald,  1978;  Dutrizac  et al., 1970; 
 Oraby and Eksteen, 2014; Ruiz et al., 2011; Shiers et al., 2016; Sokić et al., 2009; Velásquez -Yévenes et 
 al., 2010). Solutions have been tested under different conditions to evaluate their ability to extract 
 copper from ores or concentrates. Test te mperatures have been studied from room temperature to 
@@ -329,8 +321,7 @@ Low -grade ore dissolution and the effect of gangue minerals
  
 Low-grade ores contain higher amounts of gangue minerals, which increases the possibility of side  
  
-9 
-reactions, precipitation, acid consumption and an accumulation of cations and anions in solution 
+9 reactions, precipitation, acid consumption and an accumulation of cations and anions in solution 
 (Sinclair and Thompson, 2015). Permeability may be affected as a result of gangue dissolution. The 
 dissolution response of low -grade minerals under ISR conditi ons is not available in the literature.  
 1.3 Research objectives  
@@ -368,8 +359,7 @@ initial reagent  concentrations.
  
  
  
-10 
-2. Approach  
+10 2. Approach  
  
 To address the research gaps:  
  
@@ -405,8 +395,7 @@ affec ted by changes in pH and acid consumption, this accessibility enhancement 
 compromised, and undesired precipitation reduced the solid permeability and copper 
 dissolution rates. High -temperature experiments allowed for a comparison with  low- 
  
-11 
-temperature experiments and filled knowledge gaps. Tests to simulate low -oxygen 
+11 temperature experiments and filled knowledge gaps. Tests to simulate low -oxygen 
 environments that are expected in deep ore bodies showed copper dissolution in several 
 solutions (FeCl 3 and K 2Cr2O7 in HCl). Therefore, ISR could be possible at a  high temperature 
 even with a low oxygen solubility. Based on different selection criteria, FeCl 3 + HCl was found 
@@ -441,8 +430,7 @@ The copper -enrichment phases showed no passivation; these phases also formed wi
 depleted  oxidant  and with  acid only  present  in the fluid  and leached  more  rapidly  with  oxidant 
 addition  after  the initial  transformation.  The transformations  followed  the reactive  zones  and 
  
-12 
-transformed the entire mineral, and in some cases the surrounding gangue minerals and 
+12 transformed the entire mineral, and in some cases the surrounding gangue minerals and 
 impermeable zones. Fractures trigger ed the initial transformation and retained the effective 
 permeability and porosity through contact with the ore. Passivation resulted when iron 
 precipitates formed during multistage fluid –rock interactions in sulfate solutions because of 
@@ -477,8 +465,7 @@ concentration Cu2+ solutions or acidic solutions) results in enriched copper pha
 textural and morphological transformation increases the reactivity of the ore compared with 
 the unreacted ore. Subject to time constraints, pre -treatment with affordable acidic 
 hydrothermal solutions could be used to replicate natural transformations  (geomimetics)  
-13 
-followed by aggressive oxidation to increase the copper recovery rate and ore accessibility. 
+13 followed by aggressive oxidation to increase the copper recovery rate and ore accessibility. 
 Chalcopyrite transformed to copper -enriched phases in acidic solutions when fractures were 
 present. Therefore, the simultaneous application of blasting with pre -treatment or staged 
 dissolution may allow for an increased chalcopyrite replacement rate.  
@@ -513,8 +500,7 @@ conditions. In future, the geological identification of candidate samples for IS
 selection  should  be applied  to Australian  copper  ores.  Similar  studies  could  also be expanded  to other 
 commodities, such as nickel or gold. Differenc es were visible between fine -grained and  cuboid  
  
-14 
-samples. Work could be expanded to understand copper -sulfide leaching of cores, and hard -rock 
+14 samples. Work could be expanded to understand copper -sulfide leaching of cores, and hard -rock 
 kinetic analysis could be conducted to understand the effect of a reduced surface area. Experimental 
 apparatus may include column leaching and flow -through reacto rs. The extent of accessibility 
 enhancement on copper dissolution by selected lixiviants should be compared with that of blasted 
@@ -550,8 +536,7 @@ lixiviant/oxidant systems for chalcopyrite leaching from coarse samples at eleva
 temperature, ALTA NCC Symposium 2018, Perth, Western  Australia.  
 • Hidalgo,  T., McDonald,  R., Kuhar,  L., Beinlich,  A. and Putnis,  A., 2019.  Staged  leaching  of 
  
-15 
-bornite with acidic solutions at moderate temperature in an in -situ recovery environment, 
+15 bornite with acidic solutions at moderate temperature in an in -situ recovery environment, 
 ALTA ISR Symposium 2018, Perth, Western Australia.  
 • McDonald, R., Shiers, D., Collinson, D., Hidalgo, T., Kuhar, L. 2019. The impacts of chloride 
 upon the leaching of chalcopyrite, ALTA NCC Symposium 2019, Perth, Western  Australia.  
@@ -587,8 +572,7 @@ Aydogan,  S., Ucar,  G. and Canbazoglu,  M., 2006.  Dissolution  kinetics  of ch
 dichromate solution. Hydrometallurgy, 81(1):  45–51. 
 Bates, R.L., Jackson, Julia A., 1987. Glossary of geology. R. Bates and A. Jackson, editors. Alexandria,  
  
-16 
-Va./: American Geological Institute.  
+16 Va./: American Geological Institute.  
  
 Beckstead, L.W. and Miller, J.D., 1977. Ammonia, oxidation leaching of chalcopyrite -reaction kinetics. 
 Metallurgical Transactions B, 8(1): 19 –29. 
@@ -623,8 +607,7 @@ Habashi, F., 1978. Chalcopyrite: Its che mistry and metallurgy 1. McGraw -Hill, 
  
 Haque,  N., Norgate,  Terry,  2014.  The greenhouse  gas footprint  of in-situ leaching  of uranium,  gold  and 
 copper in Australia. Journal of Cleaner Production, 84:  382–390.  
-17 
-Hirato, T., Majima, H. and Awakura, Y., 1987. The leaching of chalcopyrite with ferric sulfate. 
+17 Hirato, T., Majima, H. and Awakura, Y., 1987. The leaching of chalcopyrite with ferric sulfate. 
 Metallurgical transactions B, 18(3): 489 –496.  
 Hitzman, S.D., Bull S., 2010. Formation of Sedimentary Rock -Hosted Stratiform Copper Deposits 
 through Earth Histor y. Economic Geology, 105: 627 –639.  
@@ -657,8 +640,7 @@ Elsevier: Oxford: England.
 Seredkin, M. and Savenya, M., 2019. In -situ recovery for non -uranium metals ALTA 2019 Nickel - Cobalt  
 - Copper, ALTA, Perth, Australia, pp. 208.  
  
-18 
-Seredkin, M., Zabolotsky, A., Jeffress, G., 2016. In situ recovery, an alternative to conventional 
+18 Seredkin, M., Zabolotsky, A., Jeffress, G., 2016. In situ recovery, an alternative to conventional 
 methods of mining: Exploration, resource estimation, environmental issues, project evaluation and 
 economics. Ore Geology Reviews, 79: 500 –514.  
 Shiers,  D.W.,  Collinson,  D.M.,  Kelly,  N.J. and Watling,  H.R.,  2016.  Copper  extraction  from  chalcopyrite: 
@@ -694,8 +676,7 @@ hydrothermal conditions. American Mineralogist, 99(11 –12): 2389.
  
  
  
-19 
-School of Earth and Planetary Science 
+19 School of Earth and Planetary Science 
 Department of Applied Geology  
  
  
@@ -742,8 +723,7 @@ February  2020
  
  
  
-1 
-Declaration  
+1 Declaration  
  
  
 Declaration  
@@ -797,7 +777,6 @@ Tania Marcela  Hidalgo  Rosero  Date: 28/01/2020
  
  
 2 
-
 Abstract  
  
  
@@ -835,8 +814,7 @@ To identify potential alternative lixiviant/oxidant solutions for ISR environmen
 comparative analysis of chalcopyrite dissolution was performed. The tests were 
 performed on cuboids with eleven leach solutions (FeCl 3, CuCl 2 and K 2Cr2O7 in HCl;  
  
-3 
-Abstract  
+3 Abstract  
  
  
 Fe2(SO 4)3, CuSO 4, NaNO 3 and H 2O2 in H 2SO 4; O 2 and H 2O2 in glycine; (NH 4)2SO 4 in 
@@ -873,8 +851,7 @@ coexistence of an ICDR mechanism with solid -state diffusion processes by the
 formation o f fluid -mediated exsolution of copper -deficient  lamellas.  
  
  
-4 
-Abstract  
+4 Abstract  
  
  
 Finally, multistage fluid –rock interactions were studied using natural low -grade 
@@ -927,8 +904,7 @@ processing.
  
  
  
-5 
-Acknowledgement  
+5 Acknowledgement  
  
  
 Acknowledgement  
@@ -966,8 +942,7 @@ would not exist without your support and love.
  
  
  
-6 
-Table of Contents  
+6 Table of Contents  
  
  
 Table of Contents  
@@ -1005,8 +980,7 @@ References  ................................ ................................ ..
 Chapter  3. Kinetic  study  of chalcopyrite  dissolution  with  iron(III)  chloride  in 
 methanesulfonic  acid ................................ ................................ ...............................  91 
 3.1. Introduction  91 
-7 
-Table of Contents  
+7 Table of Contents  
 3.2. Experimental  ................................ ................................ ................................ ..........  97 
 3.2.1.  Materials  97 
 3.2.2.  Methods  97 
@@ -1045,8 +1019,7 @@ acidic solutions  ................................ .............................
 5.3. Results  168 
 5.3.1.  Copper  and iron  dissolution rates  ................................ ................................ ... 168 
 5.3.2.  Solid  transformations  ................................ ................................ .....................  169 
-8 
-Table of Contents  
+8 Table of Contents  
 5.4. Discussion  180 
 5.4.1.  Replacement  mechanism  ................................ ................................ ................  180 
 5.4.2.  Preservation of  fluid  pathways  ................................ ................................ ........  183 
@@ -1085,8 +1058,7 @@ B.2. Results  ................................ ................................ 
 B.3. Discussion  ................................ ................................ ................................ ............  255 
 B.4. Conclusions  ................................ ................................ ................................ ..........  259 
 Acknowledgments  ................................ ................................ ................................ ............  260 
-9 
-Table of Contents  
+9 Table of Contents  
 References  ................................ ................................ ................................ ........................  260 
 Appendix C.  Complementary data  chapter  2 ................................ .....................  265 
 Appendix D.  Complementary d ata chapter  5 ................................ .....................  270 
@@ -1137,8 +1109,7 @@ Statements  of Authorship  ................................ ....................
  
  
  
-10 
-List of Tables  
+10 List of Tables  
  
  
 List of Tables  
@@ -1161,8 +1132,7 @@ Table 3 -4. Determination coefficients (R2) for six kinetic experimental equatio
 selected  ................................ ................................ ................................ .....................  104 
 Table 3 -5. Kinetics rate constants for chalcopyrite dissolution as a function of 
 temperatur e for the Arrhenius and  ‘time -to-a-given -fraction’  methods  ...................  109 
-11 
-List of Tables  
+11 List of Tables  
 Table 4 -1. Review of literature on bornite kinetics and reported activation energies 
 and leaching  mechanisms.  ................................ ................................ ........................  122 
 Table 4 -2. Review of literature on kinetic studies  using  MSA.  ...............................  125 
@@ -1189,8 +1159,7 @@ used as a reference to determine changes in copper -containing minerals after le
  
  
  
-12 
-List of Tables  
+12 List of Tables  
  
  
 Table 5 -1. Chemical compositions and formulae of phases identified after reaction in 
@@ -1223,8 +1192,7 @@ days at  110°C  ................................ ..............................
  
  
  
-13 
-List of Figures  
+13 List of Figures  
  
  
 List of Figures  
@@ -1254,8 +1222,7 @@ temperatures,  a. 110°C  plots  showing  the best copper  dissolution  for the 
 solutions  and the lowest  dissolution  for Fe2(SO 4)3+H 2SO 4, b. 170°C  plots  showing  the 
 best recovery for FeCl 3+HCl with the lowest dissolution occurring for  H2O2+glycine.  
 ............................................................................................................................. ....... 55 
-14 
-List of Fi gures  
+14 List of Fi gures  
 Fig. 2 -5 SEM -BSE surface images of cuboids after four days of reaction in different  
 solutions at 110˚C, which lead to sulfur -layer formation, a. sulfur layer formed after  
 reaction in FeCl 3+HCl solution showing globular sulfur adjacent to pyrite  particles, b.  
@@ -1285,8 +1252,7 @@ Fig. 2-8 X-ray diffraction  pattern  and SEM -BSE image  for chalcopyrite  after
 a. X-ray diffraction  pattern  of sample  after 4 days in K2Cr2O7+HCl  solutions  at 170°C,  
 b. SEM -BSE solid phase of Cr 2O3, hematite and covellite formed at the surface  
 showing fracture filling with mixed precipitations and  outer -perimeter  rim. ............  62 
-15 
-List of Figures  
+15 List of Figures  
 Fig. 2 -9 Pourbaix diagram showing Cr speciation as a function of pH and Eh at a. 
 25°C and b. 110°C c. 170°C. Diagrams were calculated by using Geochemists  
 WorkBench©  v10.0.05. ................................ ................................ ..............................  62 
@@ -1318,8 +1284,7 @@ undissolved pyrite and changes in cuboid perimeter.  ...........................
  
  
  
-16 
-List of Figures  
+16 List of Figures  
  
  
 Fig. 2 -14 Optimal temperature and pH conditions for 11 fluid solutions tested.  
@@ -1347,8 +1312,7 @@ almost entirely with a sulfur layer of ‘cap head’ globular mas ses with inte
 spaces.  Pores  in the sulfur  allow  for flow between  the sample  and the bulk reactant.  b. 
 Covered chalcopyrite particles with internal spaces in the sulfur that allow for f low 
 between the sample and the  bulk reactant.  ................................ ...............................  111 
-17 
-List of Figures  
+17 List of Figures  
  
 Fig. 4-1. X-ray diffractogram  of the pre-leached  sample  (–38 µm),  showing  bornite  as 
 the predominant  sulfide -containing  mineral  with chalcopyrite  and sphalerite  phases.  
@@ -1387,8 +1351,7 @@ behaviour showing the change in reaction requirement between 30% and 50% copper
 dissolution,  b. pure chalcopyri te activation -energy  behaviour  showing  a constant  slope  
 without major changes in the  energy  requirement.  ................................ ..................  140 
  
-18 
-List of Figures  
+18 List of Figures  
  
  
  
@@ -1421,8 +1384,7 @@ minerals before leaching, b. post-leaching map of  copper minerals.  ...........
  
  
  
-19 
-List of Figures  
+19 List of Figures  
  
  
 Fig. 5 -1. X-ray diffractogram of the pre -leached sample, showing bornite, chalcocite  
@@ -1454,8 +1416,7 @@ texture reflects the presence of digenite accompanied by a minor variati on in t
 concentration. Copper -enriched zones were found as rims in bornite adjacent to  
 chalcocite and along fractures in the bornite. b. Chalcocite reacted in MSA after 1  
 month. The original chalcocite was replaced by digenite, which in turn, was  replaced  
-20 
-List of Figures  
+20 List of Figures  
 by covellite.  c. Partial  chalcocite  replacement  by digenite  in HCl after 8 days,  showing  
 strong  laminar  texture  with copper -enriched  digenite  zones,  covellite  nucleation  along  
 fractures, and digenite rims along chalcocite -bornite grain boundaries. d. Covellite  
@@ -1484,8 +1445,7 @@ Fig. 5 -9. SEM image and element distribution map of the bornite exsolution text
 and digenite  rim after reaction  in HCl at 90°C  for two weeks.  a. BSE of the exsolution  
 texture. b. EDS Cu concentration map showing lamellae of Cu -deficient bornite and  
 the Cu -enriched  digenite  rim. ................................ ................................ ...................  177 
-21 
-List of Figures  
+21 List of Figures  
 Fig. 5 -10. SEM -BSE image of bornite after reaction in HCl at 90°C for two weeks  
 showing  an exsolution  texture  in the centre  of the cuboid.  SEM -EDS  indicates  that the 
 dark lamellae  have  lower  Cu concentra tions,  whereas  the dark-grey matrix  is depleted  
@@ -1515,8 +1475,7 @@ Unreacted chalcocite zones without compositional changes. b. Chalcocite
 transformation after reaction in MSA solutions showing laminar texture of digenite  
 replacement of chalcocite. c. Unreacted bornite zones showing uniform composition  
 without  obvious  textural  transformation.  d.  Exsolution  texture  showing  copper  
-22 
-List of Figures  
+22 List of Figures  
 deficient lamellae and covellite nucleation on fracture zones after reaction in HCl  
 solutions  ................................ ................................ ................................ ...................  182 
 Fig. 6 -1. Schematic of multistage fluid –rock interaction in an  ISR scenario.  .........  197 
@@ -1540,8 +1499,7 @@ solutions  ................................ ................................ ...
 Fig. 6 -9. X-ray diffractograms of a. unleached sample (P 80 68 µm) compared with b. 
 stage 3 and c. stage 5 residues for FeCl 3/HCl solution. Akaganeite peaks appear after  
 stage  3................................. ................................ ................................ ......................  207 
-23 
-List of Figures  
+23 List of Figures  
 Fig. 6 -10. SEM -BSE of precipitates in different solutions, a. spindle -shaped  
 akaganeite particles attached to albite particles, b. K-jarosite particles, c. Na-jarosite  
 crystals, d. gypsum needles.  ................................ ................................ .....................  209 
@@ -1568,8 +1526,7 @@ different systems at 170°C for three weeks. The red areas represent a high copp
 concentration without iron in the product, green areas represent a high iron  
 concentration and blue areas represent a high sulfur concentration. a. Cube leached  
 with  ferric  sulfate  and  sulfu ric  acid  showing  sulfur  precipitation  in  cavities;  
-24 
-List of Figures  
+24 List of Figures  
 chalcopyrite  that surrounded  the sulfur  areas  had a higher  sulfur  content  than the initial  
 sample, b. cube after three weeks’ leaching with cupric sulfate and sulfuric acid  
 showing a digenite rim on the outer surfaces and along fractures, c. perimeter of a  
@@ -1597,8 +1554,7 @@ zones represent covellite replacement, yello w zone copper -deficient bornite an
 zones  sulfur  formation.  ................................ ................................ .............................  250 
 Fig. B -4. Replicates of comparative copper extractions for 1 mol L-1 ferric  
 methanesulfonate leaching at  110°C  of samples  after pre -treatment  versus untreated  
-25 
-List of Figures  
+25 List of Figures  
 samples. a. Untreated sample compared with samples that had been pre -leached for 7  
 days, b. averages for the untreated and treated sample replicates up to 24 h; the  
 extraction  after 48 h (single  sample)  is given  to indicate  that leaching  has plateaued.  
@@ -1628,8 +1584,7 @@ after leaching in CuSO 4+ H 2SO 4. e. solid after leaching in O 2 + Glycine. f. 
 leaching in C 3H9FeO 9S3. g. solid after leaching in Na NO 3+ H 2SO 4. h. solid after  
 leaching in H 2O2+ H 2SO 4. i. solid after leaching in (NH 4)2SO 4  + NH 4OH +  Na2S2O8. 
 ............................................................................................................................. ..... 265 
-26 
-List of Figures  
+26 List of Figures  
 Fig. C-2. TIMA  high resolution  maps  images  of chalcopyrite  samples  after reaction  in 
 different lixiviant systems at 110°C for 4 days. a. solid after leaching in FeCl 3 + HCl  
 showing the lack of enrichment phases next to fracture leached zo nes. b. solid after  
@@ -1662,8 +1617,7 @@ figure (IPF) map showing the relative orientation of orthorhombic and cubic  bor
  
  
  
-27 
-Nomenclature  
+27 Nomenclature  
  
  
 Nomenclature  
@@ -1704,8 +1658,7 @@ P pressure
  
  
  
-28 
-Chapter 1  
+28 Chapter 1  
  
  
 Chapter 1. Introduction  
@@ -1732,7 +1685,6 @@ unmined  area.
 Fig. 1 -1. Idealised diagram of an ISR system fo r an intact material (modified from 
 Sinclair and Thompson, 2015). Red and blue arrows represent continuous flow between  
 29 
-
 Chapter 1  
  
  
@@ -1772,8 +1724,7 @@ them une conomical to process by conventional means) and usually exist at medium
 depths  (0.5 km) to depths  that exceeded  2 km (Wallace,  1979),  which  implies  that they 
 are  located   deeper  than   ideal  open   pit  and   underground  targets   may  be.  The 
  
-30 
-Chapter 1  
+30 Chapter 1  
  
  
 implementation of copper ISR has been applied mainly to porous ores, and no low - 
@@ -1830,8 +1781,7 @@ reactions  and result  in precipitate  formation.  Therefore,  an evaluation  of
 of lixiviant systems should be conducted under conditions that replicate the ISR 
 environment.  
  
-31 
-Chapter 1 
+31 Chapter 1 
  
  
 As chalcopyrite  is the most  abundant  copper  sulfide,  its successful  hydrometallurgical 
@@ -1870,8 +1820,7 @@ precipitation  rates  as a result  of re-equilibration.  The kinetic  analysis  
 dissolution  has been  studied  for pure concentrate  samples  (Ahn  et al., 2018;  Dreisinger 
 and Abed,  2002;  Dutrizac,  1981;  Hirato  et al., 1987).  Because  beneficiation  is not 
  
-32 
-Chapter 1  
+32 Chapter 1  
  
  
 possible in an ISR environment, an understanding of the kinetics of dissolution of 
@@ -1912,8 +1861,7 @@ The aim of this research is to fill existing knowledge gaps by analysing and
 understanding  the fluid –rock interaction  of copper-sulfide  minerals  with a variety  of 
  
  
-33 
-Chapter 1  
+33 Chapter 1  
  
  
 lixiviant/oxidant systems under expected ISR conditions. The specific objectives 
@@ -1952,8 +1900,7 @@ concentrations.
  
  
  
-34 
-Chapter 1  
+34 Chapter 1  
  
  
  
@@ -1992,8 +1939,7 @@ recovery wells) was  presented.
  
  
  
-35 
-Chapter 1  
+35 Chapter 1  
  
  
 • Chapter 7 contains a summary of the research contributions from this thesis and 
@@ -2030,8 +1976,7 @@ Conference papers resulting from this work are attached as Appendices to this th
  
  
  
-36 
-Chapter 1  
+36 Chapter 1  
  
  
 • Hidalgo, T., McDonald, R., Kuhar, L., Beinlich, A. and Putnis, A.,  2018b. 
@@ -2070,8 +2015,7 @@ Beckstead, L.W. and Miller, J.D., 1 977. Ammonia, oxidation leaching of chalcopy
 -reaction kinetics. Metallurgical Transactions B, 8(1): 19 –29. 
  
  
-37 
-Chapter 1  
+37 Chapter 1  
  
  
 Bulatovic, S.M., 2007. Handbook of flotation reagents - chemistry, Theory and 
@@ -2111,8 +2055,7 @@ media. Metallurgical Transactions B, 12(2): 371 –378.
  
  
  
-38 
-Chapter 1  
+38 Chapter 1  
  
  
 Habashi, F., 1978. Chalcopyrite: Its chemistry and metallurgy 1. McGraw -Hill, 
@@ -2151,8 +2094,7 @@ Seredkin, M. and Savenya, M., 2019. In -situ recovery for non -uranium metals AL
  
  
  
-39 
-Chapter 1  
+39 Chapter 1  
  
  
 Seredkin, M., Zabolotsky, A., Jeffress, G., 2016. In situ recovery, an alternative to 
@@ -2191,8 +2133,7 @@ Willia mson, C., 1998. Hydrologic mechanisms and optimisation of in -situ copper
 leaching. case study: BHP Copper, PhD dissertation, San Manuel, Arizona, 
 University of Arizona.  
  
-40 
-Chapter 1  
+40 Chapter 1  
  
  
  
@@ -2248,8 +2189,7 @@ or incorrectly acknowledged.
  
  
  
-41 
-Chapter 2  
+41 Chapter 2  
  
  
 Chapter 2. Comparative analysis of copper dissolution and mineral 
@@ -2287,8 +2227,7 @@ conditions. During the hydrometallurgical processing of copper -sulfide minerals
 (chalcopyrite,  bornite,  chalcocite  and covellite),  an oxidant  such as Fe3+  is used to 
  
  
-42 
-Chapter 2  
+42 Chapter 2  
  
  
 release  copper  into solution  (Schlesinger  et al., 2011).  During  this reaction,  copper  and 
@@ -2325,8 +2264,7 @@ analysis of different lixiviant/oxidant pairs under similar conditions is availa
 literature for temperatures above 100°C. A summary of available information for 
 different leach ing systems is presented in Table  2-1. 
  
-43 
-Chapter 2  
+43 Chapter 2  
  
  
  
@@ -2382,8 +2320,7 @@ product -layer formation for coarse grain sizes and leaches under  pressure.
  
  
  
-44 
- 
+44  
  
  
  
@@ -2542,8 +2479,7 @@ Antonijević et  al.
 (1994); Murr  and 
 Hiskey (1981)  
  
-45 
- 
+45  
  
  
  
@@ -2671,8 +2607,7 @@ Liu et al.  (2012)
  
  
  
-46 
-Chapter 2  
+46 Chapter 2  
  
  
 In different leaching solutions, the initial solid undergoes several transformations that 
@@ -2710,8 +2645,7 @@ various leaching systems under possible ISR conditions.
  
  
  
-47 
-Chapter 2  
+47 Chapter 2  
  
  
 2.2. Materials and  methods  
@@ -2750,8 +2684,7 @@ Mineralogical analysis was performed using a E430 Pro Quantitative Evaluation of
 Minerals by Scanning Electron Microscopy (QEMSCAN) instrument and an  internal  
  
  
-48 
-Chapter 2  
+48 Chapter 2  
  
  
 CSIRO protocol for mineral identification (Meyer et al., 2013). The final data were 
@@ -2789,8 +2722,7 @@ a blank. The working parameters were a spectral region of 800 –4000 cm₋1 and
 resolution of 4 cm₋1. 
  
  
-49 
-Chapter 2  
+49 Chapter 2  
  
  
 Mineral  chemical  compositions  are expressed  in mass  percent  unless  stated  otherwise. 
@@ -2828,8 +2760,7 @@ kPa of industrial -purity nitrogen three times at ambient conditions. Once th e 
 had reached  the desired  temperature,  solution  samples  (2–4 mL) were  taken  at 4 h and 
  
  
-50 
-Chapter 2  
+50 Chapter 2  
  
  
 over four days of the reaction. When sampling, the first fluid volume was discarded 
@@ -2918,8 +2849,7 @@ N. A
 375  
 0.6 
   4        
- 
-Chapter 2  
+ Chapter 2  
  
  
 Table 2 -3. Summary of initial system conditions used in experiments at 170°C  
@@ -2973,8 +2903,7 @@ CuCl 2 3.4 15 HCl 0.5 NaCl  3.4 1.39 –1.07 853
 CuSO 4 1 2 H2SO 4 0.34 N. A  N. A  1.05 -0.6 786 
 K2Cr2O7 0.5 2.8 HCl 0.4 N. A  N. A  1.09 0.65 1062  
 H2O2 2.2 2 Glycinea 1 NaOHb 1.5 1.07 12.83  93 
- 
-Chapter 2  
+ Chapter 2  
  
  
 2.3. Results and  discussion  
@@ -3007,7 +2936,6 @@ predominant  phase  and pyrite  as a minor  phase,  b. SEM  images  of cuboid  s
  
  
 53 
-
 Chapter 2  
  
  
@@ -3039,7 +2967,6 @@ alkaline systems (< 0.5% iro n dissolved).
  
  
 54 
-
 Chapter 2  
  
  
@@ -3071,7 +2998,6 @@ were  evidenced  by  solid  characterisation.  Presented  phases  were  confirme
  
  
 55 
-
 Chapter 2  
  
  
@@ -3110,8 +3036,7 @@ cooling.
  
  
  
-56 
-Chapter 2  
+56 Chapter 2  
  
  
  
@@ -3142,7 +3067,6 @@ a modest  increase  resulted  at 110°C.  The product  layers  started  forming 
  
  
 57 
-
 Chapter 2  
  
  
@@ -3193,8 +3117,7 @@ presence of copper sulfate resulted in the formation of  digenite:
  
  
  
-58 
-Chapter 2  
+58 Chapter 2  
  
  
  
@@ -3219,7 +3142,6 @@ Alkaline solutions were the only systems that yielded iron -oxide product layers
 (Fig. 2 -6d). The bornite layer increased in thickness at higher temperatures or with 
 time and showed  a distinctive  chemical  border  with original  chalcopyrite.  Similar  
 59 
-
 Chapter 2  
  
  
@@ -3263,8 +3185,7 @@ temperature  conditions).
  
  
  
-60 
-Chapter 2  
+60 Chapter 2  
  
  
  
@@ -3298,7 +3219,6 @@ loaded carbon product at 1100°C. Our XRD results showed the formation of Cr 2O3
  
  
 61 
-
 Chapter 2  
  
  
@@ -3325,7 +3245,6 @@ b. 110°C c. 170°C. Diagrams were calculated by using Geochemists WorkBench©  
  
  
 62 
-
 Chapter 2  
  
  
@@ -3380,8 +3299,7 @@ replaced chalcopyrite showing a  A  covellite  rim  (29  μm)  formed
 around  chalcopyrite  cracks,  
 followed    by    hematite    (7  μm) 
  
-63 
-Chapter 2  
+63 Chapter 2  
  
  
  porous texture and cracks. After 4 
@@ -3432,8 +3350,7 @@ Notes: all rim thickness are approximated averages based on SEM -BSE images, * f
 Characterisation indicated that product formation was dependent on pH and Eh and 
 was influenced  significantly  by fluid  chemistry,  as evidenced  by the different  products  
  
-64 
-Chapter 2  
+64 Chapter 2  
  
  
 that formed under similar pH and Eh conditions. Product phases (“leached layers”) 
@@ -3470,8 +3387,7 @@ measurements) (Fig. 2 -10a and c) and (iii) variability in product solids depend
 interfacial  chemistry  of the fluid  even  in solutions  with similar  pH and Eh range  (such 
 as in the glycine and ammonia solutions) (Fig. 2 -10b and  c). 
  
-65 
-Chapter 2  
+65 Chapter 2  
  
  
  
@@ -3488,7 +3404,6 @@ hematite  interfaces.
  
  
 66 
-
 Chapter 2  
  
  
@@ -3521,7 +3436,6 @@ chalcopyrite –pyrite sample partially replaced by sulfur after four days of re
 FeCl 3+HCl  solution  at  110°C  showing  that  pyrite  is  oxidised  to  sulfur,  b.  overview of  
  
 67 
-
 Chapter 2  
  
  
@@ -3553,7 +3467,6 @@ days at 110°C. Only brittle sulfur replaced chalcopyrite and was evident in the
 face of the cuboid  (Fig.  2 -13a and b). Chal copyrite showed  morphological  changes  
  
 68 
-
 Chapter 2  
  
  
@@ -3608,8 +3521,7 @@ solutions showed changes in void space between 12% (O 2+glycine) and 18%
  
  
  
-69 
-Chapter 2  
+69 Chapter 2  
  
  
  
@@ -3622,7 +3534,6 @@ changes  in the appearance  of the solid  and a decrease  in volume,  e. and f. 
  
  
 70 
-
 Chapter 2  
  
  
@@ -3663,8 +3574,7 @@ H2O2+glycine solution screening stages with chalcopyrite at 170°C and in fluid
 stability  tests (no chalcopyrite)  at 90°C,  110°C,  130°C  and 170°C;  FTIR  fluid  analysi s 
 showed  that no glycine  was present  in the final solutions.  Reagent  decomposition  
  
-71 
-Chapter 2  
+71 Chapter 2  
  
  
 increased when hydrogen peroxide was used, as has been documented elsewhere 
@@ -3702,8 +3612,7 @@ dissolution increases the accessibility of the target mineral and may supplement
 mechanical  enhancement.  
  
  
-72 
-Chapter 2  
+72 Chapter 2  
  
  
 2.3.5.3.  Environmental  impact  
@@ -3743,8 +3652,7 @@ for primary sulfide dissolution by the different lixiviants tested are presented
 will be specific to each ISR  application.  
  
  
-73 
-Chapter 2  
+73 Chapter 2  
  
  
  
@@ -3772,7 +3680,6 @@ Based  on the solid  transformations,  CuSO 4 oxidant  increased  the copper  co
 solid  instead  of dissolving  it, and therefore,  this oxidant  may need  to be combined  with 
 other oxidants  to  be effective.  The initial  transformation  did  no t show passivation  
 74 
-
 Chapter 2  
  
  
@@ -3817,8 +3724,7 @@ presented in Appendix  C.
  
  
  
-75 
-Chapter  2 
+75 Chapter  2 
  
  
  
@@ -3845,7 +3751,6 @@ based on the specific characteristics of each deposit and operating requirements
 mineralogy, temperature, pressure, and surface facilities).  Table  
  
 76 
-
 Chapter 2  
  
  
@@ -3912,8 +3817,7 @@ NaNO 3+H 2SO 4 - Stable for wide pH range >  60°C
 - Relatively cheap  reagents  - High concentrations of oxidant 
 required for enhanced dissolution rate  
  
-77 
-Chapter 2  
+77 Chapter 2  
  
  
   - Formation of non -porous sulfur 
@@ -3967,8 +3871,7 @@ Problems of Mineral Processing 50(2): 657 –666.
  
  
  
-78 
-Chapter 2  
+78 Chapter 2  
  
  
 Ahn, J., Barton, I.F., Shin, D. and Lee, J., 2018. The study of copper leaching from 
@@ -4009,8 +3912,7 @@ hydroxyl radicals induced oxidation of glycine. Water Research, 33(2): 433 –
 441. 
  
  
-79 
-Chapter 2  
+79 Chapter 2  
  
  
 Bonan, M., Demarthe, J., Renon, H. and Baratin, F., 1981. Chalcopy rite leaching by 
@@ -4051,8 +3953,7 @@ and misunderstandings. Hydrometallurgy  139:132 –148
  
  
  
-80 
-Chapter 2  
+80 Chapter 2  
  
  
 Crundwell, F., 2015. The semiconductor mechanism of dissolution and the pseudo - 
@@ -4092,8 +3993,7 @@ extraction from chalcopyrite in alkaline glycinate solutions. Minerals
 Engineering, 108: 53 –66. 
  
  
-81 
-Chapter  2 
+81 Chapter  2 
  
  
  
@@ -4133,8 +4033,7 @@ ferric -chloride and methanesulfonic -acid solutions. Hydrometallurgy, 188:
 140–156. 
  
  
-82 
-Chapter 2  
+82 Chapter 2  
  
  
  
@@ -4174,8 +4073,7 @@ chalcopyrite. Advances in Colloid and Interface Science, 197 –198: 1 –32.
  
  
  
-83 
-Chapter 2  
+83 Chapter 2  
  
  
 Litz, L.M., 1982. In -situ uranium mining with oxygen. Society of Mining Engineers 
@@ -4215,8 +4113,7 @@ Agriculture.
  
  
  
-84 
-Chapter 2  
+84 Chapter 2  
  
  
 Moyo, T., Petersen, J., Franzidis, J.P. and Nicol, M., 2015. An electrochemical study 
@@ -4257,8 +4154,7 @@ Processing and Extractive Metallurgy Review, 30(4):  327–345.
  
  
  
-85 
-Chapter 2  
+85 Chapter 2  
  
  
 Oraby, E., Eksteen, J., 2014. The selective leaching of copper from a gold –copper 
@@ -4298,8 +4194,7 @@ consequences, Reviews mineral geochemistry, pp. 1 –23.
  
  
  
-86 
-Chapter 2  
+86 Chapter 2  
  
  
 Routschka,  G. and Wuthnow,  H., 2008.  Refractory  Materials:  Pocket  Manual  ; Design, 
@@ -4339,8 +4234,7 @@ Copper sulfides, CSIRO, CSIRO Mineral Resources Perth.
  
  
  
-87 
-Chapter 2  
+87 Chapter 2  
  
  
 Shiers,  D.W.,  Collinson,  D.M.,  Kelly,  N.J. and Watling,  H.R.,  2016.  Copper  extraction 
@@ -4380,8 +4274,7 @@ Turan, M.D. and Altundogan, H., 2013. Leaching of chalcopyrite concentrate with
 hydrogen peroxide and sulfuric acid in an autoclave system. Metallical 
 Materials Transactions B. 44(4): 809 –819. 
  
-88 
-Chapter 2  
+88 Chapter 2  
  
  
  
@@ -4423,8 +4316,7 @@ polymetallic mineral resources. Minerals, 5(1): 1 –60.
  
  
  
-89 
-Chapter 2  
+89 Chapter 2  
  
  
 Watling, H.R., 2013. Chalcopyrite hydrometallurgy at atmospheric pressure: 1. 
@@ -4470,8 +4362,7 @@ or incorrectly acknowledged.
  
  
  
-90 
-Chapter 3  
+90 Chapter 3  
  
  
 Chapter 3. Kinetic study of chalcopyrite dissolution with iron(III) 
@@ -4507,8 +4398,7 @@ is the most common copper -bearing mineral and represents more than half of glob
 copper mineral reserves (Wang, 2005). Copper extraction from chalcopyrite requires 
 the addition of an oxidant and lixivia nt. Several lixiviant –oxidant systems have been 
 tested  to provide  rapid  copper  extraction  without  iron-hydroxy -product -precipitate  and 
-91 
-4 Chapter 3  
+91 4 Chapter 3  
  
  
 passivation -layer formation (Córdoba et al., 2009). Ferric oxidant has proven to be a 
@@ -4547,8 +4437,7 @@ to be independent of oxidant and acid concentrations.
  
  
  
-92 
-Chapter 3  
+92 Chapter 3  
  
  
 Several kinetic studies have been conducted over a range of temperatures and pH 
@@ -4599,8 +4488,7 @@ dependent on the material type (natural or synthetic), particle size and gangue 
  
  
  
-93 
-Chapter 3  
+93 Chapter 3  
  
  
  
@@ -4654,8 +4542,7 @@ T Iron (III)  Acid con.  Particle  Leach media  Ea Mechanism  Reference
  
  
  
-94 
-Chapter 3  
+94 Chapter 3  
  
  
 There has been an increasing interest in hydrometallurgical applications, such as ISR 
@@ -4693,8 +4580,7 @@ In the presence of MSA, ferric methanesulfonate may form by Equation (5) with
 subsequent proposed reactions as shown in Equations (6) to (8).  
  
  
-95 
-4 Chapter 3  
+95 4 Chapter 3  
  
  
 FeCl 3 + 3CH 3SO 3H → Fe(CH 3SO 3)3 + 3HCl  (5) 
@@ -4734,8 +4620,7 @@ its possible application in hydrometallurgical  processing.
  
  
  
-96 
-Chapter 3  
+96 Chapter 3  
  
  
 3.2. Experimental  
@@ -4773,8 +4658,7 @@ Table 3 -2. Series of experiments were conducted in which one of the four differ
 parameters investigated (particle size, ferric concentration, MSA concentration and 
 temperature)  was varied  while  the other  baseline  conditions  were  maintained  constant.  
  
-97 
-Chapter 3  
+97 Chapter 3  
  
  
 MSA concentrations were varied at 0.05, 0.1, 0.5 and 0.75 mol L-1. A 200% excess  of 
@@ -4816,8 +4700,7 @@ backscattered electron imaging  mode.
 A portion  of the initial  sample  was digested  using  aqua  regia  and the solution  chemical 
 composition    was    analysed    by   inductively   coupled    plasma –atomic  emission  
  
-98 
-Chapter 3  
+98 Chapter 3  
  
  
 spectroscopy (ICP –AES) (see Table 3 -3). The QXRD analysis correlated with the 
@@ -4847,7 +4730,6 @@ formation of highly soluble ferrous methanesulfonate Fe(CH 3SO 3)2. If MSA were
 considered to be active in the formation of copper complexes, a stoichiometric MSA 
 concentration of 0.26 mol L-1  would be required for dissolution. In this study, a  lower  
 99 
-
 Chapter 3  
  
  
@@ -4887,8 +4769,7 @@ et al.,  1988).
  
  
  
-100 
-Chapter  3 
+100 Chapter  3 
  
  
 3.3.3.  Effect of particle  size 
@@ -4935,8 +4816,7 @@ differences for small changes in temperature (Dreisinger and Abed,  2002).
  
  
  
-101 
-Chapter 3  
+101 Chapter 3  
  
  
 (a) (b) 
@@ -4963,7 +4843,6 @@ outer particle surface and moves into the remaining bulk solid. The reaction rat
 102 
  
   
-
 Chapter 3  
  
  
@@ -5015,8 +4894,7 @@ for continued lixiviant access to the reaction interface and element  transport.
  
  
  
-103 
-Chapter 3  
+103 Chapter 3  
  
  
 Table 3 -4. Determination coefficients ( R2) for six kinetic experimental equations for selected 
@@ -5072,8 +4950,7 @@ MSA concentration (mol L–1)
  
  
  
-104 
-𝑐 Chapter 3  
+104 𝑐 Chapter 3  
  
  
  
@@ -5111,8 +4988,7 @@ Rearranging the equation for plotting purposes yields:
  
 105 
 − 
-𝑇 
-𝑐 Chapter 3  
+𝑇 𝑐 Chapter 3  
  
  
  
@@ -5152,7 +5028,6 @@ b. Eyring plot for chalcopyrite leaching.
  
  
 106 
-
 Chapter 3  
  
  
@@ -5191,8 +5066,7 @@ determined rate constant has a significant impact on the activation energy. This
 limitation  and the inability to  identify changes  in mechanism  and  hence  activation  
  
  
-107 
-∫ Chapter 3  
+107 ∫ Chapter 3  
  
  
 energy values during the reaction suggest the necessity for an alternative verification 
@@ -5243,8 +5117,7 @@ fit all linear regressions plots, and the determination coefficients exceed  0.9
  
  
 108 − 
-𝑥 
-Chapter 3  
+𝑥 Chapter 3  
  
  
  
@@ -5275,7 +5148,6 @@ The main sulfur peak at 26.87° increased in the first 8 h in proportion to the 
 in chalcopyrite.  
  
 109 
-
 Chapter 3  
  
  
@@ -5305,7 +5177,6 @@ via generated rather than natural  fractures.
  
  
 110 
-
 Chapter 3  
  
  
@@ -5343,8 +5214,7 @@ Arrhenius  equation,  and  94.95  kJ  mol–1  and  101.21  kJ  mol–1  for 20%
  
     
  
- 
-Chapter 3  
+ Chapter 3  
  
  
 dissolutions, respectively, by the ‘time -to-a-given -fraction’ method. Globular 
@@ -5382,8 +5252,7 @@ t time
 tx time to transform a given  fraction  
 T recorded  temperature  
  
-112 
-Chapter  3 
+112 Chapter  3 
  
  
 τ time to completely consume the  particle  
@@ -5424,8 +5293,7 @@ Journal of Molecular Catalysis A: Chemical, 182 -183(Supplement C): 13 7–
  
  
  
-113 
-Chapter 3  
+113 Chapter 3  
  
  
 Córdoba, E.M., Muñoz, J.A., Blázquez, M.L., González, F. and Ballester, A., 2008. 
@@ -5464,8 +5332,7 @@ electrodeposition of copper from metha nesulphonic acid bath. International
 Journal of ChemTech Research, 3(3):  1318 –1325.  
  
  
-114 
-Chapter 3  
+114 Chapter 3  
  
  
 Hasan, M. and Rohan, J.F., 2010. Cu electrodeposition from methanesulfonate 
@@ -5503,8 +5370,7 @@ Kuhn, H., 2000. Principles Of Physical Chemistry : Understanding Molecules,
 Molecular Assemblies, Supramolecular Machines. Wiley, Chichester, U.K.  
  
  
-115 
-Chapter 3  
+115 Chapter 3  
  
  
 Levenspiel, O., 1999. Chemical Reaction Engineering. Wiley, New York.  
@@ -5542,8 +5408,7 @@ Northey, S., Mohr, S., Mudd, G.M., Weng, Z. and Giurco, D., 2014. Modelling  fut
 copper ore grade decline based on a detailed assessment of copper resources 
 and mining. Resources, Conservation and Recycling, 83(Supplement C):  190– 
 201. 
-116 
-Chapter  3 
+116 Chapter  3 
  
  
  
@@ -5581,8 +5446,7 @@ environmental issues, project evaluation and economics. Ore Geology
 Reviews, 79:  500–514. 
  
  
-117 
-Chapter 3  
+117 Chapter 3  
  
  
 Tilton, J.E. and Lagos, G., 2007. Assessing the long -run availability of copper.  
@@ -5634,8 +5498,7 @@ or incorrectly acknowledged.
  
  
  
-118 
-Chapter 4  
+118 Chapter 4  
  
  
 Chapter 4. Kinetics and mineralogical analysis of copper dissolution 
@@ -5672,8 +5535,7 @@ challenging. Oxide leaching is conducted by acid dissolution (Kelm and Helle, 20
 Khalezov  et al., 1979;  Nicol,  2018),  but because  of the high acid consumption,  alkaline 
 systems  are also being  considered  as a viable  leaching  alternative  (Aracena  et al., 2018;  
  
-119 
-Chapter 4  
+119 Chapter 4  
  
  
 Ekmekyapar et al., 2015; Tanda et al., 2017). The processing of refractory copper 
@@ -5711,8 +5573,7 @@ also found  that at high temperature,  two stages  resulted;  the first showed  
 extraction  of 40% without  sulfur  formation  and no iron leaching,  followed  by a slower 
 dissolution stage where an intermediate solid phase was covered by elemental sulfur 
 product.   Price   and   Chilton   (1981)   identified   two   products   only   during  the 
-120 
-Chapter 4  
+120 Chapter 4  
  
  
 electroleaching of pure bornite when using sulfuric -acid solutions; Cu 2.5FeS 4 formed 
@@ -5756,8 +5617,7 @@ the kinetic mechanism and activation -energy requirements has not been  determin
  
  
  
-121 
-Chapter 4  
+121 Chapter 4  
  
  
 Table 4 -1. Review of literature on bornite kinetics and reported activation energies and 
@@ -5817,8 +5677,7 @@ of cuprous ions from the bornite by ferric -ion oxidation to produce an intermed
 Cu3FeS 4 copper -deficient  phase  (Manning,  1967;  Pesic  and Olson,  1983). The second  
 stage  consists  of complete  dissolution  with the production  of elemental  
  
-122 
-4 Chapter 4  
+122 4 Chapter 4  
  
  
 sulfur.  Sulfur  oxidation  with residual  oxidant  may yield  sulfate,  however,  only a small 
@@ -5855,8 +5714,7 @@ system. The dissolution kinetics of sphalerite have been studied previously (Ayd
 et al., 2005; Dutrizac and Macdonald, 1978), and sphalerite reacts according  to: 
  
 ZnS + 2FeCl 3  → ZnCl 2  + 2FeCl 2 + 𝑆0 (8) 
-123 
-Chapter 4  
+123 Chapter 4  
  
  
  
@@ -5893,8 +5751,7 @@ metal  from  concentr ates. The oxidant/MSA  fluid  may be regenerated  by anodi
 reaction in electrowinning, as proven at the bench scale for lead processing, 
 which  involves  a fluid  passing  through  a cell with graphite  anodes  and stainless  
  
-124 
-Chapter 4  
+124 Chapter 4  
  
  
 steel cathodes (Wu et al., 2014b). Lead is recovered at the cathode, whereas the 
@@ -5950,8 +5807,7 @@ L–1  have  little
  
 The rationale of this study was to determine the kinetic behaviour of a natural 
 composite bornite/chalcopyrite sample with ferric chloride in a MSA -based  lixiviant,  
-125 
-Chapter 4  
+125 Chapter 4  
  
  
 analyse the resulting surface layers, and compare this analy sis with previous work on 
@@ -5988,8 +5844,7 @@ with other more expensive oxidants that may be suitable for ISR). Screening
 experiments  with ferric  chloride  and ferric  sulfate  were  conducted  to identify  the most 
 efficient  oxidant for leaching. In preliminary tests, at 60°C, after 5 days of leaching, 
 the maximum  copper  extraction  with ferric -sulfate  solutions  was 33%,  whereas  that 
-126 
-Chapter 4  
+126 Chapter 4  
  
  
 with the ferric -chloride solution reached 70%. Based on these results, ferric chloride 
@@ -6022,7 +5877,6 @@ baseline conditions were kept constant (Table 4 -4). Temperatures from 40°C to 
  
  
 127 
-
 Chapter 4  
  
  
@@ -6066,8 +5920,7 @@ CSIRO species identification protocol was run (Meyer et al., 2013).
  
  
  
-128 
-Chapter 4  
+128 Chapter 4  
  
  
 4.3. Results and  discussion  
@@ -6105,8 +5958,7 @@ Within  the first 2 h, a copper  dissolution  of 73% resulted  for the –38 µm
 this dissolution decreased to 55% for the –106+75 µm material. There was no major 
 difference between  particle sizes  below  –100  µm.  A rapid  initial  dissolution  was 
  
-129 
-Chapter 4  
+129 Chapter 4  
  
  
 observed for all grain sizes and the dependence was less than for pure chalcopyrite.  A 
@@ -6145,8 +5997,7 @@ the copper -extraction  kinetics.
  
  
  
-130 
-   Chapter 4  
+130    Chapter 4  
  
  
  
@@ -6175,8 +6026,7 @@ particle unti l  the shrinking core disappears. The  heterogeneous  reaction  of
  
  
    
- 
-Chapter 4  
+ Chapter 4  
  
  
 leaching with acidic ferric chloride solution was modelled by using six different 
@@ -6223,8 +6073,7 @@ covellite (Pesic and Olson,  1983).
  
  
  
-132 
-Chapter 4  
+132 Chapter 4  
  
  
 Table 4 -5. Correlation coefficients ( R2) for six kinetic experimental equations applied to the 
@@ -6268,7 +6117,6 @@ fit to plateau stage including the points of rapid dissolution between 0 and 2  
  
  
 133 
-
 𝑐 c Chapter 4  
  
  
@@ -6313,9 +6161,7 @@ presence of chalcopyrite in the system increased the activation energy (see also
 4-2). The value is in agreement with that determined by Pesic and Olson (1983)  for 
 ferric -chloride  solutions  and temperatures  above  40°C,  and may indicate  that the major 
 influence on the thermodynamic behaviour of the sample is the bornite. The  enthalpy  
- − 
-134 
- 
+ − 134  
 Chapter 4  
  
  
@@ -6363,7 +6209,6 @@ describes the dissolution kinetics dependency on temperature, particle size and 
 and oxidant  concentrations  for the bornite/chalcopyrite  sample.  Diffusion  through  a 
  
 135 
-
 Chapter 4  
  
  
@@ -6408,8 +6253,7 @@ other copper minerals, such as  digenite and chalcopyrite, on bornite dissolutio
 Dutrizac et al. (1971) found that the inclusion of less than 30% chalcopyrite  in samples  
 leached  at 70°C  did not change  the shape  of the dissolution  
  
-136 
-Chapter 4  
+136 Chapter 4  
  
  
 plots; however, when large amounts of chalcopyrite were added, at 15°C, the 
@@ -6438,7 +6282,6 @@ expected  a change  in reaction  mechanism,  and we applied  the time-to-a-given
 method to identify the time when this change occured in our experiments (Fig.  4-6). 
  
 137 
-
 Chapter 4  
  
  
@@ -6472,8 +6315,7 @@ to dissolve and therefore, the activation -energy requirement  increases.
  
  
 138 
-𝑥 
-Chapter 4  
+𝑥 Chapter 4  
  
  
 Fig. 4 -6. Experimental temperature data for composite sample plotted as time -to-different 
@@ -6512,8 +6354,7 @@ Olson, 1983; Uga rte-Alverez, 1971). Previously, these authors identified that
 chalcopyrite  dissolution  under  the same  conditions  resulted  in minimal  changes  in 
  
  
-139 
-Chapter 4  
+139 Chapter 4  
  
  
 measured activation energies, and this is evidenced by the small change in slopes of 
@@ -6546,7 +6387,6 @@ Table 4 -6 compares the activation parameters found for chalcopyrite (Hidalgo et
 Eyring  and time-to-a-given -fraction  methods.  The presence  of chalcopyrite  had only a 
  
 140 
-
 Chapter 4  
  
  
@@ -6589,8 +6429,7 @@ from the chalcopyrite after 8 hours of leaching (see Fig. 4 -8). Because this st
 focused on co pper dissolution, detailed sphalerite leaching data are not presented, but 
 chemical analysis confirmed that zinc was present in solution. For example, at  40°C,  
  
-141 
-Chapter 4  
+141 Chapter 4  
  
  
 56.2 %, 74.9% and 91.5% of the sphalerite had leached at 6 h, 8 h and 15 h, 
@@ -6646,8 +6485,7 @@ not possible for us to conclude whether chalcopyrite was a reaction  product.
  
  
  
-142 
-Chapter 4  
+142 Chapter 4  
  
  
 Table 4 -7. Powder -diffraction data for the copper -deficient intermediate phase formed by 
@@ -6712,8 +6550,7 @@ Cu/Fe ratios after chalcopyrite -content correction.
  
  
  
-143 
-Chapter 4  
+143 Chapter 4  
  
  
 Fig. 4 -8. Final X -ray diffractogram after 8 h of leach ing and showing the final reaction 
@@ -6746,7 +6583,6 @@ evident.  After  6 h of reaction,  the particle  appeared  to be replaced  entir
  
  
 144 
-
 Chapter  4 
  
  
@@ -6774,7 +6610,6 @@ sulfate. It appears that the effect of the chloride on the texture of the produc
 is minor for bornite and, therefore, the sulfur coating is comparable to that found in 
 sulfate systems for  chalcopyrite.  
 145 
-
 Chapter 4  
  
  
@@ -6806,7 +6641,6 @@ and Cu 3.2FeS 4. This study also reported covellite grains and chalcopyrite lame
 products.  
  
 146 
-
 Chapter 4  
  
  
@@ -6840,7 +6674,6 @@ particle surface are believed to result from a volume reduction during the initi
 of the reaction  (Dutrizac  et al., 1985;  Pesic  and Olson,  1983).  SEM  images  of the low- 
 temperature intermediate  product  provide a good  indication of the first s tage of  the 
 147 
-
 Chapter 4  
  
  
@@ -6882,8 +6715,7 @@ bornite without the influence of chalcopyrite in the  sample.
  
  
  
-148 
-Chapter 4  
+148 Chapter 4  
  
  
  
@@ -6914,7 +6746,6 @@ react, and therefore, quartz was used as a standard to measure the ratio of chan
 sample  composition.  The normalised  data for the copper  and iron mineral  chemical  
  
 149 
-
 Chapter 4  
  
  
@@ -6946,7 +6777,6 @@ leaching, b. post-leaching map of copper minerals.
  
  
 150 
-
 Chapter 4  
  
  
@@ -6989,8 +6819,7 @@ energy was calculated to be 79.3 kJ mol–1 by using the shrinking -core model.
 • The leaching mechanism of the compos ite sample varied during the reaction and, 
 therefore, the time -to-a-given -fraction kinetics analysis was used to obtain the 
 kinetic  parameters.  Three  reaction  stages  were  identified  for the composite  sample:  
-151 
-Chapter 4  
+151 Chapter 4  
  
  
 for copper dissolutions below 20% the activation energy was 15.7 kJ mol–1, 
@@ -7027,8 +6856,7 @@ McDonald, Peter Austin and Matthew Rowles for their help with the mineralogical
 analysis, Robbie McDonald for his valuable contribution to this work, Denis Shiers for 
 reviewing a draft of this manuscript, and the reviewers for their valuable  additions to 
 the final  document.  
-152 
-Chapter 4  
+152 Chapter 4  
  
  
  
@@ -7069,8 +6897,7 @@ conditions for leaching of malachite ore in H 2SO 4 Solutions. Chemical
 Engineering & Technology, 24(4): 409 –413. 
  
  
-153 
-Chapter 4  
+153 Chapter 4  
  
  
 Aydogan,  S., Aras,  A. and Canbazoglu,  M., 2005.  Dissolution  kinetics  of sphalerite  in 
@@ -7110,8 +6937,7 @@ media. Metallurgical Transactions B, 12(2):  371–378.
  
  
  
-154 
-Chapter 4  
+154 Chapter 4  
  
  
 Dutrizac, J.E. and MacDonald, R.J.C., 1973. Percolation leaching of bornite ore, 
@@ -7148,8 +6974,7 @@ Metals, 56(4): 365 –371.
 Florence,  F., Nisha,  S., Rajendra n, K.N.,  Srinivasan,  S. and John,  S., 2011.  Studies  on 
 electrodeposition of copper from methanesulphonic acid bath. International 
 Journal of ChemTech Research, 3(3):  1318 –1325.  
-155 
-Chapter 4  
+155 Chapter 4  
  
  
  
@@ -7187,8 +7012,7 @@ liquids for metal extraction from chalcopyrite: solid, liquid and gas phase
 studies. Physical Chemistry Chemical Physics, 19(32): 21556 –21564.  
  
  
-156 
-Chapter 4  
+156 Chapter 4  
  
  
 Lente, G., Fábián, I. and Poë, A.J., 2005. A common misconception about the Eyring 
@@ -7228,8 +7052,7 @@ Canadian Mineralogist, 9(1): 85 –94.
  
  
  
-157 
-Chapter 4  
+157 Chapter 4  
  
  
 Meyer, M.C., Austin, P. and Tropper, P., 2013. Quantitative evaluation of mineral 
@@ -7269,8 +7092,7 @@ as oxidant. Hydrometallurgy, 12(2): 195 –215.
  
  
  
-158 
-Chapter 4  
+158 Chapter 4  
  
  
 Price, D.C. and Chilton, J.P., 1980. The electroleaching of bornite and chalcopyrite.  
@@ -7311,8 +7133,7 @@ the sulfurisation of chalcopyrite. Metallurgical and Material s Transactions B,
  
  
  
-159 
-Chapter 4  
+159 Chapter 4  
  
  
 Wall, A., Mathur, R., Post, J. and Heaney, P., 2011. Cu isotope fractionation during 
@@ -7353,8 +7174,7 @@ Transactions of Nonferrous Metals Society of China, 25(1):  303–313.
  
  
  
-160 
-Chapter 4  
+160 Chapter 4  
  
  
 Every reasonable effort has been made to acknowledge the owners of copyright 
@@ -7416,8 +7236,7 @@ or incorrectly acknowledged.
  
  
  
-161 
-Chapter 5  
+161 Chapter 5  
  
  
 Chapter 5. Replacement reactions of copper sulfides at moderate 
@@ -7453,8 +7272,7 @@ approaches  for Cu extraction  including  in-situ recover y (ISR)  (Sinclair  an
 2015).  Chalcopyrite  and bornite  represent  the major  proportion  of currently  known  Cu 
 resources (Zhao et al., 2015) and are thus of particular interest for ISR (Hidalgo et  al., 
 2019a;  Hidalgo  et al., 2019b).  In natural  ore, chalcopyrite  and bornite  are commonly  
-162 
-Chapter 5  
+162 Chapter 5  
  
  
 associated  with secondary  sulfides,  including  chalcocite,  digenite,  and covellite.  Since 
@@ -7490,8 +7308,7 @@ diffusion profiles across replacement interfaces. Instead, these characteristics
 indicative of fluid -driven mineral replacement by dissolution –precipitation reactions, 
 as demonstrated for numerous systems (Altree -Williams et al., 2015; Hellmann et al., 
 2003; Putnis, 2002; Putnis and Putnis, 2007; Ruiz -Agudo et al., 2012; Ruiz -Agudo  et 
-163 
-Chapter 5  
+163 Chapter 5  
  
  
 al., 2014) and demonstrated through the incorporation of species from a ‘doped’ 
@@ -7528,8 +7345,7 @@ layers  that  are  limited  by  sulfur  dimers  and  parallel  to  the  hexagona
  
  
  
-164 
-Chapter 5  
+164 Chapter 5  
  
  
 (Makovicky, 2006). Thus, transformations from any of the other phases into covellite 
@@ -7569,8 +7385,7 @@ runs were run for 8 days, 2 weeks and 30  days.
  
  
  
-165 
-Chapter  5 
+165 Chapter  5 
  
  
 5.2.2.  Analytical  methods  
@@ -7608,8 +7423,7 @@ OES.
  
  
  
-166 
-Chapter 5  
+166 Chapter 5  
  
  
 Mineral  chemical  compositions  are expressed  in mass  percent  unless  stated  otherwise. 
@@ -7642,7 +7456,6 @@ quartz as the dominant phas es.
  
  
 167 
-
 Chapter 5  
  
  
@@ -7667,7 +7480,6 @@ the HCl solution.  Iron release  was faster  than copper  during  the first ~72 
 HCl and 4% for MSA  solutions.  The increase  continued  at slower  pace from  ~100  h 
  
 168 
-
 Chapter 5  
  
  
@@ -7697,7 +7509,6 @@ it formed after bornite or chalcocite as required for  comparison.
  
  
 169 
-
 Chapter 5  
  
  
@@ -7763,11 +7574,9 @@ Additional phases: Dg 2: Fe-rich digenite from bornite replacement, 5 aDgss: 5a 
 solution (Grguric and Putnis, 1999), Id: idaite (Cu 3FeS 4) (Ugarte and Burkin, 1975), X -Bn1: 
 exsolved lamellae of Cu -rich bornite, X -Bn2: exsolved lam ellae of Cu -deficient bornite, X - 
 Bn3: bulk average composition of exsolution texture in  bornite.  
-
  
  
-170 
-Chapter 5  
+170 Chapter 5  
  
  
 5.3.2.1.  Chalcocite  replacement  
@@ -7814,8 +7623,7 @@ in Table  5-1.
  
  
  
-171 
-Chapter 5  
+171 Chapter 5  
  
  
  
@@ -7838,7 +7646,6 @@ after 8 days. Generally, the textures and compositions of secondary phases forme
 from bornite evolved through three different stages. MSA solutions only showed one 
 of these  stages.  
 172 
-
 Chapter  5 
  
  
@@ -7888,8 +7695,7 @@ the reaction interface into  the precursor  bornite.
  
  
  
-173 
-Chapter 5  
+173 Chapter 5  
  
  
  
@@ -7901,7 +7707,6 @@ dark-grey bornite  and light-grey digenite  without  detectable  phase -internal
 textural  changes  towards  the interface.  At this stage  of react ion, bornite  remains  homogeneous 
 and does not show exsolution  textures.  
 174 
-
 Chapter 5  
  
  
@@ -7933,7 +7738,6 @@ compositions determined by SEM -EDS rep orted in Table 5 -1 should be considered
 approximate.   The  Cu -poor  lamellae   had   a   composition   close   to  mooihoekite  
  
 175 
-
 Chapter 5  
  
  
@@ -7968,7 +7772,6 @@ map of the exsolution are presented in Appendix D.
  
  
 176 
-
 Chapter 5  
  
  
@@ -7990,7 +7793,6 @@ which was characterised by the replacement of earlier -formed digenite and the
 exsolved copper -deficient  texture in  the bornite.  In our experiments,  only  the solids  
  
 177 
-
 Chapter 5  
  
  
@@ -8021,7 +7823,6 @@ precursor digenite but also directly from bornite. In contrast to digenite and c
 after chalcocite, covellite that formed after bornite contained  detectable  Fe  (~0.2%;  
  
 178 
-
 Chapter 5  
  
  
@@ -8055,7 +7856,6 @@ texture.
  
  
 179 
-
 Chapter 5  
  
  
@@ -8094,8 +7894,7 @@ dissolution –precipitation reaction. Understanding the patchi ness of the repl
 preferred  fluid -induced  reaction  along  close -packed  layers  in  the  chalcocite.  The 
  
  
-180 
-Chapter 5  
+180 Chapter 5  
  
  
 texture formed when digenite is formed from bornite along fractures and along the 
@@ -8132,8 +7931,7 @@ internal composition by solid -state diffusion, thus forming t he Cu -depleted b
 solid solution (X -Bn3 in Fig.5 -4). The probably thermodynamically unstable Cu-
 depleted  bornite  solid  solution  exsolves  Cu- and Fe-depleted  lamellae,  resulting  in 
  
-181 
-Chapter 5  
+181 Chapter 5  
  
  
 the basket -weave  texture  shown  in Figs.  5-9 and 5-10. Similar  observations  were  made 
@@ -8156,7 +7954,6 @@ showing laminar texture of digenite replacement of chalcocite. c. Unreacted born
 showing uniform composition without obvious textural transformation.  d.  Exsolution  
  
 182 
-
 Chapter 5  
  
  
@@ -8195,8 +7992,7 @@ contained exsolution lamellae of Cu -deficient bornite. The fracture orientation
 generally followed the orientation of the exsolution lamellae and fracture rims in the 
 bornite showed only thin or no secondary digenite, suggesting that fracture formation 
 occurred relatively  late. 
-183 
-Chapter 5  
+183 Chapter 5  
  
  
 5.5. Implications for in-situ leaching operations  
@@ -8232,8 +8028,7 @@ economically viable pre -treatments represents an option for refractory copper s
 processing.  
 A total transformation  of primary  copper  sulfides  into covellite  as a pre-treatment  may 
 enhance  the copper  dissolution  rate in otherwise  refractory  ores,  as was tested  in 
-184 
-Chapter 5  
+184 Chapter 5  
  
  
 related experiments by Hidalgo et al. (2019b) (see Appendix B), which found that 
@@ -8273,8 +8068,7 @@ chalcopyrite to digenite. Metallurgical and Materials Transactions B, 23(3):
  
  
  
-185 
-Chapter 5  
+185 Chapter 5  
  
  
 Bowman, J.R., Valley, J.W. and Kita, N., 2007. Mechanisms of oxygen isotopic 
@@ -8313,8 +8107,7 @@ the ferric ion leaching of bornite. Metallurgical Transactions B 16b (4): 679 �
  
  
  
-186 
-Chapter 5  
+186 Chapter 5  
  
  
 Fuentes, G., Viñals, J. and Herreros, O., 2009. Hydrothermal purification and 
@@ -8352,8 +8145,7 @@ Hidalgo,  T., Kuhar,  L., Beinlich,  A. and Putnis,  A., 2019a.  Kinetics  and m
 analysis  of copper  dissolution  from  a bornite/chalcopyrite  composite  sample  in 
  
  
-187 
-Chapter 5  
+187 Chapter 5  
  
  
 ferric -chloride and methanesulfonic -acid solutions. Hydrometallurgy, 188: 
@@ -8393,8 +8185,7 @@ in Mineralogy and Geochemistry, 61(1):  7–125.
  
  
  
-188 
-Chapter 5  
+188 Chapter 5  
  
  
 Mallio, W., Pojasek, W., Park, W. and Rainville, G., 1981. Parameters and 
@@ -8433,8 +8224,7 @@ porosity. Nature Geoscience, 10(2):  150–156.
  
  
  
-189 
-Chapter 5  
+189 Chapter 5  
  
  
 Price, D.C. and Chilton, J.P., 1980. The electroleaching of bornite and chalcopyrite.  
@@ -8473,8 +8263,7 @@ Sinclair, L. and Thompson, J., 2015. In situ leaching of copper: Challenges and 
 prospects. Hydrometallurgy, 157:  306–324. 
  
  
-190 
-Chapter 5  
+190 Chapter 5  
  
  
 Ugarte -Alverez,  F., 1971.  Leaching  of bornite,  University  of London,  PhD disertation, 
@@ -8513,8 +8302,7 @@ coarsening of mineral microstructures in hydrothermally synthesised bornite –
 digenite solid solution. ACS Earth and Space Chemistry, 1(8): 465 –474. 
  
  
-191 
-Chapter 5  
+191 Chapter 5  
  
  
 Zhao,  J., Brugger,  J., Ngothai,  Y. and Pring,  A., 2014 . The replacement  of chalcopyrite 
@@ -8565,8 +8353,7 @@ or incorrectly acknowledged.
  
  
  
-192 
-Chapter 6  
+192 Chapter 6  
  
  
 Chapter 6. Effect of multistage solution –mineral contact for low - 
@@ -8603,8 +8390,7 @@ refractory chalcopyrite or bornite are challenging to leach by ISR as they requi
 oxidant addition, may require elevated temperatures and the copper minerals may be 
 difficu lt to access . 
  
-193 
-Chapter 6  
+193 Chapter 6  
  
  
  
@@ -8641,8 +8427,7 @@ between 1.9 % and 7.7%. Sulfuric acid was injected into the cores with a recycli
 frequency between 1 and 4 weeks. After filtration, acid was added before the solution 
 was contacted  with the solid  again.  Paulson  evaluated  the net effect  of the dissolution – 
 precipitat ion reactions  and their effect  on final core permeability.  He found  that metals  
-194 
-Chapter 6  
+194 Chapter 6  
  
  
 that were released from gangue minerals combined with sulfate from the lixiviant to 
@@ -8717,8 +8502,7 @@ Fe2(SO 4)3 MSA  0.34 719
 A particle size (P 80) of 68 µm (Brunauer –Emmett –Teller (BET) surface area of 3.2 
 m2g⁻1) was determined using a Malvern Mastersizer 3000  after the samples had been 
  
-195 
-Chapter 6  
+195 Chapter 6  
  
  
 placed in an ultrasonic bath for 20 min. The BET specific surface area analysis was 
@@ -8755,8 +8539,7 @@ below 2%. Selected solids were digested with aqua regia after experiments for ma
 balance purpo ses and secondary element dissolution calculations (Na, Ca, K, Mg, Al 
 and S). Fluid analysis was by inductively coupled plasma optical emission 
 spectrometry (ICP -OES). pH and Eh values were obtained by using Ionode ORP  and 
-196 
-Chapter 6  
+196 Chapter 6  
  
  
 pH (IJ44A  and IJ64)  combination  electrodes.  The dissolution  per stage  was calculated 
@@ -8789,7 +8572,6 @@ amounts (Table 6 -2).
  
  
 197 
-
 Chapter 6  
  
  
@@ -8843,8 +8625,7 @@ concentrations  of calcium,  sulfur  and magnesium  from  the elemental  analysi
  
  
  
-198 
-Chapter 6  
+198 Chapter 6  
  
  
  
@@ -8888,7 +8669,6 @@ minerals and Fe/S overlap confirmed the presence of  pyrite.
  
  
 199 
-
 Chapter 6  
  
  
@@ -8916,7 +8696,6 @@ therefore most of the acid was expected to be consumed by the  carbonates.
  
  
 200 
-
 Chapter 6  
  
  
@@ -8951,7 +8730,6 @@ in the Fe 2(SO 4)3/MSA/NaCl  system.
  
  
 201 
-
 Chapter 6  
  
  
@@ -8984,7 +8762,6 @@ contact  scenario.
  
  
 202 
-
 Chapter 6  
  
  
@@ -9015,7 +8792,6 @@ precipitation was predicted (Fig. 6 -7e and  f).
  
  
 203 
-
 Chapter 6  
  
  
@@ -9036,8 +8812,7 @@ leaching stages (Table 6 -3) confirmed the dissolution of copper and gangue  min
  
   
  
-  
-Chapter 6  
+  Chapter 6  
  
  
 and precipitate formation (e.g., gypsum, jarosite and akaganeite), especially after stage  
@@ -9095,8 +8870,7 @@ difference between the initial sample mineral masses and the precipitate masses 
 stages  1 and 4. Gypsum  precipitated  in the sulfate  solutions  (Fig.  6-8a) with maximum 
 precipitat ion occurring in the Fe 2(SO 4)3/H2SO 4/NaCl solutions. Additional sodium in 
 the initial  solutions  appeared  to promote  gypsum  formation  because  of cation  build  up. 
-205 
-Chapter 6  
+205 Chapter 6  
  
  
 Calcium remained dissolved in the chloride solutions (Fig. 6 -8b). A greater mass 
@@ -9128,7 +8902,6 @@ agglomerates yielded an average chemical composition of 34.5% O, 59.4% Fe and
 precipitates occurred as nanosized dispersed flakes and did not form thick  superficial  
  
 206 
-
 Chapter 6  
  
  
@@ -9154,7 +8927,6 @@ monovalent cation incorporation into the jarosite structure, results in acid for
 (Equation  2) and occurs  at ferric  ion concentrations  between  0.025 –3 M in the presence 
 of alkali  metals,  such  as  Na and  K  (Dutrizac,  1982),  and  between  pH  0.9 and 2  
 207 
-
 4 Chapter 6  
  
  
@@ -9202,8 +8974,7 @@ operat ion (Bartlett, 1998; Earley and Jones, 1992).
  
  
  
-208 
-Chapter 6  
+208 Chapter 6  
  
  
  
@@ -9235,7 +9006,6 @@ that coat the copper su lfide may inhibit copper  dissolution.
  
  
 209 
-
 Chapter 6  
  
  
@@ -9255,7 +9025,6 @@ precipitation.
  
  
 210 
-
 Chapter 6  
  
  
@@ -9285,7 +9054,6 @@ Samples  that were  reacted  with the chloride  solutions  (FeCl 3/MSA  and FeCl
  
  
 211 
-
 Chapter 6  
  
  
@@ -9315,7 +9083,6 @@ FeCl 3/HCl) than the sulfate solutions (Fe 2(SO 4)3/MSA, Fe 2(SO 4)3/H2SO 4 and
 Fe2(SO 4)3/MSA/NaCl). Li kewise, the presence of MSA reduced  iron 
  
 212 
-
 Chapter 6  
  
  
@@ -9354,8 +9121,7 @@ precipitation control in ISR processing include:
 with high alkali -metal  contents.  
  
  
-213 
-Chapter 6  
+213 Chapter 6  
  
  
 • Addition of NaCl is not recommended when the solid contains high amounts 
@@ -9394,8 +9160,7 @@ Processing and Extractive Metallurgy, 2: 40 –45.
  
  
  
-214 
-Chapter 6  
+214 Chapter 6  
  
  
 Bartlett, R.W., 1998. Solution mining : leaching and fluid recovery of materials. The 
@@ -9433,8 +9198,7 @@ of Mining, Metallurgy and Petroleum: 337 –352.
 Gomis -Yagües, V., Boluda -Botella, N. and Ruiz -Beviá, F., 2000. Gypsum 
 precipitation/dissolution as an explanation of the decrease of sulfate 
 concentration  during  seawater  intrusion.  Journal  of Hydrology,  228(1):  48–55. 
-215 
-Chapter 6  
+215 Chapter 6  
  
  
  
@@ -9472,8 +9236,7 @@ copper sulfides under recycle solution conditions observed in heap leaching.
 Part 1. Effect of standard conditions. Hydrometallurgy, 178: 231 –239. 
  
  
-216 
-Chapter 6  
+216 Chapter 6  
  
  
  
@@ -9514,8 +9277,7 @@ prospects . Hydrometallurgy, 157:  306–324.
  
  
  
-217 
-Chapter 6  
+217 Chapter 6  
  
  
 Santos, S., Lima, R., Cruz, C.,Pimentel, V., Ferreira, M., Cardoso, R., Rezende, M., 
@@ -9567,8 +9329,7 @@ or incorrectly acknowledged.
  
  
  
-218 
-Chapter 7  
+218 Chapter 7  
  
  
 Chapter 7. Conclusions and recommendations for ISR application  
@@ -9609,8 +9370,7 @@ Appendix  A.
  
  
  
-219 
-Chapter 7  
+219 Chapter 7  
  
  
 • Reaction kinetics and mechanism: An understanding of the kinetics of 
@@ -9647,8 +9407,7 @@ enrichment phases showed no passivation; these phases also formed with
 depleted oxidant and with acid  only present in the fluid and leached more 
 rapidly  with oxidant  addition  after the initial  transformation  (Appendix  B). The 
  
-220 
-Chapter 7  
+220 Chapter 7  
  
  
 transformations followed the reactive zones and transformed the entire mineral, 
@@ -9685,8 +9444,7 @@ dissolution, stability at a chosen temperature, passivation behaviour,
 environmenta l impact, accessibility enhancement and cost. Some fluids prove 
 promising when assessed according to many of these points (e.g., ferric 
 chloride, sodium nitrate and copper chloride). Although ferric sulfate  solution  
-221 
-Chapter 7  
+221 Chapter 7  
  
  
 tends to be the preferred industry choice, this solution shows a low copper 
@@ -9724,8 +9482,7 @@ microscale accessibility, generate effective porosity and increase the overall
 permeability.  
  
  
-222 
-Chapter 7  
+222 Chapter 7  
  
  
 • Oxidant/lixiviant influence in precipitations: Within the ranges tested, 
@@ -9764,8 +9521,7 @@ applications.
  
  
  
-223 
-Chapter 7  
+223 Chapter 7  
  
  
 References  
@@ -9803,8 +9559,7 @@ Consequences, Reviews in Mineralogy and Geochemistry, pp. 1 –23.
  
  
  
-224 
-Chapter 7  
+224 Chapter 7  
  
  
 Ruiz -Agudo, E., Putnis, C., Rodriguez -Navarro, C. and Putnis, A., 2012. Mechanism 
@@ -9849,8 +9604,7 @@ or incorrectly acknowledged.
  
  
  
-225 
-Appendix A  
+225 Appendix A  
  
  
 Appendix A. Comparative analysis of lixiviant/oxidant systems for 
@@ -9887,8 +9641,7 @@ as Fe3+ or O 2 is used to oxidize sulfide to sulfate and r elease copper into so
 recovery and purification (Schlesinger et al., 2011). The selection of a suitable 
 lixiviant/oxidant   system   can   enhance   the   recovery   rate,   reduce   the  lixiviant  
  
-226 
-Appendix A  
+226 Appendix A  
  
  
 consumption and result in an overall increase in mining efficiency. Chalcopyrite 
@@ -9926,8 +9679,7 @@ Therefore, an understanding of the matrix response to lixiviant/oxidant systems 
 grain -scale is  essential to evaluate possible operational  issues,  e.g., the potential  for 
  
  
-227 
-Appendix A  
+227 Appendix A  
  
  
 pore-space  clogging,  which  may induce  blockage  of the lixiviant  flow path and prevent 
@@ -9962,8 +9714,7 @@ conditions  for deep  ore bodies  (relevant  for ISR),  no oxidant  or oxygen  r
 occurred during the experiments. The experimental set up did not allow for pH or Eh 
 monitoring or control during the experiment. The leaching time varied from one to 
 three  weeks,  after which  solids  and fluids  were  sampled.  The leachates  were  filtered  
-228 
-Appendix A  
+228 Appendix A  
  
  
 and diluted, the solid residues were washed and dry -mounted in epoxy resin and 
@@ -10012,8 +9763,7 @@ Initial sample characterisation
 XRD and solids analysis indicated that the sample was a mixture of fairly pure 
 chalcopyrite with traces of pyrite and quartz. The average initial  chemical  distribution  
  
-229 
-Appendix A  
+229 Appendix A  
  
  
 was 35.2% Cu, 30.98% Fe and 33.83% S. Dispersed pyrite gangue was present in a 
@@ -10044,7 +9794,6 @@ hydrogen peroxide does not significantly enhance copper extraction, and, in fact
 degrade the lixiviant (Tanda, 2017). Because this study was  based  on literature  
 available  at the time,  hydrogen  peroxide  was selected  as an 
 230 
-
 FeCl3 /HCl  Fe2(SO4)3/H2SO4  CuCl2/HCl  Appendix A  
  
  
@@ -10105,8 +9854,7 @@ H2O2 /Glycine
 1.9 
  
  
-13.6  Cu dissolution (%)  
-Appendix A  
+13.6  Cu dissolution (%)  Appendix A  
  
  
 mineral phases were found. Pieces of chalcopyrite remained prior to the sulfur layer 
@@ -10132,7 +9880,6 @@ between the systems was the thickness of the intermed iate products and the spee
 the reaction.  Both  reactions  provided  insight  into copper  enrichment  in secondary  
  
 232 
-
 Appendix A  
  
  
@@ -10163,7 +9910,6 @@ a product in this system. The inner layer was enriched in copper and an iron -de
 layer  with an average  composition  of 24.3%  S, 1.7%  Fe and 74% Cu was present  in 
  
 233 
-
 Appendix A  
  
  
@@ -10202,8 +9948,7 @@ surrounded by a copper -enriched reaction halo even if they were not connected t
 outside perimeter. These fractures may not be connected in the two -dimensional  SEM 
 images but may be connected in the third dimension (Fig.  A-5). 
  
-234 
-Appendix A  
+234 Appendix A  
  
  
  
@@ -10232,7 +9977,6 @@ copper leaching between sulfate and chloride media and the product textures with
 copper and iron addi tions support the statement on changes in the product -layer 
 morphology,  where  sulfur  in the sulfate  system  was found  to be more  compact  and 
 235 
-
 Appendix A  
  
  
@@ -10269,8 +10013,7 @@ test work  and the oxidant  type were  sub-optimal  and the copper  recovery  wa
 Hydrogen peroxide is not believed to be the most effective oxidant for glycine, 
 howeve r, alkaline  systems  are a good  alternative  to acid systems  to avoid  gangue  
  
-236 
-Appendix A  
+236 Appendix A  
  
  
 reactions (glycine did not react with pyrite in the sample). A different oxidant in the 
@@ -10307,8 +10050,7 @@ copper -chloride  solutions.
  
  
  
-237 
-Appendix A  
+237 Appendix A  
  
  
 A possible  application  of copper  as an oxidant  may include  its combination  with other 
@@ -10345,8 +10087,7 @@ as was evident for the cupric - and ferric -chloride  oxidants.
  
 Each system has a window of optimal operating parameters for optimal recovery, and 
 the same  conditions  do not affect  all systems  equally.  The selection  of a suitable  
-238 
-Appendix A  
+238 Appendix A  
  
  
 leaching system must be based on the specific characteristics of each deposit (depth, 
@@ -10389,8 +10130,7 @@ Minerals 8. pp. 3 –14.
  
  
  
-239 
-Appendix A  
+239 Appendix A  
  
  
 Córdoba, E.M., Muñoz, J.A., Blázquez, M.L., González, F. and Ballester, A., 2008. 
@@ -10429,8 +10169,7 @@ acid ferric sulfate leaching of chalcopyrite. Metallurgical Transactions B,
  
  
  
-240 
-Appendix A  
+240 Appendix A  
  
  
 Nicol,  M.J.,  2018.  A comparative  assessment  of the application  of ammonium  chloride 
@@ -10469,8 +10208,7 @@ Hydrometallurgy, 140: 163 –180.
  
  
  
-241 
-Appendix A  
+241 Appendix A  
  
  
 Watling, H.R., 2014. Chalcopyrite hydrometallurgy at atmospheric pressure: 2.  
@@ -10527,8 +10265,7 @@ or incorrectly acknowledged.
  
  
  
-242 
-Appendix B  
+242 Appendix B  
  
  
 Appendix B. Staged leaching of bornite with acidic solutions at 
@@ -10563,8 +10300,7 @@ This paper presents results on the chemical composition of the solutions after e
 stage,  and a cross -sectional  analysis  of the samples  post-leaching,  as determined  by X- 
 ray diffraction, scanning e lectron microscopy and quantitative evaluation of materials 
 by  scanning  electron  microscopy  (QEMSCAN).  Information  is  provided  on  the 
-243 
-Appendix B  
+243 Appendix B  
  
  
 dissolution efficiency, product identification and an analysis of final textures. This 
@@ -10602,8 +10338,7 @@ methanesulfonic acid has attracted attention as a viable lixiviant for hydrometa
 processing because of its high solubility of heavy metals and less corrosive character 
 compared with other strong acids (Feng et al., 2015a; Feng et  al., 
  
-244 
-Appendix B  
+244 Appendix B  
  
  
 2015b; Gernon et al., 1999; Hidalgo et al., 2018; Wu et al., 2014a; Wu et al., 2014b). 
@@ -10643,8 +10378,7 @@ overall bornite dissolution (Zhao et al., 2015).
  
  
  
-245 
-Appendix B  
+245 Appendix B  
  
  
 Pre-treatment  is a technique  that has been  used to optimize  the recovery  of metals  from 
@@ -10684,8 +10418,7 @@ concentrations were determined by ICP –OES analysis.
  
  
  
-246 
-Appendix B  
+246 Appendix B  
  
  
 Leaching tests  
@@ -10721,8 +10454,7 @@ treatment.  The samples  were  placed  into a 300-mL titanium  Parr reactor,  co
 system at 0.2 MPa pressure to facilitate fluid sampling. The temperature was set to 
 110°C to represent potential ISR conditions for deep ore bodies and to accelerate the 
 reaction.  The reactor  contents  were  stirred  at 100–150 rpm. Final  pH and Eh values  
-247 
-Appendix B  
+247 Appendix B  
  
  
 were measured after each experiment. Samples (2 –4 mL) were taken at intervals until 
@@ -10753,7 +10485,6 @@ surface  texture  without  major  cracks  or layers  that coat the sample,  b. e
  
  
 248 
-
 Appendix B  
  
  
@@ -10800,8 +10531,7 @@ concentrations below  5%.
  
  
  
-249 
-Appendix B  
+249 Appendix B  
  
  
  
@@ -10824,7 +10554,6 @@ covellite replacement, yellow zone copper -deficient bornite and blue zones sulf
  
  
 250 
-
 Appendix B  
  
  
@@ -10863,8 +10592,7 @@ resulted for the untreated sample and pre -treated samples although the ferric
 consumption  by the untreated  sample  was double  that of the pre-treated  sample  during 
 the initial 6 h of leaching. The final ferric consumption was between 8.7% and 11.5% 
 for all samples after 48  h. 
-251 
-Appendix B  
+251 Appendix B  
  
  
  
@@ -10882,7 +10610,6 @@ samples, as observed by SEM and before cross -sectioning.
  
  
 252 
-
 Appendix B  
  
  
@@ -10929,8 +10656,7 @@ sample than in the untreated sample (Fig. B -5).
  
  
  
-253 
-Appendix B  
+253 Appendix B  
  
  
  
@@ -10957,7 +10683,6 @@ concentr ations of 48.9% S, 12.8% Fe and  38.2%Cu).
  
  
 254 
-
 Appendix B  
  
  
@@ -10987,7 +10712,6 @@ rock interactions was undertaken, as this has not previously been considered in 
 Our study used chloride addition via hydrochloric acid without oxygen addition in  the 
  
 255 
-
 Appendix B  
  
  
@@ -11018,7 +10742,6 @@ ferric  sulfate  leaching  of bornite  (Dutrizac  et al., 1985;  Dutrizac  et al
  
  
 256 
-
 Appendix B  
  
  
@@ -11056,8 +10779,7 @@ samples. Pre -treated samples showed a noticeably higher dissolution during the 
 five hours of leaching. Five hours may be the time required to dissolve the covellite 
 rim that formed  and start the reaction  with the internal  bornite.  Covellite  dissolution  is 
  
-257 
-Appendix B  
+257 Appendix B  
  
  
 faster  and was found  to leach  preferentially  in the presence  of primary  sulfides  (Peters 
@@ -11096,8 +10818,7 @@ environmentally and, more so, as a potential hazard to living organisms (i.e., l
 Based  on the results,  the pre-treatment  acceleration  of leaching  to enhance  dissolution 
 was used to transform  the original  sample  to a more  leachable  form,  which  may also 
  
-258 
-Appendix B  
+258 Appendix B  
  
  
 induce  fractures  and increase  the accessibility  of the fluid  (which  is a major  advantage 
@@ -11136,8 +10857,7 @@ Cu2+ as a replacement  for oxygen  may enhance  the transformation  into a coppe
 enrichment phase and avoid hydrogen sulfide  formation.  
  
  
-259 
-Appendix B  
+259 Appendix B  
  
  
 Acknowledgments  
@@ -11176,8 +10896,7 @@ Malachite with Methane -sulfonic Acid. Solvent Extraction Research and
 Development, Japan 22(2): 159–168. 
  
  
-260 
-Appendix B  
+260 Appendix B  
  
  
 Feng, Q., Wen, S., Wang, Y., Cao, Q., Zhao, W., 2015. Dissolution kinetics of 
@@ -11216,8 +10935,7 @@ leaching. Hydrometallurgy. 167:30 –5.
  
  
  
-261 
-Appendix  B 
+261 Appendix  B 
  
  
 Lundström, M., Liipo, J., Taskinen, P., Aromaa, J., 2016. Copper precipitation  during 
@@ -11259,8 +10977,7 @@ Hydrometallurgy.5(4):381 –94.
  
  
  
-262 
-Appendix B  
+262 Appendix B  
  
  
 Seredkin, M., Zabolotsky, A., Jeffress, G., 2016. In situ recovery, an alternative to 
@@ -11299,8 +11016,7 @@ concentrates with ferric methanesulfonate solution. Hydrometallurgy.
  
  
  
-263 
-Appendix B  
+263 Appendix B  
  
  
 Zhao, H., Hu, M., Li, Y., Zhu, S., Qin, W., Qiu, G., 2015. Comparison of 
@@ -11356,8 +11072,7 @@ or incorrectly acknowledged.
  
  
  
-264 
-Appendix C  
+264 Appendix C  
  
  
 Appendix C. Complementary data chapter 2  
@@ -11385,7 +11100,6 @@ in (NH 4)2SO 4 + NH 4OH +  Na2S2O8.
  
  
 265 
-
 Appendix C  
  
  
@@ -11402,7 +11116,6 @@ and fracture  zones.
  
  
 266 
-
 Appendix C  
  
  
@@ -11458,8 +11171,7 @@ NaNO 3 H272  H302, H319
 H2O2 H271  H302, H314, H332   
 (NH 4)2SO 4  H320, H315, H319, H335   
  
-267 
- Appendix C   
+267  Appendix C   
     
 O2    
 HCl H314, H331    
@@ -11522,8 +11234,7 @@ O2 0 Glycine  453.5  453.5
  
  
  
-268 
-Appendix C  
+268 Appendix C  
  
  
 Table C -4. Summary of comparative of changes in fracture -porosity areas calculated by 
@@ -11576,8 +11287,7 @@ H2O2+ H 2SO 4 139917  3% 1310  1068
  
  
  
-269 
-Appendix D  
+269 Appendix D  
  
  
 Appendix D. Complementary data chapter 5  
@@ -11589,7 +11299,6 @@ solutions for one month at 90°C, the major phase found was covellite with minor
 magnetite, tennantite and bornite.  
  
 270 
-
 Appendix D  
  
  
@@ -11621,7 +11330,6 @@ image).
  
  
 271 
-
 Statement of Authorship  
  
  
@@ -11653,7 +11361,6 @@ public ation to be included in the candidate’s thesis.
  
  
 272 
-
 Statement of Authorship  
  
  
@@ -11692,7 +11399,6 @@ publication to be included in the candidate’s thesis.
  
  
 273 
-
 Statement of Authorship  
  
  
@@ -11720,7 +11426,6 @@ Authors contributions
 To whom it may concern,  
  
 274 
-
 Statement of Authorship  
  
  
@@ -11750,7 +11455,6 @@ To whom it may concern,
  
  
 275 
-
 Statement of Authorship  
  
  
@@ -11774,7 +11478,6 @@ Publication details: Under review at Minerals engineering
 Authors contributions  
  
 276 
-
 Statement of Authorship  
  
  
@@ -11802,7 +11505,6 @@ symposium,  Perth,  Western  Australia.  https://www.altamet.com.au/product/curt
  
  
 277 
-
 Statement of Authorship  
  
  
@@ -11831,7 +11533,6 @@ Publication title:  Staged leaching of bornite with acidic solutions at moderate
 temperature in an in -situ recovery environment.  
  
 278 
-
 Statement of Authorship  
  
  
@@ -11865,7 +11566,6 @@ publication to be included in the candidate’s thesis.
  
  
 279 
-
 Statement of Authorship  
  
  
@@ -11915,7 +11615,6 @@ Statement of Authorship
  
  
 280 
-
 Statement of Authorship  
  
  

@@ -1,0 +1,2299 @@
+ 
+ 
+ 
+REPORT NO. 479 
+ 
+Solution purification and valuable by -products formation during 
+the production of battery -grade lithium from micas  
+ 
+Results of research carried out as MRIWA Project M479 
+ 
+at Murdoch University 
+ 
+by 
+ 
+ 
+A/Prof Aleks Nikoloski, Prof James H Kyle, Dr Glen O’Malley,  
+Dr Rorie Gilligan, Dr Onias Sitando, Mr Allan Ang  
+  
+May 2019 
+ 
+Distributed by:  MRIWA  
+Mineral House 
+100 Plain Street 
+Perth WA 6000 
+to which all enquiries should be addressed 
+ 
+ 
+© Crown Copyright reserved 
+ISBN  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page i 
+ 
+School of Engineering and Information Technology   
+Extractive Metallurgy and Mineral Science  
+ 
+Experimental Findings  in Phases 1  & 2 
+(MRIWA Project M479 – Final  Report ) 
+ 
+  
+Solution Purification and Valuable By -Product 
+Formation 
+ 
+26th May 2019 
+ 
+A/Prof  Aleks Nikoloski  
+Prof  James Kyle  
+Dr Glen O’Malley  
+Dr Rorie Gilligan 
+Dr Onias Sitando  
+Mr Allan Ang  
+ 
+ 
+Metallurgical Process – Research, Development and Innovation Group  
+Murdoch University  
+ 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page ii 
+  
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page iii 
+ Executive Summary 
+Scope  
+In 2017, Murdoch University started a research project funded by the Minerals Research Institute of Western 
+Australia (MRIWA) and the industry partner s Lithium Australia NL and Venus Metals Ltd.  The project was aimed 
+at determining the effect of process parameters on the  separation of impurities from acidic leach liquor  from the 
+SiLeachTM process , and production of  a purified lithium solution .  The project  also investigate d opportunities for 
+the recovery of lithium as lithium hydroxide and production of potential valuable by-products.  As part of the 
+planned work, at the start of the project a literature review was undertaken to gather information available on 
+current processing options  for lithium from different sources  and other relevant data.  The experimental program 
+of the study was  divided into two phases.  Phase 1 focused on the development of an impurity separation process 
+and establish ed the effect of key process parameters (type of acid neutralisation reagent , pH, seeding, and redox 
+potential ) on the precipitation of the impurit ies and their in fluence on lithium deportment. This phase also 
+included a detailed characterisation of the solid compounds formed in the precipitation and an evaluation of the 
+relative adsorption o f lithium on to the identified compounds in order to determine to what extent each  may be 
+contributing to loss  of lithium during the purification process .  Phase 2 focused  on the production of potentially 
+valuable by-products and lithium production as lithium hydroxide  from the  purified  leach liquor,  along with 
+investigating the potential options for recovery of important  reagents  for recycle , such as fluoride and acid. The 
+residue from each impurity separation stage was also examined to determine if it could be produced as, o r 
+converted into, a marketable by -product.  
+The Phase 1 work was extended to include assessment of the effect of temperature on the deportment of all 
+elements , as it was identified using thermo chemical modelling that temperature has a significant effect on lithium 
+losses from solution .  Likewi se, in Phase 2 , a few potentially important by -products that could be produced  were 
+identified  that warrant ed greater attention than some of the scheduled work in Phase 2.  Therefore, sighter 
+testwork on solvent extraction options that was originally prop osed for Phase 2 was replaced with additional work 
+on the recovery of by-products .   
+The testwork results have shown that major impurit y elements  present in the leach solution were aluminium, 
+potassium , sodium, fluoride, manganese, magnesium, calcium and iron , and a 3 -stage impurity separation process 
+was used to remove these impurities .  Calcite (CaCO 3) was found to be effective  in neutralis ing the acidic leach 
+liquor to pH 1 -1.5 (Stage 1) , with  hydrated lime (Ca(OH) 2) used to sequentially increase the pH to 4-6 (Stage 2)  and 
+to 11-12 (Stage 3) . The invest igation comprised both experimental and computer modelling work using bench 
+scale tests and desktop evaluation using a thermochemical software (HSC Chemistry) to understand the process chemistry and deter mine the effects of the studied  process parameters.   Analytical techniques used were  XRD, 
+SEM , and EDX  for solid samples and solution samples  were analysed using ICP -MS. 
+Main Findings  
+Phase 1 
+Stage 1 neutralisation  
+• A calcite dosage of 243 kg/m3 was need ed to raise pH to 1 in 4 hours at  any temperature  in the range 
+25-80 °C, with or without seed ing; 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page iv 
+ • The kinetic precipitation tests showed that a temperature > 50 °C was needed to minimise lithium and 
+rubidium ( ~ 5%) losses with calcite ; 
+• Silica and magnesium precipitation  were greater at temperature s < 50 °C while iron precipitation was  
+greater at 80 °C; 
+• Seeding promoted the precipitation of all species  at all temperatures ; and  
+• Gypsum was the major and only crystalline phase identified in the precipitate.  
+Stage 2 neutralisation  
+• A hydrated lime dosage of 80 kg/m3 was need ed to raise  the pH to 5-6 in 6 hours at any temperature in 
+the range 25 -80 °C, with or without seeding; 
+• This stage showed the greatest losses of lithium (15 -23%), rubidium (9 -67%) and caesium (56 -94%) to 
+the precipitate ; 
+• Seeding showed little effect at 8 0 °C but did promote precipitation at 25  °C; 
+• Lowering the temperature reduce d the rubidium, caesium and fluoride precipitation; and 
+• Gypsum was aga in the main crystalline phase identified in the precipitate  but third  stage is where most 
+of the aluminium, fluoride and silica were  also precipitated .  A new  fluoride species ( not predicted by 
+HSC software) was identified, which was associated with the hydrated aluminium  (AlF 3-x(OH) x∙nH 2O). 
+Stage 3 neutralisation  
+• A hydrated lime dosage of 26 kg/m3 was needed to raise pH to 13 in 6 hours regardless of the  
+temperature or if seeded or not ; 
+• Minimal lithium (1 -10%), rubidium (1 -6%) or caesium (0.1 -0.3%) was lost to the precipitate at 80 °C but 
+the loss increased at  25 °C; 
+• Seeding had no significant effect ; and 
+• Manganese hydroxide was identified in the precipitate, along with c alcium hydroxide which indicate d 
+that not all the added Ca(OH) 2 reacted.  
+Oxidation or r eduction  
+• Addition of peroxide (H 2O2) or sulphite (SO 32-) show ed a very little effect . There was a  slightly higher 
+lithium loss  but neither will assist in the neutralisation stage.  
+Filtration  
+• The higher the temperature the faster the filtration rate;  
+• There was no comparable difference between the seeded and unseeded tests; and  
+• The filtration rate for stage 1 with CaCO 3 was the fastest followed by stage 2 with Ca(OH) 2 then stage 3 
+with Ca(OH) 2. 
+Li absorption  
+• Apart from gypsum, t he two main precipitates  in Stage 2, gibbsite (Al(OH) 3) and alunite ( KAl 3(SO 4)2(OH) 6) 
+absorbed  ~ 50% of the lithium from a synthetic solution ; 
+• The other prec ipitates absorbed < 2 0% lithium ; and 
+• Testing on  real solutions confirmed that in stage 2 filtrate (pH  ~ 5), gibbsite and alunite are the main 
+absorbers of lithium from solution. 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page v 
+  
+Phase 2 
+IX adsorption  
+• The strong anion exchange resin (Ambersep 920U) was  used to recover the metal ions while a weak 
+cationic exchange resin (Lewatit CNP80)  was used to recover the potassium and sodium ; 
+• Testing confirmed that metal ions can  be recovered  from solution, but the extent of adsorption was 
+limited as they  form ed both  anionic and cationic complexes in solution ; 
+• The bonding was weak and the adsorbed ions were easily displaced with a water wash ; and 
+• The results of the weak cationic exchange resin (Lewatit CNP80)  confirm ed the resin will load K, Rb, Cs , 
+and Na over  lithium . 
+Electrodialysis 
+• Preliminary tests have confirmed that acid is generated in the anode compartment,  and lithium 
+hydroxide  is generated  in the cathode  compartment ;  
+• Sulfuric acid produced can be potentially recycled back into the process flowsheet; and   
+• The h igh resistance of the solution tested resulted in the solution heating up.  
+By-product p roduction  
+Sodium silicate by -product from leach residue  
+• The production of sodium silicate from the SiLeachTM residue s was possible at the less aggressive 
+atmospheric conditions (100  °C).  However, the conv ersion and extraction was low ( ~ 50 %); 
+• It was also determined that  dr ied residue  was more reactive than the wet residue,  and also dissolved 
+fewer impurities ; and 
+• At Na:Si mol ratio s of less than 0.4 for the dry residue and less than 0.8 for the wet residue,  very little 
+silicon dissolved (<  1%).  
+Size analysis of  leach residue  
+• In the coarsest fraction (+46.8 μm)  mainly gypsum and fluorite was identified by XRD while the finer 
+fractions indicated unreacted phyllosilicates;  
+• SEM confirmed the results showing platy mica in the finer size fractions while gypsum and fluorite were 
+identified in the coarsest fraction;  
+• This suggests the residual fluorite could be recovered by a size -based separation ; and 
+• Size by size assay confirm ed the concentration of fluorite in this fraction but  this fraction only contained 
+10% of the total fluoride in the sample . 
+By-p roducts from precipitates  
+• Sizing showed stage 1 and 2 precipitates were very fine;  
+• Size by assaying showed the elements were evenly distributed throughout the size fractions so sizing could not be  used to separate a particular precipitate from the bulk precipitate s; and 
+• Magnetic separation and flotation c ould not be used to separate a particular precipitate from the bulk 
+precipitates . 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page vi 
+  
+Alunite  Process  
+• The production of alunite from the lepidolite leach liquor w as  investigated where varying stoichiometric 
+amounts of potassium sulphate w ere added to the solution;  
+• A precipitate was observed at  80% and 100% stoichiometry but when washed with water the prec ipitate 
+dissolved;  
+• The predicted residue composition from wash solution shows that the  alunite will absorb fluoride, 
+calcium and caesium;  
+• Further testing showed ~30% of the fluoride will be recovered in the alunite precipitate along with 
+caesium;  
+• This method reduced the lithium and rubidium loss by 50% over the traditional three stages of 
+neutralisation. 
+ 
+Recommendations 
+Effect on neutralisation  chemical  
+• Calcite should  be used to neutralise the liquor to pH 1 - 1.5 followed by solid/liquid separation to  
+remove most of the gypsum as  clean by -product;  
+• A temperature of 80 °C is recommended for stage 1 but a lower temperature of 50 °C should be 
+considered for stages 2 and 3;  
+• Addition of peroxide or sulphite is not recommended; and  
+• Seeding is only recommended  for stage 1 . 
+Absorption  
+• Gibbsite and alunite are  the main precipitate s that contribute  to the lithium loss  from solution , where 
+alunite would also absorb all the other key elements from solutions ;  
+• Further work  to minimise alunite forming should be investigated through the use of ion exchange resins 
+to remove potassium from solution . 
+Sodium silicate production  
+• Further understanding of what form of silica is being dissolved (amorphous or crystalline) to explain t he 
+poor dissolution;  
+• Further work at different temperatures and feed variability is required to assess the effects of these 
+process parameters on the cost and utility of the process; and 
+• Other uses for the amorphous silica in the final residue , such as in silica fertilisers,  should be 
+investigated . 
+Ion exchange purification  
+• Further elution testing needs to be investigated to determine if selective elution can be achieved ; and  
+• Further equilibrium loadings on synthetic solutions should provide the maximum loading of each 
+element achievable with that resin . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page vii 
+  
+Alunite production  
+• Further tests are needed to confirm if an alunite/fluoride precipitate will produce a residue suitable  for 
+recycling back to leaching; and  
+• Further tests are needed to confirm if lower lithium losses are observed by using this process.  
+Electro -dialysis  
+• Further tests are  needed to test different membranes;  
+• Method s for reducing the solution resistance  need further investigation ; and  
+• Testing on real solutions is needed.  
+ 
+    
+Associate Professor  Aleks Nikoloski  
+Academic Chair of Extractive Metallurgy  
+ 
+ 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page viii 
+   
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page ix 
+ Contents  
+Executive Summary  ................................................................................................................................ iii 
+List of Figures  .................................................................................................................................... xiii 
+List of Tables  .................................................................................................................................... xvii 
+1 Background  ..................................................................................................................................... 1  
+2 Aims and Objectives  ....................................................................................................................... 1  
+3 Materials and Methods  .................................................................................................................. 2  
+3.1 Materials used in the project .................................................................................................. 2  
+3.1.1  Feed samples received  ................................................................................................... 2  
+3.1.2  Characterisation of the feed precipitate  ........................................................................ 3  
+3.1.3  Preparation of samples used in the testwork  ................................................................. 4  
+3.1.4  Neutralisation reagents  .................................................................................................. 4  
+3.2 Testwork methods  .................................................................................................................. 5  
+3.2.1  Batch neutralisation ........................................................................................................ 5  
+3.2.2  Bulk neutralisation  .......................................................................................................... 6  
+3.2.3  Batch kinetic neutralisation  ............................................................................................ 6  
+3.2.4  Adsorption study  ............................................................................................................ 7  
+3.2.5  Sodium silicate production  ............................................................................................. 7  
+3.2.6  IX resin purification study  ............................................................................................... 8  
+3.2.7  Final precipitate recovery  ............................................................................................... 9  
+3.2.8  Electro -dialysis  ................................................................................................................ 9  
+3.2.9  Solutions  ....................................................................................................................... 10 
+3.2.10  Solids  ............................................................................................................................. 10 
+3.2.11  Mineralogical analyses .................................................................................................. 10 
+3.2.12  Scanning electron microscopy, energy dispersive X -ray spectroscopy  ........................ 10 
+4 Results and Discussion  .................................................................................................................. 11 
+4.1 Thermodynamic modelling  ................................................................................................... 11 
+4.1.1  Reagent dosage vs. deportment of key elements  ........................................................ 11 
+4.2 Batch neutralisation  ............................................................................................................. 13 
+4
+.3 Bulk neutralisation  ................................................................................................................ 14 
+4.4 Final precipitation  ................................................................................................................. 15 
+4.4.1  Stage 1 (Neutralisation with calcite) ............................................................................. 15 
+4.4.2  Stage 2 (Neutralisation using hydrated lime)  ............................................................... 16 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page x 
+ 4.4.3  Stage 3 (Neutralisation using hydrated lime)  ............................................................... 16 
+4.5 Batch kinetic neutralisation  .................................................................................................. 17 
+4.5.1  Stage 1 (Neutralisation with calcite) ............................................................................. 17 
+4.5.2  Stage 2 (Neutralisation using hydrated lime)  ............................................................... 19 
+4.5.3  Stage 3 (Neutralisation using hydrated lime)  ............................................................... 22 
+4.6 Effect of oxidation  ................................................................................................................ 24 
+4.7 Precipitate characterisation  ................................................................................................. 25 
+4.7.1  Stage 1 precipitates formed on neutralisation with calcite  ......................................... 25 
+4.7.2  Stage 2 & 3 precipitates formed with hydrated lime neutralisation  ............................ 27 
+4.8 Calculation of crystal size  ..................................................................................................... 29 
+4.9 Accountability  ....................................................................................................................... 31 
+4.10  Effec t on Filtration  ................................................................................................................ 32 
+4.11  Adsorption investigation  ...................................................................................................... 34 
+4.12  IX Investigation  ..................................................................................................................... 35 
+4.12.1  Preliminary column loading and elution  ...................................................................... 36 
+4.12.2  Two stage solution purification  .................................................................................... 38 
+4.12.3  Equilibrium loadings  ..................................................................................................... 42 
+4.13  Electro dialysis  ....................................................................................................................... 43 
+4.14  By- product evaluation  .......................................................................................................... 44 
+4.14.1  Precipitates  ................................................................................................................... 44 
+4.14.2  Leach residue  ................................................................................................................ 46 
+4.14.3  Sodium silicate production  ........................................................................................... 55 
+4.15  Alunite Production Process  .................................................................................................. 61 
+4.16  Final Products  ....................................................................................................................... 63 
+5 Conclusions and Recommendations  ............................................................................................. 65 
+6 References  .................................................................................................................................... 68 
+7 Appendices  ................................................................................................................................... 69 
+7.1 Detailed tes twork procedures  .............................................................................................. 69 
+7
+.2 XRD results  ............................................................................................................................ 74 
+7.2.1  Stage 1  .......................................................................................................................... 74 
+7.2.2  Stage 2  .......................................................................................................................... 78 
+7.3 Neutralisation testwork data  ................................................................................................ 81 
+7.3.1  Batch precipitation  ....................................................................................................... 81 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page xi 
+ 7.3.2  Bulk precipitation .......................................................................................................... 84 
+7.3.3  Batch kinetic precipitation  ............................................................................................ 90 
+7.3.4  Sodium silicate production  ......................................................................................... 111 
+7.3.5  Precipitate Sizing  ........................................................................................................ 116 
+7.3.6  Magnetic and flotation separation  ............................................................................. 117 
+7.3.7  Ion Exchange  ............................................................................................................... 118 
+7.3.8  Alunite Process  ........................................................................................................... 119 
+7.3.9  Final Products  ............................................................................................................. 124 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page xii 
+   
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page xiii 
+ List of Figures  
+Figure 1.  ANSTO Samples – Pilot leach liquor and residue.  ....................................................................................... 2  
+Figure 2.  Nagrom Samples – Bulk leach liquor and residue.  ..................................................................................... 3  
+Figure 3.  XRD pattern for the insoluble material in the leach liquor along with reference data for rostite, 
+AlSO 4(OH).5H 2O from an online mineral spectrum da tabase. ................................................................................... 3  
+Figure 4.  Laser sizing determination for calcite and hydrated lime respectively.  ..................................................... 5  
+Figure 5.  Thermostatically controlled water bath used in the batch and batch kinetic neutralisation tests.  .......... 6  
+Figure 6.  Stirred reactors used in the bulk neutralisation tests.  ............................................................................... 6  
+Figure 7.  Samples supplied for sodium silicate testing.  ............................................................................................. 7  
+Figure 8.  Ion exchange column setup.  ....................................................................................................................... 9  
+Figure 9.  Schematic of electro -dialysis setup.  ........................................................................................................... 9  
+Figure 10.  Electro -dialysis setup. ............................................................................................................................. 10 
+Figure 11.  Predicted extent of precipitation vs. hydrated lime addition at 80 °C (right) and 25 °C (left).  .............. 11 
+Figure 12.  Calculated extent of precipitation and pH with increasing hydrated lime dosage. Note: Stoichiometrically, 0.74 g of Ca(OH)
+2 will neutralise the same amount of acid as 1.00 g of CaCO 3. ....................... 11 
+Figure 13. Predicted extent of precipitation vs. pH at 80 °C (solid lines) and 25 °C (dashed lines).  ........................ 12 
+Figure 14. Logarithmic solubility product constant (log Ksp) for rubidium, potassium and caesium alum over a range of temperatures.  ............................................................................................................................................ 12 
+Figure 15.  Extent of batch precipitation with calcite as a function of reagent dosage (left) and filtrate pH (right) for the pilot leach solution at 80 °C.  ......................................................................................................................... 14 
+Figure 16.  Extent of batch precipitation with hydrated addition as a function of reagent dosage (left) and filtrate pH (right) for the pilot leach solution at 80 °C.  ........................................................................................................ 14 
+Figure 17.  Extent of batch kinetic precipitation with calcite addition (Stage 1) without seeding as a  function of 
+time and temperature (80, 50 & 25 °C).  ................................................................................................................... 17 
+Figure 18. Extent of batch kinetic precipitation with calcite (stage 1) wi th seeding as a function of time and 
+temperature (80, 50 &                25 °C). ..................................................................................................................... 18 
+Figure 19. Extent of batch kinetic precipita tion with calcite (stage 1) with seeding as a function of time at 80 °C 
+with 25 g/L (left) and 50 g/L of seed (right).  ............................................................................................................. 19 
+Figure 2 0.  Extent of batch kinetic precipitation with hydrated lime addition (Stage 2) without seeding as a function 
+of time and temperature (80, 50 & 25 °C).  ............................................................................................................... 20 
+Figure 21.  Extent of batch kinetic precipitation with hydrated lime addition (Stage 2) with seeding as a function of time and temperature (80, 50 & 25 °C).  ................................................................................................................... 21 
+Figure 22.  Extent of batch kinetic precipitation with hydrated lime addition (stage 3) without seeding as a function of time and temperature (80, 50 & 25 °C).  ............................................................................................................... 22 
+Figure 23.  Extent of batch kinetic precipitation with hydrated lime (stage 3) with seeding as a function of time and temperature (80, 50 & 25 °C)  ................................................................................................................................... 23 
+Figure 24.  Extent of batch kinetic precipitation at 80 °C with hydrated lime (A) and with hydrated lime + hydrogen peroxide ( B). ............................................................................................................................................................. 24 
+Figure 25.  XRD results for precipitates formed in stage 1, with relevant reference data.  ...................................... 26 
+Figure 26.  A precipitate produced by neutralising to pH 1 with calcite at 25 °C. .................................................... 26 
+Figure 27.  XRD results for precipitates produced by neutralising to pH 5 with calcium hydroxide at 50 °C.  ......... 27 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page xiv 
+ Figure 28.  Backscattered electron SEM image (left) and false -colour element map (right) of a precipitate produced 
+by neutralising to pH 5 with calcium hydroxide at 50 °C. ......................................................................................... 28 
+Figure 29.  EDX spectra of spots analysed in Figure 28.  ........................................................................................... 28 
+Figure 30.  Backscattered electron SEM image of a precipitate produced by neutralising to pH 10 with calcium 
+hydroxide at 50 °C.  ................................................................................................................................................... 29 
+Figure 31.  EDX spectra of spots analysed in Figure 30.  ........................................................................................... 29 
+Figure 32. Gypsum crystallite size as a function of time. Error bars indicate the range of values.  ......................... 30 
+Figure 33. Alunite crystallite size as a function of time. Error bars indicate the range of values.  ........................... 30 
+Figure 34.  Changes in  filtration rate in each stage seeded vs  unseeded as a function of temperature.  ................ 33 
+Figure 35.  Changes in solids density in each stage seeded vs unseeded as a function of temperature.  ................ 33 
+Figure 36.  Absorption of lithium by various known precipitates at vario us pH.  ..................................................... 34 
+Figure 37.  Absorption of key elements from stage 2 filtrate onto the four solids studied.  .................................... 35 
+Figure 38.  IX resin absorption of key elements from Stage 3 filtrate.  ..................................................................... 35 
+Figure 39.  IX resin absorption of other elements of interest from stage 3 filtrate.  ................................................ 36 
+Figure 40.  Major species from strong anionic resin (Ambersep 920U).  .................................................................. 37 
+Figure 41.  Minor species from strong anionic resin (Ambersep 920U).  .................................................................. 37 
+Figure 42.  Major species from strong cationic resins (Purolite D5412H).  ............................................................... 38 
+Figure 43.  Minor Species from strong cationic resins (Purolite D5412H).  .............................................................. 38 
+Figure 44.  Major Species from strong anionic resin (Ambersep 920U) (Run 1).  ..................................................... 39 
+Figure  45.  Minor Species from strong anionic resin (Ambersep 920U) (Run 1).  ..................................................... 39 
+Figure 46.  Major Species from weak cationic resins (Lewatit CNP80) (Run 1). ....................................................... 39 
+Figure 47.  Minor Species from weak cationic resins (Lewatit CNP80) (Run 1).  ....................................................... 40 
+Figure 48.  Major Species from strong anionic resin (Ambersep 920U) (Run 2).  ..................................................... 41 
+Figure 49.  Minor Species from strong anionic resin (Ambersep 920U) (Run 2).  ..................................................... 41 
+Figure 50.  Major Species from weak cationic resins (Lewatit CNP80) (Run 2).  ....................................................... 41 
+Figure 51.  Minor Species from weak cationic resin s (Lewatit CNP80) (Run 2).  ....................................................... 42 
+Figure 52.  Equilibrium loading of the various major species onto weak cationic resins (Lewatit CNP80).  ............. 42 
+Figure 53.  Variation of Li concentration in salt and base chambers over time.  ...................................................... 43 
+Figure 54.  Variation of H+ concentration in acid chamber over time.  ..................................................................... 43 
+Figure 55.  Variation of electrolysis voltage over time.  ............................................................................................ 44 
+Figure 56.  Elemental distribution to the magnetic fraction.  ................................................................................... 46 
+Figure 57.  XRD pattern of lepidolite leach residue reporting to cone 1 of the cyclosizer.  ...................................... 47 
+Figure 58.  XRD pattern of lepidolite leach residue reporting to cones 2 -5 of the cyclosizer. Note: trilithionite is 
+lepidolite.  .................................................................................................................................................................. 48 
+Figure 59.  Secondary electron SEM image of lepidolite leach residue reporting to cone 1 of the cyclosizer.  ....... 49 
+Figure 60.  Secondary electron SEM image of lepidolite leach residue reporting to cone 3 of the cyclosizer.  ....... 49 
+Figure 61.  Secondary electron SEM image of lepidolite leach residue reporting to cone 5 of the cyclosizer.  ....... 50 
+F
+igure 62.  SEM image of the coarsest fraction of the lepidolite leach residue reporting to cone 1 of the cyclosizer, 
+with the locations of EDX analyses marked.  ............................................................................................................. 50 
+Figure 63.  EDX spectra of spots analysed in Figure 62.  ........................................................................................... 51 
+Figure 64.  SEM image and false colour element map of a large particle from the coarsest fraction of the lepidolite 
+leach residue reporting to cone 1 of the cyclosizer. Locations of EDX analyses marked.  ........................................ 51 
+Figure 65.  EDX spectra of spots analysed in Figure 64.  ........................................................................................... 52 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page xv 
+ Figure 66.  SEM image of lepidolite leach residue reporting to cone 3 of the cyclosizer, with the locations of EDX 
+analyses marked.  ...................................................................................................................................................... 52 
+Figure 67.  EDX spectra of points analysed in Figure 66.  .......................................................................................... 53 
+Figure 68.  SEM image of lepidolite le ach residue reporting to cone 4 of the cyclosizer, with the locations of EDX 
+analyses marked.  ...................................................................................................................................................... 53 
+Figure 69.  EDX spectra of points analysed in Figure 68.  .......................................................................................... 54 
+Figure 70. Simplified flowsheet for the recycling of fluorite from the leached residue.  ......................................... 54 
+Figure 71.  Mass of feed dissolved as a function of NaOH dosage.  .......................................................................... 55 
+Figure 72.  Dissolution of silicon from the dry and wet feed (i.e. leach residue) with NaOH dosage.  ..................... 55 
+Figure 73.  Dissolution of other elements from the dry feed.  .................................................................................. 56 
+Figure 74.  Dissolution of other elements from the wet feed.  ................................................................................. 56 
+Figure 75.  Mass of feed that dissolved as a function of time at Na:Si molar ratio of 2.6.  ...................................... 58 
+Figure 76.  Dissolution of silicon from the dry and wet feed at Na:Si molar ratio of 2.6 with time.  ....................... 58 
+Figure 77.  Dissolution of other elements from the dry feed.  .................................................................................. 58 
+Figure 78.  Dissolution of other elements from the wet feed.  ................................................................................. 59 
+Figure 79.  Dissolution of elements in autoclave.  .................................................................................................... 59 
+Figure 80. XRD patterns for the residue left  after sodium silicate production with varied NaOH dosage.  ............. 60 
+Figure 81.  Alunite composition from the leach liquor at different stoichiometric addition of K 2SO 4. .................... 62 
+Figure 82.  XRD analysis of the precipitates formed in stage 1 at 25 °C.  .................................................................. 74 
+Figure 83.  XRD analysis of the precipitates formed in stage 1 at 50 °C.  .................................................................. 75 
+Figure 84.   XRD analysis of the precipitates formed in stage 1 at 25 °C with seeding.  ............................................ 75 
+Figure 85.  XRD analysis of the precipitates formed in stage 1 at 50 °C with seeding.  ............................................ 76 
+Figure 86. XRD analysis of the precipitates formed in stage 1 at 80 °C with seeding.  ............................................. 76 
+Figure 87. XRD analysis of the precipitates formed in stage 1 at 80 °C with seeding (repeat).  ............................... 77 
+Figure 88. XRD analysis of the precipitates formed in stage 1 at 80 °C with seeding (higher dose).  ....................... 77 
+Figure 89.  XRD analysis of the precipitates formed in stage 2 at 25 °C with hydrated lime.  .................................. 78 
+Figure 90. XRD analysis of the precipitates formed in stage 2 at 80 °C with hydrated lime.  ................................... 78 
+Figure 91. XRD analysis of the precipitates formed in stage 2 at 80 °C with hydrated lime and H 2O2. ................... 79 
+Figure 92. XRD analysis of the precipitates formed in stage 2 at 25 °C with hydrated lime with seeding.  ............. 79 
+Figure 93. XRD analysis of the precipitates formed in stage 2 at 50 °C with hydrated lime with seeding.  ............. 80 
+Figure 94. XRD analysis of the precipitates formed in stage 2 at 80 °C with hydrated lime with seeding.  ............. 80 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page xvi 
+   
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page xvii 
+ List of Tables  
+Table 1.  List of samples received.  .............................................................................................................................. 3  
+Table 2.  Elemental composition of the samples studied in this testwork.  ................................................................ 4  
+Table 3.  Analysis of neutralisation reagents.  ............................................................................................................. 4  
+Table 4.  Precipitates studied.  .................................................................................................................................... 7  
+Table 5.  IX Resins Studied.  ......................................................................................................................................... 8  
+Table 6.  Batch filtrate analyses with increasing calcite dosage with the pilot leach solution at 80 °C.  .................. 13 
+Table 7.  Batch filtrate analyses with increasing hydrate lime dosage with the pilot leach solution at 80 °C.  ........ 13 
+Table 8.  Bulk filtrate analyses at each stage.  ........................................................................................................... 14 
+Table 9.  Neutralisation with CaCO 3 to pH 1 (unseeded).  ........................................................................................ 15 
+Table 10.  Neutralisation with CaCO 3 to pH 1 (seeded).  ........................................................................................... 15 
+Table 11.  Neutralisation from pH 1 to 5 -6 with hydrated lime (unseeded).  ........................................................... 16 
+Table 12.  Neutralisat ion from pH 1 to 5 -6 with hydrated lime (seeded).  ............................................................... 16 
+Table 13.  Neutralisation from pH 6 to 10 -12 with hydrated lime (unseeded).  ....................................................... 16 
+Table 14.  Neutralisation from pH 6 to 10 -12 with hydrated lime (seeded).  ........................................................... 16 
+Table 15.  Final batch kinetic filtrate analyses for Stage 1 with calcite (unseeded).  ................................................ 17 
+Table 16.  Final batch kinetic filtrate analyses for stage 1 with calcite (seeded).  .................................................... 18 
+Table 17.  Final batch kinetic filtrate analyses for stage 2 with calcium hydroxide (unseeded).  ............................. 19 
+Table 18.  Final batch kinetic filtrate analyses for stage 2 with calcium hydroxide (seeded).  ................................. 20 
+Table 19.  Final batch kinetic filtrate analyses for stage 3 with calcium hydroxide (unseeded).  ............................. 22 
+Table 20.  Final batch kinetic filtrate analyses for stage 3 with calcium hydroxide (seeded).  ................................. 23 
+Table 21.  Final batch filtrate analyses with calcium hydroxide at 80 °C.  ................................................................ 24 
+Table 22.  Major phases identified in the precipitates by XRD and EDX.  ................................................................. 25 
+Table 23.  Average accountability for batch tests.  ................................................................................................... 31 
+Table 24.  Accountability for bulk tests.  ................................................................................................................... 31 
+Table 25.  Average accountability for kinetic tests.  .................................................................................................. 32 
+Table 26.  Effect of neutralisation process on the filtration rate.  ............................................................................ 33 
+Table 27.  Deportment and accountability of the major elements for Run 1.  ......................................................... 40 
+Table 28.  Deportment and accountability of the major elements for Run 2.  ......................................................... 42 
+Table 29.  Cyclosizing data for the stage 2 precipitate.  ............................................................................................ 45 
+Table 30.  Elemental distribution for cyclosized stage 2 precipitate.  ....................................................................... 45 
+Table 31.  Elemental distribution for magnetic separation of stage 2 precipitate.  .................................................. 45 
+Table 32.  Elemental distribution for magnetic separation of stage 3 pre cipitate.  .................................................. 45 
+Table 33.  Elemental distribution for flotation of stage 2 precipitate.  ..................................................................... 46 
+T
+able 34.  Cyclosizing data for the lepidolite leach residue.  .................................................................................... 47 
+Table 35.  Elemental  distribution of the cyclosized lepidolite leach residue.  .......................................................... 47 
+Table 36.  Composition of filtrates produced by treating dry leach residue at different NaOH dosage.  ................ 57 
+Table 37.  Composition of filtrates produced by treating wet leach residue at different NaOH dosage.  ................ 57 
+Table 38.  Average accountability for Na:Si dosage tests.  ........................................................................................ 61 
+Table 39.  Average accountability for kinetic at Na:Si dosage of 2.6.  ...................................................................... 61 
+Table 40.  Accountability for alunite production.  ..................................................................................................... 62 
+Table 41.  Final filtrate analyses for preliminary alunite process (Run 1).  ............................................................... 63 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page xviii  
+ Table 42.  Final filtrate analyses for preliminary alunite process (Run 2).  ............................................................... 63 
+Table 43.  Accountability for alunite production process.  ....................................................................................... 63 
+Table 44.  Elemental distribution for Li 2CO 3 precipitate. .......................................................................................... 64 
+Table 45.  Elemental distribution for Li 2CO 3, RbCsAl(SO 4)2, K2SO 4 precipitate. ........................................................ 64 
+ 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 1 
+ 1 Background  
+Lithium Australia (LIT) is investigating the production of lithium  chemicals  from lithium micas, particularly 
+lepidolite, by a novel hydrometallurgical process  called SiL eachTM which  eliminates the baking stage in the 
+traditional processing route.  In the SiLeachTM process, the lepidolite ore or concentrate is treated directly with 
+sulphuric acid and calcium fluoride , extracting  95% or more of the lithium  contained in the feed .  The acid in the 
+liquor is then neutralised and the impurities  removed prior to recovery  of the lithium as carbonate or h ydroxide.  
+This study reports on the neutralisation of the acidic lepidolite leach liquor over three stages : (i) using calcite 
+(CaCO 3) to pH 1 .0-1.5; (ii) hydrated lime (Ca(OH) 2) to pH 5 -6; and (iii) (Ca(OH) 2) to pH 11-13 .  The neutralisations 
+at each stage  were  conducted at 25, 50 and 90  °C.  The effect of seeding at a concentration of 50 g/L (stages 1 & 
+2) and 25 g/L (stage 3) was also investigated.  A study of the absorption of lithium with known precipitates that 
+form during these stages has also been undertaken.  
+Ion exchange ( IX) purification, sodium silicate  production, by -product purification and final lithium carbonate and 
+oxide productions were also completed.  The following report presents the major findings  on MRIWA Project M479 
+“Solution Purific ation and By -Product Production ”.  Only appropriate information has been reported and discussed 
+in the report with all data presented in the appendices.  
+2 Aims and Objectives  
+The main aim of this study was to investigate the best condition s for neutralising the highly acidic lepidolite leach 
+solution so as to remove all the impurities from the solution ( i.e. excess acid, iron, aluminium, silica and fluoride ), 
+while minimising lithium losses prior to the final purification of the solution and recovery of lithium by 
+precipitation at pH 10 or above.   In addition, the formation of possible by -products during this process and from 
+the residue was also investigated.  
+The major o bjectives  were  to: 
+• Investigate the use of limestone (or calcite) for stage 1  and hydrated lime for stage 2 and 3 as 
+neutralising agents ; 
+• Report the reagent usage and precipitation of all major impurities  at each  stage;  
+• Determine the changes in the precipitation profiles with temperature ; 
+• Determine the effect of seeding at each stag e at different temperatures;  
+• Identify what species absorb lithium and how to minimising the co -precipitation of lithium with the se 
+precipitat es; 
+• Determine if it is possible to produce any by -products from these precipitates;  
+• Determine if it is possible to recover the fluoride;  
+• Investigate IX resins for removal of final contaminan ts at pH 12-13; 
+• Investigate the p roduc tion of  final Li, Cs and Rb products ; and 
+• Determine the feasibility of producing sodium silicate  from the leach residue  by leaching with caustic 
+soda at 100  °C. 
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 2 
+ 3 Materials and Methods  
+3.1 Materials used in the project  
+Described under the following subheadings are the main materials received and reagents used in the investigation 
+along with the general procedures.  The detail ed procedures can be found in the appendices.  
+3.1.1  Feed samples received  
+Murdoch University received the leach liquor and leach residue samples for th e testwork from ANSTO Minerals  
+and Nagrom Pty Ltd .  These are illustrat ed in Figure 1 and Figure 2 below  with a list provided in Table 1.  The leach 
+liquor contained a white crystalline precipitate that had settled to the bottom of the bottles a nd contained a  light 
+yellow -green supernatant at the top.  The leach residue samples were  pale grey or white . 
+ 
+ 
+Figure 1.  ANSTO Samples  – Pilot leach  liquor and  residue . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 3 
+  
+Figure 2.  Nagrom Samples – Bulk l each liquor and residue . 
+Table 1.  List of samples received . 
+Date  From  Description  Gross mass (g)  
+21/11/16 ANSTO  Pilot  leach solution  (4 containers ) 212,800 
+19/4/17  ANSTO  Lithium filter c ake (wet)  1,768  
+11/4/17  Nagrom  Bulk leach solution and residue (dry)  16,230 & 4,002  
+ 
+3.1.2  Characterisation of the feed precipitate  
+As supplied, the leach liquor contained an insoluble white precipitate that was removed by filtration was identified 
+using x -ray powder diffraction (XRD) as  rostite, AlSO 4(OH)∙ 5H 2O (Figure 3).  No other crystalline phases were 
+identified in this material.  Rostite was not identified in any precipitate analysed  during neutralisation . 
+ 
+Figure 3.  XRD patte rn for the insoluble material in the leach liquor along with reference data for rostite, AlSO 4(OH). 5H 2O from an 
+online mineral spectrum database.  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 4 
+ 3.1.3  Preparation of s ample s used in the testw ork 
+The bulk leach and residue samples that were used for the testwork  are listed below along with their elemental 
+composition (Table 2). 
+Table 2.  Elemental composition of the s amples studied in this testwork . 
+ ppm  
+Test S amples  Li Si Al Ti Rb Fe Na Mg Mn Ca K F 
+Pilot leach 1  5,064  40,978  123 649 2,826  3,758  867 2,053  145 2,2368  250 10,392  
+Pilot leach 2  4,983  37,528  105 802 2,938  3,821  854 2,034  220 1,8233  307 10,719  
+Pilot leach 3  5,200  39,781  116 740 2,704  1,888  835 2,,145  134 1,7416  255 10,719  
+Pilot leach 4  5,181  36,096  123 816 2,120  2,169  1,036  2,158  210 1,7677  252 10,024  
+Bulk Leach  5,363  40,907  2,522  5,187  4,497  4,899  405 3,389  211 15,962  579 7,852  
+Dry r esidue  2,030  256,820  33,210  50 3,818  700 7,790  10 720 81,210  20,680  34,500  
+Wet r esidue  1,930  194,860  26,180  30 1,316  240 4,370  10 810 73,510  8,400  23,000  
+ 
+3.1.4  Neutralisation reagents  
+Each reagent was also analysed and their chemical compositions are shown in Table 3.  It is apparent that calcite 
+(CaCO 3) and hydrated lime ( Ca(OH) 2) contain  magnesium as the  main impurity and  minor amounts of other 
+elements.  
+Table 3.  Analysis of neutralisation reagents . 
+Chemical  ppm  
+reagents  Li Al Si Fe Rb Na Mg Ca K F 
+CaCO 3 43 165 144 543 70 183 2,251 40,076 56 2 
+Ca(OH) 2 2 336 289 412 21 355 2,317 54,449 217 1 
+ 
+Samples of the neutralisation agents (calcite and hydrated lime) used in the testwork were sized using a Laser 
+Sizer.  The data showing the cumulative passing size generated from two runs of each sample are presented in Figure 4
+.  The calcite was a fine powder with a P 80 of 7 μm, while the hydrated lime had a larger particle size with 
+a P 80 of 50  μm. 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 5 
+  
+Figure 4.  Laser sizing determination for  calcite and hydrated lime respectively . 
+3.2 Testwork methods  
+The neutralisation testwork was investigated at 25, 50 and 80 °C following the procedure s summarised below .  
+The detailed  procedure s are provided  in the Appendices.  
+3.2.1  Batch neutralisation  
+To ensure all reactions are complete  tests were run for 24 hours before termination.  In this case, every point in 
+the pH vs. reagent dosage curve was derived using a separate test. The batch precipitation test s were performed 
+by setting up individual  fixed volume ( 20 mL) of solution in to which different single doses of neutralisation reagent  
+were added . Calcite was used to target pH 1  and hydrated lime to target pH 5 -6 and pH 10 -12. Following the 
+reagent addition, the mixtures  were  stoppered to minimise evaporation,  and left to react for 24 hours  at the set 
+temperature in a thermostatic ally controlled water bath  (Figure 5). This procedure was performed on all feed 
+solutions  to determine the required dosage to achieve the target pH  for each stage .  This was conducted  at 80 °C.  
+The calcite (CaCO 3) and hydrated lime (Ca(OH) 2) were  added as a slurry at 25% solids density . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 6 
+  
+Figure 5.  Thermostatically c ontrolled water bath used in the batch and batch kinetic neutralisation tests . 
+3.2.2  Bulk neutralisation  
+Bulk tests were used to generate sufficient solution at the desired pH for all required tests  for subsequent  stage s.  
+It involved a fixed volume of solution being contacted with a fixed amount of calcite  to achieve a desired pH  1 and 
+left to react for 24 hours at 80 °C in a stirred reactor ( Figure 6).  On completion of that stage, the slurry was filte red 
+and some of filtrate was treated with hydrated lime  to achieve a higher target pH  (5-6) and left again to react for 
+further 24 hours at 80 ° C. This was repeated for stage 3 hydrated lime. The calcite (CaCO 3) and hydrated lime 
+(Ca(OH) 2) were  again added as a slurry at 25% solids density . 
+  
+Figure 6.  Stirred reactor s used in the bulk  neutralisation tests . 
+3.2.3  Batch kinetic neutralisation  
+The batch kinetic precipitation test s were performed by setting up individual  fixed volume (20 mL) of solution in to 
+which fixed single doses of neutralisation reagent  were added  to achieve the desired end pH .  Calcite was used to 
+target pH 1 , hydrated lime to target pH 5 -6 or pH 10 -12.  Following the reagent addition, the containers were 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 7 
+ stoppered and the mixtures  were  left to react for 0.5, 1, 2, 4, 6 & 24 hours  at the set temperature (25, 50 or 80 
+°C) in a thermostatic ally controlled  water bath  (Figure 5).  At each specified time an individual test was terminated.   
+For the seeded test, precipitate from the bulk tests was added to each respective stage at a solids concentration 
+of 50 g/L for stages 1 & 2 but was reduced to 25 g/L to reflect the lower precipitate mass for stage 3 .  On completion 
+they were filtered and the residue re -pulpe d and filtered before being dried , digested and analysed.  
+3.2.4  Adsorption study  
+To assess the effect of known precipitates ( Table 4) on lithium absorption a series of test s were conducted where 
+1 g/L Li solution s were at pH 1, 3, 5, 7, 10, and 12  and contacted with 1 g of each precipitate for 24 hours at 80  °C.  
+Each container was stoppered and continually mixed in a thermostatic ally controlled  water bath ( Figure 5). On 
+completion , the pulp s were filtered and residue re -pulped and filtered before being dried , digested and analysed.   
+All precipitates were synthesised with the exception of fluorite which was a mineral sample.  Similar tests were 
+conducted on real filtrate solution from stage 2 where 20  mL of the filtrate was contacted with 1 g of some of the 
+precipitates  (gypsum, gibbsite,  alunite and fluorite) . 
+Table 4.  Precipitates studied . 
+Chemical name  Formulae  Type  Occurrence  
+Pyrochroite Mn(OH)2 Synthetic  Stage 2/3  
+Magnesia  Mg(OH) 2 Synthetic  Stage 2/3  
+Goethite  Fe2O3.xH 2O Synthetic  Stage 2/3  
+Alunite  KAl 3(SO 4)2(OH) 6 Synthetic  Stage 1/2  
+Gypsum  CaSO 4.2H 2O Synthetic  Stage 1/2  
+Gibbsite  Al(OH) 3 Synthetic  Stage 2/3  
+Fluorite  CaF 2 Mineral  Stage 2  
+ 
+3.2.5  Sodium silicate production  
+Tests were conducted on two forms of the SiLeachTM leach residue:  
+1. Dry feed – i.e., dried leach residue (supplied by Nagrom, WA) and  
+2. Wet feed – i.e., leach residue still in wet form (supplied by ANSTO, NSW).  
+The two feed materials used are shown in Figure 7. 
+ 
+Figure 7.  Samples supplied for sodium silicate testing . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 8 
+ The effect of reagent dosage was examined for Na:Si molar ratio s from 0.2 to 2.6 and two kinetic tests (one on 
+each feed ) at Na:Si molar ratio s of 2.6 over 24 hours wit h intermittent sampling at 1, 5, 8 and 24 hours.  A series 
+of tests were setup where the solids were placed in a reactor in contact with 5 M (200 g/L) sodium hydroxide 
+solution at the correct Na:Si molar ratio at 100  °C and left to leach for the required t ime.  The residue was then 
+filtered, immediately re -pulped, r efiltered and dried overnight. Samples of the solid and liquor phases (filtrate and 
+wash)  produced in each test were subsequently assayed and the solids characterised by Scanning Electron 
+Microscopy ( SEM ) and Energy Dispersive X -ray spectroscopy (EDX). 
+3.2.6  IX resin purification  study  
+A number of different types of ion exchange (IX) resins  (Table 5) were investigated wh ere 5  mL of each resin was 
+contacted with 20 mL of pH 12 solution  for 24 hours at 25  °C (exception s were the two weak acid cationic resin s 
+where 40  mL were used due to their double  exchange capacity).  Each container was stoppered and continual ly 
+mixed in a thermostatically controlled  water bath ( Figure 5).  On completion they were filtered and the filtrate 
+analysed.  To prevent any change to pH the form of  the resins were converted to the sodium (Na+) form of the 
+resin . 
+Table 5.  IX Resins Studied . 
+Trade name  Ionic form 
+as shipped  Type  Functional group  Matrix  Structure  Total capacity 
+meq/L  
+Dowex G -26 (H) H+ Strong acid cation  Sulphonic acid  Styrene -DVB  Gel 2.0 
+Purolite D5412H  H+ Strong acid cation  Sulphonic acid  Styrene- DVB  Macroporous  1.7 
+Purolite C104Plus  H+ Weak acid cation  Carboxylic acid  Crosslinked polyacrylic  Porous  4.5 
+Lewatit CNP 80 H+ Weak acid cation  Carboxylic acid Crosslinked polyacrylate  Macroporous  4.3 
+Lewatit VPOC 1065  OH- Weak basic anion  Primary benzyl amine  Crosslinked polystyrene  Macroporous  2.2 
+Ambersep 920U  Cl- Strong basic 
+anion  Quarternary amine, type 
+II Crosslinked polystyrene  Macroreticular  1.0 
+Purolite S930Plus  Na+ Chelating  Iminodiacetic  Crosslinked polystyrene  Macroporous  2.9 
+ 
+3.2.6.1  Column l oading  
+Two resins were chosen for purifying the final filtrate a strong base anion exchange resin (Ambersep 920U) to 
+remove anionic metal species and weak acid cation exchange r esin ( Lewatit CNP80) to remove  potassium  and 
+sodium .  The filtrate was passed through the column of resin at a rate of 5 mL/min and 20  mL sample collected 
+for dilution and analysis.  80 mL of each resin was used in the preliminary testing but was reduced to 20 mL in the 
+later experiments to facilitate breakthrough .  Once loaded the column was washed with 150 mL of deionised water 
+before being eluted with 500  mL of 1  M sodium nitrate or sulphuric acid at 5mL/min for the strong anionic and 
+weak cationic resins , respectively.  Once again , the  20 mL solution samples  were collected for dilution and analysis.  
+Before using the weak cationic exchange resin the form of the resin was converted to lithium by passing 500 mL 
+of 1M LiOH.  Figure 8 shows the instrument setup.  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 9 
+  
+Figure 8.  Ion exchange column setup. 
+3.2.6.2  Equilibrium loading  
+The resin equilibrium loading experiments were conducted b y contacting varying amounts of resin with a fix 
+volume of solution for 24 hours at ro om temperature  (~ 20 °C) .  The resin was removed and the filtrate analysed 
+to determine the amount each species loaded onto the resin.  
+3.2.7  Final precipitate  recovery  
+The filt rate from stage 3 were used to produce lithium carbonate and rubidium and caesium double sulphate 
+products by first  investigating sodium carbonate then  carbon dioxide over a period of 1-24 hours at room 
+temperature (~  20 °C).  Sodium and aluminium was then added to precipitate the rubidium and caesium.  Cooling 
+the solution to <5 °C was also investigated to recover the potassium as sulphate  precipitate.  On completion the 
+residues and  filtrate s were analysed to mass balance the separations . 
+3.2.8  Electro -dialysis  
+To validate the production process  of lithium hydroxide,  a synthetic solution  of lithium sulphate  was treated in an 
+electrolytic setup  assisted by membrane separation to recover lithium as lithium hydroxide .  Figure 9 and Figure 
+10 respectively show the schematic and photograph of the  3-chambers electro -dialysis  setup .  Solution in each 
+chamber was adequately agitated and cell temperature maintained during the test . 
+ 
+Figure 9.  Schematic of electro -dialysis setup.  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 10 
+  
+Figure 10.  Electro- dialysis setup . 
+3.2.9  Solution s 
+All feed solutions and filtrate samples were diluted and analysed for Li, Na, Mg, Mn, Al, Si, K, Ca, Fe,  Rb, and Cs  
+using a Thermo Scientific ICP -MS instrument, model iCAP -Q ICP-MS at Murdoch University.   Fluoride analyses  were 
+performed with a fluoride ion -selective electrode  model ORION 9609BNWF from Thermo Scientific  after  addition 
+of TISAB II buffer solution  and CDTA complexing agent.  
+3.2.10  Solids  
+Solids were assayed by dissolving ~  1 g ( weighed to the nearest 0.0001 g ) in 50 mL aqua regia and boiling for 30 
+minutes .  The resulting solutions were filtered, diluted and analyse d by the methods described in the appendices . 
+3.2.11  Mineralogical analyse s 
+Selected solid samples were analysed using X -ray diffraction (XRD) to determine  their mineralogical composition 
+and mineral associations.  All XRD analyses were performed in house  with a GBC Enhanced Multi -material Analyser 
+(EMMA).  The X -ray tube was operated at a voltage of 35.0 kV and current of 28.0 mA with copper Kα x- rays (λ = 
+0.1540562  nm).   Diffraction patterns were collected over a range of 10° ≤ 2θ ≤ 6 0° using a 1° diverging slit, a 0.2° 
+receiving slit and a 1° scattering slit.  A step size of 0.02° was used  at a rate of 2°/min ( 0.6 s per step).  
+3.2.12  Scanning electron microscopy, energy dispersive X-ray spectroscopy  
+Scanning electron microscopy (SEM) analyses  were performed with a JEOL JCM -6000 Bench top SEM with an 
+energy dispersive X -ray spectroscopy (EDX) analyser.  An accelerating voltage of 15 kV  was used to produce the 
+SEM images of the precipitates.  All images were taken with  backscattered electrons (BSE)  unless otherwise 
+specified .  Elements lighter than beryllium cannot be detected by EDX, so it is not possible to verify the presence 
+of lithium or hydrogen in these precipitates.  Three residues from the calcite neutralisation tests and three from 
+the hydrated lime neutralisation tests were mounted in resin, polished with silicon carbide paper, carbon coated and examined by SEM.  Approximately 15 EDX spectra were taken of each residue.  A 15 kV accelerating voltage was used for the semi -quantitative EDX analyses.  All EDX analyses were run for 30 s econds .  Several false -colour 
+element maps were taken  with a resolution of 384 × 512 pixels and a c ounting time of 10 × 0.2 m illiseconds  per 
+pixel.  The assignment of elements and colours varied, and are specified below each image.  EDX is only a semi-quantitative technique, and th e peak height is a function of electron beam energy and relative concentr ation.  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 11 
+ 4 Results and D iscussion  
+4.1 Thermodynamic modelling  
+The chemical thermodynamic modelling software ( HSC Chemistry v 7.1.1 ) was used to predict the results of the 
+precipitation experiments at varied doses of calcite or hydrated lime.  Using the software, it was possible to test a 
+much greater number of dosages over smaller increments than practical in the laboratory.  Results  of this work 
+are summarised below.  
+4.1.1  Reagent dosage vs. deportment of key elements  
+The initial composition of the solution used in thes e calculations was based on the analysis of the composite leach 
+solution.  The accuracy of iron results is uncertain as the ferrous to ferric ratio in the leach liquor is unknown.  For 
+the purposes of these calculations, both forms of iron were assumed to be in equal concentration.  The hydrated lime dosage was increased from 0 to 400 kg/m
+3 in increments of 4 kg/m3.  Two temperatures were used, 80  and 
+25 °C.  The calculated speciation was used to determine the percentage of each element present in the solid  phase.  
+ 
+Figure 11.  Predicted extent of precipitation  vs. hydrated lime  addition  at 80 °C (right) and 25  °C (left).  
+The elements most affected by temperature were rubidium and silicon.  When the temperature is lower, silica is more readily remobilised as H
+2SiO 42- and SiO 44- ions at high  pH values .  The effect of lime dosage on pH was quite 
+similar at 25 and 80  °C up to pH 10 before they diverge d significantly (Figure 12). 
+ 
+Figure 12.  Calculated extent of precipitation and pH with increasing hydrated lime dosage. Note: Stoichiometrically , 0.74 g of Ca(OH) 2 
+will neutralise the same amount of acid as 1.00 g of CaCO 3. 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 12 
+ A plot of  the deportment of key elements as a function of pH shows that there is minimal difference between the 
+expected results at 25 and 80  °C with t he exception of  rubidium ( Figure 13). Since rubidium is a potentially valuable 
+by-product, it is important to minimise the  loss of rubidium during the removal of unwanted iron and aluminium . 
+ 
+Figure 13. Predicted extent of precipitation vs. pH  at 80 °C ( solid lines ) and 25  °C (dashed lines ). 
+Rubidium is recovered as the double sulphate salt rubidium alum, RbAl(SO 4)2∙12H 2O which is less soluble at 25  °C 
+(Figure 14).  Calculations indicate that the solubility of rubidium alum is 12 times higher at 80  °C than at 25  °C.  
+Rubidium will re -dissolve once most of the aluminium has been removed as alunite or aluminium hydroxide . 
+ 
+Figure 14. Logarithmic solubility product constant (log Ksp) for rubidium, potassium and caesium alum over a range of temperatures . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 13 
+ 4.2 Batch neutralisation  
+The pilot  leach solution was  used for this testwork.  Batch precipitation of the pilot leach  solution was undertaken 
+to determine the required calcite  or hydrated lime addition  to achieve the desired target pH and to conduct the 
+bulk and batch kinetic neutralis ation tests . The change in the solution composition at each calcite ( CaCO 3) or 
+hydrated lime (Ca(OH) 2) addition and pH are  presented in Table 6 and  
+Table 7.  The detailed data for this work are  presented in the Appendices.  
+Table 6.  Batch filtrate analyses with increasing calcite  dosage  with the pilot leach  solution  at 80 °C . 
+  Assay (ppm)  
+Addition (kg/m3) Filtrate 
+pH Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+0 0.18  5,107  38,596  117 752 2,647  2,909  898 2,098  177 18,924  266 10,464  
+179 0.30  4,352  33,234  96 433 2,453  2,292  905 1,879  194 9,258  271 12,057  
+220 0.52  4,784  35,868  102 381 2,021  2,383  871 1,609  262 8,709  272 12,518  
+259 1.28  3,652  37,275  80 418 1,803  1,692  812 1,524  182 7,986  192 12,667  
+299 1.53  3,478  21,361  70 385 1,458  1,691  676 1,405  227 8,124  111 10,668  
+340 3.22  3,249  5,654  61 258 484 1,299  278 1,313  128 6,587  17 173 
+ 
+Table 7.  Batch filtrate analyses with increasing hydrate lime  dosage  with the pilot leach solution  at 80 °C. 
+  Assay (ppm)  
+Addition (kg/m3) Filtrate 
+pH Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+0 0.18  5,107  38,596  117 752 2,647  2,909  898 2,098  177 18,924  266 10,464  
+130 0.20  4,996  37,187  101 451 2,353  2,870  907 2,012  185 10,712  247 12,259  
+189 0.46  4,830  37,144  106 415 2,216  2,858  832 1,982  168 10,583  212 12,622  
+229 1.37  4,911  27,086  132 378 2,413  2,453  792 1,707  149 10,195  196 11,710  
+249 1.90  3,644  13,774  74 362 1,341  2,147  590 1,472  176 10,560  72 8,870  
+269 2.44  3,416  5,725  66 240 1,408  1,830  457 1,362  161 10,114  27 4,097  
+299 4.40  2,478  1285  9 128 1,483  1,397  186 941 110 10,127  17 86 
+339 8.30  2,781  238 14 40 1,602  1,000  70 1,002  182 10,380  12 25 
+ 
+Figure 15 & Figure 16 present the change in the amount of each element that p recipitated with filtrate pH and 
+reagent addition.  It shows minimum lithium and rubidium loss es below  a calcite dosage of 250 kg/m3 or pH 1.5 
+and likewise  with hydrate lime  below a calcit e dosage of 270 kg/m3 or pH 3.  Above these would result in losses o f 
+between 20 -40% .  The majority (>  80%) of the iron, aluminium, calcium and silica were precipitated at pH 7.0 or 
+dosage of 33 0 kg/m3 hydrated lime . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 14 
+   
+Figure 15.  Extent of batch precipitation with calcite as a function of reagent dosage ( left) and filtrate pH ( right ) for the pilot leach  
+solution at 80 °C. 
+  
+Figure 16.  Extent of batch precipitation with hydrated addition as a function of reagent dosage ( left) and filtrate pH ( right ) for the pilot 
+leach  solution  at 80 °C. 
+4.3 Bulk neutralisation  
+To generate the required amount of solution for kinetic precipitation, IX purification and electo -dialysis  testing,  
+bulk neutralisation tests were performed  over the duration of the testwork .  A summary of the  filtrate analyses of 
+these separations are presented in Table 8. The final solution contain ed mainly lithium, sodium, potassium and 
+rubidium with minor amounts of th e other species.   It should be n oted that  the concentration of lithium, rubidi um 
+and caesium decreased during subsequent stages  due to dilution not losses from  precipitat ion. 
+Table 8.  Bulk filtrate analyses at each stage . 
+   Assay (ppm)  
+Stage  Addition  
+(kg/m3) Filtrate 
+pH Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+- 0 0.18  5,107  38,596  117 752 2,647  2,909  898 2,098  177 18,924  266 10,464  
+1 243 0.98  3,802  31,729  125 593 2,121  3,741  418 1,351  145 16,165  165 10,616  
+2 82 5.17  2,490  477 115 123 1,484  3,649  130 972 156 10,500  108 177 
+1 244 1.11  2,766  19,031  82 674 1,203  2,031  466 1,686  90 9,103  190 3,266  
+2 85 5.27  2,012  190 48 172 984 1119  243 805 111 7,440  106 144 
+3 25 13.08  2,102  90 17 59 641 1059  105 13 99 7446  92 15 
+1 246 1.01  2,981 18,642 119 492 1,623  1,904  493 1,115  438 10,498  131 6,136  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 15 
+ Table 8.  Bulk filtrate analyses at each stage (Continued) . 
+   Assay (ppm)  
+Stage  Addition  
+(kg/m3) Filtrate 
+pH Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+2 83 4.34  1,169 329 120 206 746 1,689  315 692 183 7,424  96 144 
+3 21 12.87  1,039 67 113 137 714 1,709  113 51 141 6,803  93 21 
+1 249 1.12  2,641 17,155 92 321 1,626 1,133 495 1,009 76 8,269 156 11,199 
+2 82 6.01 1,967 326 49 93 440 762 351 711 63 5,888 39 1,509 
+1 243 1.20 4,404 16,387 73 406 1,889 2,536 873 991 208 14,758 210 7,667 
+2 82 5.00  1,600 135 82 52 355 2,256 24 411 86 4,941 88 42 
+3 21 11.26  1,083 28 83 21 170 828 19 4 44 4,466 66 34 
+ 
+4.4 Final precipitation  
+The final solution and solids analy ses after neutralisation to pH 1.0 ,  pH 5 -6 and pH 10 -12 at 25  °C, 50  °C and 80 °C 
+are summarised below. Neutralisation to pH 1 was achieved using calcite and hydrated lime was used to achieve 
+pH 5-6 and pH 10-12.  
+4.4.1  Stage 1 (Neutralisation with calcite)  
+The final summary of the precipitation of the key  elements (Li, Al , Rb, Cs  and F) for stage 1 are presented in Table 
+9 & Table 10.  Increasing the temperature from 25 to 80 °C increased the precipitate mass from 16  to 21%.  
+Neutralising the solution at a higher temperature ( 80 °C) also inhibited the precipitat ion of aluminium but 
+increased the amount of  caesium and fluoride  reporting to the  precipitate .  There was no trend with lithium and  
+rubidium but between 5 -8% and 6 -10%, respectively was  lost to the precipitate  at precip itation temperatures >50 
+°C.  Seeding tended to increase lithium and rubidium losses at lower temperatures, but decreased the losses at 80 
+°C. 
+Table 9.  Neutralisation with CaCO 3 to pH 1 (unseeded) . 
+Temperature  
+(°C) Dosage  
+(kg/m3) Final Mass  
+(%) Final pH  Final E h % Precipitated  
+Li Al Rb Cs F 
+25 243 15.7%  0.95  473 5.8%  18.3%  7.2%  1.1%  0.8%  
+50 243 17.4%  0.99  475 4.8%  22.2%  3.7%  1.2%  0.8%  
+80 243 21.1%  0.97  466 6.4%  8.5%  6.7%  5.6%  2.5%  
+Table 10.  Neutralisation with CaCO 3 to pH 1 (seeded).  
+Temperature  
+(°C) Dosage  
+(kg/m3) Final Mass  
+(%) Final pH  Final E h % Precipitated  
+Li Al Rb Cs F 
+25 243 17.9%  0.98  472 13.5%  22.1%  8.2%  1.1%  0.7%  
+50 243 19.7%  0.98  475 8.3%  24.4%  5.5%  0.6%  0.3%  
+80 244 20.2%  0.92  482 0.4%  9.5%  0.9% 4.9% 0.5%  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 16 
+ 4.4.2  Stage 2 (Neutralisation using hydrated lime)  
+The final summary of the precipitati on of the key elements (Li, Al , Rb, Cs  and F) for stage 2 are presented in Table 
+11 & Table 12.  Increasing the temperature from 25 to 80  °C increased the mass of precipitate from 13  to 18%.  
+Seeding had little impact at 50 and 80  °C but did cause more of the species to precipitate at 25  °C.  This stage 
+showed the greatest loss es of all species to the precipitate, meaning the alkali metals (Li, Rb, Cs) were probably 
+co-precipitated with the aluminium and fluoride . 
+Table 11.  Neutralisation from  pH 1  to 5-6 with h ydrated lime (unseeded) . 
+Temperature  
+(°C) Dosage  
+(kg/m3) Final Mass  
+(%) Final pH  Final E h % Precipitated  
+Li Al Rb Cs F 
+25 80 13.0%  5.00  416 14.9%  63.2%  8.7%  65.6%  18.2%  
+50 80 15.4%  5.93  250 19.1%  98.3%  63.2%  55.5%  77.1%  
+80 82 17.6%  4.96  340 21.7%  98.9%  64.4%  86.5%  96.3%  
+Table 12.  Neutralisation from pH 1 to 5- 6 with h ydrated lime (seeded) . 
+Temperature  
+(°C) Dosage  
+(kg/m3) Final Mass  
+(%) Final pH  Final E h % Precipitated  
+Li Al Rb Cs F 
+25 80 15.5%  4.93  397 20.3%  87.4%  17.5%  77.7%  35.5%  
+50 80 16.9%  6.53  239 35.1%  97.8%  67.2%  94.0%  96.0%  
+80 82 20.6%  4.62  377 23.0%  98.2%  64.0%  91.9%  96.2%  
+ 
+4.4.3  Stage 3 (Neutralisation using hydrated lime)  
+The final summary of the precipitati on of the key elements (Li, Al , Rb, Cs  and F) for stage 3 are presented in  Table 
+13 & Table 14.  The temperature had little impact on the final residue mass but it appears  that increasing the 
+temperature minimise s the precipitation of all species except for fluoride.  The lowest losses of alkali metals were 
+at 80  °C in seeded slurries . 
+Table 13.  Neutralisation from pH 6 to 10- 12 with hydrated l ime (unseeded) . 
+Temperature  
+(°C) Dosage  
+(kg/m3) Final Mass  
+(%) Final pH  Final E h % Precipitated  
+Li Al Rb Cs F 
+25 26 0.9%  13.10  -23 9.7%  91.0%  6.0%  0.2%  62.7%  
+50 26 0.9%  13.05  -19 2.2%  67.2%  2.3%  0.3%  52.9%  
+80 26 1.4%  13.12  66 0.4%  40.5%  2.1%  0.3%  51.8%  
+Table 14.  Neutrali sation from pH 6 to 10- 12 with hydrated l ime (seeded) . 
+Temperature  
+(°C) Dosage  
+(kg/m3) Final Mass  
+(%) Final pH  Final E h Precipitated  
+Li Al Rb Cs F 
+25 26 2.3%  13.15  -25 4.7%  89.5%  3.2%  0.1%  52.7%  
+50 26 2.3%  13.07  -32 1.3%  82.1%  2.3%  0.3%  54.0%  
+80 26 2.7%  13.15  55 0.9%  39.2%  0.7%  0.2%  64.2%  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 17 
+ 4.5 Batch kinetic n eutralisation  
+4.5.1  Stage 1 ( Neutralisation with  calcite ) 
+The pilot  leach solution was neutralised to pH 1  with calcite  at a dosage of 243 kg/m3.  The change in filtrate 
+chemical composition with time is summarised  in Table 15.  Figure 17 shows the extent of precipitation of the 
+various elements analysed.  Lithium , rubidium and caesium  losses were low at all temperatures , around 5 -6%.  
+Silica and magnesium precipitation was g reater at 25 °C  while iron and aluminium precipitation  was greater at 
+higher temperature s (50 and 80 °C). 
+Table 15.  Final batch kine tic filtrate analyses for Stage 1 with calcite  (unseeded) . 
+    Assay (ppm)  
+Temperature 
+(°C) Addition (kg/m3) Filtrate 
+pH Filtrate 
+Eh Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+25 243 0.95  473 2,196  15,739  91 352 1,194  1,257  438 862 75 7,577  98 9,430  
+50 243 0.99  475 2,156  16,602  112 358 1,235  1,607  513 911 58 7,985  100 9,106  
+80 243 0.97  466 2,812  21,284  135 401 1,306  1,245  656 1,007  119 10,079  125 12,071  
+ 
+  
+ 
+Figure 17.  Extent of batch kinetic precipitation with calcite addition  (Stage 1)  without seeding  as a function of time and  temperature 
+(80, 50 & 25 °C). 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 18 
+ The change in filtrate chemical composition with time for the seeded tests are summarised in Table 16 while Figure 
+18 shows the extent of precipitation of the various elements analysed. When precipitate from the bulk 
+precipitation  was added to initiate precipitation it caused lithium losses to increase from 5-6% (without seeding) 
+to 5-14% with seeding.  Lithium losses were greatest at 25 °C but decreased to minimal levels at 80  °C.  The amount 
+of magnesium and silica removed was  once again  greater at 25 °C compared to that at 50 and 80 °C . Overall, 4 
+hours  was adequate for  the precipitation  process to complete at any  of the tested temperatures, and regardless 
+of whether  or not the system was seeded.  
+Table 16.  Final batch  kinetic filtrate analyses for stage 1 with calcite (seeded) . 
+    Assay (ppm)  
+Temperature 
+(°C) Addition (kg/m3) Filtrate 
+pH Filtrate 
+Eh Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+25 243 0.98  472 2,217  16,390  108 394 1,210  1,882  539 899 56 7,918  102 9,808  
+50 243 0.98  475 2,257  15,081  54 336 1,202  1,854  505 905 108 7,984  92 8,414  
+80* 244 0.92  482 2,167  14,117  82 232 867 1,057  488 900 61 8,185  77 7,855  
+*repeat  
+  
+ 
+Figure 18. Extent of batch kinetic precipitation with calcite (s tage 1) with seeding  as a function of time and temperature (80, 50 &                
+25 °C) . 
+Increasing the amount of seed added did not have a significant effect on the rate of precipitation ( Figure 19). There 
+was a slight positive eff ect on the rates at which iron and magnesium were removed.  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 19 
+   
+Figure 19. Extent of batch kinetic precipitation with calcite (s tage 1) with seeding as a function of time at 80 °C with 25 g/L (left) and 50 
+g/L of seed (right).  
+ 
+4.5.2  Stag e 2 ( Neutralisation using hydrated lime ) 
+The stage 1 solution was neutralised to pH 5 -6 with calcium hydroxide  at a dosage of 80 kg/m3.  The final filtrate 
+results are presented in Table 17.  Figure 20 show s the extent of precipitation of the various elements analysed.   
+Lithium losses w ere the greatest at this stage increas ing to 15 -22% .  Operating at lower temperature reduced the 
+lithium, aluminium, rubidium,  caesium and  fluoride precipitation. Temperature had a minimal effect on the 
+behaviour of fluoride in stage 1 but had a significant effect on fluoride precipitation  in stage 2 .  The data 
+unequivocally shows that  the lithium was co -precipitated with these other elements.  
+Table 17.  Final batch kinetic filtrate analyses for stage 2 with calcium hydroxide  (unseeded) . 
+    Assay (ppm)  
+Temperature 
+(°C) Addition (kg/m3) Filtrate 
+pH Filtrate 
+Eh Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+25 80 5.00  416 3,532  4,006  93 238 582 360 248 297 96 1,250  14 4,117  
+50 80 5.93  250 1,381  165 33 643 332 151 144 976 54 7,107  56 790 
+80 82 4.96  340 2,890  235 82 120 554 4,510  177 1,291  117 9,694  10 100 
+   
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 20 
+  
+   
+ 
+Figure 20.  Extent of batch kinetic precipitation with hydrated lime  addition  (Stage 2)  without seeding  as a function of time and 
+temperature ( 80, 50 & 25 °C). 
+The change in filtrate chemical composition with time for the seeded tests are summarised in Table 18 while Figure 
+21 shows the extent of precipitation of the various elements analysed.  There was no obvious benefit of seedi ng 
+at the higher temperature (8 0 °C) but it did promote precipitation of most species at 25  °C.  Higher temperatures 
+decreased lithium, aluminium and fluoride precipitation, again demonstrating the co -precipitation of these 
+elements .  Overall, the precipitation process require d 6 hours  to approach completion, no matter the temperature 
+or whether  the system w as seeded or not.  
+Table 18.  Final batch kinetic filtrate analyses for stage 2 with calcium hydroxide (seeded) . 
+    Assay (ppm)  
+Temperature 
+(°C) Addition (kg/m3) Filtrate 
+pH Filtrate 
+Eh Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+25 80 4.93  397 1,443 1,526 57 367 638 275 83 864 63 6,086 21 2,350 
+50 80 6.53  239 981 326 71 655 250 300 142 662 54 5,947 2 87 
+80 82 4.62  377 2,861 418 97 116 570 2,908 161 1,133 91 7,680 11 150 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 21 
+   
+ 
+Figure 21.  Extent of batch kinetic precipitation with hydrated lime addition (Stage 2) with seeding  as a function of time and  
+temperature ( 80, 50 & 25 °C). 
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 22 
+ 4.5.3  Stage 3 (Neutralisation using hydrated lime)  
+The stage 2 solution was neutralised to pH 10 -12 with calcium hydroxide  at a dosage of 26 kg/m3.  The final filtrate 
+results are presented in Table 19.  Figure 22 show s the extent of precipitation of the various elements analysed.  
+The results showed minimal loss of Li, Cs  and Rb at high  temperatures (< 2%) with the precipitate contain ing mainly 
+Ca, Mn  and Al with some Mg, Si and Fe .  Low temperature (25  °C) increased  the Li, Cs and Rb loss es. 
+Table 19.  Final batch kinetic filtrate analyses for stage 3 with calcium hydroxide  (unseeded) . 
+    Assay (ppm)  
+Temperature (°C)  Addition (kg/m3) Filtrate pH  Filtrate E h Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+25 26 13.10  -23 813 26 65 58 615 559 22 2 70 4,458 22 11 
+50 26 13.05  -19 1,008 59 26 59 702 920 31 2 84 6,094 18 18 
+80 26 13.12  66 1,049 93 23 55 689 1,004 31 2 73 7,328 15 14 
+ 
+   
+ 
+Figure 22.  Extent of batch kinetic precipitation with hydrated lime  addition  (stage 3)  without seeding  as a function of time and 
+temperature ( 80, 50 & 25 °C). 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 23 
+ The change in filtrate chemical composition with time for the seeded tests are summarised in Tabl e 20 while Figure 
+23 shows the extent of precipitation of the various elements analysed. Overall , 6 hours sufficient for precipitation 
+to complete at all temperatures whether  seeded or not.  
+Table 20.  Final batch  kinetic filtrate analyses for s tage 3 with calcium hydroxide (seeded) . 
+    Assay (ppm)  
+Temperature (°C)  Addition (k g/m3) Filtrate pH  Filtrate E h Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+25 26 13.15  -25 759 25 104 55 558 510 23 1 113 4,041 18 16 
+50 26 13.07  -32 949 29 14 62 638 932 35 2 71 6,570 14 17 
+80 26 13.15  55 980 105 28 68 666 1,060 35 2 79 7,069 15 14 
+ 
+   
+ 
+Figure 23.  Extent of batch kinetic precipitation with hydrated lime  (stage 3) with seeding  as a function of time and  temperature ( 80, 50 
+& 25 °C) 
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 24 
+ 4.6 Effect of oxidation  
+Two batch experiments was performed on stage 1 liquor to inves tigate what effect adding a reducing agent 
+(sulphite, SO 32-) or an oxid ising agent (hydrogen peroxide, H 2O2) had on the deportment of elements.  The filtrate 
+results of these tests are shown in Table 21.  There was no significant  difference  between the tests compared to 
+no additive.  
+Table 21.  Final batch filtrate analyses with calcium hydroxide at 80 °C. 
+    Assay (ppm)  
+Additive  Addition 
+(kg/m3) Filtrate 
+pH Filtrate 
+Eh Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+- - 0.98  450 3,802 31,729 125 593 2,121 3,741 418 1,351 145 16,165 165 10,616 
+- 82 4.96  340 2,890 235 82 120 554 4,510 177 1,291 117 9,694 10 100 
+SO 32- 82 3.24  364 2,047 198 59 144 357 3,097 140 779 103 8,690 6 194 
+H2O2 82 4.35  481 2,494 852 92 264 590 2,051 183 878 145 7,781 10 161 
+ 
+A single kinetic test was performed with the addition of H 2O2 and the elemental distribution is shown in Figure 24.  
+When compared to the test without any addition there was slightly higher lithium and manganese precipitation, 
+but the other elements were very similar  in behaviour . 
+ 
+Figure 24.  Extent of batch kinetic precipitation at 80 °C  with hydrated lime  (A) and with hydrated lime  + hydrogen peroxide  (B). 
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 25 
+ 4.7 Precipitate characterisation  
+The XRD, SEM and EDX analyses of the 19 sets of precipitates are summarised in Table 22. These results are 
+discussed in detail in the following section.  
+Table 22.  Major phases identified in the precipitates by XRD and EDX . 
+  
+Temperature, °C  pH target  Reagent  Seeded  Major phases identified  Varied dose  
+Stage 1 -3 80 1 CaCO₃  No Gypsum  (CaSO 4∙2H 2O) 
+80 5-6 Ca(OH)₂ & H₂O₂ & SO 3 No Gypsum  
+80 5-6, 10 -12 Ca(OH)₂  No Gypsum  
+Kinetics tests  
+Stage 1  25 1 CaCO₃  No Gypsum  
+50 1 CaCO₃  No Gypsum  
+80 1 CaCO₃  No Gypsum  
+25 1 CaCO₃  Yes Gypsum  
+50 1 CaCO₃  Yes Gypsum  
+80 1 CaCO₃  Yes Gypsum  
+Stage 2  25 5-6 Ca(OH)₂  No Gypsum, unknown hydrated Al fluoride  
+50 5-6 Ca(OH)₂  No Gypsum, unknown hydrated Al fluoride  
+80 5-6 Ca(OH)₂  No Gypsum  
+80 5-6 Ca(OH)₂ & H₂O₂  No Gypsum  
+25 5-6 Ca(OH)₂  Yes Gypsum, unknown hydrated Al fluoride  
+50 5-6 Ca(OH)₂  Yes Gypsum, unknown hydrated Al fluoride  
+80 5-6 Ca(OH)₂  Yes Gypsum  
+80 5-6 Ca(OH)₂  Yes (x2) Gypsum  
+Stage 3  25 10-12 Ca(OH)₂  No Calcium hydroxide (minor Mn), gypsum  
+50 10-12 Ca(OH)₂  No Calcium hydroxide (minor Mn), gypsum  
+80 10-12 Ca(OH)₂  No Calcium hydroxide (minor Mn), gypsum  
+25 10-12 Ca(OH)₂  Yes Calcium hydroxide (minor Mn), gypsum  
+50 10-12 Ca(OH)₂  Yes Calcium hydroxide (minor Mn), gypsum  
+80 10-12 Ca(OH)₂  Yes Calcium hydroxide (minor Mn), gypsum  
+ 
+4.7.1  Stage 1 prec ipitates formed on  neutralisation  with calcite  
+4.7.1.1  Mineralogy of calcite precipitate  
+Gypsum  (CaSO 4∙2H 2O) was the only crystalline phase identified in stage 1 when calcite was used as a neutralising 
+agent (Figure 25). 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 26 
+  
+Figure 25.  XRD results for precipitates formed in stage 1, with relevant reference data . 
+4.7.1.2  SEM -EDX analyses of calcite precipitate  
+No phases other than gypsum were identified with SEM ( Figure 26); similar to what was determined by XRD.  No 
+elements other than Ca, S and O were detected.  Elements lighter than boron cannot be detected by EDX, so the 
+presence of water can’t be identified by EDX.  The shapes of these particles matched  the typical shapes for gypsum 
+crystals.  
+ 
+Figure 26.  A precipitate produced by neutralising to pH 1 with calcite at 25 °C. 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 27 
+ 4.7.2  Stage 2 & 3 precipitates formed with hydrated lime neutralisation  
+4.7.2.1  Mineralogy of hydrated lime precipitate  
+Gypsum was the main phase identified in stage 2 ( Figure 27).  Some calcium hydroxide was identified in stage 3 
+which indicated inefficiency in utilisation.  An unkn own phase was also identified. This phase matched the 
+diffraction pattern found in the literature (Rosenberg, 2006) for a hydrated aluminium fluoride, hereon labelled 
+as AHF, with a general formula of AlF 3-x(OH) x.nH 2O (Figure 27).  Considering the strong effect that temperature 
+had on the fluo rine deportment in stage 2, it is likely that the temperature influences the extent of fluoride 
+substitution for hydroxide in AHF.   There was insufficient material for XRD analysis for stage 3 precipitates.  
+ 
+Figure 27.  XRD results for precipitates produced by neutralising to pH 5 with calcium hydroxide at 50  °C. 
+4.7.2.2  SEM -EDX examination of hydrated lime precipit ate  
+EDX analyses of hydrated lime residues  at pH 5 (Stage 2) showed significant amounts of aluminium fluoride.  
+Typically, aluminium  (red)  in the precipitate was associated with fluorine, while calcium  (blue)  was associated with 
+sulphur  (green) ( Figure 28) i.e. gypsum and aluminium fluoride precipitates . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 28 
+  
+Figure 28.  Backscattered electron SEM image (left) and false -colour element map (right)  of a precipitate produced by neutralising to 
+pH 5 with calcium hydroxide at 50  °C. 
+ 
+Figure 29.  EDX spectra of spots analysed in Figure 28. 
+EDX analyses of the pH 10 hydrated lime precipitates (s tage 3) showed that the calcium hydroxide phase contained 
+small amounts of manganese.  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 29 
+  
+Figure 30.  Backscattered electron SEM image of  a precipitate produced by neutralising t o pH 10 with calcium hydroxide at 50 °C. 
+ 
+Figure 31.  EDX spectra of spots analysed in Figure 30. 
+4.8 Calculation of crystal size  
+Crystallite sizes for gypsum and alunite were calculated using the Scherrer equation based on the XRD peaks for 
+those minerals.  Seeding resulted in larger gypsum  crystallites and faster increases in size when neutralising to pH 
+1 with calcite and to pH 5 with calcium hydroxide ( Figure 32). 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 30 
+ The oxidised test sho wed a similar result to the standard neutralisation to pH 5.  There was little change in the 
+crystallite sizing after 6 hours with all tests.  Alunite showed a different trend where there was very little difference 
+between the seeded and unseeded neutralis ations ( Figure 33).  For the oxidised test there were larger crystallites 
+after 4 -6 hours compared to the 24 hour test which  gave similar size to the o ther tests.  The rate of crystallite 
+growth matched the rate of precipitation, indicating that no significant crystallisation occurred after precipitation 
+ended around the 6 hour mark.  
+ 
+Figure 32. Gypsum crystallite size as a function of time. Error bars indicate the range of values. 
+ 
+Figure 33. Alunite crystallite size as a function of time. Error bars indicate the range of values.  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 31 
+ 4.9 Accountability  
+Table 23, Table 24 & Table 25 summarise the accountabilities for all tests.  The tables present the average 
+accountabilities over the batch testing and batch kinetic tests while individual time accountabilities are presented 
+in the Appendices.  Apart from the very minor elements (Fe, Rb, Cs), and Ca where losses are due to gypsum re -
+dissolution during precipitate washing, these accountabilities ( generally 100%  ± 20%) are considered to be 
+acceptable for the scale and type of tests carried out, where errors can be cumulative.  
+Table 23.  A verage a ccountability  for batch tests. 
+Test  Li Al Fe Rb Mg Mn Ca K Cs F 
+Batch 1 CaCO 3 111.8%  105.4%  95.5%  87.2%  133.6%  106.0%  59.6%  62.6%  88.7%  111.8%  
+Batch 2 Ca(OH) 2 129.2%  81.2%  100.7%  119.6%  132.7%  117.4%  67.9%  93.1%  76.1%  98.8%  
+Batch 3 SO 32- 115.5%  57.9%  81.8%  68.7%  147.6%  106.2%  87.0%  94.6%  15.6%  101.7%  
+Batch 4 H 2O2 113.9%  62.3%  106.9%  81.2%  155.1%  99.6%  77.2%  82.4%  31.3%  122.3%  
+Table 24.  Accountability  for bulk tests. 
+Test  Li Al Fe Rb Mg Mn Ca K Cs F 
+Bulk 1  106.5%  118.1%  136.6%  115.0%  66.3%  91.3%  47.2%  121.9%  88.0%  145.6%  
+Bulk 2  94.3%  94.4%  109.4%  86.0%  106.6%  138.5%  113.4%  89.9%  89.4%  82.8%  
+Bulk 3  83.8%  91.1%  148.8%  145.1%  72.2%  109.8%  75.3%  125.2%  63.2%  73.3%  
+Bulk 4  117.4%  102.5%  97.2%  129.7%  120.0%  202.1%  136.3%  99.3%  57.3%  142.3%  
+Bulk 5  110.5%  171.8%  180.8%  115.3%  86.8%  151.4%  159.4%  73.4%  62.7%  118.9%  
+Bulk 6  103.2%  107.2%  181.5%  153.7%  103.5%  108.7%  90.6%  95.8%  76.2%  107.7%  
+Bulk 7  76.5%  73.4%  127.2%  138.8%  103.1%  155.2%  97.3%  91.5%  92.3%  118.6%  
+Bulk 8  98.5%  112.1%  97.7%  91.1%  105.2%  74.1%  93.8%  102.5%  84.1%  100.3%  
+Bulk 9  81.5%  69.7%  78.1%  94.1%  85.5%  75.3%  74.4%  68.7%  92.3%  113.5%  
+Bulk 10  82.4%  108.5%  119.5%  81.9%  78.5%  102.8%  87.9%  78.8%  84.4%  96.9%  
+Bulk 11  148.1%  93.6%  100.1%  126.1%  87.0%  87.0%  33.8%  149.5%  130.5%  81.9%  
+Bulk 12  58.6%  105.8%  134.2%  142.4%  56.8%  56.8%  35.3%  57.4%  179.8%  79.5%  
+Bulk 13  93.9%  61.7%  77.3%  77.4%  51.0%  51.0%  50.9%  93.4%  91.5%  111.6%  
+Bulk 14 81.5%  69.7%  78.1%  94.1%  85.5%  75.3%  74.4%  68.7%  92.3%  113.5%  
+Bulk 15  82.4%  108.5%  119.5%  81.9%  78.5%  102.8%  87.9%  78.8%  84.4%  96.9%  
+Bulk 16  148.1%  93.6%  100.1%  126.1%  87.0%  87.0%  33.8%  149.5%  130.5%  81.9%  
+Bulk 17  58.6%  105.8%  134.2%  142.4%  56.8%  56.8%  35.3%  57.4%  179.8%  79.5%  
+Bulk 18  93.9%  61.7%  77.3%  77.4%  51.0%  51.0%  50.9%  93.4%  91.5%  111.6%  
+Average  96.6%  100.8%  115.8%  102.6%  91.6%  87.8%  65.7%  101.1%  112.4%  100.9%  
+ 
+ 
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 32 
+ Table 25.  A verage a ccountability  for kinetic tests. 
+Test  Li Al Fe Rb Mg Mn Ca K Cs F 
+Stage 1 25 °C  100%  97%  141%  94%  248%  97%  65%  84%  83%  152%  
+Stage 1 50 °C  103%  110%  136%  102%  247%  96%  61%  92%  85%  156%  
+Stage 1 80 °C  97%  99%  116%  83%  119%  77%  78%  90%  74%  161%  
+Stage 1 25 °C (seeded)  109%  110%  138%  103%  336%  103%  33%  92%  88%  160%  
+Stage 1 50 °C (seeded)  105%  101%  137%  98%  264%  95%  89%  87%  78%  140%  
+Stage 1 80 °C (seeded)  79%  86%  75%  95%  140%  57%  101%  84%  58%  68%  
+Stage 1 80 °C (seeded) Repeat  87%  80%  93%  70%  111%  86%  46%  87%  60%  126%  
+Stage 2 25 °C  144%  36%  807%  51%  150%  82%  101%  30%  133%  71%  
+Stage 2 50 °C  78%  35%  1021%  75%  142%  133%  125%  100%  101%  54%  
+Stage 2 80 °C  128%  78%  110%  94%  182%  140%  85%  115%  64%  53%  
+Stage 2 80 °C (H 2O2) 114%  69%  89%  82%  161%  100%  85%  105%  71%  53%  
+Stage 2 25 °C (seeded)  88%  42%  995%  62%  114%  115%  134%  83%  66%  46%  
+Stage 2 50 °C (seeded)  90%  79%  830%  90%  125%  75%  55%  105%  36%  113%  
+Stage 2 80 °C (seeded)  123%  81%  96%  90%  182%  121%  95%  103%  89%  69%  
+Stage 3 25 °C  51%  165%  127%  76%  76%  57%  67%  71%  101%  50%  
+Stage 3 50 °C  59%  100%  117%  82%  105%  66%  76%  99%  78%  71%  
+Stage 3 80 °C  60%  80%  118%  81%  121%  84%  78%  108%  72%  61%  
+Stage 3 25 °C (seeded)  50%  137%  96%  75%  87%  116%  78%  70%  94%  68%  
+Stage 3 50 °C (seeded)  58%  91%  105%  82%  122%  137%  145%  106%  70%  68%  
+Stage 3 90 °C (seeded)  61%  96%  106%  83%  116%  148%  85%  110%  74%  76%  
+Average  75%  74%  222%  70%  130%  83%  69%  76%  65%  78%  
+ 
+ 
+4.10 Effect on Filtration  
+Throughout the study , the time it took to filter the samples through a 22.9 cm2 funnel under vacuum was recorded.  
+A summary of those times in relationship to the area and amount of solids are presented in Table 26.  Figure 34 
+and Figure 35 illustrate these changes for unseeded and seeded , respectively.   In all cases , higher precipitation  
+temperature resulted in  faster filtration rate s, while the solids density followed an opposite trend i.e. i ncreasing 
+with the increase in temperature from 25 to 80 °C .   
+In addition,  there was no significant  difference between t he filtration rate of seeded and unseeded  tests .  The 
+filtration rate for stage 1 with CaCO 3 was the fastest  followed by stage 2 with Ca(OH) 2 then stage 3 with Ca(OH) 2. 
+    
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 33 
+ Table 26.  Effect  of neutralisation process  on the filtration rate . 
+Stage  Chemical  Seeding  Temperature  Average Filtration Rate 
+(g/cm2/s) Solids Densit y 
+Stage 1  CaCO 3 None  25 °C  38.0  15.7%  
+   50 °C  44.8  17.4%  
+   80 °C 30.6  21.1%  
+ CaCO 3 Seeded  25 °C  45.1  17.9%  
+   50 °C  41.3  19.7%  
+   80 °C 36.7  23.7%  
+Stage 2  Ca(OH) 2 None  25 °C  12.3  13.0%  
+   50 °C  6.9 15.4%  
+   80 °C 9.0 17.6%  
+ Ca(OH) 2 Seeded  25 °C  15.5  15.5%  
+   50 °C  8.3 16.9%  
+   80 °C 9.6 20.6%  
+Stage 3  Ca(OH) 2 None  25 °C  0.50  0.9%  
+   50 °C  0.29  0.9%  
+   80 °C 0.23  1.4%  
+ Ca(OH) 2 Seeded  25 °C  1.16  2.3%  
+   50 °C  1.20  2.3%  
+   80 °C 0.36  2.7%  
+ 
+ 
+Figure 34.  C hange s in filtrat ion rate in each stage for seeded and unseeded tests as a function of temperature . 
+ 
+Figure 35.  C hange s in solids density in  each stage for seeded and unseeded tests  as a function of temperature . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 34 
+ Precipitates formed in later stages were typically poorly crystalline, as determined by XRD.  This is a likely reason 
+for the slower filtration rates observed for stage 2 and 3 precipitates.   That is the aluminium hydroxide species in 
+stage 2 and the manga nese hydroxide in stage 3 is a ffecting the rate of filtration.  
+4.11 Adsorption i nvestigation  
+To determine which phases within  the precipitate d solids  were responsible for adsorbing or co -precipitating the 
+lithium from solution , a range of synthetic precipitates  were  synthesised. E ach precipitate (1 g) was contacted 
+with  a 1 g/L lithium solution at pH 1, 3, 5, 7, 10, and 12 for 24 hours at 80 °C.  The precipitate s were  chosen based 
+on the solid phases  found in the  precipit ates in this study which include d gypsum, fluorite, goethite, pyrochroite , 
+magnesi a, alunite and gibbsite .  The adsorption results over the pH range  are presented  in Figure 36. 
+ 
+Figure 36.  Absorption of lithium by various known precipitates  at various pH . 
+The results show minimal lithium adsorption on to pyrochroite (Mn(OH) 2) (<2%) and  fluorite  (CaF 2) (~ 5%), and 
+slightly  higher adsorption onto gypsum  (CaSO 4∙2H 2O) (~ 15%), magnesia  (Mg(OH) 2) (~ 15% pH>7) and goethite  
+(FeOOH) ( ~ 20% ). Between pH 3 and 6, up to 60% of the lithium in solution was absorbed onto alunite  
+(KAl 3(SO 4)2(OH) 6) while gibbsite  (Al(OH) 3) adsorbed ~ 50%  of the lithium above pH 3 .  These results  indicate that  
+lithium losses , which  were greatest in s tage 2  due to adsorption onto  alunite and /or gibbsite  that are formed 
+during neutralisation . 
+To test whether  these precipi tates cause d lithium losses  during the s tage 2 neutralisation, gypsum, fluorite , 
+gibbsite and alunite were contacted with  stage 2 filtrate  (in duplicate) at 80 °C  for 24 hours.  The results of these 
+separations  are presented in Figure 37. 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 35 
+  
+Figu re 37.  Absorption of key elements  from s tage 2 filtrate  onto the four solids studied . 
+It is clear that  gibbsite and alunite  indeed a dsorb s lithium from solution at pH 6.  Alunite appears to absorb all the 
+elements in the solution.   Gibbsite absorbs lithium , aluminium  and fluoride , fluorite absorbs calcium, sodium, 
+silica, aluminium and iron while  gypsum absorbs iron, calcium and fluoride.  
+4.12 IX Investigation  
+After pH modification to pH 12, the final filtrate still contains minor impurities  (Al, Si, Fe, Ca, Mn, K and F)  which 
+could possibly be removed, or substantially reduced in concentration, by IX prior to precipitating out the lithium, 
+rubidium and caesium. Preliminary loading experiments with a range of resins with different forms were 
+undertaken and the absorption results shown in  Figure 38 and Figure 39. 
+ 
+Figure 38.  IX resin absorption of key elements from Stage 3 filtrate. 
+0%10%20%30%40%50%60%70%80%90%100%
+Li Rb Na K Cs FAbsorbed
+S930 DOWEX E26 D5412H 920U VPOC C104 CNP80
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 36 
+  
+Figure 39.  IX resin absorption of other  elements of interest from stage 3 filtrate . 
+It was predicted that the strong cationic resin would load rubidium , caesium  and lithium with minimal  sodium, or 
+potassium , while the weak cationic resins would load sodium and potassium with little rubidium, caesium or 
+lithium .  The results shown in Figure 38 support these predictions where the strong cationic  resins  (Dowex E26 & 
+Purolite D5412H) and weak cationic resins (Purolite C104 & Lewatit CNP80) loaded as expected .  The resin Lewatit 
+CNP80 should be further investigated as it loaded very little (<1%) of the rubidium, caesium and lithium . 
+For the strong anionic  resin  (Ambersep 920U), weak anionic resin (Lewatit VPOC1065) and chelating resin ( Purolite 
+S930) it was predi cted these resins would load the aluminium, iron, magnesium and manganese.  The results 
+shown in Figure 39 support these predictions .  However, these resins  also load ed the  rubidium, caesium,  lithium  
+and potassium with minor sodium , which was not predicted.  This wa s most likely due to the  resin being in excess. 
+The strong anionic resin will be further investigated for removal of these metal ions from solution.  
+4.12.1  Preliminary column loading and elution 
+Figure 40 and Figure 41 shows the elemental deportment from strong anionic resin (Ambersep 920U).  It shows 
+the major species (Li, Rb, Cs, K and Na) did not load as expected.  For t he minor species (Ca, Al, Si, Fe, Ca, Mg, Mn 
+and F) it was hard to see what was happening as there was very little change in the concentration of species (likely 
+reached dilution and assay limits) but there was a clear increase at sample number 30 which correlates to the 
+addition of the wash water.  This suggest s these species were only weakly bound or loaded on to the anion 
+exchange resin and we re easily removed by water.  0%10%20%30%40%50%60%70%80%90%100%
+Al Si Fe Mg Mn CaAbsorbed
+DOWEX E26 D5412H 920U VPOC S930 C104 CNP80
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 37 
+  
+Figure 40.  Major species from strong anionic resin (Ambersep 920U).  
+ 
+Figure 41.  Minor species from strong anionic resin (Ambersep 920U). 
+Also investigated was the s trong cationic resins (Purolite D5412H ) and the elemental deportments are shown in 
+Figure 42 and Figure 43.  It shows the major species (Li, Rb, Cs, K and Na) are load ing onto the resin where the 
+lithium preloaded onto the resins is constantly being replaced by K, Na, Rb and Cs.  The minor species  (Ca, Al, Si, 
+Fe, Ca, Mg, Mn and F) showed very little change although during elution there wa s an increase with all these 
+species  (most notably Fe, Al  and Mg) suggesting the se metal species are also present in cationic form  in solution  
+and have also loade d onto the resin . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 38 
+  
+Figure 42.  Major species from strong cationic resins (Purolite D5412H) . 
+ 
+Figure 43.  Minor Species from strong cationic resins (Purolite D5412H) . 
+4.12.2  Two stage solution purification  
+4.12.2.1  Run 1  
+Two runs with 20 and 80  mL of the strong anionic resin (Ambersep 920U) followed by weak cationic resins (Lewatit 
+CNP80) where performed at room temperature ( ~ 20 °C).  The first run utilising 20 mL of each resin  and the  
+elemental distribution are shown in Figure 44 and Figure 45 for the Amber sep 920U and in Fi gure 46 and Figure 
+47 for the Lewatit CNP80.  Ambersep 920U did not load the major species but did load weakly the minor species 
+with them being displaced during the water wash.  Therefore there is no need to elute the resin as they were 
+displaced during the water wash.  Lewatit CNP80 results showed the lithium is being displaced by K, Cs, Rb and Na 
+in solution but still some lithium remained on the resin.   The deportment of elements on the resin to filtrate and 
+accountabilities are presented in Table 27.  The results confirm the resin will load K, Rb, Na, and Cs over the 
+lithium.Figure 44.  Major Species from strong anionic resin (Ambersep 920U ) (Run 1).  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 39 
+  
+Figure 44.  Major Species from strong anionic resin (Ambersep 920U ) (Run 1) . 
+ 
+Figure 45.  Minor Species from strong anionic resin (Ambersep 920U ) (Run 1) . 
+ 
+Figure 46.  Major Species from weak cati onic resins (Lewatit CNP80) (Run 1).  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 40 
+  
+Figure 47.  Minor Species from weak  cationic resins (Lewatit CNP80) (Run 1).  
+Table 27.  Deportment and accountability of the major elements for Run 1. 
+Element Mass Deportment (mg)  Recovery  
+Accountability  
+Feed  Filtrate  Resin  Filtrate  Resin  
+Li 263 183 147 55.4%  44.6%  125.5%  
+K 1332  197 963 17.0%  83.0%  87.1%  
+Na 304 93 318 22.7% 77.3% 135.3% 
+Rb 86 15 61 19.4%  80.6%  87.8%  
+Cs 23 4 27 12.9% 87.1% 136.9% 
+ 
+4.12.2.2  Run 2  
+The second  run utilising 80 mL of each resin and the elemental distribution are shown in Figure 48 and Figure 49 
+for the Ambersep 920U and in Figure 50 and Figure 51 for the Lewatit CNP80.  Ambersep 920U once again did not 
+load the major species but did load weakly the minor s pecies which were  displaced off the resin during the water 
+wash.  Lewatit CNP80 results showed the lithium and sodium were being displaced by K, Cs and  Rb in solution but 
+still a considerable amount of lithium remained on the resin.   The deportment of elem ents on the resin to filtrate 
+and accountabilities are presented in  Table 28.  The results confirm the resin will load in the preference K, Rb, Cs, 
+and Na  over the li thium. Figure 44.  Major Species from strong anionic resin (Ambersep 920U ) (Run 1).  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 41 
+  
+Figure 48.  Major Species from strong anionic resin (Ambersep 920U) (Run 2).  
+ 
+Figure 49.  Minor Species from strong anionic resin (Ambersep 920U ) (Run 2).  
+ 
+Figure 50.  Major Species from weak cationic resins (Lewatit CNP80) (Run 2).  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 42 
+  
+Figure 51.  Minor Species from weak  cationic resins (Lewatit CNP80) (Run 2).  
+Table 28.  Deportment and accountability of the major elements for Run 2. 
+Element Mass Deportment (mg)  Recovery  
+Accountability  
+Feed  Filtrate  Resin  Filtrate  Resin  
+Li 569 175 421 29.4%  70.6%  104.7%  
+K 2633 204 2054 9.0% 91.0% 85.7% 
+Na 168 108 49 68.7%  31.3%  93.7%  
+Rb 163 88 134 39.6% 60.4% 136.6% 
+Cs 57 24 21 52.4%  47.6%  79.5%  
+ 
+4.12.3  Equilibrium loadings  
+To understand the maximum loading achievable from the solution equilibrium resin loading experiments were 
+undertaken  with the weak cationic resin (Lewatit CNP80) .  The results are shown in Figure 52 where it show s the 
+loading of Cs, Rb and Li will rise sharply to reach a maximum loading of 80 g/L onto the resin.  K had the highest 
+preference followed by Na, Li, Rb and Cs.  
+ 
+Figure 52.  Equilibrium loading of the various major species onto weak cationic resins (Lewatit CNP80). 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 43 
+ 4.13 Electro dialysis  
+Preliminary electrodialysis test  was unde rtaken using synthetic solution  of lithium sulphate  under  a constant 
+current  density of 35 mA/cm2.  Figure 53 shows the lithium migration from the salt chamber to the base chamber 
+over a total electrolysis time of 4 hours.  
+ 
+Figure 53.  Variation of Li concentration in salt a nd base chambers  over time . 
+It can be seen that the lithium concentration in the salt chamber decreased whereas the lithium concentration in 
+the base chamber increased over time.  Approximately 18 w/w% lithium in the salt chamber migrated across to the bas e chamber with an average transfer rate of 0.66 g/h lithium.  Lithium accountability for the test was 98.8%.  
+The production of sulfuric acid in the acid chamber was confirmed by performing acid -base titration of the samples 
+collected periodically.  Figure 54 shows that the solution acidity increased with time.  This indicates possibility of 
+recovering sulfuric acid to be recycled back into the process flowsheet.  
+ 
+Figure 54.  Variation of H+ concentration in acid chamber over time. 
+Figure 55 shows the potentials measured during the test. The average cell  voltage in this test was 15.78 V.  The 
+average anodic and cathodic potentials measured at 1.68 V/NHE and 2.82 V/NHE respectively.  This indicates a very high voltage drop across the cell.  0510152025303540
+0 1 2 3 4Li concentration (g/L)
+Electrolysis time (hour)Salt Chamber Base Chamber
+00.20.40.60.811.2
+0 1 2 3 4H+concentration (M)
+Electrolysis time (hour)
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 44 
+  
+Figure 55.  Variation of electrolysis vo ltage over time. 
+To explain the high voltage drop across the cell, it must first be pointed out that sulphate , unlike choride,  has very 
+limited ionic mobility in electrolysis , which has been observed in previous work (Barmi, et al. 2013 , Confidential 
+Repor t for Reed Industrial Minerals Pty Ltd).  This is therefore an expected outcome.  Apart from that, the voltage 
+drop can also be due to the voltage loss on the central compartment (i.e. salt chamber) of the cell because of the 
+distance between the cation exchange membrane and the anion exchange membrane.  This is evident from the 
+higher temperature rise observed in the salt chamber than in the other two chambers.  Another possible cause is 
+the high resistance from the membranes used.  
+ 
+4.14 By-product evaluation  
+A number of options for production of by-products  considered as potential ly important were investigated.  These 
+include the production of a high quality gypsum precipitate, fluoride recovery and sodium silicate production.  
+Neutralising the leach solution to pH 1 -1.5 will produce a clean gypsum product  so no further purification options 
+were investigated . 
+4.14.1  Precipitates  
+4.14.1.1  Precipitate s izing  
+An attempt was made to process representative samples from the precipitated materials formed during the 
+neutralisation through a series of cyclosizers retaining a different, gradually decreasing, size fraction.  It was 
+observed that there was o nly sufficient material to run s tage 1 and 2 precip itates through the cyclosizer.   Both 
+precipitates were very  fine.  For the Stage 1 precipitate , the entire material passed through the final cyclone that 
+has an equivalent size below 13.1  μm.  For the stage 2 precipitate , ~ 94% of the material passed through the final 
+cyclone giving a n approximate  P80 of 10  μm. 
+ 024681012141618
+0 1 2 3 4Potential (V)
+Electrolysis time (hour)Anode Potential, NHE Cathode Potential, NHE Cell Voltage
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 45 
+ Table 29.  Cyclosizing data for the s tage 2 precipitate . 
+Corrected Separation Size  Weight Retained  Cumulative Weight  
+Cyclone  µm (g) % % Retained  % Passing  
+C1 46.3 0.0 0.0 0.0 100.0  
+C2 32.3 0.0 0.0 0.0 100.0  
+C3 23.2 0.8 1.5 1.5 98.5  
+C4 15.9  1.3 2.4 3.9 96.1  
+C5 13.1 1.4 2.6 6.5 93.5  
+-C5 -13.1 50.8  93.5    
+Table 30.  Elemental distribution for cyclosized s tage 2 precipitate . 
+ Distribution (%)  
+Cyclone  Mass 
+(%) Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+C1 - - - - - - - - - - - - - 
+C2 - - - - - - - - - - - - - 
+C3 1.5% 1.5% 1.0% 4.4% 1.1% 0.8% 0.0% 0.4% 0.5% 0.3% 0.0% 1.0% 2.9% 
+C4 2.4% 2.4% 1.7% 3.5% 2.6% 2.2% 0.0% 0.9% 0.4% 0.3% 0.1% 2.9% 5.3% 
+C5 2.6% 2.4% 1.9% 8.2% 3.9% 3.6% 0.0% 1.2% 0.3% 0.2% 0.1% 4.9% 5.7% 
+-C5 93.5%  93.7%  95.4%  83.9%  92.4%  93.5%  99.9%  97.5%  98.7%  99.2%  99.8%  91.3%  86.1%  
+ 
+4.14.1.2  Magnetic separation of precipitates  
+The stage 2 and 3 precipitates w ere put through a Mecal  WHIMS at 16,000 Gauss using 2 mm stainless steel media.  
+The elemental distributions of those separations are presented in Table 31 and Table 32 with the magnetic fraction 
+illustrated in Figure 56.  While there was some differences and some concentration the separation largely followed 
+the mass and no clean product was produced.  
+Table 31.  Elemental distribution for magnetic separation of stage 2 precipitate.  
+ Distribution (%)  
+Fraction  Mass (%)  Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+Mags  5.3% 8.3% 7.4% 11.3% 13.4% 6.8% 10.4% 9.4% 18.0% 3.9% 6.0% 6.3% 0.0% 
+Non Mags  94.7% 91.7% 92.6% 88.7% 86.6% 93.2% 89.6% 90.6% 82.0% 96.1% 94.0% 93.7% 100.0% 
+Table 32.  Elemental distribution for magnetic separation of stage 3 precipitate.  
+ Distribution (%)  
+Fraction  Mass (%)  Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+Mags  12.3% 15.8% 15.2% 18.8% 26.4% 20.2% 0.4% 14.0% 13.9% 11.7% 17.4% 12.9% 2.7% 
+Non Mags  87.7%  84.2%  84.8%  81.2%  73.6%  79.8%  99.6%  86.0%  86.1%  88.3%  82.6%  87.1%  97.3%  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 46 
+  
+Figure 56.  Elemental distribution to the magnetic fraction.  
+4.14.1.3  Flotation of precipitates  
+Stage 2 precipitate was floated with sodium oleate at pH 9.5 and a concentrate and tail w ere analysed.  The 
+elemental distributions are presented in Table 33.  T his separation also  largely followed the mass and no clean 
+product was produced.  
+Table 33.  Elemental distribution for flotation of stage 2 precipitate. 
+ Distribution (%)  
+Fraction  Mass 
+(%) Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+Con 16.5% 15.0% 22.6% 19.7% 30.5% 15.3% 30.3% 15.0% 13.1% 18.3% 16.3% 15.7% 33.0% 
+Tail 83.5% 85.0% 77.4% 80.3% 69.5% 84.7% 69.7% 85.0% 86.9% 81.7% 83.7% 84.3% 67.0% 
+ 
+4.14.2  Leach residue  
+4.14.2.1  Leach residue sizing  
+The lepidolite leach residue was run through a cyclosizer.  It was very fine, with the majority (79.1%) pas sing 
+through the final cyclone that has an equivalent size below  13.3  μm ( Table 34).  The leach residue had a P 80 of 
+15.2. μm.  The size by assay shows 10% of the fluoride was recovered in 7% of the mass in the coarsest fraction.  
+    
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 47 
+ Table 34.  Cyclosizing data for the lepidolite leach residue . 
+Corrected Separation Size  Weight Retained  Cumulative Weight  
+Cyclone  µm (g) % % Retained  % Passing  
+C1 46.8  3.6 6.6 6.6 93.4  
+C2 32.7 3.6 6.7 13.2 86.8 
+C3 23.5  2.3 4.2 17.4  82.6  
+C4 16.1 0.9 1.7 19.2 80.8 
+C5 13.3  1.0 1.8 20.9  79.1  
+-C5 -13.3  43.1  79.1      
+ 
+Table 35.  Elemental d istribution of the  cyclosized lepidolite leach residue . 
+ Distribution (%)  
+Cyclone  Mass (%)  Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+C1 6.6% 1.0% 0.8% 0.1% 9.6% 1.3% 0.2% 20.9% 2.2% 0.2% 1.0% 5.0% 10.1% 
+C2 6.7% 0.9% 0.6% 0.0% 4.1% 0.9% 1.2% 12.3% 1.9% 0.0% 0.5% 4.2% 0.8% 
+C3 4.2% 0.4% 0.3% 0.0% 2.2% 0.3% 0.6% 5.8% 0.8% 0.0% 0.2% 1.8% 0.3% 
+C4 1.7% 0.1% 0.1% 0.0% 1.1% 0.1% 0.3% 2.2% 0.3% 0.0% 0.1% 0.6% 0.1% 
+C5 1.8% 0.1% 0.0% 0.0% 1.3% 0.0% 0.2% 2.4% 0.2% 0.0% 0.0% 0.4% 0.1% 
+-C5 79.1%  97.4%  98.2%  99.9%  81.7%  97.4%  97.5%  56.3%  94.7%  99.8%  98.2%  88.0%  88.7%  
+ 
+4.14.2.2  Mineralogy  
+XRD analyses of the five size fractions of the lepidolite leach residue showed that the distribution of mineral phases 
+varied with size.  The material from cone 1 of the cyclosizer (+46.8  μm) was mostly gypsum and fluorite ( Figure 
+57).  The material from cones 2 -5 were of particle size +32.7, +23.5, +16.1 and +13.3  μm, respectively contained 
+various silicates ( Figure  58).  
+ 
+Figure 57.  XRD pattern of lepidolite leach residue reporting to cone 1 of the cyclosizer . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 48 
+  
+Figure 58.  XRD pattern of lepidolite  leach residue reporting to cone s 2-5 of the cyclosizer . Note: trilithionite is  lepidolite . 
+ 
+4.14.2.3  SEM -EDX examination  
+SEM examination and EDX analyses of different size fractions of the leached lepidolite residue identified the same 
+phases detected by XRD.  The  material from cone 1 of the cyclosizer ( Figure 59) was mostly gypsum and fluorite.  
+The material from cones 2 -5 contained progressively finer silicate particles with  relatively large platy mica particles 
+(Figure 60 & Figure 61).  Due to their  platy nature, these mica particles were larger than would be expected from 
+the cyclosizer parameters.  Selected images and spectra from these analyses are shown in the following section.  
+Note that the scales in  Figure 59-Figure 61 are the same size.  
+None of the 46 EDX analyses of material from cones 2 -5 showed the presence of fluo ride.  The majority of the 
+residual fluoride was in the coarse material.  This suggests the residual fluorite could be recovered by a size based 
+separation.  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 49 
+  
+Figure 59.  Secondary electron SEM image of lepidolite leach residue reporting to cone 1 of the cyclosizer . 
+ 
+Figure 60.  Secondary electron SEM image of lepidolite leach residue reporting to cone 3 of the cyclosizer . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 50 
+  
+Figure 61.  Secon dary electron SEM image of lepidolite leach residue reporting to cone 5 of the cyclosizer . 
+In the material reporting to cone 1, pitted fluorite particles u p to ~ 50 μm in size were identified adhering to 
+calcium/aluminium silicate particles ( Figure 62 & Figure 63). 
+ 
+Figure 62.  SEM image of the coarsest fraction of the lepidolite leach residue reporting to cone 1 of the cyclosizer, with the locations of 
+EDX analyses marked . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 51 
+  
+Figure 63.  EDX spectra of spots analysed in Figure 62. 
+ 
+Figure 64.  SEM image  and false colour element map of a large particle from the coarsest fraction of the lepidolite leach residue 
+reporting to cone 1 of the cyclosizer . Locations of EDX analyses marked . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 52 
+  
+Figure 65.  EDX spectra of spots analysed in Figure 64. 
+ 
+Figure 66.  SEM image of lepidolite leach residue reporting to cone 3 of the cyclosizer, with the locations of EDX analyses marked . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 53 
+  
+Figure 67.  EDX spectra of points analysed in Figure 66. 
+ 
+Figure 68.  SEM image of lepidolite leach residue reporting to cone 4 o f the cyclosizer, with the locations of EDX analyses marked . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 54 
+  
+Figure 69.  EDX spectra of points analysed in Figure 68. 
+ 
+4.14.2.4  Fluorite recycling  
+Given some  of the fluorid e was present in the coarse material, it may be possible to recover and recycle unused 
+fluorite by a simple size separation process.  This could reduce the amount of fresh fluorite that needs to be added 
+into the leaching circuit.  A simple flowsheet for such a process is shown in Figure 70. 
+ 
+Figure 70. Simplified flowsheet for the recycling of fluorite from the leached residue . 
+A cyclone test is  needed to assess the effectiveness of this process. However, since only  10% of the contained 
+fluoride  reports to the oversize material,  it may  not be economically feasible . 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 55 
+ 4.14.3  Sodium silicate production  
+The mass dissolution  data are summarised in Figure 71 and show that the amount of solid phase dissolved 
+increased with increasing dosage of Na:Si, from about 25% at Na:Si mol ratio of 0.2 to 39% at Na:Si mol ratio of 
+2.6 for the wet residue.  For the dry residue the mass dissolution with Na:Si mole ratio was almost linear, increas ing 
+from 15% at Na:Si mol ratio of 0.2 to 39% at Na:Si mol ratio of 2.6.  Slightly more dissolution was observed from 
+the dry feed above Na:Si mol ratio of 0.8 than from the wet feed.  
+ 
+Figure 71.  Mass of feed dissolved as a function of NaOH dosage . 
+The percentage dissolution s of silicon from each of the feed samples are  summarised in Figure 72. These data 
+show that significantly more silicon was dissolved from the dry feed than from the wet feed.  In case of the former, 
+the dissolution was approximately 0.2% even at the relatively low Na:Si mol ratio of 0.4, increasing gradually to a 
+maximum  of 49.6% at the high est reagent dosage ( Na:Si mol ratio of 2.6 ). A significantly different profile was 
+observed with the wet feed, where the lowest reagent dosages (0.2-0.6) resulted in very little dissolution (<  0.1%) 
+of silicon before increasing almost linearly with increas ing NaOH dosage to a maximum of 41.3% at Na:Si mol ratio 
+of 2.6.  
+ 
+Figure 72.  Dissolution of silicon from the dry and wet feed (i.e.  leach residue)  with NaOH dosage . 
+ 0%5%10%15%20%25%30%35%40%45%
+0.0 0.5 1.0 1.5 2.0 2.5 3.0Mass dissolved
+NaOH dosage (Na:Si molar ratio)Dry feed
+Wet feed
+Amorphous material absent 
+from residue beyond this point  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 56 
+ The dissolution of the other  major  elements in the residue (Li,  Rb, Fe , Mg, K  and F) are  summarised in Figure 73 
+and Figure 74 for the dry and wet feed , respectively .  These data show that considerable amounts of Li, Rb , K, Mg  
+and F dissolved from the material, in particular from the wet feed.  The dissolution s of Fe (and Al, not plotted) 
+were generally below 5%.  
+ 
+Figure 73.  Dissolution of other elements from the dry feed . 
+   
+Figure 74.  Dissolution of other elements from the wet feed . 
+The chemical compositions of each of the filtrates are given in Table 36 and Table 37.  Th e data show that there 
+was a significant increase before a gradual decrease in the silicon concentration in the tests with dry residue, while 
+there was a gradual increase in the tests with the wet residue  above a Na:Si molar ratio of 0.8 . Below this 
+concentration very little silicon dissolved. Th e gradual decrease in the silicon conc entration for the dry residue 
+was attributed to dilution of the silicon concentration by the further addition of the 5 M NaOH reagent solution 
+above a Na:Si molar ratio of 1.2 once the maximum  silico n dissolution ha d been reached.  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 57 
+ Table 36.  Composition of filtrates produced by treating dry  leach residue at different NaOH dosage . 
+ Assay (ppm)  
+Na:Si mol r atio Li Si Al Ti Rb Fe Na Mg Mn Ca K F 
+0.2 160 88 9 1 492 1 24,790 1 1 782 3,763 25 
+0.4 84 660 22 1 308 1 45,779 1 3 70 3,036 84 
+0.6 59 33,045 102 1 291 1 68,373 1 1 12 2,965 780 
+0.8 62 39,818 249 1 306 2 82,991 1 1 20 3,447 710 
+1.0 58 39,371 265 1 301 3 86,696 1 1 13 3,251 816 
+1.2 59 37,294 346 1 300 7 87,870 1 2 10 3,047 1,609 
+1.8 63 26,785 326 1 285 8 87,971 1 3 7 2,354 2,553 
+2.2 55 23,461 272 1 238 5 89,696 1 2 3 1,981 2,776 
+2.6 40 19,776 233 1 195 5 98,097 1 2 2 1,776 3,135 
+ 
+Table 37.  Composition of filtrates produced by treating wet leach residue at different NaOH dosage . 
+ Assay (ppm)  
+Na:Si mol r atio Li Si Al Ti Rb Fe Na Mg Mn Ca K F 
+0.2 108 5 77 1 1,336 1 58,794 3 33 733 3,537 44 
+0.4 876 77 8,209 1 1,312 109 24,455 25 351 556 3,771 3,940 
+0.6 884 157 7,008 1 997 42 34,519 24 359 711 3,070 2,290 
+0.8 259 12,000 129 1 841 2 52,384 1 1 204 3,334 4,901 
+1.0 398 14,413 76 1 446 1 71,656 1 1 16 2,262 5,695 
+1.2 422 17,435 85 1 514 2 75,466 1 1 15 2,329 6,700 
+1.8 386 23,479 74 1 453 2 80,174 1 1 2 1,745 2,138 
+2.2 368 20,031 143 1 383 2 79,645 1 2 2 1,610 2,461 
+2.6 303 22,634 88 1 311 5 80,210 1 1 3 1,359 2,230 
+ 
+4.14.3.1  Kinetic tests  
+The rate of sodium silicate formation was tested with a Na:Si molar ratio of 2.6 . The rate of mass dissolution  is 
+shown  in Figure 75 while the  rate of  silicon dissolution is shown  in Figure 76.  The kinetic data show that  36% of  
+the mass of the dry residue  dissolved in 3 hours with 40% dissolving over 24 hours. Under the same conditions,  
+29% of the mass of wet residue dissolved in  3 hours , increasing to  44% in 24 hours.  In both tests,  the extent of 
+silicon dissolution was similar, increasing to a maximum of 50% over  24 hours.  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 58 
+  
+Figure 75.  Mass of feed that dissolved as a function of time at Na:Si molar ratio of 2.6. 
+ 
+Figure 76.  Dissolution of silicon from the dry and wet feed at Na:Si molar ratio of 2.6 with time . 
+The dissolution of the other elements (Li, Rb, Fe, Mg, K and F) are summarised in Figure 77 & Figure 78.  The 
+dissolution of K, Mg , F and Fe were similar. C onsiderably more Li  and Rb dissolved (20 to 80% and 34  to 65% , 
+respectively) from  the wet residue.  
+ 
+Figure 77.  Dissolution of other elements from the dry  feed . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 59 
+  
+ 
+Figure 78.  Dissolution of other elements from the wet feed . 
+ 
+4.14.3.2  Autoclave leaching  
+For comparison with the sodium silicate formation tests reported above, carried out under atmospheric pressure, 
+a test was also conducted under conventional conditions used in the production of this material which involve high temperature and pressure.   The test was conducted in a Parr 2 L titanium autoclave at 220  °C with a residence 
+time of 1 hr.  While the leach results for the dry residue were comparable to those obtained in the 100 °C tests, 
+the dissolution of silica from the wet residue autoclave test was about half of what was achieved from the 100 °C 
+leach tests ( Figure 79).  Once again, more impurities were dissolved from  the wet residue product  than the dry 
+residue product .  
+ 
+Figure 79.  Dissolution of elements in autoclave . 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 60 
+ 4.14.3.3  Sodium silicate residue characterisation  
+There was a change in the prominence of different phases in the residue depending on the NaOH dose  (Figure 80). 
+The broad hump from 18 -33° disappears from the XRD patterns once the Na:Si ratio exceeds 0.4. It was at this 
+point that silicon was also observed to dissolve. It is thought that this corresponds to the dissolution of an 
+amorphous silicate phase in the leached residue once a minimum sodium hydroxide dosage is reached.  
+ 
+Figure 80. XRD patterns for the residue  left after sodium silicate production with varied NaOH dosage . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 61 
+ A mica phase, possibly trilithionite (lepidolite) is present in all residues, indicating that it is not attacked by sodium 
+hydroxide.  Quartz was also present in all residues suggesting incomplete dissolution. While gypsum was identified 
+in the leached residue, it was not present in the residues after treatment with NaOH  above a Na:S i ratio of 0.4 and 
+above . Calculations with HSC Chemistry v7.1.1 indicate that the conversion of gypsum to calcium hydroxide is 
+favourable at high pH.  However, c rystalline calcium hydroxide was not identified in the residues.  
+𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶4∙2𝐻𝐻2𝐶𝐶+ 2  𝐶𝐶𝐻𝐻− → 𝐶𝐶𝐶𝐶(𝐶𝐶𝐻𝐻)2+ 2 𝐻𝐻2𝐶𝐶+ 𝐶𝐶 𝐶𝐶 42− 
+∆𝑟𝑟𝑟𝑟𝑟𝑟𝐺𝐺100°𝐶𝐶=  −10.8 𝑘𝑘𝑘𝑘/𝑚𝑚𝑚𝑚𝑚𝑚  
+T
+here was another peak around 22° 2θ in several of the residues. It is not clear with which mineral this peak is 
+associated. As with the EDX analyses, not all silicate phases present could be defin itively identified . 
+4.14.3.4  Accountability  
+The average accountability for the main elements for the Na:Si dosage tests are summarised in Table 38.  The 
+kinetic  accountabilitie s are shown in  Table 39.  The data appears reasonably sound for all elements confirming the 
+validity of the observed findings.  
+Table 38.  Average accountability  for Na:Si dosage tests . 
+Accountability  
+Feed  Li Si Al Ti Rb Fe Na Mg Mn Ca K F 
+Dry 84.9% 101.6% 92.3% 82.2% 101.6% 95.1% 71.0% 97.9% 99.6% 120.0% 98.2% 106.4% 
+Wet  118.9%  103.1%  91.4%  107.1%  106.0%  105.3%  70.6%  97.8%  100.5%  92.8%  117.3%  121.7%  
+ 
+Table 39.  Average accountability for kinetic at Na:Si dosage  of 2.6. 
+Accountability  
+Feed  Li Si Al Ti Rb Fe Na Mg Mn Ca K F 
+Dry 92.1% 106.6% 92.3% 126.0% 104.8% 110.3% 76.7% 144.7% 105.3% 114.6% 111.7% 114.9% 
+Wet  139.9% 116.4% 112.1% 180.1% 101.9% 161.9% 74.1% 147.3% 126.0% 106.6% 143.1% 159.7% 
+ 
+4.15 Alunite Production  Process  
+Given the precipitating products of aluminium contribute to lithium loss , it would desirable to remove some of 
+this aluminium before neutralisation.  So t he production of alunite from the lepidolite leach liquor was examined.  
+This is where potassium sulphate  (K2SO 4) is added and  contacted with the leach liquor to form an alunite 
+(KAl(SO 4)2) precipitate  at 80 °C . 
+𝐴𝐴𝑚𝑚2(𝐶𝐶𝐶𝐶4)3+𝐾𝐾2𝐶𝐶𝐶𝐶4↔2𝐾𝐾𝐴𝐴𝑚𝑚(𝐶𝐶𝐶𝐶4)2 
+I
+t was found 80% and 100% stoichiometric  amount of potassium sulphate produced a precipitate but 50% did not 
+and t he precipitate s redissolved when washed  water.  The analysis of the wash solution which contained entrained 
+liquor and precipi tate are showed the following results ( Figure 81). 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 62 
+  
+Figure 81.  Alunite composition from the leach liquor  at different stoichiometric addition of K 2SO 4. 
+The results showed that alunite or another aluminium precipitate formed under these acidic conditions at high 
+potassium sulphate additions, even though in the absorption tests both the alunite and gibbsite pr ecipitates 
+dissolved at pH 1. The results also showed  that aluminium would  absorb  the fluoride with minimum  lithium loss 
+(< 8%).  It is therefore possible that a fluoride rich precipitate could be formed after stage 1 precipitation with 
+addition of potassium sulphate.  It is likely that the original results presented in the initial report for stage 1 seeding 
+was due to addition of the wrong seed in that the stage 2 precipitate was used which contains aluminium precipitates which resulted in similar fluoride  and lithium adsorption.  To confirm the validity of these results the 
+accountabilities are presented in Table 40 below , showing poor accountabilities for the major elements Ca and Si, 
+as well as the minor elements Fe and Mn . 
+Table 40.  Accountability for alunite production . 
+Accountability  
+Stoichiometry  
+of K 2SO 4 Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+80% 90.5% 90.1% 139.1% 125.7% 88.8% 94.6% 101.9% 118.4% 164.0% 101.2% 100.0% 66.9% 
+100% 93.2% 110.5% 121.5% 122.3% 91.3% 104.5% 101.7% 123.6% 143.1% 58.1% 101.5% 93.1% 
+ 
+This work was r epeated  with bulk test runs of the process where alunite was initially precipitated followed by the 
+three stages of neutralisation.  It was found that  at 80 °C alunite did not precipitate but needed to be cooled to 
+room temperature to form.  T wo test runs were performed as , in the first run , too much lime was added in stage 
+2 that resulted in the pH increasing  to stage 3 pH.  It was noted in this test that, c uriously , not all the fluoride 
+precipitated ( Table 41).   
+The filtratio n results of these runs are presented below ( Table 41 & Table 42).  While the fluoride did precipitate 
+with the alunite it was  only ~ 30% not 90% which we found in the preliminary runs.   However , considerably less 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 63 
+ lithium and rubidium ( ~ 50%) was lost to the neutralisation precipitates  compared to three stage neutralisation .  
+Nonetheless , there was considerably more caesium  (~ 30%) that precipitated with  the alunite. The accountabilities 
+of these runs are presented in Table 43. 
+Table 41.  Final filtrate analyses for preliminary alunite process (Run 1) . 
+    Assay (ppm)  
+Stage  Addition 
+(kg/m3) Filtrate 
+pH Filtrate 
+Eh Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+Feed  - 0.18  480 5,107  38,596  117 752 2,647  2,909  898 2,098  177 18,924  266 15,116  
+Alunite  187 0.88  504 3,347  18,326  71 423 2,179  1354  406 1,418  1 23,447  80 10,638  
+Stage 1  228 1.51  492 2,199  12,315  29 305 1,192  413 77 912 27 19,458  78 9,255  
+Stage  2/3 101 11.71  141.4  2,165  114 9 28 961 256 8 1 50 2,833  43 2,991  
+ 
+Table 42.  Final filtrate analyses for preliminary alunite process  (Run 2) . 
+    Assay (ppm)  
+Stage  Addition 
+(kg/m3) Filtrate 
+pH Filtrate 
+Eh Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+Feed  - 0.18  480 5,107  38,596  117 752 2,647  2,909  898 2,098  177 18,924  266 15,116  
+Alunite  111 1.03  522 3,851  21,484  54 606 1,725  1,174  592 1,331  44 43,960  83 12,260  
+Stage 1  243 3.02  505 2,239  11,887  46 435 1,205  738 79 883 43 23,513  64 8,535  
+Stage 2  77 6.53  351 1,655  105 15 39 1,233  469 64 442 44 3,590  58 166 
+Stage 3  17 12.72  -51 1,417  110 14 25 1,162  485 30 8 47 3,059  57 124 
+ 
+Table 43.  Accountability for alunite production process.  
+Accountability  
+Run Stage  Li Al Fe Rb Mg Mn Ca K Cs F 
+1 Alunite  73.1%  65.6%  78.1%  87.5%  63.7%  73.0%  81.9%  133.8%  100.8%  92.2%  
+1 1 136.9%  136.7%  163.2%  94.3%  136.1%  133.5%  75.1%  208.7%  185.5%  141.8%  
+1 2/3 159.3%  42.4%  76.9%  123.5%  46.4%  55.2%  67.9%  53.9%  102.8%  63.6%  
+2 Alunite  82.9%  79.5%  88.1%  75.5%  85.2%  77.8%  192.3%  237.2%  125.9%  128.1%  
+2 1 151.8%  102.3%  163.4%  124.8%  169.7%  146.1%  114.6%  113.2%  154.4%  119.7%  
+2 2 103.8%  121.8% 88.7%  137.9%  155.5%  87.9%  48.0%  115.7%  137.7%  76.7%  
+2 3 125.0%  155.4%  95.2%  129.5%  111.8%  47.1%  43.9%  121.1%  134.0%  101.4%  
+ 
+4.16 Final Products  
+To complete the project, precipitation of lithium carbonate  as final product and other target species like rubidium 
+and caesium  were investigated .  Stoichiometric addition of sodium carbonate was added at 80 °C to the final 
+filtrate and the precipitate filtered after 10 minutes and 24 hours.  The elemental distrib utions of the precipitate 
+from  this test are presented in Table 44.  The results showed very  little lithium precipitated, rather the calcium 
+was removed and there was  very little difference between the 10 minutes and 24 hour  results.  This was most 
+likely due to  the solubility of calcium carbonate being  2000 fold lower tha n lithium carbonate . Hence, calcium 
+carbonate preferentially  precipitate d from solution.  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 64 
+  
+A furthe r test was conducted where  carbon dioxide was added and after removing the precipitate , stoichiometric 
+amounts  of aluminium sulphate or sodium sulph ate was added and the precipitate filtered  followed by cooling of 
+the precipitate at < 5 °C overnight.  Th is test was to recover the Rb and Cs as a double sulph ate precipitat e and 
+possibly recover any  potassium as a sulphate precipitate through cooling.  The results of this series of tests are 
+presented in Table 45.  The carbon dioxide did precipitate some lithium but also precipitated the calcium.    Adding 
+aluminium sulphate recovered some of the rubidium and caesium and cooling the precipitate result ed in 
+precipitation of most of the  potassium and any residual calcium.  It also highlights that the Rb and Cs have been 
+recovered and any potassium could be recovered utilising the excess sulph ate in the solution.  
+Table 44.  Elemental distribution for Li 2CO 3 precipitate. 
+  Distribution (%)  
+Process  Time (hr)  Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+1:1 Na 2CO 3 0.2 0.2% 0.8% 1.3% 2.9% 0.0% 7.3% 2.1% 0.3% 68.3% 0.8% 0.3% 1.1% 
+1:1 Na 2CO 3 24 0.3% 1.0% 5.0% 3.0% 0.0% 8.8% 2.2% 0.3% 69.1% 1.2% 0.5% 1.6% 
+ 
+Table 45.  Elemental distribution for Li 2CO 3, RbCsAl(SO 4)2, K2SO 4 precipitate. 
+  Distribution (%)  
+Process  Time (hr)  Li Al Si Fe Rb Na Mg Mn Ca K Cs F 
+CO 2 1 36.7% 2.3% 3.2% 1.7% 11.3% 16.6% 4.9% 1.5% 58.3% 12.5% 2.4% 0.0% 
+Al2(SO 4)3 1 2.5% 8.9% 15.6% 7.5% 42.9% 44.1% 5.7% 62.9% 36.6% 0.3% 31.1% 23.1% 
+Cooled  24 1.7% 0.1% 67.2% 12.4% 1.2% 12.0% 24.6% 29.4% 84.7% 95.1% 48.1% 2.6% 
+ 
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 65 
+ 5 Conclusions  and Recommendations  
+The following conclusions can be summarised from this work:  
+Phase 1 
+Stage 1 neutralisation  
+• A calcite dosage of 243 kg/m3 was needed to raise pH to 1 in 4 hours at any temperature in the range 
+25-80 °C, with or without seeding;  
+• The kinetic precipitation tests showed that a temperature > 50 °C was needed to minimise lithium and 
+rubidium ( ~ 5%) losses with calcite ; 
+• Silica and magnesium precipitation  were greater at temperature < 50 °C while iron precipitation was  
+greater at 80 °C; 
+• Seeding promoted the precipitation of all species  at all temperatures ; and  
+• Gypsum was the major and only crystalline phase identified in the precipitate.  
+Stage 2 neutralisation  
+• A hydrated lime dosage of 80 kg/m3 was needed to raise the pH to 5 -6 in 6 hours at any temperature in 
+the range 25 -80 °C, with or without seeding; 
+• This stage showed the greatest losses of lithium (15 -23%), rubidium (9 -67%) and caesium (56 -94%) to 
+the precipitate ; 
+• Seeding showed little effect at 8 0 °C but did promote precipitation at 25  °C; 
+• Lowering the temperature would reduce  the rubidium, caesium and fluoride precipitation ; and  
+• Gypsum was again the main crystalline phase identified in the precipitate but it is where most of the 
+aluminium, fluoride and silica are  precipitated.  A new fluoride species ( not predicted by HSC software) 
+was identified whi ch was associated with the hydrated aluminium ( AlF 3-x(OH) x∙nH 2O). 
+Stage 3 neutralisation  
+• A hydrated lime dosage of 26 kg/m3 was needed to raise pH to 13 in 6 hours regardless of the 
+temperature or if seeded or not;  
+• Minimal lithium (1 -10%), rubidium (1 -6%) or caesium (0.1 -0.3%) was lost to the precipitate at 80 °C but 
+the loss increased at 25 °C;  
+• Seeding had no significant effect; and  
+• Manganese hydroxide was identified in the precipitate, along with calcium hydroxide which indicated 
+that not all the Ca(OH) 2 reacted.  
+Oxidation or reduction  
+• Addition of peroxide (H 2O2) or sulphite (SO 32-) showed a very little effect . There was a  slightly higher 
+lithium loss but neither will assist the neutralisation stage.  
+Filtration  
+• The higher the temperature the faster the filtration rate;  
+• There was no comparable difference between the seeded and unseeded tests; and  
+• The filtration rate for stage 1 with CaCO 3 was the fastest followed by stage 2 with Ca(OH) 2 then stage 3 
+with Ca(OH) 2. 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 66 
+ Li absorption  
+• Apart from gypsum , the two main precipitates, gibbsite (Al(OH) 3) and alunite ( KAl 3(SO 4)2(OH) 6) absorbed  
+~ 50% of the lithium from a synthetic solution;  
+• The other precipitates absorbed < 20% lithium ; and  
+• Testing on real solutions confirmed that in stage 2 filtrate (pH ~ 5), gibbsite and alunite are the main 
+adsorbers of lithium from solution. 
+Phase 2 
+IX ad sorption  
+• The strong anion exchange resin (Ambersep 920U) was  used to recover the metal ions while a weak 
+cationic exchange resin (Lewatit CNP80)  was used to recover the potassium and sodium;  
+• Testing confirmed that metal ions can be recovered from solution, but the extent was limited as they 
+formed both anionic and cationic complexes in solution;  
+• The bonding was weak and the adsorbed ions were easily displaced with water wash; and  
+• The results of the weak cationic exchange resin (Lewatit CNP80)  confirm ed the resin will load K, Rb, Cs , 
+and Na over the lithium . 
+Electrod ialysis 
+• Preliminary tests confirmed that lithium hydroxide can be produced from lithium sulphate  by electro -
+dialysis .   
+• Sulfuric acid was produced as a by -product and can be potentially recycled back into the process 
+flowsheet.  
+By-product production  
+Sodium silicate by -product from leach residue  
+• The production of sodium silicate from the SiLeachTM residue s was possible at the less aggressive 
+atmospheric conditions (100  °C).  However, the conv ersion and extraction was low ( ~ 50 %); 
+• It was determined that the dry feed was more reactive than the wet feed,  which also  dissolved fewer 
+impurities ; and  
+• A Na:Si mol ratio s of less than 0.4 for the dry residue and less than 0.8 for the wet residue very little 
+silicon dissolved (< 1%).  
+Size analysis of leach residue  
+• In the coarsest fraction (+46.8 μm)  mainly gypsum and fluorite was identified by XRD while the finer 
+fractions indicated unreacted phyllosilicates;  
+• SEM confirmed the results showing platy mica in the finer size fractions , and gypsum and fluorite were 
+identified in the coarsest fraction;  
+• This suggests the residual fluorite could be recovered by a size -based separation ; and  
+• Size by size assay confirmed the concentration of fluorite in this fraction but this fraction only contained 
+10% of the total fluoride in the sample.  
+By-p roducts from precipitates  
+• Sizing  showed stage 1 and 2 precipitates were very fine;  
+• Size by assaying showed the  elements were evenly distributed throughout the size fractions so sizing 
+could not be used to separate a particular precipitate from the bulk precipitates; and  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 67 
+ • Magnetic separation and flotation c ould not be used to separate a particular precipitate from the bulk 
+precipitates . 
+Alunite  Process  
+• The production of alunite from the lepidolite leach liquor has been investigate d where varying 
+stoichiometric amounts of potassium sulphate w ere added to the solution;  
+• A precipitate was observed in 80% and 100% stoichiometry but when washed with water the precipitate 
+dissolved;  
+• The predicted residue composition from  the wash solution  shows that the alunite will absorb fluoride, 
+calcium and caesium;  
+• Further testing showed  ~ 30% of the fluoride will be recovered in the alunite precipitate along with 
+caesium;  
+• This method reduced the lithium and rubidium loss by 50% over the traditional three stages of 
+neutralisation. 
+ 
+The following recommendations are proposed:  
+Effect on neutralisation chemical  
+• Calcite should be used to neutralise the liquor to pH 1 - 1.5 followed by solid/liquid separation to  
+remove most of the gypsum as  clean by -produc t; 
+• A temperature of 80  °C is recommended for stage 1 but a lower temperature of 50  °C should be 
+considered for stages 2 and 3;  
+• Addition of peroxide or sulphite is not recommended; and  
+• Seeding is only recommended for stage 1.  
+Absorption  
+• Gibbsite and alunite  appear to be the main precipitate s that can be associated with the lithium loss es, 
+where alunite would also absorb all the other key elements from solutions;  
+• Further work to minimise alunite forming should be investigated through the use of ion exchange resins 
+to remove potassium from solution.  
+Sodium silicate production  
+• Further understanding of what form of silica is being dissolved (amorphous or crystalline) to explain the poor dissolution;  
+• Further work at different temperatures and feed variability is required to assess the effects of these 
+process parameters on the cost and utility of the process; and 
+• Other uses for the amorphous silica in the final residue , such as an additive to fertilisers,  should be 
+investigated . 
+Ion-exchange purification  
+• Further elution testing needs to be investigated to determine if selective elution can be achieved; and  
+• Further equilibrium loadings on synthetic solutions should provide the maximum loading of  each 
+element achievable with that resin.  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 68 
+  
+Alunite production  
+• Further tests are needed to confirm if an alunite/fluoride precipitate will produce a residue suitable for 
+recycling back to leaching; and  
+• Further tests are needed to confirm if lower lithium lo sses are observed by using this process.  
+Electro -dialysis  
+• Further optimisation  to reduc e voltage loss is required, which includes testing at different cell 
+parameters and with different membranes; and  
+• Testing with  real solutions is required . 
+ 
+6 References  
+Barmi, M., Ang, K -L and Nikoloski, A. (2013) The development of a method for production of LiOH·H 2O from a LiCl 
+solution by electrodialysis and crystallization. Confidential Report for Reed Industrial Minerals Pty Ltd. Murdoch University  
+Rosenberg, P. E. ( 2006). Stability relations of aluminium hydroxy -fluoride hydrate, a ralstonite -like mineral, in the 
+system AlF
+3-Al2O3-H2O-HF. The Canadian Mineralogist , 44, 125 -134 
+RRUFF database. RRUFF ID: R040105, Trilithionite from Brown Derby mine, Ohio City, Gunnison  County, Colorado, 
+USA < http://rruff.info/trilithionite/display=default/R040105  > (accessed 10/07/2017)  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 69 
+ 7 Appendices  
+7.1 Detailed testwork procedures  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 70 
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 71 
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 72 
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 73 
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 74 
+ 7.2 XRD results  
+7.2.1  Stage 1  
+7.2.1.1  Stage  1 - unseeded  
+ 
+Figure 82.  XRD analysis of the precipitates  formed in stage 1 at 25 °C. 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 75 
+  
+Figure 83.  XRD analysis of the precipitates  formed in stage 1 at 50 °C. 
+ 
+7.2.1.2  Stage 1 - seeded  
+ 
+Figure 84.  XRD analysis of the precipitates  formed in stage 1 at 25 °C with seeding . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 76 
+  
+Figure 85.  XRD analysis of the precipitates formed in stage 1 at 50 °C with seeding . 
+ 
+ 
+Figure 86. XRD analysis of the precipitates formed in stage 1 at 80 °C with seeding . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 77 
+  
+Figure 87. XRD analysis of the precipitates formed in stage 1 at 80 °C with seeding  (repeat). 
+ 
+Figure 88. XRD analysis of the pre cipitates formed in stage 1 at 80 °C with seeding (higher dose ). 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 78 
+ 7.2.2  Stage 2  
+7.2.2.1  Stage 2 - unseeded  
+ 
+Figure 89.  XRD analysis of the precipitates  formed in stage 2 at 25 °C with hydrated lime . 
+ 
+Figure 90. XRD analysis of the precipitates formed in stage 2 at 80 °C with hydrated lime . 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 79 
+  
+Figure 91. XRD analysis of the precipitates formed in stage 2 at 80 °C with hydrated lime  and H 2O2. 
+7.2.2.2  Stage 2 seeded  
+ 
+Figure 92. XRD analysis of the precipitates formed in stage 2 at 25 °C with hydrated lime  with seeding . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 80 
+  
+Figure 93. XRD analysis of the precipitates formed in stage 2 at 50 °C with hydrated lime with seeding . 
+ 
+ 
+Figure 94. XRD analysis of the precipitates formed in stage 2 at 80 °C with hydrated lime with seeding . 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 81 
+ 7.3 Neutralisation testwork  data  
+7.3.1  Batch precipitation  
+ 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 82 
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 83 
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 84 
+ 7.3.2  Bulk precipitation  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 85 
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 86 
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 87 
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 88 
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 89 
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 90 
+ 7.3.3  Batch kinetic precipitation  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 91 
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 92 
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 93 
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 94 
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 95 
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 96 
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 97 
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 98 
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 99 
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 100  
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 101  
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 102  
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 103  
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 104  
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 105  
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 106  
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 107  
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 108  
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 109  
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 110  
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 111  
+  
+7.3.4  Sodium silicate production  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 112  
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 113  
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 114  
+  
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 115  
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 116  
+ 7.3.5  Precipitate Sizing  
+ 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 117  
+ 7.3.6  Magnetic and flotation separation  
+ 
+ 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 118  
+  
+7.3.7  Ion Exchange  
+ 
+ 
+ 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 119  
+ 7.3.8  Alunite Process  
+ 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 120  
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 121  
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 122  
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 123  
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 124  
+ 7.3.9  Final Products  
+ 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 125  
+  
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 126  
+  
+ 
+ 
+ 
+MRIWA Solution Purification and By -Product Formation – Final Report  Page 127  
+  
+ 
