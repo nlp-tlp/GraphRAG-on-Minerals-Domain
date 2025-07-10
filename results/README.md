@@ -16,3 +16,7 @@ Each schema directory contains two `.csv` files (one for **local search** pipeli
 - `response`: The response provided by the GraphRAG pipeline to the query.
 
 The `.csv` files also contain additional statistics and the context that was used to answer the query.
+
+The directory `Naive_RAG_results` contains results for the pipeline using **basic search**, a vector similarity search implementation.
+
+
