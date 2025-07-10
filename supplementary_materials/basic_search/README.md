@@ -8,3 +8,5 @@ graphrag index --method fast --root ./ragtest
 
 Query:
 python basic_search.py
+
+Note to self: will need .env.example etc., see other readme
