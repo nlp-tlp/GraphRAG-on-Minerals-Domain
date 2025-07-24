@@ -174,3 +174,4 @@ cache/
 output/
 logs/
 .DS_Store
+scan_entities.py
