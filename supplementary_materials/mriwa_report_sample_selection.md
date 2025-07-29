@@ -6,8 +6,8 @@ The sample is selected based on the results of an entity analysis using the [`sp
 
 | Metric                     | Value      |
 |----------------------------|-----------|
-| **Total Entities**         | 103,650   |
-| **Total Words**            | 1,064,496 |
-| **Unique Tokens**          | 98,340    |
-| **Entity Density**         | 9.74      |
-| **Unique Token Density**   | 9.24      |
+| **Total Entities**         | 232,212   |
+| **Total Words**            | 1,687,829 |
+| **Unique Tokens**          | 153,396    |
+| **Entity Density**         | 13.76      |
+| **Unique Token Density**   | 9.09      |
