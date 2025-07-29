@@ -2,12 +2,11 @@
 
 This directory contains the following supplementary materials for the paper titled "GraphRAG on technical documents - impact of knowledge graph schema" by Henri Scaffidi, Prof. Melinda Hodkiewicz, Dr. Caitlin Woods, and Nicole Roocke (2025). 
 
+- [`Basic Search`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/basic_search): The code and settings used to conduct our Baseline RAG comparison.
 - [`Cost Analysis`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/cost_analysis.md): An analysis of both monetary and computation costs of our experiments.
-- [`Entity Tagging Example`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/entity_tagging_example.png): An example of our Minerals Domain Schema being  (manually) used to tag entities in MRIWA report text.
-- [`RAGAS Analysis`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/ragas_analysis.md): An analysis of our GraphRAG results using RAGAS to cross-validate.
 - [`MRIWA Report Page Counts`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/mriwa_report_page_counts.png): Distribution of page count across MRIWA technical reports.
 - [`MRIWA Report Sample Selection`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/mriwa_report_sample_selection.md): Entity analysis of our selected MRIWA Report sample for this project.
-- [`Performance Analysis`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/performance_analysis.pdf): The full results of our GraphRAG performance analysis using the following marking scheme:
+- [`Performance Analysis`](https://github.com/nlp-tlp/GraphRAG-on-Minerals-Domain/blob/main/supplementary_materials/performance_analysis): The full results of our GraphRAG performance analysis using the following marking scheme:
 
 | Code | Name                     | Criteria |
 |------|--------------------------|-----------------------------------------------------------|
