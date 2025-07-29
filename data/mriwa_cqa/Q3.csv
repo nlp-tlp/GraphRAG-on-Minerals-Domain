@@ -1,0 +1,29 @@
+question,ideal answer
+Identify any references to nickel or Ni in the MRIWA reports.,"
+
+Final-Report_459-489_MRIWA_M0459-M0484.pdf: 102
+Final-Report_532-MRIWA_M0532.pdf: 10
+Final-Report_479_MRIWA_M0479.pdf: 0
+Final-Report_458_MRIWA_M0458.pdf: 391
+Final-Report_278_MERIWA_M0384.pdf: 51
+Final-Report_289_MERIWA_M0401.pdf: 15
+Final-Report_448_MRIWA_M0448.pdf: 140
+Final-Report_295_MERIWA_M0416.pdf: 24
+Final-Report_494_MRIWA_M0494.pdf: 6
+Final-Report_470_MRIWA_M0470.pdf: 18
+Final-Report_451_MRIWA_M0451.pdf: 88
+Final-Report_505_MRIWA_M0505.pdf: 78
+Final-Report_488_MRIWA_M0488.pdf: 14
+Final-Report_476_MRIWA_M0476.pdf: 5
+Final-Report_432_MRIWA_M0432.pdf: 75 
+
+The ideal answer is an extraction of all instances of Nickel/Ni in the reports above.
+nickel_instances.csv contains all identified terms.
+
+B1 = All instances of Nickel/Ni extracted.
+B2 = Identifies report IDs that mention Ni and at least one specific reference to Ni in the report.
+B3 = Identifies report IDs that mention Ni along with some general statement about Ni and it's behaviour or importance.
+B4 = Discussions not about or not related to Nickel/Ni in MRIWA's reports (e.g., Nickel/Ni appearing in reports other than MRIWA's reports, general Nickel discussions without reference to specific MRIWA report).
+B5 = False statement.
+
+"

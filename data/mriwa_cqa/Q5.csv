@@ -1,0 +1,24 @@
+question,ideal answer
+Which MRIWA reports has Commonwealth Scientific Industrial Research Organisation been involved with in any capacity (including being listed in references)?,"
+
+Files with ANY mention of CSIRO or Commonwealth Scientific Industrial Research Organisation:
+ - Final-Report_278_MERIWA_M0384.txt
+ - Final-Report_289_MERIWA_M0401.txt
+ - Final-Report_295_MERIWA_M0416.txt
+ - Final-Report_448_MRIWA_M0448.txt
+ - Final-Report_451_MRIWA_M0451.txt
+ - Final-Report_458_MRIWA_M0458.txt
+ - Final-Report_459-489_MRIWA_M0459-M0484.txt
+ - Final-Report_476_MRIWA_M0476.txt
+ - Final-Report_488_MRIWA_M0488.txt
+ - Final-Report_494_MRIWA_M0494.txt
+ - Final-Report_505_MRIWA_M0505.txt
+ - Final-Report_532-MRIWA_M0532.txt
+
+B1 = All above reports are noted as mentioning CSIRO.
+B2 = Some of above reports are noted as mentioning CSIRO.
+B3 = Discussing CSIRO in MRIWA reports generally but not specifying or referring to the specific MRIWA report/s that mention CSIRO.
+B4 = Discussions not about or not related to CSIRO in MRIWA's reports (e.g., CSIRO in reports other than MRIWA's reports).
+B5 = False statement.
+
+"

@@ -1,0 +1,26 @@
+question,ideal answer
+Identify which MRIWA reports reference MERIWA or MRIWA.,"
+
+Final-Report_448_MRIWA_M0448.txt: MRIWA
+Final-Report_278_MERIWA_M0384.txt: MERIWA
+Final-Report_289_MERIWA_M0401.txt: MERIWA
+Final-Report_532-MRIWA_M0532.txt: MRIWA
+Final-Report_479_MRIWA_M0479.txt: MRIWA
+Final-Report_459-489_MRIWA_M0459-M0484.txt: MRIWA
+Final-Report_458_MRIWA_M0458.txt: MRIWA
+Final-Report_476_MRIWA_M0476.txt: MRIWA
+Final-Report_432_MRIWA_M0432.txt: MRIWA
+Final-Report_470_MRIWA_M0470.txt: MRIWA
+Final-Report_295_MERIWA_M0416.txt: MERIWA
+Final-Report_494_MRIWA_M0494.txt: MRIWA, MERIWA
+Final-Report_488_MRIWA_M0488.txt: MRIWA
+Final-Report_451_MRIWA_M0451.txt: MRIWA
+Final-Report_505_MRIWA_M0505.txt: MRIWA
+
+B1 = All above reports noted as referencing MRIWA/MERIWA
+B2 = Some of above reports noted as referencing MRIWA/MERIWA. 
+B3 = Discussing MRIWA/MERIWA in MRIWA's reports generally but not specifying or referring to the specific MRIWA report/s that mention MRIWA/MERIWA.
+B4 = Discussions not about or not related to MRIWA/MERIWA in MRIWA's reports (e.g., MRIWA appearing in reports other than MRIWA's reports).
+B5 = False statement.
+
+"

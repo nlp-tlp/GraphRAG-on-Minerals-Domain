@@ -1,0 +1,25 @@
+question,ideal answer
+Which MRIWA reports relate to exploration?,"
+
+MRIWA reports related to exploration:
+Final-Report_476_MRIWA_M0476.txt: 188
+Final-Report_448_MRIWA_M0448.txt: 148
+Final-Report_532-MRIWA_M0532.txt: 37
+Final-Report_470_MRIWA_M0470.txt: 26
+Final-Report_459-489_MRIWA_M0459-M0484.txt: 25
+
+Minor exploration mentions (count as B3, not B1 or B2):
+Final-Report_494_MRIWA_M0494.txt: 16
+Final-Report_488_MRIWA_M0488.txt: 11
+Final-Report_458_MRIWA_M0458.txt: 7
+Final-Report_278_MERIWA_M0384.txt: 1
+Final-Report_432_MRIWA_M0432.txt: 1
+
+
+B1 = All 5 reports (1st list) are noted as related to exploration.
+B2 = Some of 5 reports (1st list) are noted as related to exploration.
+B3 = Discussing exploration in MRIWA reports generally but not specifying or referring to the specific MRIWA report/s that relate to exploration, or noting reports with minor mentions of exploration (see above).
+B4 = Discussions not about or not related to exploration in MRIWA's reports (e.g., exploration in reports other than MRIWA's reports).
+B5 = False statement.
+
+"

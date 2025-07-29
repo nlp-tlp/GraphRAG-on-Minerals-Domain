@@ -1,0 +1,85 @@
+question,ideal answer
+Which elements are considered in the MRIWA reports?,"
+
+Gold: 3580
+Carbon: 3055
+Copper: 2742
+Sulfur: 2327
+Iron: 1627
+Potassium: 1373
+Phosphorus: 1096
+Fermium: 1068
+Lithium: 1061
+Boron: 920
+Indium: 691
+Platinum: 690
+Tungsten: 670
+Nickel: 611
+Manganese: 565
+Hydrogen: 519
+Calcium: 506
+Aluminium: 504
+Arsenic: 458
+Uranium: 449
+Sodium: 441
+Palladium: 438
+Oxygen: 434
+Chromium: 421
+Meitnerium: 348
+Tantalum: 290
+Caesium: 268
+Nitrogen: 189
+Titanium: 188
+Zinc: 133
+Rubidium: 102
+Lead: 97
+Magnesium: 92
+Silicon: 83
+Hafnium: 56
+Silver: 45
+Astatine: 24
+Iodine: 17
+Cobalt: 17
+Gallium: 16
+
+The ideal answer is a list of all the elements above.
+
+Below, we can see the top 10 elements per report, to use for evaluation:
+
+Final-Report_448_MRIWA_M0448.txt, Gold: 1249, Carbon: 1139, Fermium: 1068, Potassium: 706, Phosphorus: 699, Tungsten: 442, Copper: 400, Sulfur: 396, Boron: 386, Uranium: 368 
+
+Final-Report_278_MERIWA_M0384.txt, Gold: 719, Iron: 219, Carbon: 180, Indium: 172, Copper: 140, Hydrogen: 98, Sulfur: 91, Arsenic: 81, Oxygen: 70, Boron: 60 
+
+Final-Report_289_MERIWA_M0401.txt, Copper: 158, Indium: 103, Hydrogen: 70, Carbon: 55, Boron: 30, Tungsten: 28, Phosphorus: 21, Potassium: 21, Sulfur: 20, Iodine: 17 
+
+Final-Report_532-MRIWA_M0532.txt, Lithium: 889, Meitnerium: 348, Iron: 336, Tantalum: 290, Potassium: 260, Manganese: 212, Carbon: 204, Caesium: 186, Aluminium: 160, Sodium: 140 
+
+Final-Report_479_MRIWA_M0479.txt, Carbon: 200, Lithium: 172, Calcium: 124, Sodium: 118, Rubidium: 102, Aluminium: 89, Silicon: 83, Caesium: 82, Potassium: 76, Iron: 57 
+
+Final-Report_459-489_MRIWA_M0459-M0484.txt, Sulfur: 215, Nitrogen: 106, Nickel: 102, Indium: 89, Carbon: 81, Copper: 74, Boron: 69, Tungsten: 50, Uranium: 50, Lead: 49 
+
+Final-Report_458_MRIWA_M0458.txt, Platinum: 690, Copper: 487, Carbon: 471, Palladium: 438, Nickel: 391, Gold: 318, Sulfur: 260, Oxygen: 199, Iron: 199, Hydrogen: 192 
+
+Final-Report_476_MRIWA_M0476.txt, Gold: 137, Sulfur: 101, Carbon: 76, Indium: 44, Phosphorus: 41, Boron: 33, Tungsten: 33, Potassium: 25, Arsenic: 25, Astatine: 24 
+
+Final-Report_432_MRIWA_M0432.txt, Iron: 303, Manganese: 222, Sulfur: 178, Tungsten: 117, Copper: 103, Arsenic: 93, Magnesium: 92, Calcium: 89, Chromium: 89, Sodium: 87 
+
+Final-Report_470_MRIWA_M0470.txt, Sulfur: 71, Hafnium: 56, Lead: 48, Oxygen: 42, Gold: 41, Carbon: 36, Uranium: 31, Nickel: 18, Copper: 16, Gallium: 16 
+
+Final-Report_295_MERIWA_M0416.txt, Sodium: 77, Iron: 64, Sulfur: 61, Indium: 46, Copper: 39, Carbon: 34, Phosphorus: 32, Oxygen: 30, Potassium: 27, Nickel: 24 
+
+Final-Report_494_MRIWA_M0494.txt, Gold: 1007, Chromium: 196, Calcium: 190, Titanium: 188, Sulfur: 175, Boron: 167, Potassium: 150, Carbon: 135, Arsenic: 133, Indium: 127 
+
+Final-Report_488_MRIWA_M0488.txt, Copper: 940, Carbon: 444, Sulfur: 390, Iron: 304, Hydrogen: 159, Boron: 158, Indium: 110, Potassium: 108, Oxygen: 93, Nitrogen: 83 
+
+Final-Report_451_MRIWA_M0451.txt, Sulfur: 369, Aluminium: 239, Phosphorus: 184, Copper: 164, Chromium: 136, Zinc: 133, Manganese: 131, Arsenic: 126, Iron: 113, Calcium: 103 
+
+Final-Report_505_MRIWA_M0505.txt, Copper: 221, Phosphorus: 119, Gold: 109, Nickel: 76, Silver: 45, Iron: 32, Sodium: 19, Boron: 17, Cobalt: 17, Aluminium: 16 
+
+B1 = All elements from our MRIWA reports are mentioned (see 1st list).
+B2 = Some elements from our MRIWA reports are mentioned (see 1st list).
+B3 = Discussing chemical elements in MRIWA reports generally but not specifying or referring to the specific elements mentioned or the specific MRIWA report/s that mention them.
+B4 = Discussions not about or not related to chemical elements in MRIWA's reports (e.g., other types of elements (like minerals), or chemical elements in reports other than MRIWA's reports).
+B5 = False statement.
+  
+"

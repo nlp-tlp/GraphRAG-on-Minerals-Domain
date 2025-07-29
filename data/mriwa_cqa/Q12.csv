@@ -1,0 +1,26 @@
+question,ideal answer
+Which MRIWA reports relate to leaching?,"
+
+MRIWA reports related to leaching:
+Final-Report_451_MRIWA_M0451.txt: 4244
+Final-Report_458_MRIWA_M0458.txt: 824
+Final-Report_488_MRIWA_M0488.txt: 607
+Final-Report_278_MERIWA_M0384.txt: 510
+Final-Report_432_MRIWA_M0432.txt: 451
+Final-Report_505_MRIWA_M0505.txt: 201
+Final-Report_479_MRIWA_M0479.txt: 93
+Final-Report_532-MRIWA_M0532.txt: 79
+
+Minor leaching mentions (count as B3, not B1 or B2):
+Final-Report_289_MERIWA_M0401.txt: 10
+Final-Report_494_MRIWA_M0494.txt: 2
+Final-Report_459-489_MRIWA_M0459-M0484.txt: 1
+Final-Report_295_MERIWA_M0416.txt: 1
+
+B1 = All 8 reports (1st list) are noted as related to leaching.
+B2 = Some of 8 reports (1st list) are noted as related to leaching.
+B3 = Discussing leaching in MRIWA reports generally but not specifying or referring to the specific MRIWA report/s that relate to leaching, or noting reports with minor mentions of leaching (see above).
+B4 = Discussions not about or not related to leaching in MRIWA's reports (e.g., leaching in reports other than MRIWA's reports).
+B5 = False statement.
+
+"

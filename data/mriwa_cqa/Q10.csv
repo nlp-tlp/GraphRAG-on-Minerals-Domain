@@ -1,0 +1,120 @@
+question,ideal answer
+Which MRIWA report author has been involved in more than one report/project?,"
+
+The authors who author multiple reports and the reports they author:
+Allen: 432, 451
+Black: 432, 451
+O'Malley: 479, 505
+McInnes: 228/532, 448
+Price: 432, 451
+Sharma: 432, 451
+Vaillant: 459-484, 494
+
+To help with evaluation, here are all authors of all reports:
+    ('278/348', 'Nicol'),
+    ('278/348', 'Jeffrey'),
+    ('278/348', 'Zhang'),
+    ('278/348', 'Barbetti'),
+    ('278/348', 'Staunton'),
+    ('278/348', 'Johnson'),
+
+    ('289/401', 'Robinson'),
+
+    ('295/416', 'Karakyriakos'),
+    ('295/416', 'Patrick'),
+
+    ('432', 'Sharma'),
+    ('432', 'Allen'),
+    ('432', 'Black'),
+    ('432', 'Price'),
+    ('432', 'Rothnie'),
+
+    ('448', 'McNaughton'),
+    ('448', 'McInnes'),
+    ('448', 'Evans'),
+    ('448', 'Jourdan'),
+    ('448', 'Talavera'),
+    ('448', 'Porter'),
+
+    ('451', 'Sharma'),
+    ('451', 'Black'),
+    ('451', 'Price'),
+    ('451', 'Allen'),
+
+    ('458', 'Rabieh'),
+    ('458', 'Cupitt'),
+    ('458', 'Mpinga'),
+    ('458', 'Connor'),
+    ('458', 'Hicks'),
+    ('458', 'Weston'),
+    ('458', 'Eksteen'),
+
+    ('459-484', 'Vaillant'),
+    ('459-484', 'Barnes'),
+    ('459-484', 'Fiorentini'),
+    ('459-484', 'Mole'),
+    ('459-484', 'Austin'),
+    ('459-484', 'Godel'),
+    ('459-484', 'Patterson'),
+    ('459-484', 'Hammerli'),
+    ('459-484', 'Laflamme'),
+    ('459-484', 'Neaud'),
+    ('459-484', 'Denyszyn'),
+    ('459-484', 'Mao'),
+
+    ('470', 'Kirkland'),
+    ('470', 'Evans'),
+    ('470', 'Hartnady'),
+    ('470', 'Walker'),
+    ('470', 'Chard'),
+    ('470', 'Clark'),
+    ('470', 'Spaggiari'),
+    ('470', 'Gromard'),
+    ('470', 'Reddy'),
+    ('470', 'Smithies'),
+    ('470', 'Kiddie'),
+    ('470', 'Barham'),
+
+    ('476', 'Lindsay'),
+    ('476', 'Spratt'),
+    ('476', 'Aitken'),
+    ('476', 'Occhipinti'),
+    ('476', 'Dentith'),
+    ('476', 'Shragge'),
+
+    ('479', 'Nikoloski'),
+    ('479', 'Kyle'),
+    ('479', 'Malley'),
+    ('479', 'Gilligan'),
+    ('479', 'Sitando'),
+    ('479', 'Ang'),
+
+    ('488', 'Hidalgo'),
+    ('488', 'Kuhar'),
+    ('488', 'Beinlich'),
+    ('488', 'Putnis'),
+
+    ('494', 'Walshe'),
+    ('494', 'Bath'),
+    ('494', 'Birchall'),
+    ('494', 'Miller'),
+    ('494', 'Rodriguez'),
+    ('494', 'Vaillant'),
+    ('494', 'Shelton'),
+    ('494', 'Stromberg'),
+    ('494', 'Woodall'),
+    ('494', 'Verrall'),
+
+    ('505', 'Malley'),
+
+    ('228/532', 'Wells'),
+    ('228/532', 'Aylmore'),
+    ('228/532', 'McInnes')
+
+B1 = All 7 authors (1st list) are noted as authoring multiple MRIWA reports.
+B2 = Some of 7 authors (1st list) are noted as authoring multiple MRIWA reports.
+B3 = Discussing valid authors of MRIWA reports that are not authors of multiple MRIWA reports, or discussing MRIWA report authors generally but not specifying or referring to the specific authors or the specific MRIWA report/s they author.
+B4 = Discussions not about or not related to MRIWA report authors (e.g., authors of reports other than MRIWA's reports, or people mentioned in MRIWA reports that are not authors, or groups mentioned who are not authors).
+B5 = False statement (e.g., stating that an author of only one MRIWA report is an author of multiple MRIWA reports).
+
+"

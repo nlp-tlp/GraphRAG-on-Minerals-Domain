@@ -1,0 +1,64 @@
+question,ideal answer
+Which regions of Western Australia are referenced in the MRIWA reports?,"
+
+Geographical regions:
+
+Pilbara: 883
+Yilgarn: 755
+Kimberley: 324
+East Kimberley: 249
+Musgrave: 125
+Goldfields: 106
+Canning Basin: 105
+Halls Creek: 59
+Murchison: 21
+South West: 5
+Esperance: 4
+Gascoyne: 3
+North West: 2
+Wheatbelt: 1
+
+Geology regions:
+
+Albany-Fraser 
+Officer Basin 
+Canning basin
+Eastern Yilgarn Craton
+Eucla Basement 
+Yamarna Terrane
+Eastern Goldfields
+Greenbushes
+Pilgangoora
+Amadeus Basin
+lamboo province
+
+The ideal answer is a list of all the regions above. Other regions of WA may be mentioned and are valid.
+
+Count as B3:
+
+Kalgoorlie and Greenbushes are towns.
+Pilgangoora is a project.
+Panton is a project.
+Dome North is a project.
+Mount Magnet, Kundan, Bronzewing, Carbine, Wiluna, Wodgina are camps.
+
+Below, we can see the top regions per report, to use for evaluation:
+
+Final-Report_448_MRIWA_M0448.txt, Canning Basin:105, Esperance:1, Gascoyne:2, Goldfields:67, Halls Creek:28, Kimberley:33, Murchison:13, Musgrave:118, Pilbara:833, Yilgarn:420 
+Final-Report_278_MERIWA_M0384.txt, Goldfields:2, North West:1 
+Final-Report_532-MRIWA_M0532.txt, Gascoyne:1, Goldfields:13, Murchison:5, Pilbara:43, South West:4, Yilgarn:27 
+Final-Report_459-489_MRIWA_M0459-M0484.txt, East Kimberley:247, Goldfields:3, Halls Creek:30, Kimberley:278, Musgrave:5, North West:1, Pilbara:2, Yilgarn:4 
+Final-Report_458_MRIWA_M0458.txt, East Kimberley:2, Halls Creek:1, Kimberley:11, Yilgarn:1 
+Final-Report_476_MRIWA_M0476.txt, Goldfields:6, Kimberley:2, Yilgarn:232 
+Final-Report_432_MRIWA_M0432.txt, Goldfields:1, Pilbara:3 
+Final-Report_470_MRIWA_M0470.txt, Esperance:3, Goldfields:3, Musgrave:2, Pilbara:2, South West:1, Yilgarn:31 
+Final-Report_494_MRIWA_M0494.txt, Goldfields:11, Murchison:3, Yilgarn:40 
+Final-Report_451_MRIWA_M0451.txt,Wheatbelt:1
+    
+B1 = All WA regions from our MRIWA reports are mentioned (see lists).
+B2 = Some WA regions from our MRIWA reports are mentioned (see lists).
+B3 = Discussing WA regions in MRIWA reports generally but not specifying or referring to the specific WA regions mentioned, or discussing areas/towns/camps that don't classify as WA regions by our list.
+B4 = Discussions not about or not related to WA regions in MRIWA's reports (e.g., WA regions in reports other than MRIWA's reports etc.).
+B5 = False statement.
+
+"

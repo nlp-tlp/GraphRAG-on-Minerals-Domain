@@ -1,0 +1,12 @@
+question,ideal answer
+Which MRIWA reports relate to mining extraction?,"
+
+Final-Report_488_MRIWA_M0488.txt
+
+B1 = The above report is noted as related to mining extraction.
+B2 = Not possible for this question.
+B3 = Discussing mining extraction in MRIWA reports generally but not specifying or referring to the specific MRIWA report that relates to mining extraction.
+B4 = Discussions not about or not related to mining extraction in MRIWA's reports (e.g., mining extraction in reports other than MRIWA's reports or other types of extraction).
+B5 = False statement.
+
+"

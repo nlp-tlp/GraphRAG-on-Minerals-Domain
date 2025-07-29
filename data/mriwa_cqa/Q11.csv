@@ -1,0 +1,29 @@
+question,ideal answer
+What is the average number of references in each MRIWA report?,"
+
+Correct answer: 71
+
+Below is used for evaluation - number of references per report:
+    ('278/384', 55),
+    ('289/401', 94),
+    ('295/416', 103),
+    ('432', 73),
+    ('448', 32),
+    ('451', 22),
+    ('458', 21),
+    ('459-489/459-484', 139),
+    ('470', 63),
+    ('476', 131),
+    ('479', 3),
+    ('488', 45),
+    ('494', 80),
+    ('505', 6),
+    ('532', 201),
+
+B1 = right answer is present (71)
+B2 = not applicable for this question
+B3 = if stated any correct amount of references from a MRIWA report (see above)
+B4 = discussions not about or not related to the calculation of the average number of MRIWA report references (this includes saying 'I DONT KNOW')
+B5 = false statement (including the incorrect average)
+
+"
